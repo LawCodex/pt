@@ -103,11 +103,19 @@ def link(m):
     return text
 
 
+def img(m):
+    src = m.group(1).strip()
+    if src.startswith("data:"):
+        return "\n*[imagem embutida não reproduzida — ver o PDF original]*\n"
+    if src.startswith("/"):
+        src = SITE + src
+    return f"\n![]({src.replace(' ', '%20')})\n"
+
+
 def inline(s):
     s = re.sub(r"<br\s*/?>", "\n", s, flags=re.I)
     s = re.sub(r"<a\b([^>]*)>(.*?)</a>", link, s, flags=re.I | re.S)
-    s = re.sub(r"<img\b[^>]*src\s*=\s*\"([^\"]+)\"[^>]*>",
-               lambda m: f"![]({SITE + m.group(1) if m.group(1).startswith('/') else m.group(1)})", s, flags=re.I)
+    s = re.sub(r"<img\b[^>]*src\s*=\s*[\"']([^\"']+)[\"'][^>]*>", img, s, flags=re.I)
     s = TAG_RE.sub("", s)
     if re.search(r"&(?:[a-z]+|#\d+|#x[0-9a-f]+);", s, re.I):
         s = html.unescape(s)
@@ -203,6 +211,15 @@ def render(rec):
     return "\n\n".join(out)
 
 
+def render_original(dc):
+    t = dc.get("TextoFormatado") or ""
+    if t.strip():
+        t = re.sub(r"</p\s*>", "\n", t, flags=re.I)
+        t = re.sub(r"<p\b[^>]*>", "", t, flags=re.I)
+        return body_text(t)
+    return body_text(dc.get("Texto") or "")
+
+
 def short_title(src):
     t = src.get("title") or ""
     t = re.split(r"\s+-\s+Di[áa]rio d", t)[0]
@@ -272,7 +289,8 @@ def main():
         rec = json.load(gzip.open(p, "rt", encoding="utf-8"))
         src = rec["search"]
         data = rec["data"]
-        if not data["LegConsBase"]["List"]:
+        orig = rec.get("original")
+        if not data["LegConsBase"]["List"] and not orig:
             print(f"empty: {src['dbId']} {src.get('title')}", file=sys.stderr)
             continue
         kind, d, name, desig = classify(rec, code_frag_ids)
@@ -285,15 +303,18 @@ def main():
         if not re.search(r"/eli/.+", eli):
             eli = ""
         act = short_title(src)
+        if not (src.get("numero") or "").strip() and src.get("dataPublicacao"):
+            act = f"{act} de {src['dataPublicacao'][:10]}"
         if kind == "constitution":
             title = "Constituição da República Portuguesa"
+            act = "Constituição da República Portuguesa (CRP), aprovada em 2 de abril de 1976"
         elif kind == "code":
             title = re.sub(r"\s+-\s+[A-Z]{2,6}$", "", desig)
         else:
             title = act
         vig = src.get("vigencia") or ""
         status = "in_force" if vig == "VIGENTE" else "unknown"
-        source = rec.get("url") or f"{SITE}/dr/detalhe/{tipo_slug(src.get('tipo') or '')}/{src.get('ano')}-{src['dbId']}"
+        source = rec.get("url") or (orig or {}).get("url") or f"{SITE}/dr/detalhe/{tipo_slug(src.get('tipo') or '')}/{src.get('ano')}-{src['dbId']}"
         last = (data.get("DataUltimaConsolidada") or "")[:10]
         if last.startswith("1900"):
             last = ""
@@ -309,7 +330,7 @@ def main():
             "source": source,
             "retrieved": retrieved,
             "act": act if kind in ("code", "constitution") else "",
-            "designation": desig if desig and desig != act and kind not in ("code",) and not desig.startswith(plain(src.get("sumario"))[:40] or "\0") else "",
+            "designation": desig if desig and desig != act and kind not in ("code", "constitution") and not desig.startswith(plain(src.get("sumario"))[:40] or "\0") else "",
             "summary": plain(src.get("sumario")),
             "issuer": src.get("emissor") or "",
             "series": src.get("serie") or "",
@@ -317,9 +338,10 @@ def main():
             "dre_id": int(src["dbId"]),
             "dre_vigencia": vig,
             "dre_consolidation_state": src.get("consolidacaoEstado") or "",
-            "original_pdf": data.get("URLPDF") or "",
+            "original_pdf": data.get("URLPDF") or (orig or {}).get("URL_PDF") or "",
+            "text_version": "consolidated" if not orig else "original (no amendments consolidated by DRE)",
         }
-        body = render(rec)
+        body = render(rec) if not orig else render_original(orig)
         h1 = title if kind != "code" else f"{title}"
         md = frontmatter(meta) + f"\n\n# {h1}\n\n"
         if kind in ("code", "constitution"):
@@ -330,7 +352,7 @@ def main():
         with open(path, "w", encoding="utf-8", newline="\n") as fh:
             fh.write(md)
         manifest.append({"path": rel, "dre_id": src["dbId"], "type": kind, "tipo": src.get("tipo"),
-                         "title": title, "status": status, "bytes": len(md.encode())})
+                         "title": title, "status": status, "original": bool(orig), "bytes": len(md.encode())})
     with open(os.path.join(raw, "manifest.json"), "w") as fh:
         json.dump(manifest, fh, ensure_ascii=False, indent=0)
     print(f"wrote {len(manifest)} files", file=sys.stderr)

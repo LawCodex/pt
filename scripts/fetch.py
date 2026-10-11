@@ -67,21 +67,61 @@ def fetch_list(dre, raw):
     return out
 
 
+def original_text(dre, src):
+    """Original (as published) text of a diploma, from its DRE detail page data.
+
+    Used for diplomas that DRE marks as consolidated (analysed) but for which it has no
+    fragment-level consolidated text, i.e. acts never amended since publication."""
+    tipo = tipo_slug(src.get("tipo") or "")
+    num = (src.get("numero") or "").strip()
+    ano = str(src.get("ano") or "")
+    keys = []
+    if num:
+        n = re.sub(r"[^0-9A-Za-z]+", "-", num).strip("-").lower()
+        keys.append(f"{n}-{src['dbId']}")
+        m = re.match(r"^(.*)/(\d{2})$", num)
+        if m and ano.endswith(m.group(2)):
+            keys.append(re.sub(r"[^0-9A-Za-z]+", "-", m.group(1)).strip("-").lower() + f"-{ano}-{src['dbId']}")
+        elif "/" not in num and ano:
+            keys.append(f"{n}-{ano}-{src['dbId']}")
+        m = re.match(r"^(.+?/\d{4})/.+$", num)  # e.g. "451/2026/1", "14/2026/A"
+        if m:
+            keys.append(re.sub(r"[^0-9A-Za-z]+", "-", m.group(1)).strip("-").lower() + f"-{src['dbId']}")
+        m = re.match(r"^(.+?)/(\d{2})/.+$", num)  # e.g. "15/96/A"
+        if m and ano.endswith(m.group(2)):
+            keys.append(re.sub(r"[^0-9A-Za-z]+", "-", m.group(1)).strip("-").lower() + f"-{ano}-{src['dbId']}")
+    keys.append(f"{ano}-{src['dbId']}")
+    for k in keys:
+        r = dre.data_action("Legislacao_Conteudos", "Conteudo_Detalhe", "DataActionGetAllConteudoDetalheData",
+                            {"Tipo": tipo, "Key": k})
+        dc = r.get("DetalheConteudo") or {}
+        if r.get("IsVisible") and str(dc.get("Id")) == str(src["dbId"]):
+            dc["url"] = f"https://diariodarepublica.pt/dr/detalhe/{tipo}/{k}"
+            return dc
+    return None
+
+
 def fetch_one(dre, raw, src, refresh):
     path = os.path.join(raw, "json", f"{src['dbId']}.json.gz")
     if os.path.exists(path) and not refresh:
-        return "cached"
-    rec = {"search": src, "frag": None}
-    frag = src.get("DiplomaFragmentadoId")
-    if frag:
-        key = f"{src['ano']}-{frag}"
-        fi = dre.data_action("LegislacaoConsolidada", "LegCons_Detalhe",
-                             "DataActionGetDiplomaFragByIdAndApplicationSetting",
-                             {"Tipo": tipo_slug(src["tipo"]), "Key": key, "DiplomaFragId": str(frag)})
-        if not fi.get("IsSitemapErro"):
-            rec["frag"] = fi["ConsolidadaConteudoDetalhe"]
-            rec["url"] = f"https://diariodarepublica.pt/dr/legislacao-consolidada/{tipo_slug(src['tipo'])}/{key}"
-    rec["data"] = dre.consolidated(src["dbId"])
+        with gzip.open(path, "rt", encoding="utf-8") as f:
+            rec = json.load(f)
+        if rec["data"]["LegConsBase"]["List"] or rec.get("original"):
+            return "cached"
+    else:
+        rec = {"search": src, "frag": None}
+        frag = src.get("DiplomaFragmentadoId")
+        if frag:
+            key = f"{src['ano']}-{frag}"
+            fi = dre.data_action("LegislacaoConsolidada", "LegCons_Detalhe",
+                                 "DataActionGetDiplomaFragByIdAndApplicationSetting",
+                                 {"Tipo": tipo_slug(src["tipo"]), "Key": key, "DiplomaFragId": str(frag)})
+            if not fi.get("IsSitemapErro"):
+                rec["frag"] = fi["ConsolidadaConteudoDetalhe"]
+                rec["url"] = f"https://diariodarepublica.pt/dr/legislacao-consolidada/{tipo_slug(src['tipo'])}/{key}"
+        rec["data"] = dre.consolidated(src["dbId"])
+    if not rec["data"]["LegConsBase"]["List"]:
+        rec["original"] = original_text(dre, src)
     tmp = path + ".tmp"
     with gzip.open(tmp, "wt", encoding="utf-8") as f:
         json.dump(rec, f, ensure_ascii=False)
