@@ -1,0 +1,483 @@
+---
+title: "Decreto-Lei n.º 237/2000"
+identifier: "Decreto-Lei n.º 237/2000"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2000-09-26
+last_amended: 2023-11-17
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-115494496"
+retrieved: 2026-10-11
+designation: "Produção e comercialização de materiais de propagação de plantas ornamentais"
+summary: "Transpõe para a ordem jurídica interna a Directiva n.º 98/56/CE , do Conselho, de 20 de Julho, relativa à produção e comercialização de materiais de propagação de plantas ornamentais e altera o Decreto-Lei n.º 277/91, de 8 de Agosto"
+issuer: "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/237/2000/p/cons/20231117/pt/html"
+dre_id: 560267
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2000/09/223a00/51405145.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 237/2000
+
+Decreto-Lei n.º 237/2000
+
+de 26 de Setembro
+
+Atendendo à importância crescente da produção e comercialização das plantas ornamentais e à implementação do mercado único, foram adoptadas na União Europeia as Directivas n.os 91/682/CEE, do Conselho, de 19 de Dezembro, 93/49/CEE, de 23 de Junho, 93/63/CEE, de 6 de Julho, e 93/78/CEE, de 21 de Setembro, todas da Comissão, as quais foram transpostas para o direito interno através do Decreto-Lei n.º 277/91, de 8 de Agosto, da Portaria n.º 105/96, de 8 de Abril, e do Despacho Normativo n.º 17/96, de 27 de Abril.
+
+Tendo em vista a consolidação do mercado interno e considerando-se necessário ultrapassar dificuldades de interpretação daquelas directivas pelos diversos Estados membros que pudessem restringir a circulação na União Europeia de forma livre e harmonizada dos materiais de propagação de plantas ornamentais, foi adoptada a Directiva n.º 98/56/CE, do Conselho, de 20 de Julho.
+
+A Directiva n.º 98/56/CE apresenta divergências com o disposto no Decreto-Lei n.º 277/91, de 8 de Agosto, que serviu de suporte legal às legislações específicas dos diversos materiais de propagação, devendo ser revogada a parte deste diploma relativa às plantas ornamentais.
+
+Tomando ainda em consideração que, em consequência da evolução científica e técnica, é possível proceder à modificação genética de organismos vegetais, há que salvaguardar o definido na Directiva n.º 90/220/CEE, de 23 de Abril, relativa à libertação deliberada no ambiente de materiais de propagação vegetativa de organismos geneticamente modificados, criando legislação que fixe as condições em que estes materiais podem ser comercializados.
+
+Sendo essencial assegurar a conservação dos recursos genéticos das plantas, é necessário criar legislação no âmbito dos materiais de propagação de plantas ornamentais para efeito de conservação de espécies ou grupos de plantas ameaçados de erosão genética, bem como fixar as condições em que podem ser comercializados os materiais de propagação de plantas ornamentais que venham a ser, eventualmente, destinados à produção biológica.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Âmbito de aplicação e definições
+
+### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente diploma transpõe para o direito nacional a Diretiva n.º 98/56/CE, do Conselho, de 20 de julho de 1998, aplicável à produção e comercialização de materiais de propagação de plantas ornamentais, seguidamente designados por materiais de propagação.
+
+2 - O disposto no presente diploma é igualmente aplicável a:
+
+a) Produção e comercialização de materiais de propagação cujos produtos não se destinem a fins ornamentais, desde que não abrangidos por legislação própria;
+
+b) Produção e comercialização de materiais que se encontrem abrangidos por legislação europeia diversa da referida no número anterior, mas cujos produtos se destinem a fins ornamentais.
+
+3 - O presente diploma não se aplica a materiais de propagação que se destinem a países terceiros e se encontrem devidamente identificados e suficientemente isolados.
+
+4 - Ao disposto no presente diploma é aplicável subsidiariamente o Decreto-Lei n.º 67/2020, de 15 de setembro, na sua redação atual, que assegura a execução e garante o cumprimento das obrigações decorrentes do Regulamento (UE) 2016/2031, do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais [Regulamento (UE) n.º 2016/2031] e do Regulamento (UE) 2017/625, do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais, no domínio das medidas de proteção contra pragas dos vegetais.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488), em vigor a partir de 2023-11-18*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+1 - Materiais de propagação - materiais provenientes de plantas destinadas a:
+
+a) Propagação de plantas ornamentais;
+
+b) Produção de plantas ornamentais, excepto em caso de produção a partir de plantas completas, em que esta definição apenas é aplicável na medida em que as plantas completas referidas ou as plantas ornamentais resultantes se destinem a ser comercializadas com fins de plantação ou transplantação e não como produto final.
+
+2 - Propagação - reprodução vegetativa e seminal.
+
+3 - Planta ornamental - toda a planta que se destine a fins ornamentais, quer de interior quer de exterior, independentemente de ser ou não utilizada na produção de flor ou de folhagem de corte.
+
+4 - Fornecedor - qualquer pessoa singular ou colectiva que se dedique a título profissional à produção, à importação ou à comercialização de materiais de propagação.
+
+5 - Comercialização - venda ou entrega por um fornecedor a outra pessoa, considerando-se como venda a manutenção à disposição ou em armazém, a exposição e a oferta para venda.
+
+6 - Controlo oficial - avaliação efectuada pelo organismo oficial responsável, nos termos do artigo 3.º, através de inspecções, testes, ensaios, colheitas de amostras para exame laboratorial ou qualquer outro acto adequado sobre os materiais de propagação em produção e comercialização e as instalações de produção ou venda.
+
+7 - Lote - o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem.
+
+8 - Mercado local - qualquer local ou posto de venda onde o fornecedor exerce a sua actividade e no qual o referido fornecedor põe em comercialização o material de propagação.
+
+9 - Consumidor final não profissional - todo o utilizador de material de propagação que não se dedique a título profissional à produção ou à comercialização de plantas ornamentais ou respectivos materiais de propagação.
+
+10 - Inspector fitossanitário e de qualidade - inspector fitossanitário encarregado das acções de controlo oficial constantes deste diploma, com formação e aptidão reconhecidas pela Direcção-Geral de Protecção das Culturas (DGPC) e nomeado por despacho do director-geral de Protecção das Culturas, por proposta dos directores regionais de agricultura, dos serviços competentes das Regiões Autónomas e de outras entidades, se for o caso.
+
+## Capítulo II — Organismos de controlo oficial
+
+### Artigo 3.º — Competências
+
+1 - A DGPC é o organismo responsável pelo controlo oficial dos materiais de propagação, competindo-lhe, nomeadamente, velar pelo efectivo cumprimento das disposições legais aplicáveis e coordenar, apoiar e controlar a actividade dos outros organismos intervenientes na execução das competências que lhes são atribuídas.
+
+2 - As direcções regionais de agricultura (DRA) e os serviços competentes nestas matérias das Regiões Autónomas executam, na sua área geográfica, as acções de controlo oficial da produção e da comercialização dos materiais de propagação nos termos em vigor.
+
+3 - A DGPC pode autorizar que entidades colectivas, públicas ou privadas, executem, sob sua orientação e controlo, competências e funções próprias ou dos serviços regionais referidos no n.º 2, no âmbito deste diploma, desde que essas pessoas colectivas ou os seus membros não tenham qualquer interesse pessoal directo ou indirecto no resultado das medidas que tomem.
+
+4 - A concessão e os termos da autorização referida no n.º 3 do presente artigo serão definidos por despacho do director-geral de Protecção das Culturas.
+
+## Capítulo III — Requisitos a satisfazer pelo material de propagação
+
+### Artigo 4.º — Requisitos gerais
+
+1 - Os fornecedores só podem produzir e comercializar material de propagação que preencha os requisitos previstos no presente diploma.
+
+2 - O disposto no n.º 1 não é aplicável a material de propagação destinado a:
+
+a) Ensaios ou fins científicos;
+
+b) Trabalhos de selecção;
+
+c) Conservação da diversidade genética.
+
+### Artigo 5.º — Requisitos de protecção fitossanitária
+
+1 - Para além do definido no presente diploma, os materiais de propagação devem apresentar-se isentos de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União, e estão sujeitos a requisitos especiais fitossanitários definidos no Regulamento (UE) 2016/2031.
+
+2 - Os materiais de propagação devem ainda, ao abrigo do Regulamento (UE) 2016/2031, apresentar-se isentos de pragas regulamentadas não sujeitas a quarentena, ou abaixo dos limiares definidos, ficando sujeitos às medidas adotadas para prevenir a presença dessas pragas, sem prejuízo da adoção de outras previstas no presente diploma.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488), em vigor a partir de 2023-11-18*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 6.º — Requisitos específicos
+
+1 - Sem prejuízo do disposto nos artigos 1.º e 5.º, o material de propagação, quando em produção ou em comercialização, deve:
+
+a) Encontrar-se praticamente isento de quaisquer organismos nocivos que afetem a qualidade ou de quaisquer sinais ou sintomas dos mesmos que reduzam a sua utilidade ou valor, pelo menos com base em inspeções visuais;
+
+b) Estar praticamente isento de quaisquer defeitos que afetem a sua qualidade como material de propagação;
+
+c) Apresentar vigor e dimensões satisfatórios relativamente à sua utilização como material de propagação;
+
+d) Ter capacidade germinativa satisfatória, no caso das sementes;
+
+e) Apresentar uma identidade e pureza varietal satisfatórias, quando comercializado com referência a uma variedade, nos termos do artigo 9.º
+
+2 - Todo o material de propagação que, com base em sintomas ou sinais, não esteja praticamente isento de organismos nocivos deve ser adequadamente tratado e, caso se justifique, proibida a sua comercialização, conforme previsto no artigo 14.º, ou, ainda, destruído quando se trate de pragas de quarentena, constantes do Regulamento (UE) n.º 2016/2031.
+
+3 - Os materiais de citrinos devem obedecer, para além do definido nos n.os 1 e 2 do presente artigo, às seguintes condições:
+
+a) Serem derivados de materiais iniciais que, no controlo oficial, não apresentavam sintomas de quaisquer vírus ou organismos similares nem de outros organismos nocivos;
+
+b) Encontrarem-se praticamente isentos de vírus ou organismos similares e de outros organismos nocivos nos controlos realizados desde o início do último ciclo vegetativo;
+
+c) Em caso de enxertia, terem sido enxertados em porta-enxertos que não apresentem susceptibilidade a viróides.
+
+4 - Os bolbos de flores devem ser diretamente derivados de materiais que, nos controlos realizados na fase de crescimento da planta, se encontrem praticamente isentos de quaisquer organismos nocivos ou dos sinais ou sintomas destes.
+
+5 - Sem prejuízo do disposto no n.º 1, para o material de propagação dos géneros ou espécies constantes do anexo do presente diploma e do qual faz parte integrante, deve o referido material de propagação encontrar-se praticamente livre de todas as pragas regulamentadas não sujeitas a quarentena (RNQP) listadas naquele anexo, relativamente a cada género e espécie mencionada, pelo menos com base em inspeções visuais.
+
+6 - A presença de RNQP nos materiais de propagação de plantas ornamentais comercializados não deve, pelo menos através de uma inspeção visual, exceder os respetivos limiares estabelecidos no anexo do presente decreto-lei.
+
+7 - O material de propagação deve também respeitar os requisitos relativos aos organismos de quarentena, organismos de quarentena de zonas protegidas e RNQP, estabelecidos no Regulamento de Execução (UE) n.º 2019/2072, da Comissão, de 28 de novembro de 2019, que estabelece condições uniformes para a execução do Regulamento (UE) n.º 2016/2031, nomeadamente em eventuais medidas de emergência tomadas ao abrigo do n.º 1 do artigo 30.º do Regulamento.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+## Capítulo IV — Condições a satisfazer pelos fornecedores de material de propagação
+
+### Artigo 7.º — Requisitos gerais
+
+1 - Só podem intervir no processo de produção, importação ou comercialização de materiais de propagação de plantas ornamentais os fornecedores que, de acordo com a atividade a desenvolver, se encontrem registados pela Direção-Geral de Alimentação e Veterinária (DGAV).
+
+2 - O pedido de registo é efetuado através da plataforma CERTIGES (CERTIGES) de acesso disponibilizado no sítio na Internet da DGAV.
+
+3 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio previsto na lei, nomeadamente através de correio eletrónico para o endereço eletrónico indicado nas páginas oficiais eletrónicas das DRAP.
+
+4 - O pedido de registo é dirigido à DRAP territorialmente competente, a qual, com base na avaliação sobre o cumprimento das exigências estabelecidas no presente decreto-lei, emite uma proposta de decisão final.
+
+5 - Com base na proposta da DRAP, o diretor-geral de Alimentação e Veterinária decide sobre a concessão do registo e, sendo o caso, é atribuído o respetivo número de registo ao interessado, sendo posteriormente emitido o respetivo cartão de registo oficial de fornecedor, no modelo aprovado por despacho do diretor-geral de Alimentação e Veterinária.
+
+6 - No caso de uma entidade a registar pretender produzir materiais de propagação de plantas ornamentais de acordo com o modo de produção biológico, é necessário que esta tenha realizado a respetiva notificação à Direção-Geral de Agricultura e Desenvolvimento Rural.
+
+7 - A notificação ao fornecedor da decisão final sobre o seu pedido de registo é realizada através da plataforma CERTIGES.
+
+8 - Os fornecedores que apenas comercializem em mercado local materiais de propagação destinados a consumidores finais não profissionais podem, por despacho do diretor-geral de Alimentação e Veterinária, ser dispensados do cumprimento do estabelecido nos n.os 1 e 3 do artigo 8.º, no n.º 2 do artigo 9.º e no n.º 1 do artigo 13.º, sem prejuízo de os materiais de propagação a comercializar deverem obedecer aos requisitos de qualidade exigidos pelo presente diploma.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 7.º-A — Renovações, cancelamento, alterações e cessação da atividade de fornecedor
+
+1 - Os registos previstos no artigo anterior são válidos até 31 de dezembro do ano da sua atribuição sendo renovados automaticamente, por cada ano civil subsequente, mediante o cumprimento das condições constantes no número seguinte.
+
+2 - Os registos previstos no artigo anterior são renovados mediante a verificação, prévia e cumulativa, do cumprimento pelos fornecedores das condições seguintes:
+
+a) Cumprimento das obrigações previstas no n.º 1 do artigo 8.º e a entrega das declarações de produção ou comercialização, conforme aplicável;
+
+b) Pagamento das taxas a que se refere o artigo 20.º
+
+3 - O cancelamento do registo, em resultado do não cumprimento do disposto na alínea a) do número anterior, não obsta a que os interessados possam proceder à comercialização dos materiais produzidos em data anterior ao cancelamento desde que se demonstre que os materiais em causa preenchem todos os requisitos exigidos no presente decreto-lei.
+
+4 - O fornecedor a quem tenha sido cancelado o registo em razão do não cumprimento do disposto na alínea b) do n.º 2 só pode realizar novo pedido de registo após pagamento das taxas devidas em falta.
+
+5 - Os fornecedores devem comunicar à DRAP territorialmente competente ou à DGAV a cessação ou outras alterações no exercício da sua atividade ou, ainda, quaisquer alterações aos dados registados, no prazo de 30 dias contados a partir da respetiva ocorrência.
+
+6 - Os pedidos de alteração de locais de atividade estão sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, sendo essa decisão notificada ao fornecedor pela DRAP referida.
+
+- *Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+### Artigo 8.º — Requisitos especiais
+
+1 - Os fornecedores que se dediquem à produção de material de propagação devem:
+
+a) Identificar e controlar os pontos críticos do seu processo de produção que influenciem a qualidade do material;
+
+b) Conservar, de forma a facilitar a consulta, informações sobre os controlos referidos na alínea anterior, as quais poderão ser examinadas a pedido da DGPC ou das entidades com competência sobre a matéria;
+
+c) Colher amostras para análise num laboratório de competência reconhecida, sempre que necessário;
+
+d) Garantir que, ao longo da produção, os lotes de material de propagação se mantenham separados e identificáveis.
+
+2 - Se, nos materiais de propagação de um fornecedor, surgir um organismo nocivo abrangido pelo Regulamento (UE) n.º 2016/2031, o fornecedor deve comunicar esse facto à DGAV e aplicar todas as medidas prescritas pela mesma.
+
+3 - Dos materiais de propagação comercializados, os fornecedores deverão conservar durante 12 meses os registos relativos às operações de compra ou produção ou importação e de venda, entendidas nos termos deste diploma.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+
+## Capítulo V — Comercialização e identificação do material de propagação
+
+### Artigo 9.º — Comercialização e identificação dos materiais
+
+1 - O material de propagação deve ser comercializado em lotes, podendo, no entanto, o material de propagação de lotes diferentes ser comercializado numa única remessa, desde que o fornecedor conserve registos da composição e da origem dos diferentes lotes.
+
+2 - Quando em comercialização, o material de propagação deve ser acompanhado de uma etiqueta ou de outro documento redigido pelo fornecedor.
+
+3 - O disposto no n.º 1 não é aplicável a material de propagação a comercializar junto de consumidores finais não profissionais.
+
+4 - A etiqueta ou o documento redigido pelo fornecedor, referidos no n.º 2, deve incluir os seguintes elementos expressos, pelo menos, numa das línguas oficiais da União Europeia (UE):
+
+a) Indicação 'Qualidade UE', exceto nos materiais abrangidos pela alínea a) do n.º 2 do artigo 1.º, onde se aplica em sua substituição a menção 'Qualidade PT';
+
+b) Indicação do código do Estado-Membro da UE;
+
+c) Indicação do organismo oficial responsável;
+
+d) Número de licença do fornecedor;
+
+e) Número individual de série, semana ou número do lote;
+
+f) Nome botânico;
+
+g) Denominação da variedade, quando esta se aplique, no caso dos porta-enxertos denominação da variedade ou sua designação;
+
+h) Denominação do grupo de plantas, quando for o caso;
+
+i) Quantidade;
+
+j) No caso de importação de países terceiros, o nome do país de produção.
+
+5 - No caso de o material de propagação ser acompanhado de passaporte fitossanitário, ao abrigo do Regulamento (UE) n.º 2016/2031, este constituirá, se o fornecedor assim o desejar, o documento redigido pelo fornecedor referido no número anterior, sendo neste caso obrigatória a menção das informações constantes das alíneas a), d) e e) do número anterior e, se for o caso, também das alíneas f) e g) ou h), i) e j) do mesmo número, podendo estas informações constar do mesmo documento que inclui o passaporte fitossanitário, mas neste caso claramente separadas.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+### Artigo 10.º — Identificação de variedades e de grupos de plantas
+
+1 - Quando o material de propagação for comercializado com referência a uma variedade, esta deve encontrar-se, pelo menos, numa das seguintes situações:
+
+a) Estar legalmente protegida por um direito de obtentor registado na União Internacional para a Protecção das Obtenções Vegetais (UPOV), ou no Instituto Comunitário de Variedades Vegetais (ICVV), ou no Centro Nacional de Registo de Variedades Protegidas (CENARVE);
+
+b) Estar inscrita no Catálogo Nacional de Variedades (CNV) ou em catálogos nacionais de outros Estados membros da UE;
+
+c) Ser do conhecimento comum;
+
+d) Estar inscrita numa lista mantida por um fornecedor da qual constem a sua descrição e a denominação e sinónimos mais correntes, caso em que a descrição da variedade deve ser efectuada com base nas características e suas expressões especificadas de acordo com as disposições relativas aos pedidos a apresentar para efeitos de protecção dos direitos de obtenção a nível comunitário, nos casos em que são aplicáveis, devendo estas listas ser facultadas à DGPC, a seu pedido.
+
+2 - Em qualquer das situações referidas no n.º 1, a denominação da variedade deve ser, tanto quanto possível, a utilizada de forma mais corrente em Portugal e nos outros Estados membros, devendo o mesmo princípio ser seguido na utilização de sinónimos.
+
+3 - Sempre que for comercializado material de propagação com referência a um grupo de plantas e não a uma variedade, como referido no n.º 1, o fornecedor deve indicar o grupo de plantas de forma a evitar qualquer confusão com uma denominação varietal.
+
+4 - Quando o material de propagação de plantas ornamentais for comercializado com referência a variedades inscritas numa lista mantida por um fornecedor, constantes da alínea d) do n.º 1, este fornecedor, relativamente a essa variedade, deve dispor dos seguintes elementos:
+
+a) A denominação da variedade, assim como, caso existam, os seus sinónimos mais correntes;
+
+b) A indicação do método de manutenção da variedade e do sistema de propagação aplicado;
+
+c) A descrição da variedade, efetuada pelo menos com base nos seus carateres e respetivas expressões, especificadas de acordo com as disposições relativas aos pedidos a apresentar para efeitos de obtenção de título de propriedade vegetal, quando for caso disso;
+
+d) A indicação, se possível, das diferenças entre a variedade em questão e as variedades que mais se lhe assemelham.
+
+5 - Os fornecedores cuja atividade se limite à comercialização de materiais de propagação de plantas ornamentais e que não sejam responsáveis pela manutenção da variedade estão dispensados da apresentação dos elementos referidos nas alíneas b) e d) do número anterior.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+### Artigo 11.º — Comercialização de material de propagação que preencha requisitos menos rigorosos
+
+Se se verificarem dificuldades temporárias de aprovisionamento de material de propagação que satisfaça os requisitos do presente diploma e que não possam ser superadas na Comunidade Europeia, poderão ser estabelecidas por despacho da DGPC, após decisão da Comissão Europeia, os requisitos para a comercialização de material de propagação objecto de condições menos rigorosas que as previstas no presente diploma, no que se refere à produção e à qualidade do referido material, referência que obrigatoriamente deverá constar na etiqueta ou noutro documento constante do n.º 2 do artigo 9.º
+
+## Capítulo VI — Material de propagação produzido em países terceiros
+
+### Artigo 12.º — Requisitos de importação
+
+1 - Só podem ser importados materiais de propagação de países terceiros sobre os quais a Comunidade Europeia tenha emitido decisão reconhecendo que os materiais de propagação produzidos nesses países oferecem garantias equivalentes em todos os aspectos às do material produzido na Comunidade.
+
+2 - Na ausência de decisão nos termos do n.º 1, o material de propagação só pode ser importado de países terceiros se o importador oferecer garantias equivalentes em todos os aspectos às dos materiais de propagação produzidos na Comunidade, em conformidade com o definido no presente diploma, nomeadamente no artigo 6.º
+
+3 - Dos materiais de propagação a importar ao abrigo do n.º 2, o importador notificará a DGPC e conservará provas documentais nas quais constem a origem, a natureza e a identificação e características desses materiais.
+
+## Capítulo VII — Medidas de controlo oficial e disposições gerais
+
+### Artigo 13.º — Controlos oficiais
+
+1 - Com o fim de assegurar o cumprimento do definido no presente diploma por parte dos fornecedores e de avaliar a qualidade dos materiais de propagação, as entidades referidas no artigo 3.º efectuarão inspecção às instalações de produção e de comercialização e aos materiais de propagação, assim como aos respectivos processos de produção e de comercialização, sempre que necessário e, pelo menos, através de controlos aleatórios.
+
+2 - As operações de controlo referidas no número anterior são executadas exclusivamente pelos inspectores definidos nos termos do n.º 10 do artigo 2.º, os quais, no desempenho das suas funções, terão livre acesso às dependências das instalações dos fornecedores.
+
+3 - Durante as operações de controlo, os inspectores referidos no n.º 2 podem:
+
+a) Inspeccionar as instalações e os materiais de propagação em produção, armazenados ou em trânsito;
+
+b) Solicitar informações sobre o processo de produção ou conservação dos materiais de propagação, nomeadamente sobre a identificação dos pontos críticos e métodos de controlo dos pontos críticos e respectivos registos;
+
+c) Solicitar informações, nos termos deste diploma, sobre as operações de comercialização, nomeadamente aquisições, trocas e vendas de materiais de propagação e respectivos registos;
+
+d) Colher amostras destinadas a exames laboratoriais, testes ou ensaios.
+
+### Artigo 14.º — Penalizações
+
+1 - Se, por ocasião das inspecções referidas no artigo 13.º ou dos ensaios constantes do artigo 15.º, se verificar que os materiais de propagação não preenchem os requisitos definidos no presente diploma, o fornecedor ficará obrigado a tomar medidas correctivas que, não sendo tomadas ou não dando resultados eficazes, terão como consequência a proibição de comercialização desses materiais.
+
+2 - Caso se verifique que os materiais de propagação a comercializar ou comercializados por um fornecedor não respeitam as exigências e as condições previstas no presente diploma, serão tomadas medidas adequadas contra esse fornecedor, as quais poderão incluir a proibição de comercialização segundo o estabelecido no n.º 1, ou mesmo o cancelamento temporário ou definitivo da licença.
+
+3 - As medidas adoptadas ao abrigo do n.º 2 serão levantadas logo que se verifiquem garantias de que os materiais a comercializar satisfazem as exigências e condições do presente diploma.
+
+### Artigo 15.º — Ensaios comunitários
+
+1 - Os ensaios e testes comparativos comunitários têm por objectivo harmonizar os métodos técnicos de análise dos materiais de propagação de plantas ornamentais e de verificar se estes cumprem as normas definidas no presente diploma e no respectivo regulamento técnico de aplicação, nomeadamente as de carácter fitossanitário.
+
+2 - Os Estados membros devem realizar no País ensaios e eventualmente testes de controlo a posteriori em amostras daqueles materiais, para verificar se estes cumprem as normas definidas no presente diploma e no respectivo regulamento técnico de aplicação, nomeadamente as de carácter fitossanitário, podendo a Comissão organizar inspecções a estes ensaios, a efectuar por representantes dos Estados membros e da Comissão.
+
+3 - Podem, também, ser efectuados na Comunidade, em Estados membros a designar pela Comissão, ensaios e testes comparativos comunitários para o controlo a posteriori de amostras daqueles materiais em comercialização no espaço comunitário, para verificar se estes cumprem as normas definidas no presente diploma e no respectivo regulamento técnico de aplicação, nomeadamente as de carácter fitossanitário.
+
+4 - As amostras a submeter a ensaios e testes, para além das amostras dos lotes de materiais de propagação produzidos em cada Estado membro, podem também incluir amostras colhidas nos lotes de materiais:
+
+a) Provenientes de países terceiros;
+
+b) Destinados ao modo de produção biológico;
+
+c) Destinados a contribuir para a preservação da diversidade genética.
+
+5 - Compete à Comissão tomar as medidas necessárias para a realização dos ensaios e testes, informar o Comité Permanente de Materiais de Propagação e Plantas Ornamentais das disposições técnicas sobre a sua realização e sobre a apresentação de resultados e, sempre que surjam problemas a nível fitossanitário, do facto dar conhecimento ao Comité Fitossanitário Permanente.
+
+6 - Dentro dos limites das dotações anuais estabelecidas pela autoridade orçamental, a Comunidade contribui financeiramente para a realização dos ensaios e testes referidos nos n.os 2 e 3.
+
+7 - O Comité Permanente de Materiais de Propagação e Plantas Ornamentais define quais os ensaios e testes que podem beneficiar de ajuda financeira e estabelece as normas pormenorizadas para a sua concessão.
+
+8 - Os ensaios e testes referidos n.os 2 e 3, se realizados no País, apenas podem ser executados pela DGPC ou por pessoas colectivas agindo sob a responsabilidade da DGPC.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2004 - Diário da República n.º 18/2004, Série I-A de 2004-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2004-608181), em vigor a partir de 2004-01-23*
+
+### Artigo 16.º — Livre comercialização
+
+A comercialização do material de propagação que preencha os requisitos previstos no presente diploma não será sujeita a quaisquer restrições relativamente ao fornecedor e à etiquetagem e embalagem, para além das previstas no presente diploma.
+
+### Artigo 17.º — Isenções
+
+A DGPC, sem prejuízo do estabelecido no artigo 16.º, poderá apresentar à Comissão Europeia, através de pedido fundamentado, a total ou parcial isenção de determinadas obrigações previstas no presente diploma quanto aos tipos de material de propagação de determinados géneros ou espécies cuja produção tenha uma reduzida importância económica para o País.
+
+## Capítulo VIII — Disposições especiais
+
+### Artigo 18.º — Procedimento administrativo
+
+Os procedimentos respeitantes ao licenciamento, controlo oficial e colheita de amostras deverão ser efectuados segundo instruções ou impressos emitidos pela DGPC.
+
+### Artigo 19.º — Direitos do obtentor
+
+*(Revogado)* — *Revogado pelo/a Artigo 28.º do/a Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29, em vigor a partir de 2020-09-30*
+
+## Capítulo IX — Disposições finais
+
+### Artigo 20.º — Taxas
+
+1 - Pelo licenciamento dos fornecedores e pelo controlo oficial dos materiais de propagação de plantas ornamentais são devidas taxas por serviços prestados, nos termos previstos na Portaria n.º 298/2017, de 12 de outubro.
+
+2 - A portaria referida no número anterior, estabelece o regime de atualização, liquidação e cobrança de taxas, bem como o modo de repartição das mesmas pelos serviços oficiais competentes, quando aplicável.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+### Artigo 21.º — Contraordenações
+
+1 - Constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas, aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro (RJCE), as seguintes infrações:
+
+a) O exercício da atividade de produção, importação ou comercialização de materiais de propagação de plantas ornamentais por quem não esteja registado como fornecedor pela DGAV, em violação do n.º 1 do artigo 7.º;
+
+b) A não comunicação à DGAV, pelos fornecedores, do surgimento nos seus materiais de propagação de um organismo nocivo abrangido pelo Regulamento (UE) 2016/2031, bem como a não aplicação das medidas prescritas pela DGAV após comunicação, em violação do n.º 2 do artigo 8.º;
+
+c) A comercialização e identificação dos materiais de propagação que não respeite as regras de acondicionamento, de etiquetagem, documentais e de informação, em violação do artigo 9.º;
+
+d) O não cumprimento dos requisitos de comercialização de material de propagação objeto de condições menos rigorosas, estabelecidos pela DGAV, em violação do artigo 11.º;
+
+e) A não notificação, pelo importador, à DGAV e a não conservação de provas documentais nas quais constem a origem, a natureza e a identificação e características dos materiais de propagação a importar, em violação dos n.os 2 e 3 do artigo 12.º;
+
+f) A não adoção, pelos fornecedores, das medidas fitossanitárias ordenadas no âmbito de penalizações impostas, em violação dos n.os 1 e 2 do artigo 14.º
+
+2 - Constituem contraordenação económica grave, punível nos termos do RJCE, as seguintes infrações:
+
+a) A não comunicação, pelos fornecedores, à DRAP territorialmente competente ou à DGAV da cessação ou outras alterações no exercício da sua atividade ou, ainda, de quaisquer alterações aos dados registados, no prazo de 30 dias contados a partir da respetiva ocorrência, em violação do n.º 5 do artigo 7.º-A;
+
+b) A não conservação pelos fornecedores, durante 12 meses, dos registos relativos às operações de compra ou produção ou importação e de venda dos materiais de propagação comercializados, em violação do n.º 3 do artigo 8.º
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488), em vigor a partir de 2023-11-18*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960), em vigor a partir de 2020-09-30*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+### Artigo 22.º — Sanções acessórias
+
+Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de entidade pública;
+
+c) Privação do direito a subsídio ou benefício outorgados por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras e mercados;
+
+e) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás;
+
+f) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+g) Suspensão de autorizações, licenças e alvarás.
+
+### Artigo 23.º — Fiscalização, instrução, aplicação e destino da receita das coimas
+
+1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização ao disposto no presente decreto-lei compete à DGAV, às DRAP e à Autoridade de Segurança Alimentar e Económica (ASAE).
+
+2 - A fiscalização dos materiais de propagação em comercialização é da competência da ASAE.
+
+3 - A instrução dos processos de contraordenação pelas infrações referidas no n.º 1 do artigo 21.º é da competência da ASAE e da DRAP da área da prática da contraordenação, em razão da matéria, devendo-lhes ser remetidos quaisquer autos de notícia que sejam da sua competência instrutória.
+
+4 - A aplicação das coimas e sanções acessórias a que se refere o número anterior compete, respetivamente, ao inspetor-geral da ASAE e ao diretor-geral de Alimentação e Veterinária.
+
+5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+
+6 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488), em vigor a partir de 2023-11-18*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+### Artigo 24.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências legislativas próprias, cabendo a sua execução administrativa e suas disposições regulamentares aos serviços competentes das respetivas administrações regionais.
+
+2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880), em vigor a partir de 2018-06-12, produz efeitos a partir de 2018-10-01*
+
+### Artigo 25.º — Normas regulamentares
+
+*(Revogado)* — *Revogado pelo/a Artigo 28.º do/a Decreto-Lei n.º 78/2020 - Diário da República n.º 190/2020, Série I de 2020-09-29, em vigor a partir de 2020-09-30*
+
+### Artigo 26.º — Norma revogatória
+
+1 - São revogados a alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 277/91, de 8 de Agosto, a Portaria n.º 105/96, de 8 de Abril, e o Despacho Normativo n.º 17/96, de 24 de Abril.
+
+2 - O disposto no número anterior apenas produz efeitos na data da entrada em vigor do diploma previsto no artigo 25.º que transponha para o direito interno as directivas da Comissão complementares da Directiva n.º 98/56/CE, do Conselho.
+
+## Anexo
+
+*(Revogado)* — *Revogado pelo/a Artigo 9.º do/a Decreto-Lei n.º 106/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17, em vigor a partir de 2023-11-18*
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 13 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa - Armando António Martins Vara.
+
+Promulgado em 7 de Setembro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Setembro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

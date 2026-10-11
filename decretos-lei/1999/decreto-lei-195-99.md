@@ -1,0 +1,215 @@
+---
+title: "Decreto-Lei n.º 195/99"
+identifier: "Decreto-Lei n.º 195/99"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1999-06-08
+last_amended: 2016-02-22
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-66041405"
+retrieved: 2026-10-11
+designation: "Regime aplicável às cauções nos contratos de fornecimento aos consumidores dos serviços públicos essenciais"
+summary: "Estabelece o regime aplicável às cauções nos contratos de fornecimento aos consumidores dos serviços públicos essenciais previstos na Lei n.º 23/96 , de 26 de Julho"
+issuer: "Presidência do Conselho de Ministros"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/195/1999/p/cons/20160222/pt/html"
+dre_id: 311254
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1999/06/132a00/31663167.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 195/99
+
+Decreto-Lei n.º 195/99
+
+de 8 de Junho
+
+A protecção dos direitos dos consumidores - consagrados na Constituição da República Portuguesa - tem vindo a ser cuidadosamente regulamentada com vista à criação de medidas eficientes para a promoção de regras mais transparentes e equitativas num mercado em crescente globalização.
+
+A Lei n.º 23/96, de 26 de Julho, veio criar no ordenamento jurídico português alguns mecanismos destinados a proteger o utente de serviços públicos essenciais, abrangendo o fornecimento de água, electricidade, gás e serviço telefónico.
+
+Ficou, deste modo, perfeitamente identificado um mercado com características muito especiais e cujo funcionamento denotava um significativo desequilíbrio em detrimento da posição contratual do consumidor, dado tratar-se da prestação de serviços básicos, universais e essenciais à vida moderna, em que os consumidores não dispõem de poder negocial perante situações muitas vezes identificadas como «monopólios naturais».
+
+Importa tornar cada vez mais claras as condições de acesso aos serviços, normalmente estabelecidas em contratos de adesão predefinidos. Neste quadro, a presente medida legislativa visa, especialmente, regular a exigência da prestação de cauções, como condição contratual para a ligação domiciliária de serviços públicos essenciais.
+
+Constata-se que a prática da exigência de caução para acesso ao serviço tem sido desvirtuada pelos operadores, não sendo, por exemplo, accionada em caso de incumprimento do consumidor que implique o corte do fornecimento, aparentando antes ser uma forma menos clara de financiamento das empresas.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+## Artigo 1.º — Âmbito
+
+1 - O presente diploma aplica-se aos contratos de fornecimento dos serviços públicos essenciais mencionados no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de Julho, em que sejam parte consumidores como tal definidos no n.º 1 do artigo 2.º da Lei n.º 24/96, de 31 de Julho, qualquer que seja o fornecedor e a forma do respectivo fornecimento.
+
+2 - É proibida a exigência de prestação de caução, sob qualquer forma ou denominação, para garantir o cumprimento de obrigações decorrentes do fornecimento dos serviços públicos essenciais mencionados no número anterior.
+
+3 - O disposto nos números anteriores aplica-se às autarquias locais.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205), em vigor a partir de 2007-04-07*
+
+## Artigo 2.º — Caução em caso de incumprimento
+
+1 - Os fornecedores dos serviços públicos essenciais mencionados no artigo 1.º apenas podem exigir a prestação de caução nas situações de restabelecimento de fornecimento, na sequência de interrupção decorrente de incumprimento contratual imputável ao consumidor.
+
+2 - A caução poderá ser prestada em numerário, cheque ou transferência electrónica ou através de garantia bancária ou seguro-caução.
+
+3 - O valor e a forma de cálculo das cauções serão fixados pelas entidades reguladoras dos diferentes serviços públicos essenciais ou, na sua falta, pelas entidades públicas responsáveis pela supervisão ou controlo dos respectivos sectores de actividade.
+
+4 - Não será prestada caução se, regularizada a dívida objecto do incumprimento, o consumidor optar pela transferência bancária como forma de pagamento dos serviços.
+
+5 - Sempre que o consumidor, que haja prestado caução nos termos do n.º 1, opte posteriormente pela transferência bancária como forma de pagamento, a caução prestada será devolvida nos termos do artigo 4.º
+
+## Artigo 3.º — Accionamento da caução
+
+1 - O fornecedor deve utilizar o valor da caução para satisfação dos valores em dívida pelo consumidor.
+
+2 - Accionada a caução, o fornecedor pode exigir a sua reconstituição ou o seu reforço em prazo não inferior a 10 dias úteis, por escrito, de acordo com as regras fixadas nos termos do n.º 3 do artigo 2.º
+
+3 - A utilização da caução, nos termos acima mencionados, impede o fornecedor de exercer o direito de interrupção do fornecimento, ainda que o montante da caução não seja suficiente para a liquidação integral do débito.
+
+4 - A interrupção do fornecimento poderá ter lugar, nos termos do n.º 2 do artigo 2.º da Lei n.º 23/96, de 26 de Julho, se o consumidor, na sequência da interpelação a que se refere o n.º 2, não vier a reconstituir ou reforçar a caução.
+
+## Artigo 4.º — Restituição da caução
+
+1 - Findo o contrato de fornecimento, por qualquer das formas legal ou contratualmente estabelecidas, a caução prestada é restituída ao consumidor, deduzida dos montantes eventualmente em dívida.
+
+2 - A quantia a restituir será actualizada em relação à data da sua última alteração, com base no índice anual de preços ao consumidor, publicado pelo Instituto Nacional de Estatística.
+
+## Artigo 5.º — Validade da caução
+
+A caução prestada nos termos do presente diploma considera-se válida até ao termo ou resolução do contrato de fornecimento, qualquer que seja a entidade que, até essa data, forneça ou venha a fornecer o serviço em causa, ainda que não se trate daquela com quem o consumidor contratou inicialmente o fornecimento, podendo o consumidor exigir dessa entidade a sua restituição.
+
+## Artigo 6.º — Cauções anteriores
+
+1 - As cauções prestadas pelos consumidores, em numerário, cheque ou transferência eletrónica, até à data da entrada em vigor do presente diploma são restituídas aos consumidores ou aos seus herdeiros, após atualização nos termos do n.º 4.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - Para efeitos do disposto no n.º 1, a actualização das cauções a restituir é referida apenas ao período decorrido depois de 1 de Janeiro de 1999.
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 -(Revogado).
+
+8 -(Revogado).
+
+9 - (Revogado).
+
+10 -(Revogado).
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2015-66041393), em vigor a partir de 2015-01-16*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 100/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205), em vigor a partir de 2007-04-07*
+
+## Artigo 6.º-A — Deveres especiais dos prestadores de serviços
+
+1 - Os prestadores dos serviços abrangidos pelo presente decreto-lei obedecem a um dever especial de colaboração, permitindo, designadamente, o acesso e a consulta dos registos contabilísticos para efeitos de identificação dos consumidores a quem não tenha sido restituída a caução.
+
+2 - Os prestadores dos serviços devem informar as respectivas entidades reguladoras sobre o número de processos de restituição de caução concluídos, o montante total restituído, bem como os processos não concluídos e respectivos montantes, apresentando as razões que estiveram na origem deste facto.
+
+3 - Quando as cauções tenham sido recebidas por prestadores dos serviços públicos essenciais abrangidos pelo presente decreto-lei, incluindo as autarquias locais prestadoras destes serviços, que tenham posteriormente atribuído a exploração e a gestão dos seus sistemas às atuais entidades prestadoras do serviço, ficam aqueles obrigados a entregar a estas entidades os montantes das cauções, bem como a lista identificativa dos consumidores a que as mesmas respeitam.
+
+4 - Compete aos prestadores dos serviços públicos essenciais abrangidos pelo presente decreto-lei, incluindo as autarquias locais prestadoras destes serviços, informar os consumidores do direito de restituição da caução prestada, do prazo e do respetivo procedimento aplicável, incluindo os locais onde se encontram disponíveis as listas dos consumidores a quem a caução ainda não foi restituída.
+
+5 - A informação referida no número anterior é prestada através do envio de carta ou de correio eletrónico, neste caso, para os consumidores que tenham aderido a esta forma de comunicação, podendo ainda ser efetuada em simultâneo com o envio da fatura.
+
+6 - Os prestadores dos serviços públicos essenciais abrangidos pelo presente decreto-lei, incluindo as autarquias locais prestadoras destes serviços, devem divulgar, de forma ampla, desde a data da entrada em vigor do presente diploma e até ao termo do prazo referido no n.º 8, as listas dos consumidores a quem a caução ainda não foi restituída, da qual consta apenas o nome completo do consumidor e o número do contrato de fornecimento, nomeadamente através da:
+
+a) Afixação, de forma visível, nas suas instalações de atendimento ao público; e
+
+b) Publicitação nos respetivos sítios da Internet.
+
+7 - Os prestadores dos serviços públicos essenciais abrangidos pelo presente decreto-lei, incluindo as autarquias locais prestadoras destes serviços, devem emitir, quando solicitado pelos consumidores, declaração comprovativa do direito à restituição da respetiva caução, até ao dia 8 de julho de 2016, da qual constem:
+
+a) A identificação do titular do contrato;
+
+b) A identificação da entidade fornecedora do serviço;
+
+c) O número do contrato;
+
+d) A morada de fornecimento;
+
+e) O valor da caução prestada.
+
+8 - Para efeitos do disposto no número anterior, os consumidores devem solicitar aos prestadores dos serviços públicos essenciais abrangidos pelo presente decreto-lei, incluindo as autarquias locais prestadoras destes serviços, a emissão da declaração comprovativa do direito à restituição da respetiva caução até ao dia 30 de junho de 2016.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2016 - Diário da República n.º 36/2016, Série I de 2016-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2016-73650547), em vigor a partir de 2016-02-23, produz efeitos a partir de 2013-01-01*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2015-66041393), em vigor a partir de 2015-01-16*
+- *Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205), em vigor a partir de 2007-04-07*
+
+## Artigo 6.º-B — Destino das cauções não restituídas
+
+1 - Os montantes relativos às cauções não reclamadas nos prazos e nos termos mencionados, que não tenham sito restituídas aos consumidores, ao abrigo do artigo 6.º, revertem para um fundo a administrar pelo Instituto do Consumidor, I. P., destinado ao financiamento de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos dos consumidores e a constituir nos termos a definir por portaria conjunta dos ministros responsáveis pelas áreas das finanças e da defesa do consumidor.
+
+2 - Cabe à entidade reguladora dos respectivos serviços fixar o procedimento de modo que, nos dois meses posteriores ao prazo previsto no n.º 8 do artigo 6.º, a entidade que assegura o fornecimento deposite em conta à ordem do Instituto do Consumidor, I. P., os montantes relativos às cauções não reclamadas.
+
+3 - Para efeitos do disposto no número anterior, o Instituto Regulador de Água e Resíduos é considerado a entidade reguladora do serviço de fornecimento de água, independentemente do regime em que este é prestado e da entidade que o disponibiliza.
+
+4 - A gestão do fundo a que se refere o n.º 1 deste artigo é apoiada por um órgão consultivo composto por representantes dos operadores intervenientes na captação das cauções e de associações representativas de consumidores, cuja composição global, incluindo os municípios, é definida por portaria do ministro responsável pela área da defesa do consumidor.
+
+- *Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205), em vigor a partir de 2007-04-07*
+
+## Artigo 6.º-C — Responsabilidade da Direção-Geral do Consumidor
+
+1 - Cumprido o estabelecido no artigo anterior, se a caução não tiver sido restituída pelas entidades que asseguram o fornecimento de serviços públicos essenciais, o consumidor pode reclamar o respetivo montante junto da Direção-Geral do Consumidor, até ao dia 31 de julho de 2016.
+
+2 - A Direção-Geral do Consumidor aprecia o pedido de reembolso de caução com base na apresentação pelo consumidor da declaração referida no n.º 7 do artigo 6.º-A.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 7/2016 - Diário da República n.º 36/2016, Série I de 2016-02-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2016-73650547), em vigor a partir de 2016-02-23, produz efeitos a partir de 2013-01-01*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2015-66041393)*
+- *Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2007 - Diário da República n.º 65/2007, Série I de 2007-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205), em vigor a partir de 2007-04-07*
+
+## Artigo 6.º-D — Contraordenações
+
+Constitui contraordenação punível com a aplicação de coimas de (euro) 500 a (euro) 5 000, a violação do disposto nos n.os 1 a 7 do artigo 6.º-A.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2015-66041393), em vigor a partir de 2015-01-16*
+
+## Artigo 6.º-E — Instrução dos processos, aplicação e produto das coimas
+
+1 - Cabe às entidades reguladoras setorialmente competentes instaurar e instruir os processos de contraordenação e aos presidentes dos respetivos conselhos de administração aplicar as coimas previstas no artigo anterior.
+
+2 - O produto das coimas referidas no artigo anterior reverte em:
+
+a) 60 % para o Estado;
+
+b) 40 % para a entidade que instaurar e instruir o processo.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2015-66041393), em vigor a partir de 2015-01-16*
+
+## Artigo 6.º-F — Proteção de dados pessoais
+
+1 - O tratamento de dados pessoais previsto no presente decreto-lei fica sujeito ao regime jurídico estabelecido pela Lei da Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro, designadamente no que se refere à obrigação de notificação do tratamento de dados pessoais relativos aos consumidores a quem a caução ainda não foi restituída, à Comissão Nacional de Proteção de Dados, por parte dos prestadores dos serviços públicos essenciais abrangidos pelo presente decreto-lei, incluindo as autarquias locais prestadoras destes serviços.
+
+2 - Não é permitida a indexação das listas de consumidores a que se refere o n.º 6 do artigo 6.º-A a motores de busca.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2015-66041393), em vigor a partir de 2015-01-16*
+
+## Artigo 7.º — Entrada em vigor e disposições finais
+
+1 - O presente diploma entra em vigor 90 dias após a sua publicação.
+
+2 - No prazo de 60 dias a contar da data da sua entrada em vigor, as entidades a que se refere o n.º 3 do artigo 2.º darão cumprimento ao disposto nessa disposição e no n.º 1 do artigo 6.º
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Osvaldo Sarmento e Castro - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 20 de Maio de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 25 de Maio de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

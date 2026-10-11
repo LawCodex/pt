@@ -1,0 +1,97 @@
+---
+title: "Decreto-Lei n.º 62/88"
+identifier: "Decreto-Lei n.º 62/88"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1988-02-27
+last_amended: 2021-01-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-155903281"
+retrieved: 2026-10-11
+summary: "Determina o uso da língua portuguesa nas informações ou instruções respeitantes a características, instalação, serviço ou utilização, montagem, manutenção, armazenagem e transporte que acompanham as máquinas e outros utensílios de uso industrial ou laboratorial"
+issuer: "Ministério da Indústria e Energia"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/62/1988/p/cons/20210129/pt/html"
+dre_id: 286726
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1988/02/04800/06920692.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 62/88
+
+Decreto-Lei n.º 62/88
+
+de 27 de Fevereiro
+
+Considerando que as informações e instruções relativas a máquinas e outros utensílios semelhantes devem ser claramente compreendidas por todos os potenciais utilizadores nacionais e, para isso, escritas na sua própria língua;
+
+Considerando também que os avisos de atenção ou perigo apostos em tais equipamentos devem obedecer à legislação em vigor, às normas portuguesas ou a outras especificações aplicáveis;
+
+Tendo em vista preencher lacunas do direito português nesta matéria:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+## Artigo 1.º
+
+- 1 - As informações ou instruções respeitantes a características, instalação, serviço ou utilização, montagem, manutenção, armazenagem, transporte, bem como as garantias que devam acompanhar ou habitualmente acompanhem ou sejam aplicadas sobre máquinas, aparelhos, utensílios e ferramentas, serão obrigatoriamente escritas em língua portuguesa.
+
+2 - O texto em língua portuguesa das informações ou instruções a que se refere o número anterior só poderá conter palavras ou expressões em língua estrangeira quando:
+
+a) Não existam palavras ou expressões correspondentes em língua portuguesa;
+
+b) Se trate de palavras ou expressões cujo uso se tenha tornado corrente em Portugal e que sejam insusceptíveis de provocarem equívocos quanto ao seu significado.
+
+## Artigo 2.º
+
+- 1 - Os avisos de atenção ou perigo apostos nos produtos referidos no n.º 1 do artigo 1.º devem obedecer à legislação em vigor, às normas aplicáveis, dimanadas do Instituto Português da Qualidade ou da entidade anteriormente competente para o efeito, e a quaisquer outras especificações decorrentes de compromissos assumidos internacionalmente.
+
+2 - O disposto no número anterior não prejudica a importação e comercialização em Portugal de produtos provenientes de outro Estado membro da Comunidade Económica Europeia que apresentem avisos de atenção ou perigo conformes com a regulamentação desse Estado, desde que tais avisos tenham conteúdo informativo equivalente ao estabelecido na regulamentação portuguesa e sejam colocados à disposição dos utilizadores ou responsáveis pela utilização acompanhados de tradução em português.
+
+## Artigo 3.º
+
+- 1 - O cumprimento do disposto no n.º 1 do artigo 1.º é exigível, a partir da colocação do produto no mercado, ao agente económico ao qual incumba, nos termos acordados entre os vários agentes envolvidos, assegurar as traduções necessárias.
+
+2 - Quando os agentes económicos envolvidos não tiverem tomado a decisão prevista na parte final do número anterior, as obrigações decorrentes do n.º 1 do artigo 1.º impendem sobre aquele que directamente coloque o produto à disposição do utilizador ou responsável pela utilização.
+
+3 - As obrigações previstas no artigo 2.º impendem sobre os fabricantes, os importadores e todos os outros agentes que desenvolvam a actividade de comércio por grosso ou a retalho, sem prejuízo do disposto nos números anteriores quanto à obrigação de assegurar as traduções necessárias.
+
+## Artigo 4.º
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento do disposto nos artigos 1.º e 2.º
+
+2 - A negligência é punível nos termos do RJCE.
+
+3 - A aplicação das coimas compete ao inspetor-geral da Autoridade de Segurança Alimentar e Económica.
+
+- *Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 5.º
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+
+- *Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 6.º
+
+Os produtos abrangidos pelo presente diploma que não obedeçam ao que nele se estabelece, mas tenham sido fabricados ou importados anteriormente à data da sua entrada em vigor, poderão ser ainda comercializados no prazo de dezoito meses a contar dessa data.
+
+## Artigo 7.º
+
+O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1988. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
+
+Promulgado em 8 de Fevereiro de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 14 de Fevereiro de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

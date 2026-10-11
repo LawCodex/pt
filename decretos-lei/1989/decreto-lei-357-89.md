@@ -1,0 +1,99 @@
+---
+title: "Decreto-Lei n.º 357/89"
+identifier: "Decreto-Lei n.º 357/89"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1989-10-17
+last_amended: 2021-01-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-155903299"
+retrieved: 2026-10-11
+summary: "Estabelece o regime de certificação obrigatória de produtos de vidro cristal e vidro sonoro"
+issuer: "Ministério da Indústria e Energia"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/357/1989/p/cons/20210129/pt/html"
+dre_id: 549003
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1989/10/23900/45524553.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 357/89
+
+Decreto-Lei n.º 357/89
+
+de 17 de Outubro
+
+O direito dos consumidores à informação e à protecção dos seus interesses económicos e a proibição de todas as formas de publicidade oculta, indirecta ou dolosa, foram já objecto da indispensável disciplina básica com a publicação da Lei n.º 29/81, de 22 de Agosto - Lei de Defesa do Consumidor -, em cujos artigos 3.º e 9.º se estabelece o direito do consumidor à protecção contra as práticas desleais ou irregulares e contra o risco de lesão dos seus interesses e o direito à informação sobre as características essenciais dos bens ou serviços que lhe são fornecidos.
+
+No sector do vidro - cristal e vidro sonoro verifica-se, porém, que, muitas vezes, as denominações dos produtos não correspondem às características previstas para as respectivas categorias, induzindo em erro o comprador quanto à sua verdadeira natureza, composição ou propriedades, pelo que se impõe disciplinar o mercado destes produtos.
+
+Os referidos produtos foram, aliás, objecto de uma directiva comunitária cuja introdução na nossa ordem jurídica se impõe.
+
+O presente diploma destina-se pois, em execução da Lei n.º 29/81, de 22 de Agosto, e de acordo com a Directiva do Conselho 69/493/CEE, de 15 de Dezembro de 1969, a estabelecer as regras necessárias para assegurar aqueles direitos dos consumidores e simultaneamente a concorrência leal no sector, protegendo os fabricantes que produzem de acordo com as disposições constantes da citada directiva.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Âmbito de aplicação
+
+O presente decreto-lei estabelece o regime de certificação obrigatória dos produtos de vidro cristal e vidro sonoro colocados no mercado com as denominações ou os símbolos constantes da NP 1904, editada pelo Instituto Português da Qualidade.
+
+## Artigo 2.º — Certificação
+
+1 - A colocação no mercado dos produtos, quer importados quer de produção nacional, a que se refere o artigo anterior, só poderá realizar-se após certificação da sua conformidade com a NP 1904, de acordo com metodologias adoptadas no âmbito do Sistema Nacional de Gestão da Qualidade, a que se refere o Decreto-Lei n.º 165/83, de 27 de Abril.
+
+2 - A certificação nacional terá em conta os certificados ou boletins de ensaio emitidos por organismos estangeiros reconhecidos com base em critérios equivalentes aos utilizados no âmbito do Sistema Nacional de Gestão da Qualidade.
+
+3 - Os certificados ou boletins de ensaio previstos no número anterior devem ser emitidos com base em especificações equivalentes às constantes da NP 1904.
+
+## Artigo 3.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - Das infrações verificadas é levantado auto de notícia nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+3 - Os autos relativos a infracções verificadas por outras entidades serão enviados àquela a quem compete a aplicação das sanções, depois de devidamente instruídos.
+
+4 - As entidades fiscalizadoras poderão proceder à recolha de amostras para verificação do cumprimento do disposto no presente diploma, sendo por elas suportados os encargos com os ensaios laboratoriais ou quaisquer outras avaliações que se revelem necessárias.
+
+- *Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 4.º — Contra-ordenações
+
+1 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação ao disposto no n.º 1 do artigo 2.º
+
+2 - (Revogado.)
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - A aplicação das coimas compete ao inspetor-geral da ASAE.
+
+5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente artigo é repartido nos termos do RJCE
+
+- *Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 5.º — Superintendência na aplicação do diploma
+
+O Instituto Português da Qualidade acompanhará a aplicação global do presente diploma, propondo as medidas necessárias à prossecução dos seus objectivos, incluindo as que se destinem a assegurar o cumprimento das obrigações decorrentes da adesão às Comunidades Europeias.
+
+## Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 3 Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 26 de Setembro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 1 de Outubro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,183 @@
+---
+title: "Decreto-Lei n.º 170/2005"
+identifier: "Decreto-Lei n.º 170/2005"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2005-10-10
+last_amended: 2008-07-10
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-137618101"
+retrieved: 2026-10-11
+summary: "Estabelece uma obrigação geral de indicação do preço de venda a retalho dos combustíveis, bem como cria regras especiais para a indicação daqueles preços nos postos de abastecimento ao público existentes nas auto-estradas"
+issuer: "Ministério da Economia e da Inovação"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/170/2005/p/cons/20080710/pt/html"
+dre_id: 156219
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2005/10/194a00/59645966.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 170/2005
+
+Decreto-Lei n.º 170/2005
+
+de 10 de Outubro
+
+O presente decreto-lei tem por objectivo dar cumprimento à recomendação n.º 3/2004 da Autoridade da Concorrência no que à indicação do preço de venda a retalho dos combustíveis se refere, estabelecendo os termos em que é exercida essa obrigação de indicação dos preços nos postos de abastecimento de combustíveis, independentemente da sua localização.
+
+Nos termos dos artigos 6.º e 7.º do Decreto-Lei n.º 10/2003, de 18 de Janeiro, que cria a Autoridade da Concorrência, esta entidade tem como atribuições, entre outras, difundir orientações relevantes para a política da concorrência e contribuir para o aperfeiçoamento do sistema normativo português, emitindo, no exercício dos seus poderes de regulamentação, recomendações e directivas genéricas.
+
+A Autoridade da Concorrência, na referida recomendação, considera que a informação e transparência dos preços dos combustíveis ao consumidor constitui um dos factores de dinamização da concorrência pelo preço e recomenda ao Governo o seguinte: «Deverá ser instituída a obrigatoriedade de publicitação, de forma bem visível para o automobilista, dos PVP em vigor, em todos os postos de abastecimento ao público e para todos os combustíveis comercializados nos mesmos. A afixação de preços deverá constar de painéis colocados na via rodoviária, fora do posto, de modo a permitir ao consumidor fazer a sua opção de abastecimento antes de entrar no posto.»
+
+Em matéria de indicação de preços dos bens e serviços colocados à disposição do consumidor no mercado, Portugal possui já legislação adequada. De facto, o Decreto-Lei n.º 138/90, de 26 de Abril, que revogou o Decreto-Lei n.º 533/75, de 26 de Setembro, bem como o Decreto-Lei n.º 162/99, de 13 de Maio, adoptaram o regime resultante de directivas comunitárias, nomeadamente da Directiva do Conselho n.º 88/315/CEE, de 7 de Junho, e da Directiva n.º 98/6/CE, do Parlamento Europeu e do Conselho, de 16 de Fevereiro.
+
+No entanto, atenta a especificidade da venda a retalho de combustíveis em postos de abastecimento ao público, julga-se adequado proceder à disciplina da mesma, legislando no sentido de tornar obrigatória a indicação dos preços dos combustíveis no posto de abastecimento e fora dele, por forma a possibilitar ao consumidor a opção de abastecimento antes de entrar no posto. Do mesmo modo e no que se refere ao fornecimento de combustíveis nas auto-estradas, entende-se ser necessário legislar segundo a orientação constante da recomendação supra-identificada, a qual refere claramente que «o consumidor necessita de informação sobre os preços praticados ao longo do percurso, sob pena de não integrar na sua opção de escolha o factor preço».
+
+O artigo 1.º do Decreto-Lei n.º 138/90, de 26 de Abril, prevê a obrigação de todos os bens destinados à venda a retalho exibirem o respectivo preço de venda ao consumidor. Prevê ainda o artigo 5.º deste diploma que a indicação dos preços de venda e da unidade de medida seja feita de modo inequívoco, fácil e perfeitamente legível, através da utilização de letreiros, etiquetas ou listas, por forma a alcançar-se a melhor informação para o consumidor.
+
+São essencialmente estes dois princípios, que se encontram desenvolvidos neste diploma e adaptados à venda a retalho de combustíveis em postos de abastecimento ao público, que tornam exequível, nesta matéria, o direito à informação do consumidor a que se refere a Lei n.º 24/96, de 31 de Julho, tendo-se procurado um equilíbrio entre este direito à informação e o direito à segurança rodoviária.
+
+Entende-se que na sua recomendação, a Autoridade da Concorrência utilizou uma definição de consumidor mais ampla do que a consagrada na Lei n.º 24/96, de 31 de Julho, querendo designar todo e qualquer utente do posto de abastecimento.
+
+O presente diploma estabelece, assim, uma obrigação de indicação do preço de venda a retalho dos combustíveis em todos os postos de abastecimento, independentemente da sua localização, através da utilização de painéis. À semelhança do que acontece já noutros países europeus, nomeadamente em Espanha, este diploma estabelece que a informação sobre o preço de venda a retalho dos combustíveis nos postos de abastecimento existentes nas auto-estradas deve constar de painéis contendo a identificação dos combustíveis mais comercializados e respectivos preços oferecidos nos três postos de abastecimento seguintes no percurso em causa, colocados antes do acesso ao posto de abastecimento, de modo que seja possível o consumidor integrar na sua opção de compra o factor preço. Por motivo de segurança rodoviária, este painel é precedido de um painel que alerta o consumidor para a aproximação de um painel comparativo sobre os preços.
+
+Foram ouvidos a Estradas de Portugal, E. P. E., a Associação Portuguesa de Empresas Petrolíferas, a Associação Nacional dos Revendedores de Combustíveis e o Instituto do Consumidor.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Obrigação geral de indicação do preço de venda
+
+### Artigo 1.º — Indicação de preços
+
+1 - É obrigatória a indicação do preço de venda a retalho dos combustíveis efectuada nos postos de abastecimento de combustíveis.
+
+2 - A indicação do preço de venda dos combustíveis deve ser feita de modo inequívoco, fácil e perfeitamente legível, de forma a alcançar-se a melhor informação para o utente.
+
+### Artigo 2.º — Forma de indicação dos preços
+
+1 - Sem prejuízo da informação disponível no equipamento de abastecimento, o preço dos combustíveis deve constar de painéis.
+
+2 - Os painéis a que se refere o número anterior devem estar instalados de modo que a informação sobre os preços neles contida seja claramente visualizada pelo utente antes do acesso ao posto de abastecimento.
+
+## Capítulo II — Regras aplicáveis aos postos de abastecimento ao público existentes fora das auto-estradas
+
+### Artigo 3.º — Conteúdo dos painéis
+
+A informação sobre o preço de venda a retalho dos combustíveis vendidos nos postos de abastecimento ao público existentes fora das auto-estradas deve constar de um painel contendo, em caracteres legíveis e bem visíveis da via pública, uma relação de todos os combustíveis comercializados no posto de abastecimento em causa bem como o respectivo preço de venda ao público por litro, expresso em euros.
+
+### Artigo 4.º — Restrição de conteúdo
+
+Os painéis a que se refere o artigo 2.º do presente diploma não devem conter qualquer menção publicitária além da identificação do posto de abastecimento e das marcas dos combustíveis comercializados.
+
+### Artigo 5.º — Actualização da informação
+
+A informação constante dos painéis referidos no artigo anterior deve ser actualizada sempre que ocorra uma alteração do preço de venda de qualquer dos combustíveis comercializados no posto em causa ou a introdução de um novo combustível para venda.
+
+## Capítulo III — Regras aplicáveis aos postos de abastecimento ao público existentes nas auto-estradas
+
+### Artigo 6.º — Informação nas auto-estradas
+
+1 - A informação sobre o preço de venda a retalho dos combustíveis comercializados nos postos de abastecimento ao público existentes nas auto-estradas deve constar de um painel contendo a identificação dos combustíveis mais comercializados e respectivos preços oferecidos nos três postos de abastecimento seguintes integrados no percurso do itinerário em causa, no mesmo sentido de trânsito.
+
+2 - Do último painel integrado no percurso do itinerário em causa, a colocar antes do penúltimo posto de abastecimento existente, deve constar a identificação dos combustíveis mais comercializados e respectivos preços oferecidos nos dois postos de abastecimento restantes.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2008-456542), em vigor a partir de 2008-11-07*
+
+### Artigo 7.º — Painel comparativo
+
+O painel comparativo mencionado no artigo anterior deve obedecer às regras constantes dos artigos 4.º e 5.º e conter a indicação, expressa em quilómetros, da distância a que se encontra cada um dos postos de abastecimento nele mencionados.
+
+### Artigo 8.º — Colocação do painel comparativo
+
+1 - O painel comparativo a que se refere o artigo 6.º deve ser colocado à distância regulamentar das bermas e deve estar protegido por guardas de segurança.
+
+2 - O painel referido no número anterior deve estar colocado a uma distância de 2 km de cada posto de abastecimento.
+
+### Artigo 9.º — Segurança rodoviária e painel de pré-sinalização
+
+Os painéis comparativos colocados nas auto-estradas não devem pôr em risco a segurança rodoviária e são precedidos, a 8 km, de sinais informativos de aproximação de painel comparativo.
+
+### Artigo 9.º-A — Projecto de execução
+
+1 - A colocação do painel comparativo e do sinal informativo de painel comparativo obedece a um projecto de execução previamente elaborado pelo titular do posto de abastecimento responsável nos termos do n.º 2 do artigo 11.º, o qual, após obter a concordância das concessionárias das vias rodoviárias onde o painel e o sinal são colocados, deve ser remetido por estas aos respectivos concedentes para aprovação final.
+
+2 - Quando não for tecnicamente viável respeitar as distâncias fixadas nos artigos 8.º e 9.º, pode o concedente autorizar a alteração destas, desde que os constrangimentos técnicos se encontrem devidamente fundamentados no projecto de execução apresentado.
+
+- *Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2008-456542), em vigor a partir de 2008-11-07*
+
+### Artigo 10.º — Aprovação do modelo dos painéis
+
+Por despacho conjunto dos Ministros da Administração Interna e da Economia e da Inovação, a emitir no prazo de 90 dias a contar da data da publicação do presente diploma, é aprovado o modelo dos painéis a que se referem os artigos 6.º e 9.º deste diploma e são definidos os tipos de combustíveis que devem constar do painel a que alude o artigo 6.º
+
+### Artigo 11.º — Instalação, conservação e manutenção dos painéis
+
+11 - É da responsabilidade dos titulares dos postos de abastecimento a instalação, conservação e manutenção dos painéis comparativos.
+
+2 - Para efeitos do disposto no número anterior, os custos inerentes à instalação, conservação e manutenção dos painéis comparativos são da exclusiva responsabilidade do titular do posto de abastecimento situado imediatamente após a colocação do respectivo painel.
+
+3 - É da responsabilidade dos titulares dos postos de abastecimento, cujo preço de venda a retalho e respectivos combustíveis se encontram identificados nos painéis comparativos, a actualização da informação a que se referem os artigos 5.º e 6.º
+
+4 - A responsabilidade pela colocação nos painéis comparativos da informação relativa aos tipos de combustíveis e ao preço de venda a retalho dos mesmos bem como a responsabilidade pela gestão desta informação pertence aos titulares dos postos de abastecimento cujos preços de venda a retalho e respectivos combustíveis se encontram identificados nos painéis.
+
+5 - Sem prejuízo do disposto no número anterior, as entidades aí referidas podem, se para tal existir acordo com a concessionária da via rodoviária onde o painel se encontra colocado, optar por fornecer a esta ou a outra entidade, com a devida antecedência, os elementos necessários ao cumprimento daquela obrigação.
+
+6 - A responsabilidade pela instalação, conservação e manutenção dos sinais informativos de painéis comparativos, a que se refere o artigo 9.º, bem como os custos inerentes à sua realização são da responsabilidade da concessionária da via rodoviária onde se insere o posto de abastecimento a sinalizar, ainda que o referido painel se localize numa via rodoviária sob responsabilidade de outra concessionária.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2008-456542), em vigor a partir de 2008-11-07*
+
+### Artigo 12.º — Desconformidade dos preços indicados
+
+Sem prejuízo da aplicação de outras regras legais ou regulamentares, a desconformidade entre o preço constante dos painéis e dos painéis comparativos e outros preços indicados, por qualquer outra forma ou meio, nos postos de abastecimento, implica a aplicação ao utente do preço mais baixo indicado.
+
+## Capítulo IV — Regime sancionatório e fiscalização
+
+### Artigo 13.º — Infracções
+
+1 - A violação do disposto nos artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º e 12.º constitui contra-ordenação, punível com as seguintes coimas:
+
+a) De (euro) 250 a (euro) 3000, se o infractor for uma pessoa singular;
+
+b) De (euro) 2500 a (euro) 30000, se o infractor for uma pessoa colectiva.
+
+2 - A negligência é punível, sendo os limites mínimo e máximo da coima aplicável reduzidos a metade.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2008-456542), em vigor a partir de 2008-11-07*
+
+### Artigo 14.º — Fiscalização e instrução de processos e aplicação de coimas
+
+1 - Compete à Autoridade de Segurança Alimentar e Económica a fiscalização do disposto nos artigos 1.º a 5.º bem como a instrução dos processos de contra-ordenação, nos termos previstos no Decreto-Lei n.º 138/90, de 26 de Abril, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 162/99, de 13 de Maio.
+
+2 - A aplicação das coimas bem como a repartição do montante das mesmas é efectuada nos termos dos diplomas referidos no parágrafo anterior.
+
+3 - A fiscalização do disposto nos artigos 6.º a 9.º, 11.º e 12.º, bem como a instrução dos processos de contra-ordenação e a aplicação da respectiva coima, é da responsabilidade das seguintes entidades:
+
+a) Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), nos contratos de concessão do Estado, tal como definidos na alínea m) da Base n.º 1 das Bases que atribuem à EP - Estradas de Portugal, S. A., a concessão do financiamento, concepção, projecto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional, aprovadas pelo Decreto-Lei n.º 380/2007, de 13 de Novembro;
+
+b) EP - Estradas de Portugal, S. A., nos contratos de concessão da EP e nos contratos de subconcessão, nos termos definidos, respectivamente, nas alíneas l) e q) da Base n.º 1 das Bases que atribuem à EP - Estradas de Portugal, S. A., a concessão do financiamento, concepção, projecto, construção, conservação, exploração, requalificação e alargamento da rede rodoviária nacional, aprovadas pelo Decreto-Lei n.º 380/2007, de 13 de Novembro.
+
+4 - O montante da coima aplicada, no âmbito do número anterior, reverte, respectivamente, para a entidade mencionada nas alíneas a) e b) do mesmo número.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 120/2008 - Diário da República n.º 132/2008, Série I de 2008-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2008-456542), em vigor a partir de 2008-11-07*
+
+### Artigo 15.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 2006.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 26 de Setembro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Setembro de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,88 @@
+---
+title: "Decreto-Lei n.º 107/96"
+identifier: "Decreto-Lei n.º 107/96"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1996-07-31
+last_amended: 1996-09-30
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-938665844"
+retrieved: 2026-10-11
+designation: "Reconhecimento do interesse público da Universidade Fernando Pessoa, no Porto"
+summary: "Reconhece o interesse público da Universidade Fernando Pessoa, no Porto"
+issuer: "Ministério da Educação"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/107/1996/p/cons/19960930/pt/html"
+dre_id: 406885
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1996/07/176a00/21962196.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 107/96
+
+Decreto-Lei n.º 107/96
+
+de 31 de Julho
+
+Na sequência do requerimento apresentado pela Fundação Ensino e Cultura Fernando Pessoa;
+
+Instruído o processo nos termos da lei;
+
+Considerando o disposto no Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Estabelecimento de ensino
+
+1 - É reconhecido o interesse público da Universidade Fernando Pessoa.
+
+2 - A Universidade utilizará a sigla UFP.
+
+## Artigo 2.º — Entidade instituidora
+
+A entidade instituidora da Universidade é a Fundação Ensino e Cultura Fernando Pessoa.
+
+## Artigo 3.º — Natureza do estabelecimento de ensino
+
+O estabelecimento de ensino tem a natureza de universidade.
+
+## Artigo 4.º — Objectivos do estabelecimento de ensino
+
+A Universidade tem como objectivos o ensino, a investigação e a prestação de serviços nos domínios das ciências da administração, ciência política e do comportamento, ciências da comunicação e da informação e ciências e tecnologias.
+
+## Artigo 5.º — Localização do estabelecimento de ensino
+
+A Universidade é autorizada a funcionar no concelho do Porto.
+
+## Artigo 6.º — Instalações
+
+1 - A Universidade pode ministrar o ensino dos seus cursos em instalações situadas no concelho do Porto que, por despacho do director do Departamento do Ensino Superior, sejam consideradas adequadas, nos termos do Estatuto do Ensino Superior Particular e Cooperativo e seus regulamentos.
+
+2 - O despacho a que se refere o n.º 1 deve ser proferido antes do início das actividades lectivas nas instalações a que se refere e publicado na 2.ª série do Diário da República.
+
+## Artigo 7.º — Transição
+
+1 - O Instituto Erasmus do Ensino Superior e o Instituto Superior de Ciências da Informação e da Empresa cessam a sua actividade.
+
+2 - As autorizações de funcionamento de cursos e os reconhecimentos de graus e diplomas concedidos para o Instituto Erasmus do Ensino Superior e para o Instituto Superior de Ciências da Informação e da Empresa transitam para a Universidade Fernando Pessoa.
+
+3 - A Universidade Fernando Pessoa fica autorizada a ministrar o ensino nas instalações onde o Instituto Erasmus do Ensino Superior e o Instituto Superior de Ciências da Informação e da Empresa vinham desenvolvendo a sua actividade lectiva, sem prejuízo das eventuais adaptações que venham a ser determinadas por despacho do director do Departamento do Ensino Superior, tendo em vista a satisfação do disposto no Estatuto do Ensino Superior Particular e Cooperativo e seus regulamentos.
+
+- *Retificado pelo/a [Declaração de Rectificação n.º 14-D/96 - Diário da República n.º 227/1996, 3º Suplemento, Série I-A de 1996-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-1996-147849), em vigor a partir de 1996-09-30*
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
+
+Promulgado em 12 de Julho de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 12 de Julho de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,139 @@
+---
+title: "Decreto-Lei n.º 332/97"
+identifier: "Decreto-Lei n.º 332/97"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1997-11-27
+last_amended: 2019-09-04
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34490775"
+retrieved: 2026-10-11
+designation: "Direito de aluguer, ao direito de comodato e a certos direitos conexos ao direito de autor em matéria de propriedade intelectual"
+summary: "Transpõe para a ordem jurídica interna a Directiva n.º 92/100/CEE, do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos ao direito de autor em matéria de propriedade intelectual"
+issuer: "Ministério da Cultura"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/332/1997/p/cons/20190904/pt/html"
+dre_id: 406493
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1997/11/275a00/63936394.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 332/97
+
+O presente diploma opera a transposição para a ordem portuguesa da Directiva comunitária n.º 92/100/CEE, do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos ao direito de autor. No sentido de tornar certo e claro o regime jurídico do direito de autor, optou-se, na medida do possível, por introduzir a matéria da directiva comunitária nos preceitos e lugares próprios do Código do Direito de Autor e dos Direitos Conexos. Evitou-se a introdução de alterações profundas no corpo dos normativos do Código, por se entender que a revisão deste, se bem que necessária, representa um trabalho a realizar num horizonte de tempo mais longo. O presente diploma introduz o direito de comodato aplicável às obras protegidas pelo direito de autor, mas o seu acolhimento na ordem jurídica portuguesa é feito dentro dos limites admitidos na legislação comunitária e no respeito pela específica situação cultural e de desenvolvimento do País e das medidas e orientações de política cultural daí decorrentes.
+
+Assim:
+
+No uso da autorização legislativa concedida pela alínea a) do artigo 2.º da Lei n.º 99/97, de 3 de Setembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna o disposto na Directiva n.º 92/100/CEE, do Conselho, de 19 de Novembro de 1992, relativa ao direito de aluguer, ao direito de comodato e a certos direitos conexos ao direito de autor em matéria de propriedade intelectual.
+
+## Artigo 2.º — Alteração
+
+A alínea f) do n.º 2 do artigo 68.º do Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de Março, e alterado pelas Leis n.os 45/85, de 17 de Setembro, e 114/91, de 3 de Setembro, adiante designado por Código, passa a ter a seguinte redacção:
+
+«f) Qualquer forma de distribuição do original ou de cópias da obra, tal como venda, aluguer ou comodato.»
+
+## Artigo 3.º
+
+Para efeitos do disposto na alínea f) do n.º 2 do artigo 68.º do Código entende-se por:
+
+a) «Venda», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, sem limite de tempo e com benefícios comerciais directos ou indirectos;
+
+b) «Aluguer», o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, durante um período de tempo limitado e com benefícios comerciais directos ou indirectos;
+
+c) "Comodato", o acto de colocar à disposição do público, para utilização, o original ou cópias da obra, durante um período de tempo limitado e sem benefícios económicos ou comerciais directos ou indirectos, quando efectuado através de estabelecimento acessível ao público, à excepção do empréstimo interbibliotecas, da consulta presencial de documentos no estabelecimento e da transmissão de obras em rede.
+
+- *Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06*
+
+## Artigo 4.º — Disposição comum ao aluguer e comodato
+
+1 - Os direitos de aluguer e de comodato não se esgotam com a venda ou qualquer outro acto de distribuição do original ou de cópias da obra.
+
+2 - As obras de arquitectura e de artes aplicadas não são objecto dos direitos de aluguer e de comodato.
+
+## Artigo 5.º — Direito de aluguer
+
+1 - Sempre que o autor transmita ou ceda o direito de aluguer relativo a um fonograma, videograma ou ao original ou cópia de um filme a um produtor de fonogramas ou de filmes, é-lhe reconhecido um direito irrenunciável a remuneração equitativa pelo aluguer.
+
+2 - Para os efeitos do disposto no número anterior, o produtor é responsável pelo pagamento da remuneração, a qual, na falta de acordo, será fixada por via arbitral, nos termos da lei.
+
+## Artigo 6.º — Direito de comodato
+
+1 - O autor tem direito a remuneração no caso de comodato público do original ou de cópias da obra.
+
+2 - O proprietário do estabelecimento que coloca à disposição do público o original ou as cópias da obra é responsável pelo pagamento da remuneração, a qual, na falta de acordo, será fixada por via arbitral, nos termos da lei.
+
+3 - O disposto neste artigo não se aplica às bibliotecas públicas da Administração Central, Regional e Local, escolares e universitárias.
+
+4 - É aplicável ao comodato, com as necessárias adaptações, o disposto no artigo 82.º-B do Código de Direito de Autor e dos Direitos Conexos.
+
+- *Alterado pelo/a Artigo 5.º do/a [Lei n.º 92/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/92-2019-124417105), em vigor a partir de 2019-10-04*
+- *Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2008 - Diário da República n.º 64/2008, Série I de 2008-04-01](https://diariodarepublica.pt/dr/detalhe/lei/16-2008-246532), em vigor a partir de 2008-04-06*
+
+## Artigo 7.º — Extensão aos titulares de direitos conexos
+
+1 - O direito de distribuição, incluindo os direitos de aluguer e comodato, é igualmente reconhecido:
+
+a) Ao artista intérprete ou executante, no que respeita à fixação da sua prestação;
+
+b) Ao produtor de fonogramas, no que respeita aos seus fonogramas;
+
+c) Ao produtor das primeiras fixações de um filme, no que respeita ao original e às cópias desse filme.
+
+2 - Os direitos previstos no número anterior não se esgotam com a venda ou qualquer outro acto de distribuição dos objectos referidos.
+
+3 - Para além do disposto nos números anteriores, é ainda reconhecido ao produtor das primeiras fixações de um filme o direito de autorizar a reprodução do original e das cópias desse filme.
+
+4 - Para os efeitos do disposto no presente diploma, entende-se por «filme» a obra cinematográfica, a obra audiovisual e toda e qualquer sequência de imagens animadas, acompanhadas ou não de sons.
+
+- *Alterado pelo/a Artigo 3.º do/a [Lei n.º 24/2006 - Diário da República n.º 125/2006, Série I-A de 2006-06-30](https://diariodarepublica.pt/dr/detalhe/lei/24-2006-357349), em vigor a partir de 2006-07-05*
+
+## Artigo 8.º — Presunção de cessão
+
+A celebração de um contrato de produção de filme entre artistas intérpretes ou executantes e o produtor faz presumir, salvo disposição em contrário, a cessão em benefício deste do direito de aluguer do artista, sem prejuízo do direito irrenunciável a uma remuneração equitativa pelo aluguer, nos termos do n.º 2 do artigo 5.º
+
+## Artigo 9.º — Alteração
+
+O artigo 187.º do Código passa a ter a seguinte redacção:
+
+«1 - Os organismos de radiodifusão gozam do direito de autorizar ou proibir:
+
+a) A retransmissão das suas emissões por ondas radioeléctricas;
+
+b) A fixação em suporte material das suas emissões, sejam elas efectuadas com ou sem fio;
+
+c) A reprodução da fixação das suas emissões, quando estas não tiverem sido autorizadas ou quando se tratar de fixação efémera e a reprodução visar fins diversos daqueles com que foi feita;
+
+d) A comunicação ao público das suas emissões, quando essa comunicação é feita em lugar público e com entradas pagas.
+
+2 - Ao distribuidor por cabo que se limita a efectuar a retransmissão de emissões de organismos de radiodifusão não se aplicam os direitos previstos neste artigo.»
+
+## Artigo 10.º — Ressalva dos direitos dos autores
+
+A protecção dos direitos conexos ao abrigo deste diploma não afecta nem prejudica a protecção dos direitos de autor.
+
+## Artigo 11.º — Âmbito de aplicação no tempo
+
+1 - O presente diploma produz efeitos desde 1 de Julho de 1994, sem prejuízo dos actos de exploração e dos contratos anteriores a esta data.
+
+2 - Em relação aos contratos referidos na parte final do número anterior, o direito a uma remuneração equitativa, prevista no n.º 1 do artigo 5.º e no artigo 8.º, só será aplicável se os autores ou os artistas intérpretes ou executantes, por si ou através dos seus representantes, o exercerem até 1 de Janeiro de 1999.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
+
+Promulgado em 13 de Novembro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 17 de Novembro de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

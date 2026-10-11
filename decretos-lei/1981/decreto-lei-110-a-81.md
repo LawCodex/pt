@@ -1,0 +1,455 @@
+---
+title: "Decreto-Lei n.º 110-A/81"
+identifier: "Decreto-Lei n.º 110-A/81"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1981-05-14
+last_amended: 2008-02-27
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1981-211733698"
+retrieved: 2026-10-11
+summary: "Altera a tabela de vencimentos, gratificações e pensões dos funcionários e agentes da Administração Pública, da administração central e local e dos institutos públicos"
+issuer: "Ministérios das Finanças e do Plano e da Reforma Administrativa"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/110-a/1981/p/cons/20080227/pt/html"
+dre_id: 466655
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1981/05/11001/00010007.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 110-A/81
+
+Decreto-Lei n.º 110-A/81
+
+de 14 de Maio
+
+1. Na revisão dos vencimentos do funcionalismo, a que se procede pelo presente diploma, foi preocupação fundamental cobrir o agravamento do custo de vida dos trabalhadores dependentes do Estado, assegurando-lhes, na medida do possível, a manutenção do respectivo poder de compra.
+
+Numa perspectiva mais ampla de reforma da Administração, introduzem-se princípios genéricos uniformizadores do estatuto remuneratório dos funcionários e agentes, visando objectivos de moralização da função pública pela correcção de desigualdades sectoriais que têm vindo a ser criadas, assumindo em alguns casos proporções alarmantes.
+
+A situação dos aposentados foi também objecto de atenta ponderação, actualizando-se as respectivas pensões de acordo com critério adaptado daquele que presidiu ao aumento de vencimentos do pessoal no activo, assim se evitando o agravamento da actual situação de degradação de parte significativa das pensões.
+
+Dadas as dificuldades atravessadas pela nossa economia e conhecido o peso das despesas com o pessoal da Administração no Orçamento Geral do Estado, não se afigura fácil conciliar a indispensável política de contenção das despesas públicas com os objectivos de justiça social em que se empenha a acção governativa.
+
+2. As pensões são actualizadas de acordo com o aumento médio que a nova tabela de vencimentos acarreta face às remunerações fixadas em Julho de 1980, assegurando-se a todos os pensionistas um aumento de 15%.
+
+Esta actualização terá lugar independentemente das medidas correctivas da degradação da generalidade das pensões que o Governo se encontra empenhado em levar a cabo a breve prazo, de acordo com o calendário que as limitações orçamentais aconselharem e tendo em vista permitir o acompanhamento automático pelas pensões da evolução dos vencimentos do pessoal no activo.
+
+3. De acordo com os anunciados objectivos de moralização, adoptam-se dispositivos inovadores em matéria de limites remuneratórios, acumulações, remunerações acessórias e remunerações por trabalho extraordinário, nocturno e em dias de descanso.
+
+Nestas matérias verificam-se práticas com carácter de regularidade que desvirtuam totalmente o sentido subjacente à atribuição das remunerações e dos abonos a que dão direito, conduzindo, nuns casos, a situações de privilégio abusivo e constituindo, noutros casos, formas transviadas de acréscimos de vencimento.
+
+Para obviar a esta situação, o presente diploma, recolhendo ou revogando normas dispersas, prossegue o duplo objectivo de moralizar a prática administrativa e de introduzir na função pública princípios inovadores, com relevo para o trabalho extraordinário.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+## Capítulo I — Vencimentos, gratificações e pensões
+
+### Secção I — Vencimentos
+
+#### Artigo 1.º
+
+- 1 - A tabela de vencimentos dos funcionários e agentes da Administração Pública, da administração central e local e dos institutos públicos que revistam a natureza de serviços personalizados ou fundos públicos passa a ser, a partir de 1 de Maio de 1981, a seguinte:
+
+A ... 39700$00
+
+B ... 37300$00
+
+C ... 34300$00
+
+D ... 30800$00
+
+E ... 27500$00
+
+F ... 25500$00
+
+G ... 24300$00
+
+H ... 22200$00
+
+I ... 21300$00
+
+J ... 18900$00
+
+K ... 18100$00
+
+L ... 17000$00
+
+M ... 15900$00
+
+N ... 15500$00
+
+O ... 14800$00
+
+P ... 14100$00
+
+Q ... 13400$00
+
+R ... 12800$00
+
+S ... 12200$00
+
+T ... 11500$00
+
+U ... 10900$00
+
+2 - O disposto no número anterior será aplicável, na medida das respectivas disponibilidades financeiras, ao pessoal cujas remunerações são asseguradas pelos Cofres Gerais dos Tribunais e dos Conservadores, Notários e Funcionários de Justiça, mediante despacho do Ministro da Justiça.
+
+#### Artigo 2.º
+
+- 1 - As remunerações mensais correspondentes a cargos ou funções exercidos a tempo completo, mas que não coincidam com qualquer das letras da tabela constante do n.º 1 do artigo 1.º, serão aumentadas, a partir de 1 de Maio de 1981, na percentagem da letra que lhes esteja mais próxima.
+
+2 - Caso as remunerações a que se refere o número anterior se encontrem a igual distância de duas letras, adoptar-se-á a percentagem de aumento da letra superior.
+
+#### Artigo 3.º
+
+- 1 - As remunerações dos aprendizes e praticantes que não estejam incluídas nas letras da tabela constante do n.º 1 do artigo 1.º são fixadas, com efeitos a partir de 1 de Maio de 1981, nos termos seguintes:
+
+1.º ano de aprendizagem ... 7900$00
+
+2.º ano de aprendizagem ... 9000$00
+
+3.º ano de aprendizagem ... 10200$00
+
+Praticantes ... 9200$00
+
+2 - A remuneração dos paquetes é fixada, com efeitos a partir de 1 de Maio de 1981, em 7500$00.
+
+3 - Sem prejuízo de remunerações superiores já praticadas, a remuneração mensal dos trabalhadores rurais ao serviço das entidades referidas no artigo 1.º será fixada de acordo com o salário corrente na região, não podendo em caso algum ser inferior ao salário mínimo nacional fixado para os trabalhadores da agricultura de acordo com as respectivas funções.
+
+#### Artigo 4.º
+
+- 1 - Os vencimentos do pessoal dirigente abrangido pela coluna das designações do mapa anexo ao Decreto-Lei n.º 191-F/79, de 26 de Junho, bem como dos dirigentes equiparados ao abrigo da Resolução n.º 354-B/79, de 14 de Dezembro, passam a ser, com efeitos a partir de 1 de Maio de 1981, os seguintes:
+
+Director-geral, secretário-geral e outros cargos equiparados a director-geral - 42500$00;
+
+Subdirector-geral e outros cargos equiparados - 39400$00;
+
+Director de serviços e outros cargos equiparados - 36900$00;
+
+Chefe de divisão e outros cargos equiparados - 34600$00.
+
+2 - Os vencimentos do pessoal dirigente constante no anexo II ao Decreto-Lei n.º 466/79, de 7 de Dezembro, passam a ser, com efeitos a partir de 1 de Maio de 1981, os seguintes:
+
+Director-delegado do grupo III e restantes - 34200$00;
+
+Chefe de serviço administrativo do grupo II e restantes - 31400$00;
+
+Director-delegado do grupo IV e restantes - 28400$00;
+
+Chefe de contabilidade do grupo III e restantes - 25900$00;
+
+Chefe de serviço administrativo do grupo IV e restantes - 24500$00.
+
+#### Artigo 5.º
+
+- 1 - Aos membros das comissões instaladoras de quaisquer organismos ou serviços públicos desempenhando as respectivas funções a tempo completo não podem ser abonadas, salvo quando lhes sejam aplicáveis disposições legais relativas ao exercício de funções em regime de dedicação exclusiva contidas em diplomas especiais, remunerações mensais superiores:
+
+a) Ao vencimento de director-geral, para o presidente;
+
+b) Ao vencimento de subdirector-geral, para os restantes membros.
+
+2 - Aos membros das comissões a que se refere o número anterior que exerçam as respectivas funções em regime de acumulação aplicar-se-á o disposto no capítulo IV.
+
+### Secção II — Gratificações que constituem única forma de remuneração
+
+#### Artigo 6.º
+
+- 1 - As gratificações ou outros abonos que constituam a única forma de remuneração do exercício de cargos ou funções serão alterados, com efeitos a partir de 1 de Maio de 1981, ou fixados pela primeira vez, de acordo com o disposto nas alíneas seguintes:
+
+a) Se se tratar de trabalho a tempo parcial, tendo por base a remuneração mensal a que correspondem as funções exercidas, quando em regime de tempo completo, de acordo com o estabelecido no artigo 29.º;
+
+b) Se se tratar de exercício de funções sem sujeição a horário determinado ou de cargo desempenhado em regime de tempo parcial sem correspondência nas categorias existentes na função pública, mediante despacho conjunto dos Ministros das Finanças e do Plano, da tutela e da Reforma Administrativa;
+
+c) Se se tratar de gratificações devidas por funções exercidas em acumulação, designadamente no âmbito de comissões ou grupos de trabalho, mediante despacho conjunto dos membros do Governo referidos na alínea anterior.
+
+2 - As gratificações a que se referem as alíneas b) e c) do número anterior só terão de ser actualizadas mediante despacho quando não tenham sido inicialmente fixadas por referência a letras de vencimento, caso em que essa actualização decorre do respectivo aumento.
+
+3 - A actualização de gratificações por despacho não poderá ocorrer antes de um ano sobre a data da sua última fixação nem exceder a média ponderada do aumento anual de vencimentos.
+
+### Secção III — Pensões
+
+#### Artigo 7.º
+
+- 1 - São aumentadas em 15%, com efeitos a partir de 1 de Maio de 1981, as seguintes pensões:
+
+a) Pensões de aposentação, de reforma e de invalidez;
+
+b) Pensões de sobrevivência, incluindo as atribuídas pelo Decreto n.º 52/75, de 8 de Fevereiro, e pelo Decreto-Lei n.º 24046, de 21 de Junho de 1934, e legislação complementar;
+
+c) Pensões de preço de sangue e outras a cargo do Ministério das Finanças e do Plano, com excepção das resultantes de condecorações e das Leis n.os 1942, de 27 de Julho de 1936, e 2127, de 3 de Agosto de 1965.
+
+2 - As pensões alteradas em conformidade com o disposto no número anterior não poderão exceder as que seriam calculadas com base nas remunerações constantes das tabelas de vencimento fixadas no presente diploma ou nas que constem de tabelas aprovadas por disposição legal posterior.
+
+3 - As pensões pagas através da Caixa Geral de Aposentações, do Montepio dos Servidores do Estado e de outras entidades públicas em cujo encargo o Estado não comparticipe poderão ser actualizadas, nos termos dos números anteriores, mediante decisão das entidades competentes.
+
+#### Artigo 7.º-A
+
+1 - As pensões a que se referem as alíneas do n.º 1 do artigo 7.º serão determinadas, com efeitos a partir de 1 de Setembro de 1981, por forma que:
+
+a) Os vencimentos a ter em conta no cálculo das pensões a que se refere a alínea a) daquele número sejam de montante igual a 76,5% dos vencimentos das categorias correspondentes do activo fixados nos termos do presente diploma;
+
+b) Nenhuma pensão de sobrevivência a que se refere a alínea b) do referido n.º 1 do artigo 7.º seja inferior a 60% da correspondente pensão de aposentação, calculada nos termos da alínea anterior;
+
+e) As pensões de preço de sangue e outras a cargo do Ministério das Finanças e do Plano a que se refere a alínea c) do mesmo número sejam aferidas pelos vencimentos das categorias correspondentes do activo fixadas pelo presente diploma.
+
+2 - O processo de cálculo estabelecido no número anterior será aplicado às pensões aumentadas nos termos do artigo 7.º, não podendo, em qualquer caso, resultar dessa aplicação redução dos montantes percebidos.
+
+- *Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 245/81 - Diário da República n.º 193/1981, Série I de 1981-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), em vigor a partir de 1981-08-29*
+
+#### Artigo 7.º-B
+
+- 1 - A determinação da correspondência de categorias para efeitos do disposto no artigo anterior constará de tabelas de equivalências aprovadas por portarias conjuntas dos Ministros da Administração Interna, das Finanças e do Plano e da Reforma Administrativa, as quais terão em conta os requisitos de provimento, o posicionamento na tabela de vencimentos no momento da aposentação e a transição para o actual ordenamento de carreiras.
+
+2 - Competirá em conjunto à Direcção-Geral dos Recursos Humanos, à Direcção-Geral de Integração Administrativa e à Direcção-Geral da Administração Regional e Local a elaboração das tabelas de equivalências referidas no número anterior, face aos elementos que lhes serão facultados pela Caixa Geral de Aposentações e pela Direcção-Geral da Contabilidade Pública.
+
+3 - Relativamente às forças armadas e respectivo pessoal civil, as tabelas de equivalências serão elaboradas pelos serviços competentes dos respectivos estados-maiores e aprovadas por portaria conjunta do Chefe do Estado-Maior-General das Forças Armadas, do Ministro da Defesa Nacional, do Ministro das Finanças e do Plano e do Ministro da Reforma Administrativa.
+
+4 - Relativamente às forças militarizadas e respectivo pessoal civil, as tabelas de equivalências serão elaboradas pelos serviços dos Ministérios da tutela e aprovadas por portarias conjuntas do Ministro competente, do Ministro das Finanças e do Plano e do Ministro da Reforma Administrativa.
+
+5 - Na elaboração das tabelas de equivalências do pessoal civil a que se referem os números anteriores, a Direcção-Geral dos Recursos Humanos e a Direcção-Geral de Integração Administrativa prestarão a necessária assessoria técnica.
+
+6 - A determinação da correspondência de categorias para efeitos do n.º 1 deste artigo relativamente aos indivíduos que à data da aposentação prestavam serviço a empresas públicas ou a entidades suas antecessoras constará de tabelas de equivalências aprovadas pelos órgãos competentes face aos elementos que lhes serão facultados pela Caixa Geral de Aposentações.
+
+- *Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 245/81 - Diário da República n.º 193/1981, Série I de 1981-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), em vigor a partir de 1981-08-29*
+
+#### Artigo 7.º-C
+
+Quando se trate de pensões calculadas dentro dos regimes anteriores ao do Decreto-Lei n.º 498/72, de 9 de Dezembro (Estatuto da Aposentação), com base em remunerações de mais de uma categoria, a correspondência a que se refere o artigo 7.º-A é estabelecida com base no último cargo em que o aposentado exerceu funções.
+
+- *Aditado pelo/a [Decreto-Lei n.º 269/83 - Diário da República n.º 137/1983, Série I de 1983-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1983-452031), em vigor a partir de 1983-06-22*
+
+## Capítulo II — Remunerações acessórias
+
+### Artigo 8.º
+
+- 1 - É proibida a criação, aumento ou extensão de remunerações acessórias, nomeadamente ao pessoal dos serviços e unidades orgânicas que sejam criados ou integrados, mantendo quadros de pessoal diferenciados e hierarquia própria, em departamentos em cujo âmbito as mesmas venham sendo praticadas.
+
+2 - Em casos devidamente fundamentados, mediante decreto assinado pelos Ministros das Finanças e do Plano, da tutela e da Reforma Administrativa, sob parecer favorável da Comissão Interministerial para as Remunerações Acessórias, poderá ser excepcionado o disposto no número anterior.
+
+3 - Para efeitos do presente decreto-lei, consideram-se acessórias as remunerações que acrescem ao vencimento ou remuneração principal, excluindo as referidas no artigo 6.º, os suplementos ou remunerações complementares devidos pela prestação de trabalho em regime de horário prolongado ou de exclusividade, remunerações por trabalho extraordinário, nocturno, em dias de descanso e em feriados, diuturnidades, subsídio de refeição, subsídios de férias e de Natal, abono de família e respectivas prestações complementares, senhas de presença, abonos para falhas, ajudas de custo, subsídios de viagem e de marcha, despesas de representação e quaisquer outras que revistam a natureza de simples compensação ou reembolso de despesas feitas por motivo de serviço, bem como prémios de produtividade.
+
+4 - As remunerações acessórias são referidas ao cargo, independentemente da pessoa do respectivo titular.
+
+### Artigo 9.º
+
+- 1 - Para os efeitos do n.º 1 do artigo anterior, é congelado, ao nível médio do 1.º trimestre de 1981 ou ao nível do mês de Abril do mesmo ano, conforme o que for mais elevado, o montante das remunerações acessórias percebidas.
+
+2 - [Revogado];
+
+3 - A inobservância do disposto neste artigo obriga à reposição das quantias indevidamente percebidas.
+
+4 - Da aplicação dos números anteriores não poderá resultar diminuição da retribuição global percebida à data da entrada em vigor dos aumentos previstos ao presente diploma.
+
+- *Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 15-B/82 - Diário da República n.º 16/1982, 1º Suplemento, Série I de 1982-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-b-1982-681662), em vigor a partir de 1982-01-25*
+
+## Capítulo III — Trabalho extraordinário e nocturno em dias de descanso e feriados
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+### Secção I — Trabalho extraordinário
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 10.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 11.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 12.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 13.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 14.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 15.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 16.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+### Secção II — Trabalho nocturno
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 17.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+### Secção III — Trabalho em dias de descanso semanal, complementar e feriados
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 18.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 19.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+### Secção IV — Princípios comuns
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 20.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+#### Artigo 21.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+## Capítulo IV — Acumulações
+
+### Artigo 22.º
+
+- 1 - Apenas será permitida a acumulação de lugares ou cargos públicos desde que o funcionário ou agente possa cumprir os horários correspondentes a cada uma das funções exercidas e se verifique ainda um dos seguintes requisitos:
+
+a) Inerência de funções;
+
+b) Carência de pessoal devidamente habilitado para o exercício dessas funções;
+
+c) Complementaridade da actividade secundária relativamente à actividade principal.
+
+2 - Em caso algum a duração total do trabalho resultante do regime de acumulação poderá ser superior a cinquenta e quatro horas semanais.
+
+3 - As falsas declarações determinantes da autorização para a acumulação de lugares ou cargos públicos serão punidas nos termos da lei penal, sem prejuízo de procedimento disciplinar.
+
+4 - Não se considera acumulação o exercício de funções que não possam ser diferenciadas das que correspondem ao cargo ou lugar pelo qual o funcionário ou agente perceba vencimento.
+
+### Artigo 23.º
+
+- 1 - A acumulação de lugares ou cargos públicos deverá ser autorizada, a requerimento do interessado, por despacho do membro do Governo que superintenda no seu serviço de origem.
+
+2 - Do requerimento deverão constar as seguintes menções, devidamente confirmadas por cada um dos serviços envolvidos, conforme os casos:
+
+a) Identificação do interessado (nome completo, filiação, data do nascimento, residência, profissão e número e data do bilhete de identidade);
+
+b) Disposição legal que permite o provimento ou designação do interessado;
+
+c) Remunerações dos lugares ou cargos a exercer em regime cumulativo, concretizando-se a sua natureza (vencimento ou gratificação) e as disposições legais que as fixaram ou ao abrigo das quais foram fixadas;
+
+d) Horário de serviço cometido a cada um daqueles cargos, bem como a outros que o interessado desempenhe e cujo exercício não dependa de autorização;
+
+e) Vantagens que poderão resultar da acumulação pretendida.
+
+3 - Obtida a autorização, o processo segue a tramitação normal, sendo enviado ao Tribunal de Contas para efeitos de visto, acompanhado dos elementos referidos nos números anteriores.
+
+### Artigo 24.º
+
+- 1 - A acumulação de funções ou cargos pelo pessoal dirigente abrangido pelo Decreto-Lei n.º 191-F/79, de 26 de Junho, continua a regular-se pelo regime previsto no seu artigo 9.º, aplicando-se-lhe a tramitação prevista no artigo anterior, com as adaptações constantes dos números seguintes.
+
+2 - Do requerimento previsto no n.º 2 do artigo anterior deverão ainda constar os seguintes elementos:
+
+a) Apreciação da possibilidade de recurso a pessoal não dirigente para o exercício da actividade ou actividades a acumular;
+
+b) Indicação precisa do cargo ou função a acumular, nomeadamente se se tratar de actividade de interesse público equivalente à do exercício de funções dirigentes;
+
+c) Indicação sobre a natureza permanente ou não do cargo ou funções a acumular e da estrutura orgânica em que estão inseridos.
+
+3 - Este requerimento deverá ser submetido a parecer do Ministro da Reforma Administrativa antes de despachado pelo membro do Governo que superintenda no serviço de origem.
+
+## Capítulo V — Subsídio de refeição
+
+- *Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 245/81 - Diário da República n.º 193/1981, Série I de 1981-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), em vigor a partir de 1981-08-29*
+
+### Artigo 24.º-A
+
+1 - O subsídio de refeição previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 305/77, de 29 de Julho, é fixado em 1200$00 mensais, com efeitos desde 1 de Junho de 1981.
+
+2 - O preço de venda da refeição, a fixar nos termos do n.º 1 do artigo 5.º do Decreto-Lei n.º 305/77, de 29 de Julho, não poderá ser inferior ao valor do subsídio diário correspondente ao subsídio mensal agora fixado.
+
+3 - O diferencial que se vier a verificar entre o preço de venda da refeição e o custo dos géneros incorporados na mesma reverterá para os cofres públicos como operações de tesouraria, em rubrica a criar para o efeito.
+
+- *Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 245/81 - Diário da República n.º 193/1981, Série I de 1981-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937), em vigor a partir de 1981-08-29*
+
+## Capítulo VI — Disposições finais e transitórias
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 245/81 - Diário da República n.º 193/1981, Série I de 1981-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1981-575937)*
+
+### Artigo 25.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 116.º do/a Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27, em vigor a partir de 2008-03-01*
+
+### Artigo 26.º
+
+- 1 - Pelo exercício de cargos ou funções públicos, ainda que em regime de acumulação, incluindo inerências, não poderão ser percebidas remunerações superiores ao vencimento de Ministro.
+
+2 - Para efeitos do limite estabelecido no número anterior não serão consideradas as remunerações concedidas por trabalho extraordinário, nocturno, em dias de descanso e feriados, diuturnidades, subsídio de refeição, subsídios de férias e de Natal, abono de família e prestações complementares, abonos para falhas, ajudas de custo, subsídios de viagem e de marcha, despesas de representação e quaisquer outras que revistam a natureza de simples compensação ou reembolso de despesas feitas por motivo de serviço.
+
+3 - Os funcionários e agentes que exerçam funções como membros das comissões de fiscalização ou conselhos fiscais de empresas públicas, nacionalizadas, intervencionadas ou de economia mista podem acumular as correspondentes remunerações com as que lhes competem em razão da sua actividade normal, desde que em conjunto não excedam o salário máximo fixado para efeito de remuneração dos gestores públicos.
+
+A inobservância dos limites fixados neste artigo obriga à reposição, a dobrar, das quantias indevidamente recebidas, sem prejuízo do procedimento disciplinar que ao caso couber.
+
+4 - Ficam revogadas as disposições especiais que permitam o abono de remunerações que ultrapassem os limites fixados nos números anteriores, quer as verbas sejam oriundas do Orçamento Geral do Estado quer de serviços e fundos autónomos.
+
+### Artigo 27.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+### Artigo 28.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 36.º do/a Decreto-Lei n.º 187/88 - Diário da República n.º 123/1988, Série I de 1988-05-27, em vigor a partir de 1988-06-01*
+
+### Artigo 29.º
+
+As autorizações de trabalho extraordinário concedidas mediante despacho proferido nos termos do n.º 3 do artigo 11.º do Decreto-Lei n.º 372/74, de 20 de Agosto, cessam no dia 30 de Junho de 1981, independentemente do prazo por que tiverem sido concedidas, devendo observar-se, a partir de 1 de Julho de 1981, o regime decorrente do capítulo III, sem prejuízo da respectiva remuneração ser calculada, a partir de 1 de Maio, nos termos fixados no presente diploma.
+
+### Artigo 30.º
+
+- 1 - O disposto no capítulo IV é aplicável às situações de acumulação constituídas à data da entrada em vigor do presente diploma, as quais serão confirmadas, extintas ou alteradas até 31 de Julho de 1981, atento o regime ora estabelecido, salvo as já concedidas ao abrigo do artigo 9.º do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+
+2 - Durante o prazo referido no número anterior não serão concedidas novas autorizações para o exercício de funções ou cargos em regime de acumulação.
+
+### Artigo 31.º
+
+- 1 - Enquanto não se proceder às alterações orçamentais que se mostrem indispensáveis à execução do presente diploma, os encargos dele resultantes poderão ser satisfeitos, no corrente ano, por conta das dotações orçamentais para o pagamento dos vencimentos.
+
+2 - Os orçamentos suplementares, a elaborar eventualmente para os efeitos do n.º 1, não contarão para o limite estabelecido no artigo 8.º do Decreto-Lei n.º 264/78, de 30 de Agosto.
+
+### Artigo 32.º
+
+O disposto nos capítulos III e IV do presente diploma será aplicável, com as necessárias adaptações, à administração local mediante decreto dos Ministros da Administração Interna, das Finanças e do Plano e da Reforma Administrativa.
+
+### Artigo 33.º
+
+- 1 - O presente diploma prevalece sobre todas e quaisquer disposições especiais e regulamentares em contrário, salvo o disposto nos números seguintes.
+
+2 - Mantêm-se em vigor as disposições relativas às matérias dos capítulos III e IV contidas em estatutos ou regimes especiais respeitantes a docentes, médicos e outro pessoal de saúde e funcionários de justiça, bem como o Decreto-Lei n.º 22/81, de 29 de Janeiro, relativo aos institutos de medicina legal.
+
+3 - As disposições do capítulo III não são aplicáveis ao pessoal ao serviço da Polícia Judiciária, cujo regime será revisto em diploma especial a publicar oportunamente.
+
+### Artigo 34.º
+
+As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Reforma Administrativa.
+
+### Artigo 35.º
+
+O presente diploma entra em vigor no dia 1 de Maio de 1981.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 6 de Maio de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

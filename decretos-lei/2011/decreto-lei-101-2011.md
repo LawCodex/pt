@@ -1,0 +1,179 @@
+---
+title: "Decreto-Lei n.º 101/2011"
+identifier: "Decreto-Lei n.º 101/2011"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2011-09-30
+last_amended: 2020-11-26
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-149738212"
+retrieved: 2026-10-11
+summary: "Cria a tarifa social de fornecimento de gás natural a aplicar a clientes finais economicamente vulneráveis"
+issuer: "Ministério da Economia e do Emprego"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/101/2011/p/cons/20201126/pt/html"
+dre_id: 671202
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2011/09/18900/0456204564.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 101/2011
+
+Decreto-Lei n.º 101/2011
+
+de 30 de Setembro
+
+O Programa do XIX Governo Constitucional para a política energética prevê a promoção da competitividade, a transparência dos preços, o bom funcionamento e efectiva liberalização dos mercados energéticos, designadamente dos mercados da electricidade e do gás natural.
+
+Simultaneamente, o aprofundamento da liberalização dos mercados da electricidade e do gás natural justifica a adopção de medidas que garantam o acesso a estes serviços essenciais por todos os consumidores, designadamente os economicamente vulneráveis, independentemente do seu prestador.
+
+Também a situação de volatilidade dos custos energéticos que se tem verificado a nível internacional justifica o estabelecimento de medidas concretas de protecção dos consumidores economicamente vulneráveis, em linha com as orientações europeias presentes nos Decretos-Leis n.os 78/2011 e 77/2011, ambos de 20 de Junho, que transpõem para a legislação nacional, respectivamente, as Directivas n.os 2009/72/CE e 2009/73/CE, do Parlamento Europeu e do Conselho, ambas de 13 de Julho, relativas ao mercado interno da electricidade e do gás natural.
+
+Em cumprimento do seu Programa e do Programa de Assistência Financeira assinado pelo Estado Português com a União Europeia, o Fundo Monetário Internacional e o Banco Central Europeu, o Governo adoptou em 28 de Julho a Resolução do Conselho de Ministros n.º 34/2011, que aprovou o calendário para a extinção gradual das tarifas reguladas de venda a clientes finais de electricidade e de gás natural, estabelecendo o prazo de 120 dias para a publicação da legislação necessária à criação de uma tarifa social de venda de gás natural aos clientes finais economicamente vulneráveis, em termos similares à tarifa social já existente para a electricidade.
+
+Tendo em atenção a necessidade de proteger os clientes economicamente vulneráveis no sector do gás natural, o presente decreto-lei cria a tarifa social, optando-se por um critério de elegibilidade que coincide com o das prestações atribuídas no âmbito do sistema de segurança social, em linha com o estabelecido para o sector eléctrico. Nestes termos, podem requerer a aplicação da tarifa social os beneficiários: i) do complemento solidário para idosos; ii) do rendimento social de inserção; iii) do subsídio social de desemprego; iv) do primeiro escalão do abono de família, e v) da pensão social de invalidez.
+
+Para efeitos de atribuição da tarifa social, os clientes economicamente vulneráveis devem ainda, entre outras condições, ser titulares de um contrato de fornecimento de gás natural e o seu consumo anual deve ser inferior ou igual a 500 m3.
+
+Estes clientes podem dirigir-se aos respectivos comercializadores de gás natural para solicitar a aplicação da tarifa social, autorizando os mesmos a confirmar, junto das instituições de segurança social competentes, se o cliente é beneficiário de alguma das prestações sociais previstas no presente decreto-lei. Salienta-se que se encontram já desenvolvidos os procedimentos de atribuição e confirmação da tarifa social para a electricidade, nos termos definidos na Portaria n.º 1334/2010, de 31 de Dezembro, que regulamenta o Decreto-Lei n.º 138-A/2010, de 28 de Dezembro, pelo que se adoptam os procedimentos já em vigor para a atribuição da tarifa social criada pelo presente diploma, adaptados às situações e aos agentes do sector do gás natural.
+
+A existência desta tarifa social procura proteger os interesses dos clientes finais economicamente vulneráveis, garantindo o acesso a este serviço essencial em condições de maior estabilidade tarifária.
+
+A tarifa social será calculada através da aplicação de um desconto na tarifa de acesso às redes em baixa pressão. O valor deste desconto é determinado pela Entidade Reguladora dos Serviços Energéticos, tendo em conta o limite máximo de variação da tarifa social de venda a clientes finais, a fixar anualmente pelo membro do Governo responsável pela área da energia, considerando a evolução dos custos prevista para o sector do gás natural.
+
+Foram ouvidas a Entidade Reguladora dos Serviços Energéticos e a Comissão Nacional de Protecção de Dados.
+
+Foi promovida a audição do Conselho Nacional do Consumo, que optou por se manifestar por meio dos membros que o compõem.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objecto
+
+O presente decreto-lei tem como objecto a criação da tarifa social de fornecimento de gás natural a aplicar a clientes finais economicamente vulneráveis.
+
+### Artigo 2.º — Clientes finais economicamente vulneráveis
+
+1 - São considerados clientes finais economicamente vulneráveis as pessoas singulares que se encontrem em situação de carência sócio-económica e que, tendo o direito de acesso ao serviço essencial de fornecimento de gás natural, devem ser protegidas, nomeadamente no que respeita a preços.
+
+2 - Para efeitos do disposto no número anterior, são considerados clientes finais economicamente vulneráveis os que se encontram em qualquer das seguintes situações:
+
+a) Beneficiários do complemento solidário para idosos;
+
+b) Beneficiários do rendimento social de inserção;
+
+c) Os beneficiários de prestações de desemprego;
+
+d) Beneficiários do 1.º escalão do abono de família;
+
+e) Os beneficiários da pensão social de invalidez do regime especial de proteção na invalidez ou do complemento da prestação social para a inclusão.
+
+3 - Os clientes elegíveis para aplicação da tarifa social prevista no presente diploma podem beneficiar também da tarifa social prevista para a electricidade e podem cumular com outros apoios sociais.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 100/2020 - Diário da República n.º 231/2020, Série I de 2020-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2020-149707127), em vigor a partir de 2020-11-27*
+
+## Capítulo II — Fixação e financiamento da tarifa social
+
+### Artigo 3.º — Fixação da tarifa social
+
+1 - A tarifa social é calculada mediante a aplicação de um desconto na tarifa de acesso às redes em baixa pressão, nos termos do regulamento tarifário aplicável ao sector do gás natural.
+
+2 - O valor do desconto referido no número anterior é determinado através de despacho do membro do Governo responsável pela área da energia, ouvida a Entidade Reguladora dos Serviços Energéticos (ERSE).
+
+3 - (Revogado.)
+
+4 - O despacho previsto no n.º 2 é publicado até 20 de setembro de cada ano, para que possa produzir efeitos no cálculo das tarifas de gás natural para o ano seguinte.
+
+5 - (Revogado.)
+
+- *Alterado pelo/a Artigo 200.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01*
+
+### Artigo 4.º — Financiamento da tarifa social
+
+1 - O financiamento dos custos com a aplicação da tarifa social é suportado por todos os clientes de gás natural, na proporção da energia consumida, a repercutir nas tarifas de acesso às redes.
+
+2 - Os custos referidos no número anterior são devidos aos operadores das redes de distribuição de gás natural.
+
+3 - Os montantes relativos ao financiamento da tarifa social, bem como a sua alocação aos operadores das redes de distribuição, são determinados de acordo com o estabelecido no regulamento tarifário aplicável ao sector do gás natural.
+
+## Capítulo III — Atribuição e aplicação da tarifa social
+
+### Artigo 5.º — Condições de atribuição
+
+1 - Os clientes finais economicamente vulneráveis que podem beneficiar da tarifa social devem reunir cumulativamente as seguintes condições:
+
+a) Serem titulares de um contrato de fornecimento de gás natural;
+
+b) O consumo de gás natural destinar-se exclusivamente a uso doméstico, em habitação permanente;
+
+c) As instalações serem alimentadas em baixa pressão;
+
+d) Integrarem escalões de consumo anual inferior ou igual a 500 m3, nos termos da regulamentação aplicável.
+
+2 - Cada cliente final apenas pode beneficiar da tarifa social num único ponto de ligação às redes de distribuição de gás natural em baixa pressão.
+
+3 - Na atribuição da tarifa social devem ser assegurados os princípios da transparência, da igualdade de tratamento e da não discriminação.
+
+### Artigo 6.º — Processamento
+
+1 - A Direção-Geral de Energia e Geologia promove, junto das instituições de segurança social competentes, a identificação dos clientes finais que beneficiam da tarifa social, nos termos de protocolo a definir pelos membros do Governo responsáveis pelas áreas da segurança social e da energia.
+
+2 - Para efeitos do disposto no número anterior, devem os comercializadores de gás natural remeter para a Direção-Geral de Energia e Geologia a informação necessária à identificação dos titulares de contratos de fornecimento de gás natural.
+
+3 - O tratamento de dados pessoais previsto nos números anteriores carece de parecer prévio da Comissão Nacional de Proteção de Dados.
+
+4 - Identificados os potenciais beneficiários, é remetida informação individual a cada beneficiário com a advertência de que, querendo, deve opor-se à atribuição da tarifa social no prazo de 30 dias, sob pena de a mesma ser automaticamente atribuída.
+
+5 - A manutenção da tarifa social depende da confirmação, por parte da Direção-Geral de Energia e Geologia, em setembro de cada ano, da condição de cliente final economicamente vulnerável, nos termos do artigo 2.º
+
+6 - Sem prejuízo do disposto nos números anteriores, pode o beneficiário requerer junto das instituições de segurança social competentes um comprovativo da sua condição de beneficiário de uma das prestações previstas no n.º 2 do artigo 2.º e apresentá-lo junto do comercializador de gás natural.
+
+7 - O beneficiário que deixe de reunir os requisitos de atribuição da tarifa social deve comunicá-lo às instituições de segurança social competentes no prazo de 30 dias.
+
+- *Alterado pelo/a Artigo 200.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01*
+
+### Artigo 7.º — Aplicação da tarifa social
+
+1 - A aplicação da tarifa social aos clientes finais economicamente vulneráveis é da responsabilidade dos comercializadores que com eles tenham celebrado um contrato de fornecimento de gás natural.
+
+2 - O desconto inerente à tarifa social deve ser identificado de forma clara e visível nas facturas enviadas pelos comercializadores aos clientes que beneficiem do respectivo regime.
+
+### Artigo 8.º — Divulgação de informação
+
+Os comercializadores de gás natural devem promover a divulgação de informação sobre a existência da tarifa social e a sua aplicação aos clientes finais economicamente vulneráveis na documentação que acompanhe as faturas enviadas aos clientes de gás natural fornecido em baixa pressão com consumo anual igual ou inferior a 500 m3, assinalando que as condições de elegibilidade e processamento da tarifa social constam dos sítios na Internet do comercializador em causa, bem como dos sítios na Internet da segurança social e da Direção-Geral da Energia e Geologia
+
+- *Alterado pelo/a Artigo 200.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01*
+
+## Capítulo IV — Disposições finais
+
+### Artigo 9.º — Tarifa social para o ano gás 2011-2012
+
+*(Revogado)* — *Revogado pelo/a Artigo 200.º do/a Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30, em vigor a partir de 2016-03-31, produz efeitos a partir de 2016-07-01*
+
+### Artigo 10.º — Avaliação do regime da tarifa social
+
+A caracterização do regime da tarifa social e do seu financiamento deve ser avaliada em 2013 e, posteriormente, nos últimos seis meses de cada período subsequente de quatro anos, com vista à sua adequação à realidade do sector do gás natural.
+
+### Artigo 11.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a partir do dia 1 de Outubro de 2011.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Passos Coelho. - Álvaro Santos Pereira.
+
+Promulgado em 27 de Setembro de 2011.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 28 de Setembro de 2011.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

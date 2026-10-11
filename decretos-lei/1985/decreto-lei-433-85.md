@@ -1,0 +1,110 @@
+---
+title: "Decreto-Lei n.º 433/85"
+identifier: "Decreto-Lei n.º 433/85"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1985-10-23
+last_amended: 1999-04-21
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-890821684"
+retrieved: 2026-10-11
+designation: "Cria o Museu de Alcobaça, na dependência técnica e administrativa do Instituto Português do Património Cultural"
+summary: "Cria, na dependência técnica e administrativa do Instituto Português do Património Cultural, o Museu de Alcobaça"
+issuer: "Ministério da Cultura"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/433/1985/p/cons/19990421/pt/html"
+dre_id: 178102
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1985/10/24400/35073508.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 433/85
+
+Decreto-Lei n.º 433/85
+
+de 23 de Outubro
+
+O Mosteiro de Santa Maria de Alcobaça constitui, dentro do património cultural português e europeu, um monumento de importância internacionalmente reconhecida, particularmente no âmbito histórico-artístico. Porém, a sua profunda acção no País, desde o início da nacionalidade e em articulação com a Europa cisterciense da época, nos mais diversos campos de actividade, fez-se sentir de modo igualmente importante no campo económico e social. É bem conhecido o seu contributo para a organização do território, não apenas na região, onde aliás se conhecem importantes vestígios desde a época pré-histórica, mas em muitos outros pontos do País, alguns deles fora da sua jurisdição directa. Santa Maria de Alcobaça, como cabeça da congregação autónoma instituída no século XVI no território nacional, alargou mais ainda a sua acção directa por todo o País, e mesmo após a extinção das ordens religiosas a vitalidade do antigo Mosteiro persistiu, não obstante as diversas formas de utilização a que foi submetido. De qualquer forma, é bem visível que, desde sempre, foi extremamente significativa a relação entre o monumento e o contexto urbano e rural que ele próprio originou e em que se integra. Com tais fundamentos tem-se, pois, por imperiosa e urgente a recuperação e preservação de todo este conjunto, dando simultaneamente satisfação a uma justa e antiga aspiração local criando o Museu de Alcobaça.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+## Artigo 1.º
+
+É criado, na dependência técnica e administrativa do Instituto Português do Património Cultural, o Museu de Alcobaça.
+
+## Artigo 2.º
+
+1 - São atribuições do Museu de Alcobaça fomentar e ampliar o entendimento do Mosteiro de Santa Maria de Alcobaça e das suas relações históricas, artísticas, sócio-culturais e socio-económicas com a região em que está inserido.
+
+2 - O Museu prossegue as suas atribuições nas áreas da museografia, da investigação e da acção cultural, nos termos dos artigos 1.º e 2.º do Decreto-Lei n.º 45/80, de 20 de Março.
+
+## Artigo 3.º
+
+1 - O Museu de Alcobaça fica instalado na ala norte e parte da ala sul do Mosteiro de Santa Maria de Alcobaça, devendo futuramente vir a ocupar as restantes zonas que circundam os Claustros do Rachador e dos Noviços, incluídos no actual complexo arquitectónico do Mosteiro.
+
+2 - Faz parte do percurso museológico o conjunto monumental das edificações medievais do Mosteiro.
+
+## Artigo 4.º
+
+A direcção do Museu é assegurada por um director, provido nos termos do artigo 6.º do presente diploma.
+
+## Artigo 5.º
+
+O quadro do pessoal do Museu de Alcobaça é o constante do mapa anexo ao presente diploma.
+
+## Artigo 6.º
+
+O director do Museu de Alcobaça tem a categoria de chefe de divisão e será provido nos termos do Decreto-Lei n.º 299/83, de 24 de Julho.
+
+## Artigo 7.º
+
+Os lugares de assessor de BAD, técnico superior de BAD, técnico auxiliar de BAD e auxiliar técnico de BAD serão providos nos termos do Decreto-Lei n.º 280/79, de 10 de Agosto.
+
+## Artigo 8.º
+
+Os lugares de conservador, monitor, assistente de conservador, técnico auxiliar de museografia, auxiliar de museografia e guarda de museu serão providos nos termos do Decreto-Lei n.º 45/80, de 20 de Março.
+
+## Artigo 9.º
+
+Os restantes lugares do quadro serão providos nos termos da lei geral.
+
+## Artigo 10.º
+
+1 - O pessoal actualmente em exercício de funções no Mosteiro de Alcobaça e que foi integrado no quadro de pessoal do Museu de José Malhoa, ao abrigo do disposto no Decreto-Lei n.º 318/82, de 11 de Agosto, transita para os lugares do quadro anexo ao presente diploma na mesma categoria e situação em que se encontra provido, sendo abatidos no quadro daquele Museu 4 lugares de guarda de museu e 1 lugar de servente.
+
+2 - A transição deste pessoal far-se-á mediante lista nominativa aprovada por despacho do Ministro da Cultura, a publicar no Diário da República, com dispensa de quaisquer formalidades, salvo a anotação pelo Tribunal de Contas.
+
+## Artigo 11.º
+
+Enquanto não for possível prover os restantes lugares do quadro do pessoal anexo ao presente diploma, o Museu funcionará com pessoal requisitado ou destacado do quadro de excedentes de efectivos interdepartamentais ou de outros quadros de pessoal.
+
+## Artigo 12.º
+
+Os encargos decorrentes da execução do presente diploma serão suportados, no ano curso, por conta das disponibilidades orçamentais afectas ao Instituto Português do Património Cultural e, a partir de Janeiro de 1986, por orçamento próprio do Museu.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machele - António de Almeida Santos - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.
+
+Promulgado em 8 de Outubro de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 10 de Outubro de 1983.
+
+O Primeiro-Ministro, Mário Soares.
+
+## Anexo — Mapa a que se refere o artigo 6.º
+
+(ver documento original)
+
+Nota. - A dotação das categorias inseridas na nova estrutura de carreiras será efectuada no âmbito de portaria a emitir em execução do artigo 46.º do Decreto-Lei n.º 248/85, de 15 de Julho.
+
+- *Alterado pelo/a Anexo do/a [Portaria n.º 1064/95 - Diário da República n.º 200/1995, Série I-B de 1995-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/1064-1995-548000), em vigor a partir de 1995-08-04*

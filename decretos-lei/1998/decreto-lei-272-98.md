@@ -1,0 +1,257 @@
+---
+title: "Decreto-Lei n.º 272/98"
+identifier: "Decreto-Lei n.º 272/98"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1998-09-02
+last_amended: 2015-10-28
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-70845081"
+retrieved: 2026-10-11
+designation: "Novo regime de instalação e operação do sistema de transmissão de dados em radiodifusão (RDS) pelos operadores de radiodifusão sonora"
+summary: "Estabelece o novo regime de instalação e operação do sistema de transmissão de dados em radiodifusão (RDS) pelos operadores de radiodifusão sonora"
+issuer: "Ministério do Equipamento, do Planeamento e da Administração do Território"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/272/1998/p/cons/20151028/pt/html"
+dre_id: 566855
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1998/09/202a00/45804581.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 272/98
+
+Decreto-Lei n.º 272/98
+
+de 2 de Setembro
+
+O Decreto-Lei n.º 305/94, de 19 de Dezembro, estabeleceu o regime de instalação e operação do sistema de transmissão de dados em radiodifusão (RDS) pelos operadores de radiodifusão sonora.
+
+Recentemente, com a publicação da Lei n.º 2/97, de 18 de Janeiro, e do Decreto-Lei n.º 130/97, de 27 de Maio, foram introduzidas significativas modificações no regime jurídico da actividade da radiodifusão sonora em Portugal.
+
+As alterações introduzidas não poderiam deixar de se reflectir no regime de instalação e operação do sistema RDS pelos operadores de radiodifusão sonora, determinando, assim, a adequação do seu regime jurídico.
+
+Paralelamente importa também clarificar e esclarecer dúvidas suscitadas sobre os limites e condições de utilização deste sistema, nomeadamente quanto ao leque de aplicações permitidas.
+
+Neste contexto é de salientar, em especial, a possibilidade, agora reconhecida, de, com base no sistema RDS, ser prestado um serviço de radiomensagens, o qual não envolve a utilização de frequências adicionais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece o regime de instalação e operação do sistema de transmissão de dados em radiodifusão (RDS) pelos operadores de rádio.
+
+2 - O sistema RDS pode ser autorizado na faixa de frequências atribuída ao serviço de radiodifusão sonora em frequência modulada (87,5 MHz-108,0 MHz), tanto para emissões estereofónicas como para emissões monofónicas.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 2.º — Definições
+
+Para efeitos do disposto no presente diploma, entende-se por:
+
+a) RDS - o sistema que permite adicionar uma informação não audível, sob forma digital, nas emissões em frequência modulada das estações de radiodifusão sonora;
+
+b) Código de identificação do canal de programa (PI) - o código que permite ao equipamento receptor identificar cada estação ou rede emissora;
+
+c) Nome do canal de programa (PS) - o conjunto de caracteres alfanuméricos apresentado nos equipamentos receptores RDS para informação ao ouvinte de qual a estação ou rede emissora sintonizada;
+
+d) Radiotexto (RT) - a transmissão de texto codificado, não endereçado, de comprimento e formato fixo, destinado a ser recebido por recetores apropriados;
+
+e) Radiomensagens (RP) - estabelecimento de comunicações não vocais de baixo débito, endereçadas e unidireccionais para equipamentos terminais apropriados de índole não fixa, através do sistema RDS.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 3.º — Autorização para operação do sistema de transmissão de dados em radiodifusão
+
+1 - A operação do sistema RDS está sujeita a autorização da Autoridade Nacional de Comunicações (ANACOM), a qual só pode ser conferida a operadores de rádio.
+
+2 - A autorização referida no número anterior depende de requerimento do operador de rádio, no qual deve ser indicado, nomeadamente:
+
+a) O serviço de programas a que respeite;
+
+b) O âmbito e a área de cobertura do respetivo serviço de programas;
+
+c) O nome do canal de programa pretendido;
+
+d) A intenção de utilizar radiotexto na operação do sistema.
+
+3 - Nos casos em que a operação do sistema RDS envolva a transmissão de mensagens através da utilização de radiotexto, a ANACOM promove a consulta prévia da Entidade Reguladora para a Comunicação Social (ERC).
+
+4 - A consulta referida no número anterior tem por objetivo aferir se as mensagens a transmitir através de radiotexto atentam contra a dignidade da pessoa humana ou são contrárias à lei.
+
+5 - A ERC emite parecer vinculativo no prazo de 10 dias úteis, a contar da data da receção do pedido de consulta formulado pela ANACOM, em simultâneo, se aplicável, com o parecer referido no n.º 6 do artigo 4.º
+
+6 - A prestação de serviços de comunicações eletrónicas está sujeita ao disposto na Lei n.º 5/2004, de 10 de fevereiro.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 4.º — Atribuição do nome do canal de programa
+
+.1 - O nome do canal de programa é atribuído pela ANACOM, a requerimento do operador de rádio.
+
+2 - Recebido o requerimento referido no número anterior, a ANACOM promove a consulta da ERC.
+
+3 - O nome do canal de programa deve corresponder à designação do serviço de programas referida no n.º 5 do artigo 23.º da Lei n.º 54/2010, de 24 de dezembro, alterada pelas Leis n.os 38/2014, de 9 de julho, e 78/2015, de 29 de julho.
+
+4 - A indicação do nome do canal do programa deve ser feita através da utilização de uma mensagem fixa e não sequencial, podendo apenas conter informação destinada à sintonia da estação ou rede emissora e respectiva identificação.
+
+5 - No âmbito da consulta referida no n.º 2, cabe à ERC verificar a correspondência entre o nome do canal de programa proposto e a designação do respetivo serviço de programas, de forma a garantir a identificação clara e unívoca da estação ou rede emissora.
+
+6 - A ERC emite parecer vinculativo no prazo de 10 dias úteis, a contar da data da receção do pedido de consulta formulado pela ANACOM.
+
+7 - Quaisquer alterações ao nome do canal de programa atribuído devem ser promovidas pelos operadores de rádio junto da ANACOM, seguindo-se o procedimento previsto no presente artigo.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 5.º — Atribuição dos códigos de identificação do canal de programa
+
+1 - O código de identificação do canal de programa é atribuído pelo ICP.
+
+2 - A cada cobertura radiofónica é atribuído um código de identificação do canal de programa, sem prejuízo do disposto no artigo seguinte.
+
+## Artigo 6.º — Associação de rádios
+
+1 - Os operadores autorizados a operar o sistema RDS que se associem entre si para a difusão simultânea da respectiva programação, quando legalmente admitido, devem assegurar a indicação do nome do canal de programa, ou, na sua inexistência, a estação na qual tem origem a emissão.
+
+2 - O disposto no número anterior não se aplica a serviços noticiosos ou à transmissão simultânea meramente ocasional.
+
+3 - Para efeitos do disposto no n.º 1, os operadores devem requerer ao ICP a atribuição de um código de identificação de canal de programa adicional, destinado a ser utilizado durante as emissões por todos os operadores associados à difusão simultânea da programação.
+
+4 - Excetuam-se do disposto no número anterior os operadores de rádio autorizados a utilizar estações retransmissoras nos termos do artigo 14.º da Lei n.º 54/2010, de 24 de dezembro, alterada pelas Leis n.os 38/2014, de 9 de julho, e 78/2015, de 29 de julho.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991)*
+
+## Artigo 7.º — Limites na utilização do sistema
+
+1 - A utilização do sistema RDS deve conter-se nos limites e condições definidos no título de autorização e em caso algum pode pôr em risco a segurança rodoviária.
+
+2 - É vedada a utilização do sistema RDS para a transmissão de mensagens que atentem contra a dignidade da pessoa humana ou sejam contrárias à lei.
+
+## Artigo 8.º — Taxas
+
+1 - A atribuição do nome do canal de programa e a autorização para operação do sistema RDS, bem como as respetivas alterações, estão sujeitas ao pagamento de taxas, as quais são fixadas nos termos do n.º 2 do artigo 37.º dos Estatutos da ANACOM, aprovados pelo Decreto-Lei n.º 39/2015, de 16 de março.
+
+2 - As taxas referidas no número anterior constituem receita da ANACOM.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 9.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente diploma compete à ANACOM, cabendo à ERC a fiscalização do conteúdo das mensagens difundidas em radiotexto.
+
+2 - Para o exercício das competências de fiscalização que lhe são conferidas pelo presente diploma, a ANACOM pode solicitar a colaboração de outras entidades.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 10.º — Contra-ordenações e coimas
+
+1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:
+
+a) A utilização do sistema RDS sem a autorização prevista no n.º 1 do artigo 3.º;
+
+b) A indicação do nome do canal de programa em violação do disposto no n.º 4 do artigo 4.º;
+
+c) A ausência de indicação do nome de canal de programa, em violação do disposto no n.º 1 do artigo 6.º;
+
+d) A utilização do sistema RDS que ponha em risco a segurança rodoviária, em violação do disposto no n.º 1 do artigo 7.º;
+
+e) A utilização do sistema RDS em violação dos limites e condições definidos no título de autorização, em violação do disposto no n.º 1 do artigo 7.º;
+
+f) A utilização do sistema RDS em violação do disposto no n.º 2 do artigo 7.º;
+
+g) O incumprimento das obrigações estabelecidas nos termos das alíneas a) a c) do artigo 12.º
+
+2 - Constitui contraordenação leve, a prevista na alínea c) do número anterior.
+
+3 - Constituem contraordenações graves, as previstas nas alíneas b), e) e g) do n.º 1.
+
+4 - Constituem contraordenações muito graves, as previstas nas alíneas a), d) e f) do n.º 1.
+
+5 - As contraordenações leves são puníveis com as seguintes coimas:
+
+a) Se praticadas por microempresa, de (euro) 100 a (euro) 750;
+
+b) Se praticadas por pequena empresa, de (euro) 250 a (euro) 1 500;
+
+c) Se praticadas por média empresa, de (euro) 500 a (euro) 2 500;
+
+d) Se praticadas por grande empresa, de (euro) 1 000 a (euro) 3 000.
+
+6 - As contraordenações graves são puníveis com as seguintes coimas:
+
+a) Se praticadas por microempresa, de (euro) 200 a (euro) 1 500;
+
+b) Se praticadas por pequena empresa, de (euro) 500 a (euro) 3 000;
+
+c) Se praticadas por média empresa, de (euro) 1 000 a (euro) 5 000;
+
+d) Se praticadas por grande empresa, de (euro) 2 500 a (euro) 10 000.
+
+7 - As contraordenações muito graves são puníveis com as seguintes coimas:
+
+a) Se praticadas por microempresa, de (euro) 500 a (euro) 5 000;
+
+b) Se praticadas por pequena empresa, de (euro) 1 250 a (euro) 7 500;
+
+c) Se praticadas por média empresa, de (euro) 2 500 a (euro) 12 500;
+
+d) Se praticadas por grande empresa, de (euro) 5 000 a (euro) 25 000.
+
+8 - Às contra-ordenações previstas no presente diploma pode ser aplicada a sanção acessória de suspensão da autorização de operação do sistema RDS por um período máximo de dois anos.
+
+9 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 11.º — Competência
+
+1 - Sem prejuízo do disposto no número seguinte, a aplicação das coimas previstas no presente diploma é da competência da ANACOM, cabendo a esta entidade a instrução dos respetivos processos.
+
+2 - A aplicação de coimas pela prática dos ilícitos previstos na alínea f) do n.º 1 do artigo anterior e a instrução dos respetivos processos compete à ERC.
+
+3 - O montante das coimas reverte em 60 % para o Estado e em 40 % para a ANACOM ou para a ERC, consoante o caso.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+
+## Artigo 12.º — Regulamentação
+
+Compete à ANACOM, ouvida a ERC, a definição, por regulamento:
+
+a) Da especificação técnica do sistema RDS;
+
+b) Das aplicações do sistema RDS e respetivas condições;
+
+c) Dos procedimentos a observar para a obtenção da autorização de operação do sistema RDS referida no artigo 3.º, incluindo a atribuição do nome do canal de programa e a utilização do radiotexto;
+
+d) Dos elementos que devem constar do título de autorização de operação do sistema RDS.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991), em vigor a partir de 2015-10-29*
+- *Rectificado pelo/a [Declaração de Rectificação n.º 22-J/98 - Diário da República n.º 301/1998, 7º Suplemento, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-j-1998-570515)*
+
+## Artigo 13.º — Disposição transitória
+
+Aos operadores já autorizados a operar o sistema RDS é permitido, a todo o tempo, o exercício das faculdades previstas no presente diploma, mediante alteração da respectiva autorização.
+
+## Artigo 14.º — Revogação
+
+1 - É revogado o Decreto-Lei n.º 305/94, de 19 de Dezembro.
+
+2 - As Portarias n.os 278/95, de 7 de Abril, e n.º 295/95, de 10 de Abril, mantêm-se em vigor até à publicação da portaria a que se refere o artigo 12.º e do despacho a que se refere o artigo 8.º, respectivamente.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 2 de Julho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
+
+Promulgado em 18 de Agosto de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 20 de Agosto de 1998.
+
+Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

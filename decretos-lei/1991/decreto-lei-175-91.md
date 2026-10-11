@@ -1,0 +1,367 @@
+---
+title: "Decreto-Lei n.º 175/91"
+identifier: "Decreto-Lei n.º 175/91"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1991-05-11
+last_amended: 2012-08-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-860482867"
+retrieved: 2026-10-11
+designation: "Novo regime de realização de exames de condução de veículos automóveis"
+summary: "Estabelece o novo regime de realização de exames de condução de veículos automóveis"
+issuer: "Ministério das Obras Públicas, Transportes e Comunicações"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/175/1991/p/cons/20120829/pt/html"
+dre_id: 611319
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1991/05/108a00/25492554.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 175/91
+
+Decreto-Lei n.º 175/91
+
+de 11 de Maio
+
+A realização de exames para obtenção da carta de condução de veículos automóveis tem sido desde sempre uma atribuição do Estado, concretizada através dos serviços competentes da Direcção-Geral de Viação (DGV).
+
+Nos últimos anos, fruto do desenvolvimento económico do País, tem-se assistido a um acréscimo constante do número de cidadãos que pretendem obter a carta de condução, tendo esta deixado de ser simples meio de acesso à condução para se converter num verdadeiro direito social indissoluvelmente ligado ao trabalho e ao lazer.
+
+O cada vez maior número de candidatos a condutor tem vindo a criar uma enorme pressão sobre as estruturas existentes que, não obstante o assinalável esforço desenvolvido pela DGV, se têm revelado incapazes de corresponder em tempo útil às solicitações colocadas.
+
+Face aos custos que uma tal realidade implica para os particulares e para a Administração, urge encontrar os meios e soluções adequados para repor a situação em níveis aceitáveis de resposta.
+
+Solução possível seria a de reforçar os meios ao dispor da Administração, mantendo inalterado o enquadramento geral da questão.
+
+Indica, no entanto, a experiência que, nos casos em que a expansão da procura de determinado serviço se faz por progressão geométrica, a resposta da Administração através dos meios actuais, por força das suas regras e tramitações próprias, se revela, o mais das vezes, como incapaz de acompanhar o ritmo da evolução existente.
+
+Haverá, assim, que buscar a solução numa nova abordagem do enquadramento legal, procurando na sociedade civil os meios e os mecanismos que, respeitando os padrões da idoneidade, isenção e segurança que devem nortear esta actividade, permitam encontrar respostas atempadas, adequadas e flexíveis para o legítimo desejo dos cidadãos de possuírem carta de condução em prazos razoáveis.
+
+Com o presente diploma cria-se um sistema inovador que permita a realização de exames de condução de veículos automóveis por entidades de natureza privada, sem, no entanto, retirar à DGV as suas competências e dando-lhe a possibilidade de acompanhar, enquadrar e fiscalizar a implantação e desenvolvimento desta nova actividade.
+
+Com a dualidade de entidades habilitadas à realização de exames de condução criar-se-ão as condições para uma rápida estabilização e equilíbrio entre a procura - representada pelos candidatos a condutor - e a oferta - representada pelos meios ao dispor para a obtenção de cartas de condução -, que permitirá aos cidadãos um mais rápido acesso a tão importante documento, com a consequente redução dos custos e inconvenientes que o actual quadro comporta.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objecto
+
+Sem prejuízo das competências atribuídas à Direcção-Geral de Viação, adiante designada por DGV, pelos artigos 48.º e 49.º do Código da Estrada, bem como pelo Decreto-Lei n.º 21/83, de 21 de Janeiro, os exames de condução de veículos automóveis também podem ser realizados por associações de direito privado sem fins lucrativos, nos termos do presente diploma.
+
+### Artigo 2.º — Autorização
+
+A realização de exames de condução pelas entidades previstas no artigo anterior depende de autorização do Ministro das Obras Públicas, Transportes e Comunicações, a conceder por despacho publicado no Diário da República.
+
+### Artigo 3.º — Realização de exames
+
+A realização dos exames de condução pelas associações autorizadas efectuar-se-á em centros de exame a criar para o efeito pelas associações interessadas.
+
+## Capítulo II — Do exercício da actividade
+
+### Artigo 4.º — Do pedido
+
+As associações referidas no artigo 1.º que pretendam obter autorização para efectuar exames de condução devem remeter à DGV requerimento para o efeito, acompanhado de:
+
+a) Fotocópia da escritura da constituição da associação;
+
+b) Identificação dos membros dos corpos sociais;
+
+c) Programa contendo as linhas gerais da actuação da associação como entidade realizadora de exames de condução, com especial relevo para o número, localização e características dos centros de exame a criar e categorias de veículos para cuja condução pretendem fazer exames.
+
+### Artigo 5.º — Do processo
+
+1 - A DGV, analisado o requerimento e a documentação previstos no artigo anterior, emitirá parecer quanto à legalidade do requerido e à qualidade dos previstos serviços a prestar pela associação.
+
+2 - A DGV remeterá ao Ministro das Obras Públicas, Transportes e Comunicações o requerimento e respectivos anexos, bem como o parecer referido no número anterior.
+
+### Artigo 6.º — Abertura de centros de exame
+
+1 - As associações autorizadas a efectuar exames de condução comunicam à DGV a criação dos centros de exame, através de requerimento de onde constem os elementos necessários à análise e apreciação da sua conformidade com as disposições do presente diploma e respectivas normas complementares.
+
+2 - A DGV deve, sistemática e periodicamente, proceder à realização de vistorias aos centros de exame, podendo solicitar quaisquer esclarecimentos que entenda necessários.
+
+3 - Os centros de exame só podem iniciar a sua actividade após autorização a conceder pelo director-geral de Viação.
+
+4 - No prazo de 30 dias após recepção do requerimento, a DGV tomará uma decisão e emitirá, nos sete dias úteis subsequentes, documento comprovativo da autorização, ou do seu indeferimento, que será enviado ao requerente.
+
+5 - O modelo de documento referido no número precedente é aprovado por despacho do director-geral de Viação.
+
+## Capítulo III — Dos centros de exames
+
+### Artigo 6.º-A — Revogação de autorizações
+
+1 - A autorização para realizar exames de condução é revogada à associação que, num período de cinco anos, seja sancionada quatro vezes por contra-ordenações previstas no presente diploma.
+
+2 - A autorização para exercício de actividade de um centro de exames é revogada quando, num período de três anos, a associação proprietária for sancionada três vezes por contra-ordenações ao disposto nos artigos 8.º, n.º 1, alíneas a) e c), e 9.º, relativamente a esse centro.
+
+- *Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724), em vigor a partir de 1997-12-06*
+
+### Artigo 7.º — Provas e processos de exame
+
+1 - Os centros de exame podem realizar exames apenas para determinadas categorias de veículos automóveis, desde que tal faculdade seja expressamente requerida.
+
+2 - Os processos de exames de condução só podem ser aceites se:
+
+a) Instruídos com os impressos dos modelos aprovados pela DGV;
+
+b) Com as respectivas taxas legais devidamente cobradas;
+
+c) Os examinandos se encontrem habilitados com a respectiva licença de aprendizagem.
+
+### Artigo 8.º — Requisitos
+
+1 - Os centros de exame dispõem, obrigatoriamente, de:
+
+a) Um número mínimo de três examinadores de condução automóvel, para o efeito credenciados pela DGV;
+
+b) Registo, actualizado, dos examinandos inscritos e respectivas escolas de condução e de todas as provas de exame efectuadas pelos mesmos, sua aprovação, reprovação e faltas;
+
+c) Instalações e equipamentos aprovados pela DGV, de acordo com requisitos aprovados por despacho do director-geral de Viação, publicado no Diário da República, e adequados à actividade desenvolvida, incluindo, no mínimo:
+
+i) Sala para prestação de provas teóricas e técnicas;
+
+ii) Serviços de apoio, secretaria e atendimento ao público com capacidade suficiente para assegurar o normal funcionamento do centro de exame.
+
+2 - Os centros de exame poderão dispor de veículos, licenciados pela DGV, aptos para a realização de prova prática de exame, a disponibilizar, aos candidatos que o solicitem.
+
+### Artigo 9.º — Responsável do centro
+
+1 - Cada centro de exame é dirigido por um responsável, a nomear pela associação proprietária do centro de exames, a quem competirá dirigir e coordenar as actividades do centro, validar os processos de exame e demais documentos necessários.
+
+2 - O responsável do centro deve ser titular de licenciatura e responderá perante a DGV pelo funcionamento do respectivo centro.
+
+### Artigo 10.º — Realização de exames
+
+1 - Os centros de exame devem manter-se aptos à realização de provas de exame durante o horário do seu funcionamento, não podendo recusar qualquer inscrição para exame que satisfaça o disposto no n.º 2 do artigo 7.º
+
+2 - Exceptua-se do disposto no número anterior, sendo válida, a recusa do centro de exame, quando este não disponha de veículos para a realização de prova prática e o candidato se não apresente com veículo apto, nos termos legais, à realização dessa mesma prova.
+
+3 - Para efeitos do disposto nos números anteriores as escolas de condução não podem recusar aos seus instruendos a cedência de veículos para exame, sempre que o centro de exame onde se realizam as provas se localize no mesmo distrito em que a escola de condução exerce a sua actividade.
+
+4 - A cedência prevista no número anterior é feita mediante pagamento, pelo interessado, de quantia a determinar pelas escolas de condução.
+
+### Artigo 10.º-A — Elementos de registo
+
+1 - Os centros de exames devem processar informaticamente todos os elementos relativos aos exames de condução que realizem, devendo manter actualizados todos os dados referentes à identificação do examinando, data, hora e identificação do examinador que procedeu ao exame.
+
+2 - O conteúdo, o formato e os suportes a utilizar no âmbito do número anterior, bem como a periodicidade da prestação de informações, são fixados por despacho do director-geral de Viação.
+
+3 - Os dados referidos no n.º 1 são confidenciais e, sem prejuízo do tratamento estatístico a efectuar pela Direcção-Geral de Viação, só podem ser conhecidos pelo examinando a que respeitam.
+
+4 - Os centros de exames devem prestar à Direcção-Geral de Viação, quando esta o solicite, todas as informações necessárias ao esclarecimento de questões suscitadas quanto ao seu funcionamento.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 209/98 - Diário da República n.º 161/1998, Série I-A de 1998-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), em vigor a partir de 1998-07-20*
+
+## Capítulo IV — Dos examinadores de condução automóvel
+
+### Artigo 11.º — Requisitos
+
+*(Revogado)* — *Revogado pelo/a Artigo 49.º do/a Lei n.º 45/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-11-27*
+
+### Artigo 12.º — Exame para examinador de condução
+
+*(Revogado)* — *Revogado pelo/a Artigo 49.º do/a Lei n.º 45/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-11-27*
+
+### Artigo 13.º — Exercício da actividade
+
+*(Revogado)* — *Revogado pelo/a Artigo 49.º do/a Lei n.º 45/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-11-27*
+
+### Artigo 14.º — Deveres dos examinadores
+
+*(Revogado)* — *Revogado pelo/a Artigo 49.º do/a Lei n.º 45/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-11-27*
+
+## Capítulo V — Dos exames de condução
+
+### Artigo 15.º — Normas aplicáveis
+
+1 - Os exames para obtenção de carta de condução realizados nos centros de exame devem ser efectuados com observância da legislação vigente sobre habilitação legal para conduzir e exames de condução, bem como das instruções emitidas pela DGV.
+
+2 - São aplicáveis nos centros de exame as normas regulamentares e as instruções técnicas em vigor para os exames realizados directamente pela DGV.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724), em vigor a partir de 1997-12-06*
+
+### Artigo 16.º — Provas para obtenção da carta de condução
+
+Os centros de exame realizam obrigatoriamente todas as provas necessárias à obtenção da carta de condução pretendida pelo candidato a condutor de veículos automóveis.
+
+### Artigo 17.º — Prestação de provas
+
+1 - Os candidatos a condutor que pretendam realizar o exame de condução através de um dos centros de exame em funcionamento declaram expressamente à escola de condução qual o centro em que pretendem prestar provas.
+
+2 - Em caso de nada ser declarado, o exame realizar-se-á, obrigatoriamente, nos serviços da DGV.
+
+3 - Os candidatos a condutor podem, em qualquer momento, desistir da realização das provas no centro de exame, não tendo direito ao reembolso das quantias já pagas para realização do exame.
+
+### Artigo 18.º — Publicitação
+
+1 - É expressamente proibido às associações autorizadas e aos centros de exame angariar, por qualquer forma, candidatos a exame.
+
+2 - Exclui-se do disposto no número anterior a mera publicitação por parte das associações da existência dos centros de exame e das condições oferecidas.
+
+### Artigo 19.º — Remessa dos processos
+
+Finda a instrução de condução e de acordo com a opção do candidato a condutor, referida no artigo 17.º, as escolas de condução remetem o processo de exame aos serviços competentes da DGV ou do centro de exame escolhido.
+
+### Artigo 20.º — Marcação das provas
+
+Os centros de exame, no prazo máximo de 15 dias após a recepção dos processos de exame, marcam a data da primeira prova a prestar pelo candidato, que comunicarão à escola de condução proponente.
+
+### Artigo 21.º — Intervalo entre provas
+
+Entre a realização de cada uma das provas necessárias à obtenção de licença de condução e a data da que se lhe segue não poderá distar prazo superior a 15 dias.
+
+### Artigo 22.º — Listas dos candidatos
+
+Os centros de exame enviam aos serviços competentes da DGV, da sua área, lista dos candidatos a exame cujas provas se encontram marcadas, com pelo menos sete dias úteis de antecedência sobre a sua realização.
+
+### Artigo 23.º — Emissão da carta de condução
+
+1 - Terminado o exame, com aprovação, o centro de exame guardará em arquivo próprio o respectivo processo, remetendo ao serviço de viação da sua área, no prazo de dois dias úteis, o relatório de exame necessário à emissão da respectiva carta de condução.
+
+2 - Os serviços de viação que, para efeitos do disposto no número anterior, não possam imediatamente proceder à entrega da carta de condução, validam a licença de aprendizagem do novo condutor como guia de substituição da carta, até à entrega desta.
+
+### Artigo 24.º — Listas de resultados
+
+Os centros de exame enviam trimestralmente aos serviços competentes da DGV lista dos candidatos a condutores aprovados e reprovados em exames de condução, com indicação das escolas proponentes.
+
+### Artigo 25.º — Conservação dos processos
+
+Os centros de exame conservam todos os processos de exame por um período de cinco anos, contado da data da sua conclusão, decorrido o qual podem proceder à sua destruição.
+
+### Artigo 25.º-A — Fundo de fiscalização
+
+1 - As associações autorizadas nos termos do presente diploma ficam obrigadas a fazer reverter para o fundo a que se refere o artigo 13.º do Decreto-Lei n.º 254/92, de 20 de Novembro, uma importância igual a 8% do valor da emissão das cartas de condução por cada exame prático realizado e a enviar o comprovativo de pagamento nos primeiros 15 dias a que se refere o montante a pagar.
+
+2 - A Direcção-Geral de Viação deve realizar fiscalizações periódicas efectivas, por técnicos superiores habilitados, devendo ser elaborado e remetido a cada associação relatório contendo as conclusões de cada fiscalização.
+
+- *Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/lei/21-1999-534592), em vigor a partir de 1999-04-26*
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 209/98 - Diário da República n.º 161/1998, Série I-A de 1998-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), em vigor a partir de 1998-07-20*
+
+## Capítulo VI — Fiscalização
+
+### Artigo 26.º — Competência da DGV
+
+Compete à DGV a fiscalização das actividades dos centros de exame.
+
+### Artigo 27.º — Direitos da fiscalização
+
+1 - Aos funcionários da DGV em funções de fiscalização deve ser facultado o acesso:
+
+a) A todos os documentos e processos de exame;
+
+b) Às provas em curso, com a possibilidade de acompanhamento das mesmas.
+
+2 - Para efeitos do número anterior consideram-se em exercício de funções de fiscalização os funcionários como tal credenciados por despacho do director-geral de Viação, que para o efeito pode delegar esta competência no dirigente máximo do serviço da DGV da área do centro de exame a fiscalizar.
+
+### Artigo 28.º — Reclamações
+
+As reclamações sobre o funcionamento dos centros de exame ou sobre os resultados das provas neles efectuadas, apresentadas por examinandos, instrutores ou escolas de condução, nos referidos centros, são remetidas pelos seus responsáveis, no prazo de cinco dias úteis, ao serviço de viação da sua área, acompanhadas de relatório ou resposta à reclamação.
+
+### Artigo 29.º — Livro de reclamações
+
+Em cada centro de exames deve existir, à disposição do público utente, um livro de reclamações, com termos de abertura e encerramento efectuados pelo serviço de viação da área a que o mesmo pertence.
+
+## Capítulo VII — Das contra-ordenações
+
+### Artigo 30.º — Contra-ordenações
+
+As infracções ao disposto no presente diploma constituem contra-ordenações sancionadas nos termos dos artigos seguintes.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724), em vigor a partir de 1997-12-06*
+
+### Artigo 31.º — Responsabilidade das associações e dos responsáveis dos centros
+
+1 - As infracções ao disposto nos artigos 6.º, n.º 3, 7.º, n.º 2, 8.º, n.º 1, alínea b), 10.º-A, n.os 1, 3 e 4, 15.º, 22.º, 27.º, n.º 1, e 29.º são da responsabilidade da associação autorizada e do responsável do centro de exames, sendo sancionadas com as seguintes coimas:
+
+a) De 300000$00 a 3000000$00, aplicável à associação, salvo no que se refere às contra-ordenações aos artigos 7.º, n.º 2, e 29.º, em que a coima é de 100000$00 a 1000000$00;
+
+b) De 50000$00 a 500000$00, aplicável ao responsável do centro.
+
+2 - As infracções ao disposto nos artigos 8.º, n.º 1, alíneas a) e c), 9.º, 18.º, n.º 1, e 25.º-A constituem contra-ordenações e são sancionadas com coima de 300000$00 a 3000000$00, aplicável à associação.
+
+3 - As infracções ao disposto nos artigos 10.º, n.º 1, 16.º, 20.º, 21.º, 23.º, n.º 1, 24.º, 25.º e 28.º constituem contra-ordenações puníveis com coima de 50000$00 a 500000$00, aplicável ao responsável do centro.
+
+4 - Às coimas pelas infracções ao disposto nos artigos 8.º, n.º 1, alíneas a) e c), 9.º, 10.º-A, 15.º e 25.º-A acresce a sanção acessória de encerramento do centro pelo período de dois meses a dois anos.
+
+5 - A sanção acessória referida no número anterior não é aplicável, com excepção da prevista para a infracção ao disposto no artigo 15.º, se a falta for sanada no prazo de 30 dias úteis após a notificação a que se refere o artigo 155.º, n.º 1, do Código da Estrada.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/98 - Diário da República n.º 161/1998, Série I-A de 1998-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), em vigor a partir de 1998-07-20*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724), em vigor a partir de 1997-12-06*
+
+### Artigo 32.º — Examinadores de condução
+
+*(Revogado)* — *Revogado pelo/a Artigo 49.º do/a Lei n.º 45/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-11-27*
+
+### Artigo 33.º — Falsas declarações
+
+A prestação de falsas declarações nos processos de autorização para a realização de exames de condução, abertura dos centros de exame, credenciação como examinadores e habilitações de responsável de centros de exame constitui contra-ordenação punível com coima de 400000$00 a 500000$00, no caso de pessoas singulares, ou até 1500000$00, no caso de pessoas colectivas, sem prejuízo da responsabilidade criminal que ao caso couber.
+
+### Artigo 34.º — Escolas de condução
+
+As infracções ao disposto nos artigos 10.º, n.º 3, no que respeita à cedência de veículos para exame, e 19.º, no que se refere à remessa do processo de exame dos serviços competentes da DGV, constituem contra-ordenação punível com coima de 150000$00 a 750000$00.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724), em vigor a partir de 1997-12-06*
+
+### Artigo 35.º — Exames de condução
+
+A prática de exames de condução sem para tal estar autorizado ou habilitado constitui contra-ordenação punível com coima de 450000$00 a 500000$00, no caso de pessoas singulares ou até 3000000$00 no caso de pessoas colectivas, sem prejuízo da responsabilidade criminal que ao caso couber.
+
+### Artigo 36.º — Revogação da autorização
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05, em vigor a partir de 1997-12-06*
+
+### Artigo 37.º — Interdição da profissão
+
+Os responsáveis de centros de exame punidos pela infracção ao disposto nos artigos 6.º, n.º 3, 8.º, n.º 1, ou 16.º podem, a título de sanção acessória, ser punidos com a interdição do exercício desta actividade pelo período de três meses a um ano.
+
+### Artigo 38.º — Examinadores de condução. Interdição de profissão
+
+*(Revogado)* — *Revogado pelo/a Artigo 49.º do/a Lei n.º 45/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29, em vigor a partir de 2012-11-27*
+
+### Artigo 39.º — Tentativa e negligência
+
+A tentativa e a negligência são sempre puníveis.
+
+### Artigo 40.º — Processos de contra-ordenação
+
+1 - Ao procedimento pelas contra-ordenações previstas no presente diploma é aplicável, com as necessárias adaptações, o disposto no Código da Estrada quanto ao processamento das contra-ordenações rodoviárias.
+
+2 - Compete ao director-geral de Viação a aplicação das sanções pelas contra-ordenações previstas no presente diploma.
+
+3 - O produto das coimas aplicadas tem o destino previsto no Decreto-Lei n.º 138/89, de 28 de Abril.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 209/98 - Diário da República n.º 161/1998, Série I-A de 1998-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1998-423602), em vigor a partir de 1998-07-20*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/97 - Diário da República n.º 281/1997, Série I-A de 1997-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724), em vigor a partir de 1997-12-06*
+
+### Artigo 41.º — Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas à DGV são exercidas pelos serviços e organismos das respectivas administrações regionais.
+
+## Capítulo VIII — Disposições finais
+
+### Artigo 42.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 14 de Março de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 19 de Abril de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 23 de Abril de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

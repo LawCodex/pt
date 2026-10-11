@@ -1,0 +1,125 @@
+---
+title: "Decreto-Lei n.º 390/2007"
+identifier: "Decreto-Lei n.º 390/2007"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2007-12-10
+last_amended: 2021-01-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156249837"
+retrieved: 2026-10-11
+summary: "Estabelece a obrigatoriedade de certificação dos produtos em aço utilizados como armaduras em betão, para efeitos da sua importação ou colocação no mercado, e revoga o Decreto-Lei n.º 128/99 , de 21 de Abril"
+issuer: "Ministério da Economia e da Inovação"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/390/2007/p/cons/20210129/pt/html"
+dre_id: 628781
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2007/12/23700/0882408825.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 390/2007
+
+Decreto-Lei n.º 390/2007
+
+de 10 de Dezembro
+
+A protecção eficaz e a segurança de pessoas e bens impõem que os empreendimentos de construção, incluindo os edifícios e outras obras de construção e de engenharia civil, devam ser concebidos e realizados de modo a satisfazer determinadas exigências essenciais, o que implica a não utilização de produtos de construção cujas características, por inadequadas, as possam comprometer.
+
+Foi, neste contexto, adoptada a Directiva n.º 89/106/CEE, do Conselho, de 21 de Dezembro de 1988, transposta para o direito interno pelo Decreto-Lei n.º 113/93, de 10 de Abril, alterado e republicado pelo Decreto-Lei n.º 4/2007, de 8 de Janeiro, a qual visa definir os procedimentos a adoptar com vista a garantir que os produtos de construção sejam adequados ao fim a que se destinam e possam vir a ser colocados no mercado com a marcação CE.
+
+O n.º 3 do artigo 3.º do referido decreto-lei estabelece que, na ausência de normas harmonizadas e de aprovações técnicas europeias, os produtos que satisfaçam disposições nacionais relativas à certificação obrigatória podem ser colocados no mercado, embora sem marcação CE.
+
+Foi neste enquadramento, e com base no reconhecimento do grande risco sísmico a que Portugal está sujeito, que oportunamente se aprovou o Decreto-Lei n.º 128/99, de 21 de Abril, relativa à colocação no mercado de varões de aço laminados a quente, do tipo nervurado, utilizados como armaduras em betão armado, tornando obrigatória a sua certificação.
+
+A experiência adquirida e os resultados obtidos com a aplicação do Decreto-Lei n.º 128/99, de 21 de Abril, aconselham agora, para benefício dos cidadãos e das empresas, a alteração da situação existente, alargando-se o âmbito da obrigatoriedade de certificação a todos os produtos em aço utilizados como armaduras em betão armado, reforçando deste modo a observância das condições que mais contribuem para a segurança das construções, através da garantia das características do aço utilizado e, naturalmente, da sua qualidade.
+
+Tendo em conta estes factos e a inexistência de norma harmonizada aplicável a este tipo de produtos a nível comunitário, procede-se à revogação do Decreto-Lei n.º 128/99, de 21 de Abril, alterado pelo Decreto-Lei n.º 441/99, de 2 de Novembro, substituindo-o pelas disposições normativas do presente acto, com redacção actualizada e com um âmbito dos produtos abrangidos mais alargado, de forma que fiquem sujeitos a certificação obrigatória, todos os produtos em aço utilizados como armaduras em betão, complementando, também, desta forma, as disposições previstas no artigo 23.º do Decreto-Lei n.º 349-C/83, de 30 de Julho, relativas à obrigação de classificação ou homologação das armaduras de aço para betão.
+
+O presente decreto-lei foi notificado à Comissão Europeia na fase de projecto, em cumprimento do disposto na Directiva n.º 98/34/CE, do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa ao procedimento de informação no domínio das normas e regras técnicas.
+
+Foram consultadas as associações do sector e outras entidades com interesses na matéria.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece as condições a que deve obedecer a colocação no mercado ou a importação de aço para utilização em armaduras para betão armado de modo a garantir a segurança e a satisfação das exigências essenciais dos edifícios e empreendimentos em que venham a ser aplicados.
+
+## Artigo 2.º — Âmbito
+
+O presente decreto-lei é aplicável aos fabricantes de aço para utilização em armaduras para betão armado, aos seus mandatários ou a quaisquer outras entidades responsáveis pela sua colocação no mercado, bem como, no caso da importação, às pessoas por conta de quem a declaração aduaneira de sujeição ao regime aduaneiro de introdução em livre prática é efectuada.
+
+## Artigo 3.º — Definições
+
+Para os efeitos deste decreto-lei, entende-se por aço para utilização em armaduras para betão armado os produtos em aço destinados a serem utilizados como armaduras em betão armado que se apresentem na forma de varões, barras, rolos ou bobinas, redes electrossoldadas, treliças e fitas ou bandas denteadas, independentemente do processo tecnológico utilizado na sua obtenção.
+
+## Artigo 4.º — Colocação no mercado e importação
+
+O aço para utilização em armaduras para betão armado, definido no artigo anterior, só pode ser colocado no mercado ou importado após ter sido certificado por organismo acreditado pela entidade competente no domínio da acreditação em conformidade com as metodologias do Sistema Português da Qualidade.
+
+## Artigo 5.º — Certificação e reconhecimento mútuo
+
+1 - A certificação a que se refere o artigo anterior deve assegurar a conformidade do aço para utilização em armaduras para betão armado com as normas ou especificações técnicas portuguesas aplicáveis ou com normas europeias ou normas ou especificações técnicas equivalentes de outro Estado membro da União Europeia, da Turquia, ou de um Estado subscritor do Acordo sobre o Espaço Económico Europeu.
+
+2 - Nos processos de certificação, a recolha de amostras, a realização dos ensaios de controlo externo, bem como a elaboração dos relatórios de apreciação dos resultados dos ensaios de controlo interno e externo, ficam a cargo de entidades devidamente acreditadas para o efeito, no âmbito do Sistema Português da Qualidade.
+
+3 - O reconhecimento dos relatórios e dos certificados de conformidade emitidos como resultado de ensaios e inspecções num Estado membro da União Europeia, na Turquia, ou num Estado subscritor do Acordo sobre o Espaço Económico Europeu, deve efectuar-se de acordo com o disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 113/93, de 10 de Abril, que transpõe a Directiva n.º 89/106/CEE, do Conselho, de 21 de Dezembro de 1988, relativa aos produtos de construção, alterado e republicado pelo Decreto-Lei n.º 4/2007, de 8 de Janeiro.
+
+## Artigo 6.º — Fiscalização
+
+1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização no mercado do disposto no presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - A instrução dos processos de contra-ordenação compete à ASAE, a quem devem ser enviados os autos relativos a infracções verificadas por outras entidades.
+
+3 - As entidades fiscalizadoras podem solicitar o auxílio de quaisquer outras autoridades sempre que o julguem necessário para o exercício das suas funções.
+
+## Artigo 7.º — Contra-ordenações
+
+1 - As infrações ao disposto no artigo 4.º constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+2 - Sem prejuízo do disposto no número anterior e, independentemente da responsabilidade civil em que podem incorrer os infratores, simultaneamente com a coima, pode ainda ser determinada, designadamente como pena acessória, a perda do produto em causa, sempre que a sua utilização em condições normais represente perigo que o justifique, de acordo com o previsto no RJCE.
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - A aplicação das coimas e sanções acessórias previstas nos números anteriores compete ao inspetor-geral da ASAE.
+
+5 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente artigo é repartido nos termos do RJCE.
+
+- *Alterado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 8.º — Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, a fiscalização do cumprimento do disposto no presente decreto-lei cabe aos serviços competentes das respectivas administrações regionais.
+
+## Artigo 9.º — Acompanhamento da aplicação do decreto-lei
+
+Sem prejuízo do disposto nos artigos anteriores, compete à Direcção-Geral das Actividades Económicas proceder ao acompanhamento da aplicação global deste decreto-lei, bem como elaborar as propostas de medidas necessárias à prossecução dos seus objectivos.
+
+## Artigo 10.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 128/99, de 21 de Abril, com as alterações introduzidas pelo Decreto-Lei n.º 441/99, de 2 de Novembro.
+
+## Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 180 dias após a sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 8 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Paulo Jorge Oliveira Ribeiro de Campos.
+
+Promulgado em 29 de Novembro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 30 de Novembro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

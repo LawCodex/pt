@@ -1,0 +1,157 @@
+---
+title: "Decreto-Lei n.º 299/99"
+identifier: "Decreto-Lei n.º 299/99"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1999-08-04
+last_amended: 2015-04-14
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-221609095"
+retrieved: 2026-10-11
+summary: "Regulamenta a base de dados da Procuradoria-Geral da República sobre a suspensão provisória de processos crime, nos termos dos artigos 281.º e 282.º do Código de Processo Penal"
+issuer: "Ministério da Justiça"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/299/1999/p/cons/20150414/pt/html"
+dre_id: 426746
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1999/08/180a00/50415043.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 299/99
+
+Decreto-Lei n.º 299/99
+
+de 4 de Agosto
+
+O recurso às novas aplicações informáticas é, actualmente, um instrumento indispensável à prossecução do objectivo de modernização do aparelho da justiça.
+
+A Lei n.º 67/98, de 26 de Outubro, estabelece que o tratamento dos dados pessoais deve processar-se de forma transparente e no estrito respeito pela reserva da vida privada, bem como pelos direitos, liberdades e garantias fundamentais do cidadão.
+
+O presente diploma cria na Procuradoria-Geral da República uma base de dados sobre a suspensão provisória de processos crime, nos termos dos artigos 281.º e 282.º do Código de Processo Penal, constituída por dados de natureza pessoal. Importa, pois, proceder à regulamentação desta base de dados.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+## Artigo 1.º — Âmbito e finalidade da base de dados
+
+1 - A Procuradoria-Geral da República dispõe de uma base de dados sobre suspensão provisória de processos crime, nos termos dos artigos 281.º e 282.º do Código de Processo Penal, adiante designada «suspensão provisória», com dados de natureza pessoal.
+
+2 - Esta base de dados tem por finalidade centralizar na Procuradoria-Geral da República a recolha, a atualização e o tratamento da informação relativa à aplicação do instituto da suspensão provisória do processo, incluindo para verificação do pressuposto previsto na alínea c) do n.º 1 do artigo 281.º do Código de Processo Penal.
+
+- *Alterado pelo/a Artigo 4.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14*
+
+## Artigo 2.º — Entidade responsável pelo tratamento da base de dados
+
+1 - A Procuradoria-Geral da República é a responsável pelo tratamento da base de dados «suspensão provisória», nos termos do artigo 3.º, alínea d), da Lei n.º 67/98, de 26 de Outubro.
+
+2 - Cabe ao Procurador-Geral da República, por si ou através de pessoa que designar, assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, apreciar a necessidade de conservação dos dados pessoais, velar pela legalidade da consulta ou da comunicação da informação, bem como definir os termos do controlo necessário à segurança da informação.
+
+## Artigo 3.º — Dados pessoais
+
+São recolhidos para tratamento automatizado os seguintes dados pessoais:
+
+a) O nome ou a denominação, a morada ou sede, a data de nascimento, a naturalidade, o estado civil e a profissão do arguido;
+
+b) A identificação do processo, o tipo de crime que o motivou e a indicação sumária dos termos relevantes quanto à suspensão provisória, nomeadamente as injunções e regras de conduta impostas, prazo da suspensão e, finda esta, se se seguiu o arquivamento do processo ou a acusação e, neste caso, qual o despacho judicial que sobre ela incidiu.
+
+- *Alterado pelo/a Artigo 4.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14*
+
+## Artigo 4.º — Recolha e actualização
+
+1 - Os dados devem ser exactos, pertinentes, actuais e não exceder a finalidade determinante da sua recolha, devendo ser seleccionados antes do seu registo informático.
+
+2 - Os dados pessoais constantes da base de dados «suspensão provisória» são recolhidos e actualizados a partir das comunicações dos agentes do Ministério Público junto dos respectivos tribunais.
+
+3 - A recolha dos dados para tratamento automatizado deve limitar-se ao estritamente necessário ao exercício das competências legais referidas no artigo 1.º, n.º 2, não podendo ser utilizada para qualquer outra finalidade com aquela incompatível.
+
+## Artigo 5.º — Acesso directo
+
+Têm acesso directo à base de dados, no exercício das suas funções e na medida das exigências de realização destas:
+
+a) Os funcionários da Procuradoria-Geral da República competentes para a realização dos procedimentos administrativos e informáticos inerentes ao registo e tratamento dos processos de que são colhidos;
+
+b) Os magistrados do Ministério Público e os magistrados judiciais, sempre que, no exercício das suas funções, o acesso se revele necessário à sua intervenção processual.
+
+## Artigo 6.º — Comunicação de dados
+
+1 - Os dados constantes do artigo 3.º podem ser comunicados, para instrução de processos criminais, aos magistrados e agentes do Ministério Público e aos tribunais.
+
+2 - Os dados conhecidos nos termos do número anterior não podem ser transmitidos a terceiros.
+
+3 - A informação pode ser divulgada para fins estatísticos, históricos ou de investigação científica, mediante autorização do responsável pela base de dados, desde que não possam ser identificáveis as pessoas a que respeita.
+
+## Artigo 7.º — Condições de transmissão dos dados
+
+1 - A qualidade dos dados deve ser verificada antes da sua comunicação.
+
+2 - A comunicação pode ser feita através de reprodução do registo ou registos informáticos respeitantes à pessoa em causa.
+
+3 - A comunicação dos dados pessoais deve respeitar os princípios da finalidade da recolha e da pertinência.
+
+## Artigo 8.º — Conservação dos dados pessoais
+
+1 - Os dados pessoais são conservados apenas durante o período estritamente necessário à realização do fim informativo a que se destinam, incluindo para verificação do pressuposto previsto na alínea c) do n.º 1 do artigo 281.º do Código de Processo Penal.
+
+2 - Sem prejuízo do disposto no número anterior, os dados pessoais inseridos na base são conservados:
+
+a) Pelo período de cinco anos, a contar da data do arquivamento do processo de que tenham sido extraídos, nos casos de suspensão provisória do processo pelo crime previsto no artigo 152.º ou por crime previsto no capítulo v do título i do livro ii, todos do Código Penal;
+
+b) Pelo período de três anos, a contar da data do arquivamento do processo de que tenham sido extraídos, nos restantes crimes;
+
+c) Indefinidamente, se vierem a mostrar-se necessários à prossecução dos fins previstos no artigo 6.º, n.º 3, caso em que o acesso fica condicionado a autorização do responsável pelo tratamento.
+
+3 - Caso o processo prossiga, os prazos referidos nas alíneas a) e b) do número anterior podem ser alargados até dois anos, a contar da data de extinção do procedimento criminal, desde que seja expressamente justificado o interesse na manutenção dos dados.
+
+- *Alterado pelo/a Artigo 4.º do/a [Lei n.º 27/2015 - Diário da República n.º 72/2015, Série I de 2015-04-14](https://diariodarepublica.pt/dr/detalhe/lei/27-2015-66970760), em vigor a partir de 2015-05-14*
+
+## Artigo 9.º — Acesso aos dados pelo titular
+
+A qualquer pessoa, devidamente identificada e que o solicite, por escrito, ao responsável pela base de dados, é reconhecido o direito de conhecer o conteúdo do registo ou registos dos seus dados pessoais, sem prejuízo do disposto no artigo 6.º da Lei n.º 65/93, de 26 de Agosto, e no artigo 11.º, n.º 2, da Lei n.º 67/98, de 26 de Outubro.
+
+## Artigo 10.º — Actualização e correcção de inexactidões
+
+Desde que o solicite, por escrito, ao responsável pela base de dados, qualquer pessoa tem, relativamente aos dados que lhe respeitem, o direito de exigir a actualização e a correcção de informações inexactas e o completamento das total ou parcialmente omissas, bem como a supressão das indevidamente registadas, nos termos do artigo 11.º, n.º 1, alínea d), da Lei n.º 67/98, de 26 de Outubro.
+
+## Artigo 11.º — Segurança da informação
+
+Tendo em vista a segurança da informação, e sem prejuízo do disposto no artigo 15.º da Lei n.º 67/98, de 26 de Outubro, são objecto de controlo:
+
+a) A entrada nas instalações utilizadas para o tratamento de dados pessoais, a fim de impedir o acesso aos dados por pessoa não autorizada;
+
+b) Os suportes utilizados, a fim de impedir que possam ser lidos, copiados, alterados ou retirados por pessoa não autorizada;
+
+c) A inserção de dados, para impedir a introdução, assim como qualquer tomada de conhecimento, alteração ou eliminação não autorizadas de dados pessoais;
+
+d) Os sistemas de tratamento automatizado de dados, para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;
+
+e) Acesso aos dados, para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;
+
+f) A transmissão de dados, para garantir que o envio destes, através de instalações de transmissão de dados, se limite às entidades autorizadas;
+
+g) A introdução de dados pessoais nos sistemas de tratamento automatizado, por forma a verificar-se que dados foram introduzidos, quando e por quem;
+
+h) A transmissão de dados e o transporte de suportes de dados, para impedir que os dados possam ser lidos, copiados, alterados ou eliminados por forma não autorizada.
+
+## Artigo 12.º — Sigilo profissional
+
+Aquele que, no exercício das suas funções, tome conhecimento de dados registados na base de dados «suspensão provisória» fica obrigado a sigilo profissional, nos termos do artigo 17.º, n.º 1, da Lei n.º 67/98, de 26 de Outubro.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - José Luís Lopes da Mota.
+
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 22 de Julho de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

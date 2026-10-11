@@ -1,0 +1,331 @@
+---
+title: "Decreto-Lei n.º 236/2015"
+identifier: "Decreto-Lei n.º 236/2015"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2015-10-14
+last_amended: 2024-10-22
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-211978595"
+retrieved: 2026-10-11
+summary: "Cria o Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica"
+issuer: "Ministério da Agricultura e do Mar"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/236/2015/p/cons/20241022/pt/html"
+dre_id: 70686130
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2015/10/20100/0894708952.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 236/2015
+
+Decreto-Lei n.º 236/2015
+
+de 14 de outubro
+
+O Regulamento (CE) n.º 549/2004, do Parlamento Europeu e do Conselho, de 10 de março de 2004, que estabelece o quadro para a realização do céu único europeu, alterado pelo Regulamento (CE) n.º 1070/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, em particular o n.º 2 do seu artigo 4.º, impõe a necessidade de assegurar a separação adequada, pelo menos a nível funcional, entre as autoridades supervisoras nacionais e os prestadores de serviços de navegação aérea.
+
+Ao mesmo tempo, a promoção da segurança no mar passa pelo reforço da capacidade de prevenção e de investigação dos acidentes marítimos, tendo como finalidade a melhoria dos indicadores de segurança da navegação.
+
+O Decreto-Lei n.º 18/2014, de 4 de fevereiro, aprovou a orgânica do Ministério da Agricultura e do Mar (MAM), prevendo a existência e funcionamento no MAM do Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica (GAMA), que sucedeu ao Gabinete de Prevenção e Investigação de Acidentes Marítimos (GPIAM).
+
+Seguindo o espírito subjacente ao esforço de racionalização decorrente do Plano de Redução e Melhoria da Administração Central (PREMAC), o Decreto-Lei n.º 18/2014, de 4 de fevereiro, integrou no GAMA as atribuições do Instituto Português do Mar e da Atmosfera, I. P. (IPMA, I. P.), no âmbito das funções de autoridade nacional no domínio da meteorologia aeronáutica civil.
+
+O presente decreto-lei cria o GAMA, procedendo à primeira alteração do Decreto-Lei n.º 68/2012, de 20 de março, que aprovou a orgânica do IPMA, I. P., bem como à revogação do Decreto-Lei n.º 140/2012, de 10 de julho, que estabeleceu a organização e o funcionamento do GPIAM, alterando, também, o Decreto-Lei n.º 18/2014, de 4 de fevereiro, atendendo à especificidade do estatuto do diretor do GAMA.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objeto
+
+O presente decreto-lei procede à criação do Gabinete de Investigação de Acidentes Marítimos, doravante designado por GAMA.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 2.º — Natureza
+
+O GAMA é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 3.º — Jurisdição territorial e sede
+
+1 - O GAMA tem jurisdição em todo o território nacional e no espaço marítimo sujeito à soberania ou jurisdição do Estado português e tem a sua sede em Lisboa.
+
+2 - Excluem-se do âmbito de jurisdição do GAMA as áreas sujeitas a jurisdição militar.
+
+3 - As operações e treinos militares realizados pelas Forças Armadas nas suas áreas de jurisdição ou em áreas especificamente segregadas para esse efeito estão excluídos do âmbito de aplicação do presente decreto-lei.
+
+4 - Sem prejuízo do disposto no número anterior, o GAMA pode estabelecer acordos específicos com as entidades militares.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 4.º — Órgão de investigação de acidentes marítimos
+
+1 - [Revogado.]
+
+2 - O GAMA é o órgão de investigação para efeitos do disposto no artigo 4.º da Lei n.º 18/2012, de 7 de maio, que transpôs a Diretiva 2009/18/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, que estabelece os princípios fundamentais que regem a investigação de acidentes no setor do transporte marítimo, nos termos do Código de Investigação de Acidentes Marítimos da Organização Marítima Internacional (OMI) (Casualty Investigation Code) anexo à Resolução MSC 255 (84) de 16 de maio de 2008, na sua redação atual.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 5.º — Missão
+
+1 - [Revogado.]
+
+2 - Como órgão de investigação de acidentes no setor do transporte marítimo, o GAMA tem por missão investigar os acidentes e incidentes marítimos, com a maior eficácia e rapidez possível, visando identificar as respetivas causas, elaborar e divulgar os correspondentes relatórios e emitir recomendações em matéria de segurança marítima que visem reduzir a sinistralidade marítima.
+
+- *Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 6.º — Atribuições
+
+1 - [Revogado.]
+
+2 - Na qualidade de órgão de investigação de acidentes no setor do transporte marítimo, o GAMA prossegue as seguintes atribuições:
+
+a) Desenvolver, de modo autónomo e independente, as atividades de investigação técnica relativas a acidentes e incidentes marítimos, com vista a apurar as respetivas causas;
+
+b) Determinar, nos casos em que atue como Estado-Membro investigador principal, em colaboração com os órgãos congéneres de investigação dos outros Estados legitimamente interessados, o âmbito da investigação e os aspetos práticos da sua realização;
+
+c) Respeitar a metodologia comum para a investigação de acidentes e incidentes marítimos, aprovada pelo Regulamento (UE) n.º 1286/2011, da Comissão, de 9 de dezembro de 2011, bem como o Código de Investigação de Acidentes Marítimos da OMI (Casualty Investigation Code), anexo à Resolução MSC. 255 (84) de 16 de maio de 2008, na sua redação atual;
+
+d) Assegurar que a investigação técnica é iniciada logo após a verificação do acidente ou incidente marítimo, ou, não sendo possível, no prazo de dois meses após a ocorrência do mesmo;
+
+e) Assegurar a elaboração dos relatórios das investigações, em conformidade com o disposto no artigo 11.º da Lei n.º 18/2012, de 7 de maio, e promover a sua divulgação, incluindo as suas conclusões e eventuais recomendações, ao público e, em especial, ao setor marítimo, no prazo de 12 meses após a data do acidente;
+
+f) Cooperar nas investigações técnicas conduzidas pelos órgãos de investigação de outros Estados-Membros da União Europeia ou delegar, por mútuo acordo, nesses órgãos de investigação a condução das investigações técnicas, nos termos previstos nos artigos 10.º, 15.º e 16.º da Lei n.º 18/2012, de 7 de maio;
+
+g) Receber e tratar todos os dados comunicados pela Autoridade Marítima Nacional relativos à ocorrência de acidentes ou incidentes marítimos;
+
+h) Comunicar à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos e à Direção-Geral da Autoridade Marítima a ocorrência de acidentes ou incidentes marítimos;
+
+i) Participar nas atividades desenvolvidas ao nível de organizações internacionais ou europeias no domínio da investigação e prevenção de acidentes marítimos, comunicando rapidamente à Comissão Europeia a necessidade de emissão de um alerta precoce, sempre que, em qualquer fase da investigação técnica, considere necessária uma intervenção urgente ao nível da União Europeia, para prevenir o risco de novos acidentes;
+
+j) Notificar a Comissão Europeia, através da plataforma europeia de informações sobre acidentes marítimos (EMCIP), dos acidentes e incidentes marítimos que envolvam um navio que arvora a bandeira nacional, independentemente do local onde ocorre o acidente ou incidente, bem como dos acidentes e incidentes marítimos que ocorram no mar territorial do Estado português ou nas suas águas interiores, qualquer que seja a bandeira do navio ou navios envolvidos nos mesmos, e ainda dos acidentes e incidentes marítimos que impliquem outros interesses legítimos do Estado português, usando, para o efeito, o modelo previsto no anexo I à Lei n.º 18/2012, de 7 de maio;
+
+k) Notificar a Comissão Europeia, através da EMCIP, dos motivos da decisão de não realização de uma investigação técnica;
+
+l) Fornecer à Comissão Europeia os dados resultantes das investigações técnicas, segundo o modelo da EMCIP;
+
+m) Fornecer à Organização Marítima Internacional as informações pertinentes sobre os resultados das investigações técnicas efetuadas;
+
+n) Acordar com os restantes Estados-Membros da União Europeia, no âmbito do quadro permanente de cooperação, as melhores formas de colaboração, a fim de:
+
+i) Permitir que os órgãos de investigação partilhem instalações, meios e equipamentos, para efeitos da perícia dos destroços e do equipamento do navio e de outros objetos de interesse para a investigação técnica, incluindo a extração e análise dos dados dos aparelhos de registo dos dados de viagem (VDR) e de outros dispositivos eletrónicos;
+
+ii) Prestar a assistência mútua técnica ou pericial necessária à execução de tarefas específicas;
+
+iii) Obter e partilhar informações relevantes para a análise dos dados relativos aos acidentes e à formulação de recomendações de segurança adequadas ao nível da União Europeia;
+
+iv) Definir princípios comuns para o seguimento a dar às recomendações de segurança e para a adaptação dos métodos de investigação ao progresso técnico e científico;
+
+v) Gerir adequadamente os alertas precoces previstos no artigo 13.º da Lei n.º 18/2012, de 7 de maio;
+
+vi) Estabelecer regras de confidencialidade para o intercâmbio dos depoimentos de testemunhas e do tratamento de dados e de outros elementos previstos no artigo 18.º da Lei n.º 18/2012, de 7 de maio, inclusive nas relações com países terceiros;
+
+vii) Organizar ações de formação relevantes para os investigadores;
+
+viii) Promover a cooperação com os órgãos de investigação de países terceiros e com as organizações internacionais de investigação de acidentes marítimos, nos domínios abrangidos pela Lei n.º 18/2012, de 7 de maio;
+
+ix) Prestar todas as informações pertinentes aos órgãos de investigação técnica.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 7.º — Diretor
+
+1 - O GAMA é dirigido por um diretor, cargo de direção superior de 1.º grau.
+
+2 - Para além das competências previstas na lei, relativas à direção e gestão do GAMA, bem como das que nele sejam delegadas ou subdelegadas, compete, em especial, ao diretor:
+
+a) Constituir mandatários e designar representantes do GAMA junto de outras entidades;
+
+b) Liquidar e cobrar as taxas que sejam devidas ao GAMA, nos termos da lei, bem como exigir pagamentos resultantes de proveitos da sua atividade;
+
+c) Instaurar processos que visem punir ou prevenir a prática de infrações às normas cujo cumprimento esteja sob supervisão do GAMA;
+
+d) Iniciar e decidir os processos de contraordenação da competência do GAMA e aplicar as correspondentes sanções;
+
+e) [Revogada.]
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 8.º — Tipo de organização interna
+
+- O GAMA dispõe de um modelo estrutural misto, sendo as funções de investigação, na área dos acidentes no setor do transporte marítimo, exercidas através de uma estrutura matricial.
+
+2 - O diretor do GAMA pode constituir uma equipa multidisciplinar, designando o responsável pela investigação técnica de acidentes e incidentes marítimos.
+
+3 - O chefe da equipa multidisciplinar é equiparado a cargo de direção intermédia de 1.º grau.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 9.º — Apoio logístico e administrativo
+
+O apoio logístico e administrativo indispensável ao funcionamento do GAMA é prestado pela Direção-Geral de Política do Mar.
+
+## Artigo 10.º — Receitas
+
+1 - O GAMA dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - O GAMA dispõe ainda das seguintes receitas próprias:
+
+a) As taxas e outras receitas devidas em resultado do exercício da sua atividade;
+
+b) As comparticipações e subsídios concedidos por organismos nacionais, comunitários ou extracomunitários, no âmbito de programas e projetos estruturais;
+
+c) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As importâncias a que se refere o número anterior constituem receita própria do GAMA, a inscrever no Orçamento do Estado, consignada à despesa com as atribuições do GAMA.
+
+4 - As receitas próprias não aplicadas em cada ano transitam para o ano seguinte.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 11.º — Despesas
+
+Constituem despesas do GAMA as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+## Artigo 12.º — Mapa de cargos de direção
+
+O lugar de direção superior de 1.º grau do GAMA consta do anexo II ao presente decreto-lei, do qual faz parte integrante.
+
+## Artigo 13.º — Colaboração de outras entidades
+
+1 - O GAMA pode solicitar a outros serviços, organismos e órgãos da Administração Pública, às entidades administrativas independentes, às Forças Armadas, à Autoridade Marítima Nacional, às forças de segurança e a empresas públicas ou privadas, a colaboração de especialistas em áreas específicas para integrarem ou assessorarem as diligências de investigação.
+
+2 - O GAMA pode ainda celebrar acordos de colaboração com outras entidades, públicas ou privadas, no âmbito da realização das investigações técnicas.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 14.º — Trabalhadores
+
+1 - Aos trabalhadores do GAMA com funções técnicas, num quadro de ampla responsabilidade, iniciativa e autonomia, incumbe o exercício de funções de natureza técnico-científica, exigindo um elevado grau de qualificação, bem como o domínio da área de especialização compatível com a realização das finalidades institucionais do GAMA.
+
+2 - Cada trabalhador com funções técnicas deve ser portador de um documento individual emitido pelo GAMA, constituído por um cartão de identificação, o qual inclui os elementos de identificação constantes do anexo I ao presente decreto-lei, do qual faz parte integrante.
+
+3 - O trabalhador responsável pela inspeção e pela investigação técnicas deve assegurar que as ações necessárias às mesmas são conduzidas de acordo com a metodologia comum europeia aplicável, incluindo o cumprimento do disposto no artigo 8.º da Lei n.º 18/2012, de 7 de maio.
+
+4 - [Revogado.]
+
+5 - [Revogado.]
+
+6 - Os trabalhadores com funções de investigação são providos por despacho do diretor, em regime de comissão de serviço, pelo período de três anos, renovável por iguais períodos, de entre profissionais de reconhecido mérito e comprovada experiência nas matérias atinentes à investigação de segurança de acidentes e incidentes marítimos, sendo remunerados pelo nível 47 da tabela remuneratória única.
+
+7 - O exercício de funções no GAMA é considerado, para todos os efeitos legais, como tempo de serviço efetivo prestado na categoria de origem.
+
+8 - A dotação de investigadores é aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 15.º — Exercício de funções técnicas no GAMA
+
+Os trabalhadores com funções técnicas do GAMA devem ter comprovada experiência nas matérias atinentes à investigação de acidentes marítimos, sendo-lhes exigível:
+
+a) Disponibilidade permanente para a prestação de trabalho a qualquer hora e em qualquer dia, sempre que solicitada;
+
+b) Isenção de horário de trabalho;
+
+c) Sigilo quanto às informações obtidas no exercício das suas funções, designadamente as que se relacionam com a segurança pública.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2024-892125865), em vigor a partir de 2024-11-21*
+
+## Artigo 16.º — Sucessão
+
+*(Revogado)* — *Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22, em vigor a partir de 2024-11-21*
+
+## Artigo 17.º — Critérios de seleção de pessoal
+
+*(Revogado)* — *Revogado pelo/a Artigo 7.º do/a Decreto-Lei n.º 75/2024 - Diário da República n.º 205/2024, Série I de 2024-10-22, em vigor a partir de 2024-11-21*
+
+## Artigo 18.º — Alteração ao Decreto-Lei n.º 68/2012, de 20 de março
+
+Os artigos 2.º e 3.º do Decreto-Lei n.º 68/2012, de 20 de março, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - O IPMA, I. P., dispõe de dois serviços desconcentrados, designados por delegações.
+
+Artigo 3.º
+
+[...]
+
+1 - O IPMA, I. P., é o laboratório de Estado que tem por missão assegurar a prossecução das estratégias e políticas nacionais nos domínios do mar e da atmosfera promovendo e coordenando a investigação, o desenvolvimento tecnológico, a inovação e a prestação de serviços.
+
+2 - O IPMA, I. P., é investido nas funções de autoridade nacional de meteorologia, com exceção da meteorologia aeronáutica civil.
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)»
+
+## Artigo 19.º — Alteração ao Decreto-Lei n.º 18/2014, de 4 de fevereiro
+
+O artigo 21.º do Decreto-Lei n.º 18/2014, de 4 de fevereiro, passa a ter a seguinte redação:
+
+«Artigo 21.º
+
+[...]
+
+1 - [...].
+
+2 - O GAMA é dirigido por um diretor, equiparado a cargo de direção superior de 1.º grau.»
+
+## Artigo 20.º — Referências legais
+
+As referências legais, regulamentares ou contratuais ao GPIAM, previsto na Lei n.º 18/2012, de 7 de maio, consideram-se feitas ao GAMA.
+
+## Artigo 21.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 3 do artigo 5.º do Decreto-Lei n.º 68/2012, de 20 de março;
+
+b) O Decreto-Lei n.º 140/2012, de 10 de julho.
+
+## Artigo 22.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues - Leonardo Bandeira de Melo Mathias - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 8 de outubro de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 9 de outubro de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo I — Elementos do cartão de identificação
+
+(a que se refere o n.º 2 do artigo 14.º)
+
+O cartão de identificação dos trabalhadores com funções técnicas deve conter as seguintes informações:
+
+a) Nome da entidade emissora;
+
+b) Nome completo do detentor do cartão de identificação;
+
+c) Fotografia atual do detentor do cartão de identificação;
+
+d) Assinatura do detentor do cartão de identificação;
+
+e) Designação da competência (a identificada no artigo 14.º, conforme as atribuições previstas no artigo 6.º) e declaração autorizando o detentor a efetuar as fiscalizações ou as investigações ao abrigo do presente decreto-lei e direito de acesso sem restrições aos locais de fiscalização ou de investigação;
+
+f) Tradução no verso, em língua inglesa, dos elementos referidos nas alíneas anteriores.
+
+## Anexo II (a que se refere o artigo 12.º)
+
+(ver documento original)

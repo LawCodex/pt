@@ -1,0 +1,201 @@
+---
+title: "Decreto-Lei n.º 308/2003"
+identifier: "Decreto-Lei n.º 308/2003"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2003-12-10
+last_amended: 2007-05-28
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-224821588"
+retrieved: 2026-10-11
+summary: "Regulamenta a Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de Junho, no que respeita ao regime jurídico da Comissão da Liberdade Religiosa"
+issuer: "Ministério da Justiça"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/308/2003/p/cons/20070528/pt/html"
+dre_id: 429402
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2003/12/284a00/83278329.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 308/2003
+
+Decreto-Lei n.º 308/2003
+
+de 10 de Dezembro
+
+A Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de Junho, prevê, no seu artigo 69.º, a publicação de diplomas relativos ao registo de pessoas colectivas religiosas e à Comissão da Liberdade Religiosa.
+
+Incumbe, pois, ao Governo proceder à regulamentação da Comissão da Liberdade Religiosa, designadamente no que se refere às suas atribuições, ao estatuto dos seus membros e às regras do seu funcionamento, incluindo os aspectos relativos ao apoio administrativo e logístico.
+
+Considerando que o essencial destas matérias está já disposto nos artigos 52.º a 57.º da citada lei, optou-se por assegurar o respeito pela natureza de órgão independente e consultivo da Comissão, o que se traduz quer no estatuto dos membros da Comissão quer na dignidade e flexibilidade da estrutura administrativa que a serve.
+
+Foram consultadas diversas confissões e associações religiosas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição e do n.º 3 do artigo 57.º e do artigo 69.º da Lei n.º 16/2001, de 22 de Junho, o Governo decreta o seguinte:
+
+## Capítulo I — Natureza, atribuições e competências
+
+### Artigo 1.º — Natureza
+
+1 - A Comissão da Liberdade Religiosa é um órgão independente, de consulta da Assembleia da República e do Governo.
+
+2 - O funcionamento da Comissão é assegurado pela Secretaria-Geral do Ministério da Justiça, que presta o apoio administrativo e logístico necessário ao desempenho das suas atribuições, incluindo nos domínios informático, bibliográfico e documental.
+
+### Artigo 2.º — Atribuições
+
+1 - A Comissão tem atribuições no âmbito da protecção do exercício da liberdade religiosa, de controlo da aplicação, desenvolvimento e revisão da Lei da Liberdade Religiosa, de pronúncia sobre as matérias relacionadas com a mesma lei e, em geral, com o direito das confissões religiosas em Portugal.
+
+2 - A Comissão tem igualmente atribuições no âmbito do estudo e investigação científica das igrejas, comunidades e movimentos religiosos em Portugal.
+
+### Artigo 3.º — Competências
+
+1 - No exercício das suas atribuições, compete, nomeadamente, à Comissão:
+
+a) Emitir parecer sobre os projectos de acordos entre igrejas ou comunidades religiosas e o Estado;
+
+b) Emitir parecer sobre a radicação no País de igrejas ou comunidades religiosas;
+
+c) Emitir parecer sobre a composição da Comissão do Tempo de Emissão das Confissões Religiosas;
+
+d) Emitir parecer sobre a inscrição de igrejas ou comunidades religiosas que for requerido pelo serviço do registo das pessoas colectivas religiosas;
+
+e) Alertar e prevenir as autoridades competentes em caso de violação ou atentado contra a liberdade religiosa ou de qualquer tipo de discriminação religiosa;
+
+f) Estudar a evolução dos movimentos religiosos em Portugal e, em especial, reunir e manter actualizada a informação sobre novos movimentos religiosos, fornecer a informação científica e estatística necessária aos serviços, instituições e pessoas interessadas e publicar um relatório anual sobre a matéria;
+
+g) Elaborar estudos, informações, pareceres e propostas que lhe forem cometidos por lei, pela Assembleia da República, pelo Governo ou por própria iniciativa;
+
+h) Colaborar com os serviços competentes na recolha e processamento de dados estatísticos, não individualmente identificáveis referentes a convicções pessoais ou de fé religiosa, bem como na publicação de relatórios de análise de dados disponíveis;
+
+i) Organizar, promover e colaborar na realização por outras entidades de cursos, seminários, colóquios e conferências sobre direito e sociologia das religiões;
+
+j) Promover e colaborar em debates e acções de formação da opinião pública com vista, nomeadamente, a combater a intolerância e a discriminação por motivos religiosos;
+
+l) Trocar informação e cooperar com serviços e instituições nacionais, estrangeiras ou internacionais;
+
+m) Celebrar acordos ou propor a celebração de contratos, visando a realização de trabalhos de investigação ou o apoio à sua realização;
+
+n) Promover a edição de publicações.
+
+2 - Compete ainda à Comissão:
+
+a) Elaborar o seu próprio regulamento interno;
+
+b) Exercer as demais funções atribuídas por lei.
+
+## Capítulo II — Organização
+
+### Artigo 4.º — Composição
+
+1 - A Comissão é constituída pelos seguintes membros:
+
+a) Presidente;
+
+b) Dois membros designados pela Conferência Episcopal Portuguesa;
+
+c) Três membros designados pelo Ministro da Justiça de entre as pessoas indicadas pelas igrejas ou comunidades religiosas não católicas radicadas no País e pelas federações em que as mesmas se integrem, tendo em consideração a representatividade de cada uma e o princípio da tolerância;
+
+d) Cinco pessoas de reconhecida competência científica nas áreas relativas às funções da Comissão designadas pelo Ministro da Justiça, de modo a assegurar o pluralismo e a neutralidade do Estado em matéria religiosa.
+
+2 - Têm assento na Comissão, quando a questão sob apreciação diga respeito a uma igreja ou comunidade religiosa sem assento na Comissão, um representante daquela igreja ou comunidade religiosa, na qualidade de observador e sem direito de voto.
+
+3 - Têm igualmente assento na Comissão, sempre que esta o entender necessário ou conveniente, representantes governamentais nas áreas da justiça, das finanças, da administração interna e da segurança social e do trabalho, designados pelo respectivo membro do Governo, que não terão direito a voto.
+
+4 - Quando a questão sob apreciação diga respeito a uma área distinta das indicadas no número anterior, pode participar nas sessões correspondentes um representante do ministério em causa convocado pela Comissão.
+
+### Artigo 5.º — Presidente
+
+1 - O presidente da Comissão é designado pelo Conselho de Ministros de entre juristas de reconhecido mérito.
+
+2 - Ao presidente compete promover e orientar as actividades da Comissão e, em especial:
+
+a) Representar a Comissão e assegurar as suas relações com os demais órgãos e autoridades públicas;
+
+b) Presidir às reuniões da Comissão e dirigir os trabalhos;
+
+c) Convocar reuniões extraordinárias;
+
+d) Elaborar os projectos de planos anuais e plurianuais de actividades e assegurar a sua execução;
+
+e) Elaborar o projecto de relatório anual de actividades e submetê-lo à aprovação da Comissão;
+
+f) Exercer as demais competências que lhe sejam conferidas.
+
+### Artigo 6.º — Vice-presidente
+
+1 - O vice-presidente da Comissão é designado pelo presidente, de entre os membros da Comissão, ouvidos os membros da comissão permanente.
+
+2 - Compete ao vice-presidente:
+
+a) Substituir o presidente nas suas faltas e impedimentos;
+
+b) Coadjuvar o presidente no exercício das suas funções, nomeadamente presidindo às reuniões da comissão permanente em que o substitua.
+
+3 - Compete ainda ao vice-presidente exercer as competências que lhe sejam delegadas pelo presidente.
+
+### Artigo 7.º — Mandatos
+
+O mandato dos membros da Comissão é trienal e renovável.
+
+### Artigo 8.º — Estatuto dos membros da Comissão
+
+1 - Os membros da Comissão, quando não sejam funcionários públicos ou agentes do Estado, por cada reunião em que efectivamente participem, têm direito a perceber senhas de presença no valor de 20% do índice 100 da tabela do regime geral da função pública.
+
+2 - (Revogado.)
+
+3 - O exercício do mandato na Comissão não prejudica o exercício de funções em regime de dedicação exclusiva e corresponde, nos termos do disposto no n.º 2 do artigo 57.º da Lei n.º 16/2001, de 22 de Junho, ao exercício de funções de investigação científica de natureza jurídica.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 204/2007 - Diário da República n.º 102/2007, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2007-638518), em vigor a partir de 2007-05-29*
+
+## Capítulo III — Funcionamento
+
+### Artigo 9.º — Funcionamento da Comissão
+
+1 - A Comissão pode funcionar em plenário ou em comissão permanente.
+
+2 - Estão reservadas ao plenário da Comissão, no que se refere à aprovação final dos pareceres, as competências referidas nas alíneas a) a d) do n.º 1 do artigo 3.º, assim como o exercício da competência prevista na alínea a) do n.º 2 do mesmo artigo.
+
+3 - A Comissão pode constituir grupos de trabalho, presididos por um dos seus membros, para a realização de tarefas determinadas no âmbito das suas funções.
+
+### Artigo 10.º — Comissão permanente
+
+1 - A comissão permanente é constituída pelos membros da Comissão referidos nas alíneas a), b) e c) do n.º 1 do artigo 4.º
+
+2 - O presidente preside à comissão permanente, podendo fazer-se substituir pelo vice-presidente.
+
+3 - Cada um dos outros membros da comissão permanente pode fazer-se substituir nas respectivas sessões por aquele dos membros da Comissão referido na alínea d) do n.º 1 do artigo 4.º que para o efeito designar.
+
+### Artigo 11.º — Sessões
+
+1 - A Comissão reúne ordinariamente em sessão plenária nos dias e horas que fixar e extraordinariamente quando convocada pelo presidente, por sua iniciativa ou a requerimento de cinco dos seus membros.
+
+2 - A comissão permanente reúne ordinariamente nos dias e horas que fixar, tendo em atenção o determinado quanto às sessões plenárias, e extraordinariamente quando convocada pelo presidente.
+
+### Artigo 12.º — Quórum e deliberações
+
+1 - A Comissão, em plenário ou em comissão permanente, só pode funcionar estando presente a maioria dos respectivos membros em efectividade de funções, incluindo o presidente ou o vice-presidente.
+
+2 - As deliberações são tomadas à pluralidade de votos dos membros presentes.
+
+3 - Cada membro dispõe de um voto e o presidente, ou o vice-presidente quando o substitua, dispõe de voto de qualidade.
+
+4 - Os membros da Comissão têm o direito de fazer lavrar voto de vencido nos pareceres referidos nas alíneas a), b), c) e d) do n.º 1 do artigo 3.º, quando tenham participado na deliberação que o aprovou.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 18 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix.
+
+Promulgado em 20 de Novembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 24 de Novembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -1,0 +1,218 @@
+---
+title: "Decreto-Lei n.º 495/88"
+identifier: "Decreto-Lei n.º 495/88"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1988-12-30
+last_amended: 2001-12-27
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-34489975"
+retrieved: 2026-10-11
+designation: "Regime jurídico das sociedades gestoras de participações sociais"
+summary: "Define o regime jurídico das sociedades gestoras de participações sociais"
+issuer: "Ministério das Finanças"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/495/1988/p/cons/20011227/pt/html"
+dre_id: 401897
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1988/12/30106/05540556.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 495/88
+
+Com a publicação do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de Setembro, e do Decreto-Lei n.º 414/87, de 31 de Dezembro, foram feitos alguns progressos no sentido da revisão do quadro legal das sociedades holding.
+
+A meta do mercado único europeu, a atingir já em 1992, impõe, porém, que sejam dados outros passos mais significativos no sentido de criar condições favoráveis, designadamente de natureza fiscal, que facilitem e incentivem a criação de grupos económicos, enquanto instrumentos adequados a contribuir para o fortalecimento do tecido empresarial português.
+
+O presente diploma visa, em conformidade, proporcionar aos empresários um quadro jurídico que lhes permita reunir numa sociedade as suas participações sociais, em ordem à sua gestão centralizada e especializada.
+
+Nestes termos, optou-se por abandonar a designação «sociedade de controlo», usada no Decreto-Lei n.º 271/72, de 2 de Agosto, a qual implica uma ideia de domínio que não se concilia com os requisitos gerais de domínio de uma sociedade por outra, estabelecidos no artigo 486.º do Código das Sociedades Comerciais.
+
+Através da nova designação, «sociedade gestoras de participações sociais», abreviadamente SGPS, pretende-se retratar mais fielmente o objecto das sociedades em causa.
+
+Reduz-se também, de forma sensível, o montante relevante para efeitos de qualificação da participação como forma indirecta de exercício de actividades económicas.
+
+Com esta redução pretende-se atribuir tal qualificação a participações que, não podendo ser consideradas «participações de controlo», uma vez que não conferem o domínio sobre a sociedade participada, não se traduzem, no entanto, numa mera aplicação de capitais, assumindo antes uma presença e intervenção activas, como sócias da referida sociedade participada.
+
+A natureza de verdadeira intervenção é, aliás, reforçada através do novo requisito de permanência da participação.
+
+Saliente-se, ainda, a possibilidade que se confere às referidas sociedades de, complementarmente à sua actividade principal, prestarem, em determinadas circunstâncias, serviços técnicos de administração e gestão às sociedades participadas.
+
+O regime fiscal que o presente diploma adopta para as SGPS, em sequência da Lei n.º 98/98, de 17 de Agosto, tem em vista a concessão de benefícios, sem os quais, de resto, tais sociedades teriam viabilidade duvidosa ou pouco interesse prático.
+
+Relativamente à forma de constituição das SGPS, refira-se que não há dependência de qualquer autorização prévia, embora se estabeleça o dever de comunicação, enquanto a forma de fiscalização fica limitada à verificação da manutenção dos requisitos que a lei exige para a definição do seu tipo e para a atribuição dos benefícios de natureza fiscal.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 98/88, de 17 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Sociedades gestoras de participações sociais
+
+1 - As sociedades gestoras de participações sociais, adiante designadas abreviadamente por SGPS, têm por único objecto contratual a gestão de participações sociais noutras sociedades, como forma indirecta de exercício de actividades económicas.
+
+2 - Para efeitos do presente diploma, a participação numa sociedade é considerada forma indirecta de exercício da actividade económica desta quando não tenha carácter ocasional e atinja, pelo menos, 10% do capital com direito de voto da sociedade participada, quer por si só quer através de participações de outras sociedades em que a SGPS seja dominante.
+
+3 - Para efeitos do número anterior, considera-se que a participação não tem carácter ocasional quando é detida pela SGPS por período superior a um ano.
+
+4 - As SGPS podem adquirir e deter participações de montante inferior ao referido no n.º 2, nos termos dos n.os 3 a 5 do artigo 3.º
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+- *Rectificado pelo/a [Declaração - Diário da República n.º 49/1989, Suplemento n.º 1, Série I de 1989-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-244913), em vigor a partir de 1989-02-28*
+
+## Artigo 2.º — Tipo de sociedade e requisitos especiais do contrato
+
+1 - As SGPS podem constituir-se segundo o tipo de sociedades anónimas ou de sociedades por quotas.
+
+2 - Os contratos pelos quais se constituem SGPS devem mencionar expressamente como objecto único da sociedade a gestão de participações sociais de outras sociedades, como forma indirecta de exercício de actividades económicas, nos termos do n.º 2 do artigo anterior.
+
+3 - O contrato da sociedade pode restringir as participações admitidas, em função quer do tipo, objecto ou nacionalidade das sociedades participadas quer do montante das participações.
+
+4 - A firma das SGPS deve conter a menção «sociedade gestora de participações sociais» ou a abreviatura SGPS, considerando-se uma ou outra dessas formas indicação suficiente do objecto social.
+
+## Artigo 3.º — Participações admitidas
+
+1 - As SGPS podem adquirir e deter quotas ou acções de quaisquer sociedades, nos termos da lei.
+
+2 - As SGPS podem adquirir e deter participações em sociedades subordinadas a um direito estrangeiro, nos mesmos termos em que podem adquirir e deter participações em sociedades sujeitas ao direito português, salvas as restrições constantes dos respectivos contratos e ordenamentos jurídicos estrangeiros.
+
+3 - Com excepção do disposto na parte final do n.º 2 do artigo 1.º, as SGPS só podem adquirir e deter acções ou quotas correspondentes a menos de 10% do capital com direito de voto da sociedade participada nos seguintes casos:
+
+a) Até ao montante de 30% do valor total das participações iguais ou superiores a 10% do capital social com direito de voto das sociedades participadas, incluídas nos investimentos financeiros constantes do último balanço aprovado;
+
+b) Quando o valor de aquisição de cada participação não seja inferior a 1 milhão de contos, de acordo com o último balanço aprovado;
+
+c) Quando a aquisição das participações resulte de fusão ou de cisão da sociedade participada;
+
+d) Quando a participação ocorra em sociedade com a qual a SGPS tenha celebrado contrato de subordinação.
+
+4 - No ano civil em que uma SGPS for constituída, a percentagem de 30% referida na alínea a) do número anterior é reportada ao balanço desse exercício.
+
+5 - Sem prejuízo da sanção prevista no n.º 1 do artigo 13.º, a ultrapassagem, por qualquer motivo, do limite estabelecido na alínea a) do n.º 3 deve ser regularizada no prazo de seis meses a contar da sua verificação.
+
+6 - Em casos excepcionais, o Ministro das Finanças, a requerimento da SGPS interessada, poderá, mediante despacho fundamentado, prorrogar o prazo estabelecido no número anterior.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Artigo 4.º — Prestação de serviços
+
+1 - É permitida às SGPS a prestação de serviços técnicos de administração e gestão a todas ou a algumas das sociedades em que detenham participações previstas no n.º 2 do artigo 1.º e nas alíneas a) a c) do n.º 3 do artigo 3.º ou com as quais tenham celebrado contratos de subordinação.
+
+2 - A prestação de serviços deve ser objecto de contrato escrito, no qual deve ser identificada a correspondente remuneração.
+
+3 - (Revogado).
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Artigo 5.º — Operações vedadas
+
+1 - Às SGPS é vedado:
+
+a) Adquirir ou manter na sua titularidade bens imóveis, exceptuados os necessários à sua própria instalação ou de sociedades em que detenham as participações abrangidas pelo n.º 2 do artigo 1.º, os adquiridos por adjudicação em acção executiva movida contra os seus devedores e os provenientes de liquidação de sociedades suas participadas, por transmissão global, nos termos do artigo 148.º do Código das Sociedades Comerciais;
+
+b) Antes de decorrido um ano sobre a sua aquisição, alienar ou onerar as participações abrangidas pelo n.º 2 do artigo 1.º e pelas alíneas a) a c) do n.º 3 do artigo 3.º, excepto se a alienação for feita por troca ou o produto da alienação for reinvestido no prazo de seis meses noutras participações abrangidas pelo citado preceito ou pelo n.º 3 do artigo 3.º ou ainda no caso de o adquirente ser uma sociedade dominada pela SGPS, nos termos do n.º 1 do artigo 486.º do Código das Sociedades Comerciais;
+
+c) Conceder crédito, excepto às sociedades que sejam por ela dominadas nos termos do artigo 486.º do Código das Sociedades Comerciais ou a sociedades em que detenham participações previstas no n.º 2 do artigo 1.º e nas alíneas b) e c) do n.º 3 do artigo 3.º, sem prejuízo do disposto no número seguinte.
+
+2 - Para efeitos da alínea c) do número anterior, a concessão de crédito pela SGPS a sociedades em que detenham participações aí mencionadas, mas que não sejam por ela dominadas, só será permitida até ao montante do valor da participação constante do último balanço aprovado, salvo se o crédito for concedido através de contratos de suprimento.
+
+3 - As operações a que se refere a alínea c) do n.º 1, efectuadas nas condições estabelecidas no número anterior, bem como as operações de tesouraria efectuadas em benefício da SGPS pelas sociedades participadas que com ela se encontrem em relação de domínio ou de grupo, não constituem concessão de crédito para os efeitos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.
+
+4 - As SGPS e as sociedades em que estas detenham participações previstas no n.º 2 do artigo 1.º e nas alíneas b) e c) do n.º 3 do artigo 3.º, deverão mencionar, de modo individualizado, nos documentos de prestação de contas, os contratos celebrados ao abrigo da alínea c) do n.º 1 e as respectivas posições credoras ou devedoras no fim do ano civil a que os mesmos documentos respeitam.
+
+5 - O prazo previsto na parte final da alínea b) do n.º 1 é alargado para a data correspondente ao fim do segundo exercício seguinte ao da realização da alienação, quando se trate de participação cujo valor de alienação não seja inferior a 1 milhão de contos.
+
+6 - O valor de aquisição inscrito no balanço das SGPS relativo aos bens imóveis destinados à instalação de sociedades em que possuam as participações previstas no n.º 2 do artigo 1.º não pode exceder 25% do capital próprio das SGPS.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Artigo 6.º — Menções em actos externos
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24, em vigor a partir de 1994-12-29*
+
+## Artigo 7.º — Regime fiscal
+
+*(Revogado)* — *Revogado pelo/a Artigo 45.º do/a Lei n.º 109-B/2001 - Diário da República n.º 298/2001, Suplemento n.º 2, Série I-A de 2001-12-27, em vigor a partir de 2002-01-01*
+
+## Artigo 8.º — Objecto contratual e objecto de facto
+
+1 - As sociedades que tenham por objecto social uma actividade económica directa mas que possuam também participações noutras sociedades podem, nos termos do artigo 488.º do Código das Sociedades Comerciais, constituir com essas participações uma SGPS, sem prejuízo do disposto nos n.os 2 e 4 do artigo 1.º
+
+2 - As sociedades que, tendo diferente objecto contratual, tenham como único objecto de facto a gestão de participações noutras sociedades e, bem assim, as SGPS que exerçam de facto actividade económica directa serão dissolvidas pelo tribunal, nos termos do artigo 144.º do Código das Sociedades Comerciais, sem prejuízo da aplicação da sanção cominada pelo n.º 1 do artigo 13.º deste diploma.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+
+## Artigo 9.º — Dever de comunicação
+
+1 - Os conservadores do registo comercial comunicarão à Inspecção-Geral de Finanças, com remessa dos textos registados, a constituição de SGPS e as alterações dos respectivos contratos, no prazo de 30 dias contado a partir do registo, ainda que provisório.
+
+2 - As SGPS devem remeter anualmente à Inspecção-Geral de Finanças, até 30 de Junho, o inventário das partes de capital incluídas nos investimentos financeiros constantes do último balanço aprovado.
+
+3 - Quando as SGPS não remetam o referido inventário, a Inspecção-Geral de Finanças deve notificá-las para que procedam ao respectivo envio.
+
+4 - Notificadas nos termos do número anterior, as SGPS devem enviar à InspecçãoGeral de Finanças, no prazo de 10 dias úteis a contar da data da notificação, o mencionado inventário.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Artigo 10.º — Relatórios, publicidade e fiscalização
+
+1 - (Revogado).
+
+2 - As SGPS devem designar e manter um revisor oficial de contas ou uma sociedade de revisores oficiais de contas, desde o início de actividade, excepto se tal designação já lhes for exigida nos termos de outras disposições legais.
+
+3 - Sem prejuízo dos deveres previstos na legislação aplicável, é dever do revisor oficial de contas, ou da sociedade de revisores oficiais de contas, comunicar à Inspecção-Geral de Finanças, logo que delas tomem conhecimento, as infracções ao disposto no presente diploma que sejam imputadas à respectiva SGPS.
+
+4 - A Inspecção-Geral de Finanças, enquanto entidade a quem compete a supervisão das SGPS, comunicará ao Ministério Público as infracções que, nos termos deste diploma, determinem a dissolução das sociedades e aplicará as coimas previstas no n.º 1 do artigo 13.º
+
+5 - Ficam também sujeitas a registo especial e supervisão do Banco de Portugal as SGPS relativamente às quais se verifique alguma das situações previstas no artigo 117.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, sendo equiparadas a sociedades financeiras para efeitos do disposto no título XI do mesmo Regime Geral.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Artigo 11.º — Aplicação das norma respeitantes a sociedades coligadas
+
+1 - O disposto neste diploma não prejudica a aplicação das normas respeitantes a sociedades coligadas, as quais constam do título VI do Código das Sociedades Comerciais.
+
+2 - É vedado a todas as sociedades participadas por uma SGPS, nos termos do n.º 2 do artigo 1.º, adquirir acções ou quotas da SGPS sua participante, e bem assim de outras SGPS que nesta participem, exceptuados os casos previstos na parte final do n.º 1 do artigo 487.º do Código das Sociedades Comerciais.
+
+## Artigo 12.º — Antigas sociedades de controlo
+
+1 - As sociedades que tenham sido constituídas como sociedades de controlo, ao abrigo do Decreto-Lei n.º 271/72, de 2 de Agosto, ficam sujeitas ao disposto no presente diploma, sem necessidade de alteração dos respectivos contratos.
+
+2 - As sociedades referidas no n.º 1 podem manter as suas actuais firmas, desde que indiquem nos actos externos a menção «sociedade gestora de participações sociais» ou a abreviatura «SGPS».
+
+3 - (Revogado).
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1994-12-29*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Artigo 13.º — Sanções
+
+1 - A violação do disposto nos n.os 2 e 4 do artigo 2.º, 3 a 5 do artigo 3.º, 2 do artigo 4.º, 1, 2, 4 e 6 do artigo 5.º, 2 do artigo 8.º, 4 do artigo 9.º, 2 do artigo 10.º, 2 do artigo 11.º e 2 do artigo 12.º constitui contra-ordenação punível com coima entre 100000$00 e 2000000$00, no caso de negligência, e entre 100000$00 e 4000000$00, no caso de dolo.
+
+2 - A violação do disposto nos n.os 5 e 6 do artigo 3.º e na alínea c) do n.º 1 do artigo 5.º constitui causa de dissolução judicial da sociedade, a requerimento do Ministério Público, quando, pela sua frequência ou pelo montante envolvido, assuma especial gravidade, a apreciar pelo tribunal.
+
+3 - Como incidente da acção referida no número anterior, pode o tribunal ordenar a proibição de a SGPS adquirir ou alienar participações até à sentença final.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1998-217320), em vigor a partir de 1998-12-02*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 318/94 - Diário da República n.º 296/1994, Série I-A de 1994-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1994-575291), em vigor a partir de 1994-12-29*
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 30 de Dezembro de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Dezembro de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

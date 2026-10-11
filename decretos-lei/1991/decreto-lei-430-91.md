@@ -1,0 +1,122 @@
+---
+title: "Decreto-Lei n.º 430/91"
+identifier: "Decreto-Lei n.º 430/91"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1991-11-02
+last_amended: 2008-05-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-854714293"
+retrieved: 2026-10-11
+designation: "Constituição de depósitos e nova modalidade de instrumento jurídico designado «depósito a prazo não mobilizável antecipadamente»"
+summary: "Regula a constituição de depósitos e introduz no ordenamento jurídico português uma nova modalidade de instrumento jurídico designado «depósito a prazo não mobilizável antecipadamente»"
+issuer: "Ministério das Finanças"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/430/1991/p/cons/20080529/pt/html"
+dre_id: 321699
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1991/11/252a00/56205620.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 430/91
+
+Decreto-Lei n.º 430/91
+
+de 2 de Novembro
+
+A progressiva liberalização do sistema financeiro nacional, visando potenciar uma concorrência saudável e alcançar ganhos de eficiência, tem constituído uma preocupação importante e permanente das autoridades no decurso dos últimos anos.
+
+O actual estádio de desenvolvimento económico e financeiro, o presente contexto e a forma de definição da política monetária e o recente conjunto de regulamentação de natureza prudencial sobre o sistema financeiro configuram um quadro genérico em que se torna possível prosseguir, com segurança, aquele processo liberalizador.
+
+Considera-se adequado, na presente situação, proceder à flexibilização do quadro normativo que regula a constituição de depósitos, eliminando, designadamente, as restrições de natureza administrativa que impendem sobre os depósitos a prazo e sobre os depósitos constituídos em regime especial.
+
+Do mesmo passo, introduz-se no ordenamento jurídico português uma nova modalidade de instrumento financeiro designado «depósito a prazo não mobilizável antecipadamente», com as características do depósito a prazo, mas sobre o qual recai o impedimento legal de mobilização antecipada. Esta nova modalidade é potencialmente interessante para aplicações de poupança estáveis, com vantagens para as instituições de crédito e para os aforradores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º
+
+1 - Os depósitos de disponibilidades monetárias nas instituições de crédito revestirão uma das seguintes modalidades:
+
+a) Depósitos à ordem;
+
+b) Depósitos com pré-aviso;
+
+c) Depósitos a prazo;
+
+d) Depósitos a prazo não mobilizáveis antecipadamente;
+
+e) Depósitos constituídos em regime especial.
+
+2 - Os depósitos à ordem são exigíveis a todo o tempo.
+
+3 - Os depósitos com pré-aviso são apenas exigíveis depois de prevenido o depositário, por escrito, com a antecipação fixada na cláusula do pré-aviso, livremente acordada entre as partes.
+
+4 - Os depósitos a prazo são exigíveis no fim do prazo por que foram constituídos, podendo, todavia, as instituições de crédito conceder aos seus depositantes, nas condições acordadas, a sua mobilização antecipada.
+
+5 - Os depósitos a prazo não mobilizáveis antecipadamente são apenas exigíveis no fim do prazo por que foram constituídos, não podendo ser reembolsados antes do decurso desse mesmo prazo.
+
+## Artigo 2.º
+
+1 - São considerados depósitos em regime especial todos os depósitos não enquadráveis nas alíneas a) a d) do n.º 1 do artigo 1.º, ou previstos em normas legais ou regulamentares.
+
+2 - A criação de depósitos em regime especial é livre, devendo, no entanto, ser dado conhecimento das suas características, com uma antecedência mínima de 30 dias, ao Banco de Portugal, o qual poderá nesse prazo formular as recomendações que entender necessárias.
+
+## Artigo 3.º
+
+1 - Na data de constituição dos depósitos referidos nas alíneas c) e d) do n.º 1 do artigo 1.º, as instituições depositárias devem proceder à emissão de um título nominativo, representativo do depósito.
+
+2 - O título referido no número anterior não pode ser transmitido por acto entre vivos, salvo a favor da instituição emitente em situações de mobilização antecipada, nos casos em que esta é admitida.
+
+3 - Do título a que este artigo se refere devem constar os elementos essenciais da operação, designadamente:
+
+a) O valor do depósito, em algarismos e por extenso;
+
+b) O prazo por que foi constituído o depósito e a data de vencimento;
+
+c) As condições em que o depósito pode ser mobilizado antes do vencimento, se for caso disso;
+
+d) A taxa de juro convencionada, incluindo a taxa aplicável nas situações de reembolso antecipado, se for caso disso;
+
+e) A forma e o calendário do pagamento dos juros;
+
+f) As condições em que o depósito pode ser renovado, na ausência de declaração de depositante, se for caso disso.
+
+4 - Nos depósitos abrangidos pelo disposto no presente decreto-lei, o cálculo dos juros deve adoptar a convenção de mercado actual/360, correspondente ao número de dias efectivamente decorridos no período a que se refere o cálculo do juro corrido do depósito e a um ano de 360 dias.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28*
+
+## Artigo 4.º
+
+1- Ficam excluídos do âmbito de aplicação deste diploma os depósitos constituídos ao abrigo da legislação especial.
+
+2 - No caso dos depósitos constituídos ao abrigo de legislação especial, é aplicável o disposto no n.º 4 do artigo anterior.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2008 - Diário da República n.º 103/2008, Série I de 2008-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2008-448970), em vigor a partir de 2008-06-28*
+
+## Artigo 5.º
+
+Os depósitos existentes à data de entrada em vigor deste diploma mantêm-se sujeitos, até ao seu vencimento, ao regime que lhes era aplicável.
+
+## Artigo 6.º
+
+São revogados os Decretos-Leis n.º 729-E/75, de 22 de Dezembro, e 75-B/77, de 28 de Fevereiro.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
+
+Promulgado em 16 de Outubro de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 18 de Outubro de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

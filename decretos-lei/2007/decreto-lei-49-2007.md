@@ -1,0 +1,137 @@
+---
+title: "Decreto-Lei n.º 49/2007"
+identifier: "Decreto-Lei n.º 49/2007"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2007-02-28
+last_amended: 2021-01-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156246167"
+retrieved: 2026-10-11
+summary: "Estabelece regras de execução do Regulamento (CE) n.º 648/2004 , do Parlamento Europeu e do Conselho, de 31 de Março, relativo aos detergentes"
+issuer: "Ministério da Economia e da Inovação"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/49/2007/p/cons/20210129/pt/html"
+dre_id: 518863
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2007/02/04200/14101412.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 49/2007
+
+Decreto-Lei n.º 49/2007
+
+de 28 de Fevereiro
+
+Em 31 de Março de 2004, a Comunidade Económica Europeia aprovou o Regulamento (CE) n.º 648/2004, do Parlamento Europeu e do Conselho, com o objectivo de estabelecer regras para assegurar a livre circulação dos detergentes e tensoactivos para detergentes no mercado interno e, em simultâneo, garantir um nível de protecção do ambiente e da saúde humana.
+
+O referido regulamento veio harmonizar as regras relativas à colocação no mercado de detergentes e de tensoactivos para detergentes, referentes à biodegradabilidade dos tensoactivos nos detergentes, às restrições ou proibições de tensoactivos por motivos de biodegradabilidade, à rotulagem suplementar dos detergentes, incluindo fragrâncias alergénicas, e à informação que os fabricantes devem manter à disposição das autoridades competentes dos Estados membros e do pessoal médico.
+
+Importa salientar que o regulamento em referência reuniu num só diploma a matéria constante de directivas relativas à aproximação das legislações dos Estados membros em matéria de biodegradabilidade, transpostas para o direito nacional pelo Decreto-Lei n.º 8/90, de 4 de Janeiro, pelas Portarias n.os 89/90, de 5 de Fevereiro, e 90/90, de 5 de Fevereiro, e ainda as disposições da Recomendação n.º 89/542/CE em matéria de rotulagem.
+
+Para além da legislação referida, desde o ano de 1986 que, pelo Decreto-Lei n.º 397/86, de 25 de Novembro, se encontram consagradas disposições nacionais específicas em matéria de rotulagem e embalagem dos produtos de lavagem, conservação e limpeza, abrangendo, entre outros produtos, os detergentes na acepção do definido no Regulamento (CE) n.º 648/2004.
+
+Sendo o regulamento comunitário de aplicabilidade directa e obrigatória em todos os Estados membros, verificou-se que na ordem jurídica interna há matérias que carecem de desenvolvimento. Por esta razão, torna-se necessário dar execução, em diploma específico, ao disposto nos artigos 8.º, 17.º e 18.º do referido regulamento, nomeadamente definindo a autoridade competente para a comunicação e intercâmbio de informações com a Comissão e os outros Estados membros e pela recepção e análise dos pedidos de derrogação nele previstas, bem como a autoridade competente para aplicar sanções, no caso de violação das suas normas, revogando a legislação nacional em matéria de biodegradabilidade e de rotulagem e embalagem de detergentes.
+
+Foram ouvidos, a título facultativo, o Centro de Informação Antivenenos (CIAV), o Instituto do Consumidor (IC) e a Associação dos Industriais de Sabões, Detergentes e Produtos de Conservação e Limpeza (AISDPCL).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto e âmbito
+
+O presente decreto-lei estabelece regras necessárias à plena aplicação na ordem jurídica interna do Regulamento (CE) n.º 648/2004, do Parlamento Europeu e do Conselho, de 31 de Março, que visa assegurar a livre circulação dos detergentes e tensoactivos para detergentes no mercado interno e garantir um elevado nível da protecção do ambiente e da saúde humana, adiante designado abreviadamente por regulamento.
+
+## Artigo 2.º — Autoridade competente
+
+1 - Compete à Direcção-Geral da Empresa, abreviadamente designada por DGE, o exercício das competências nacionais de análise dos pedidos de derrogação relativos aos detergentes industriais ou institucionais que contenham tensoactivos e aos tensoactivos para detergentes industriais ou institucionais que não cumpram os critérios de biodegradabilidade aeróbia final, tal como referido no n.º 2 do artigo 4.º do regulamento, bem como a comunicação do resultado da avaliação à Comissão Europeia.
+
+2 - Compete igualmente à DGE notificar os outros Estados membros e a Comissão da lista de laboratórios autorizados habilitados a efectuar os ensaios exigidos pelo regulamento e informar a Comissão sempre que considerar que um laboratório aprovado não cumpre as normas exigidas pelo regulamento.
+
+3 - Para o exercício das competências referidas no n.º 1, a DGE pode solicitar o parecer prévio de outras entidades.
+
+## Artigo 3.º — Informação a fornecer pelos fabricantes para fins médicos
+
+1 - Sem prejuízo de colocarem à disposição do pessoal médico, mediante pedido, a ficha de informação referida no capítulo C do anexo VII do regulamento, os fabricantes que coloquem no mercado os detergentes e outros produtos abrangidos pelo artigo 2.º do regulamento devem fornecer ao Centro de Informação Antivenenos (CIAV), do Instituto Nacional de Emergência Médica, a respectiva composição química completa, qualitativa e quantitativa, e as informações necessárias para responder a qualquer solicitação de ordem médica, com vista à tomada de medidas tanto preventivas como curativas, em situações de emergência, nomeadamente de intoxicação.
+
+2 - As informações referidas no número anterior são confidenciais e não podem ser utilizadas para outros fins.
+
+## Artigo 4.º — Taxas
+
+1 - Pelos actos relativos a procedimentos de concessão de derrogações para detergentes industriais e institucionais, a que se refere o n.º 1 do artigo 2.º do presente decreto-lei, é devida uma taxa, fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, sobre critérios não discriminatórios e cujo montante não pode exceder o custo do processamento do pedido.
+
+2 - O produto das taxas cobradas constitui receita própria da DGE.
+
+## Artigo 5.º — Fiscalização
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do disposto no regulamento e no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE).
+
+2 - As entidades fiscalizadoras podem solicitar a colaboração de quaisquer outras entidades, sempre que o julguem necessário ao exercício das suas funções.
+
+3 - Das infracções verificadas é levantado auto de notícia, competindo a instrução dos respectivos processos às entidades fiscalizadoras referidas no n.º 1.
+
+## Artigo 6.º — Recolha de amostras
+
+1 - As entidades fiscalizadoras podem proceder à recolha de amostras para verificação do cumprimento do disposto no regulamento e no presente decreto-lei, devendo os encargos com ensaios laboratoriais ou quaisquer outras avaliações ser suportados pela entidade que promoveu a recolha.
+
+2 - Em caso de infracção, os referidos encargos são suportados pelo agente económico em causa.
+
+3 - As amostras para o controlo são remetidas a laboratórios autorizados para prestar o serviço necessário à verificação da conformidade dos detergentes com os requisitos do regulamento e dos seus anexos, os quais terão de cumprir o disposto no anexo I do regulamento.
+
+## Artigo 7.º — Contra-ordenações
+
+1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:
+
+a) A colocação no mercado de detergentes e tensoactivos para detergentes em violação do disposto no artigo 3.º do regulamento;
+
+b) A violação da obrigação de prestação de informações ao pessoal médico e ao CIAV, tal como estipulado no artigo 3.º do presente decreto-lei.
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+- *Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 8.º — Sanção acessória
+
+Independentemente da responsabilidade civil e penal em que possam incorrer os infractores, simultaneamente com a coima pode ainda ser determinada, como sanção acessória, a perda do produto em causa sempre que a sua colocação no mercado represente perigo que o justifique.
+
+## Artigo 9.º — Aplicação e destino da receita das coimas
+
+1 - A aplicação das coimas e das sanções acessórias compete ao inspetor-geral da ASAE.
+
+2 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+- *Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28*
+
+## Artigo 10.º — Acompanhamento da aplicação do diploma
+
+O acompanhamento da aplicação global do presente decreto-lei compete à DGE, que propõe as medidas necessárias à prossecução dos seus objectivos e as que se destinam a assegurar a ligação com a Comissão e os Estados membros da União Europeia, nomeadamente o intercâmbio de informações previsto no n.º 1 do artigo 8.º do Regulamento.
+
+## Artigo 11.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 8/90, de 4 de Janeiro;
+
+b) Portaria n.º 89/90, de 5 de Fevereiro;
+
+c) Portaria n.º 90/90, de 5 de Fevereiro;
+
+d) Decreto-Lei n.º 397/86, de 25 de Novembro.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Carlos Manuel Costa Pina - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
+
+Promulgado em 8 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 9 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

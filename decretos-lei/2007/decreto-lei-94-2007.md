@@ -1,0 +1,265 @@
+---
+title: "Decreto-Lei n.º 94/2007"
+identifier: "Decreto-Lei n.º 94/2007"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2007-03-29
+last_amended: 2016-03-30
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-223338609"
+retrieved: 2026-10-11
+designation: "Orgânica da Cinemateca Portuguesa - Museu do Cinema, I. P."
+summary: "Aprova a orgânica da Cinemateca Portuguesa - Museu do Cinema, I. P."
+issuer: "Ministério da Cultura"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/94/2007/p/cons/20160330/pt/html"
+dre_id: 520438
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2007/03/06300/19191921.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 94/2007
+
+Decreto-Lei n.º 94/2007
+
+de 29 de Março
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 215/2006, de 27 de Outubro, que aprovou a lei orgânica do Ministério da Cultura, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Impõe-se, pois, a adequada regulamentação orgânica e funcional da Cinemateca Portuguesa-Museu do Cinema, entidade que, desde a sua criação, operada pelo Decreto-Lei n.º 59/80, de 3 de Abril, tem vivido uma situação de grande imprecisão estatutária na decorrência de vários diplomas legais que a ela se referem.
+
+Importa, pois, consagrar a natureza e o regime de funcionamento da Cinemateca Portuguesa-Museu do Cinema, cujas atribuições compreendem, no âmbito da protecção e preservação do património relacionado com as imagens em movimento, não somente o cinema, mas também todo e qualquer documento audiovisual, independentemente do suporte (incluindo, portanto, os suportes videográficos e digitais).
+
+Deste modo, valoriza-se a protecção e conservação de todas as variantes de imagens em movimento enquanto fontes de conhecimento, promoção da cultura cinematográfica e manutenção dos valores culturais específicos que ao cinema estão associados.
+
+Assim:
+
+Ao abrigo do disposto do n.º 1 do artigo 9.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Natureza jurídica
+
+1 - A Cinemateca Portuguesa - Museu do Cinema, I. P, abreviadamente designado por Cinemateca, I. P., é um instituto público integrado na administração indirecta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - A Cinemateca, I. P., prossegue atribuições do Ministério da Cultura, sob superintendência e tutela do respectivo Ministro.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 2.º — Jurisdição territorial e sede
+
+1 - A Cinemateca, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - A Cinemateca, I. P., tem sede em Lisboa.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 3.º — Missão e atribuições
+
+1 - A Cinemateca, I. P., tem por missão recolher, proteger, preservar e divulgar o património relacionado com as imagens em movimento, promovendo o conhecimento da história do cinema e o desenvolvimento da cultura cinematográfica e audiovisual.
+
+2 - São atribuições da Cinemateca, I. P.:
+
+a) Coleccionar, preservar, restaurar e catalogar as obras cinematográficas e quaisquer outras imagens em movimento de produção portuguesa ou equiparada, independentemente da forma de aquisição, bem como a documentação e quaisquer outros materiais, seja qual for a sua natureza, a elas associados, no interesse da salvaguarda do património artístico e histórico português;
+
+b) Coleccionar, preservar, restaurar e catalogar as obras cinematográficas e outras imagens em movimento de produção internacional, bem como a documentação e quaisquer outros materiais, seja qual for a sua natureza, a elas associados, seleccionadas segundo a sua importância como obras de arte, documentos históricos ou de interesse científico, técnico ou didáctico;
+
+c) Promover a exibição regular de obras da sua colecção ou de outras com as mesmas características que lhe sejam temporariamente cedidas por terceiros;
+
+d) Promover a componente museográfica do património fílmico e audiovisual;
+
+e) Estabelecer protocolos de colaboração e apoio e contratos de prestação de serviços com outras instituições públicas e privadas, nacionais e internacionais, no âmbito da museologia cinematográfica;
+
+f) Promover a sua filiação em entidades internacionais que se proponham a defesa dos arquivos e museus cinematográficos;
+
+g) Promover a exposição e o acesso público à sua colecção para fins de divulgação, estudo e investigação, sem prejuízo dos objectivos de preservação do património, dos direitos dos depositantes e da legislação relativa aos direitos de autor e direitos conexos em vigor;
+
+h) Promover a investigação, a formação, a edição e a publicação de obras relacionadas com a história, estética e técnica cinematográficas;
+
+i) Incentivar a difusão e promoção não comercial do cinema e do audiovisual, nomeadamente através do apoio às actividades dos cineclubes e aos festivais de cinema e vídeo.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 4.º — Órgãos
+
+1 - A Cinemateca, I. P., é dirigido por um director, coadjuvado por dois subdirectores, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+
+2 - É ainda órgão da Cinemateca, I. P., o Fiscal único.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2010-332745), em vigor a partir de 2010-06-12*
+
+## Artigo 5.º — Director
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ao director:
+
+a) Definir e submeter à homologação da tutela planos de actividades plurianuais dos quais conste a orientação geral a seguir na actuação da Cinemateca, I. P.;
+
+b) Adquirir património iconográfico e museográfico relacionado com a produção e circulação das imagens em movimento e considerado relevante para a história dessas mesmas imagens;
+
+c) Promover a filiação da Cinemateca, I. P., em entidades internacionais;
+
+d) Promover e assegurar a continuidade de projectos de cooperação, a nível internacional, nomeadamente com países pertencentes à União Europeia e com países de língua oficial portuguesa, em articulação com o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais;
+
+e) Autorizar a exportação ou expedição temporária ou definitiva de bens do património audiovisual;
+
+f) Submeter à aprovação da tutela propostas de abertura de delegações ou representações da Cinemateca, I. P.
+
+2 - Aos subdirectores compete exercer as competências que lhes sejam delegadas ou subdelegadas pelo director.
+
+3 - O director designa o subdirector que o substitui nas suas faltas e impedimentos.
+
+4 - O director pode delegar competências em dirigentes e trabalhadores da Cinemateca, I. P., e autorizar que se proceda à subdelegação desses poderes, estabelecendo em cada caso os respectivos limites e condições.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2010 - Diário da República n.º 109/2010, Série I de 2010-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2010-332745), em vigor a partir de 2010-06-12*
+- *Retificado pelo/a [Declaração de Rectificação n.º 47-F/2007 - Diário da República n.º 102/2007, 1º Suplemento, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-f-2007-149596), produz efeitos a partir de 2007-04-01*
+
+## Artigo 6.º — Fiscal único
+
+O fiscal único tem as competências e é nomeado nos termos da Lei n.º 3/2004, de 15 de Janeiro.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 7.º — Organização interna
+
+A organização interna da Cinemateca, I. P., é a prevista nos respectivos estatutos.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 8.º — Estatuto do pessoal dirigente
+
+Aos dirigentes da Cinemateca, I. P., é aplicável o regime definido na lei quadro dos institutos públicos e, subsidiariamente, o estatuto do pessoal dirigente da Administração Pública.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 9.º — Regime de pessoal
+
+O pessoal da Cinemateca, I. P., rege-se pelo regime jurídico do contrato individual de trabalho.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 10.º — Receitas
+
+1 - A Cinemateca, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A Cinemateca, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) O produto de taxas que lhe sejam consignadas por lei;
+
+b) As remunerações de serviços prestados;
+
+c) O produto da venda de bilhetes de ingresso nas actividades de exposição e exibição;
+
+d) O produto da venda das edições, publicações e outros materiais;
+
+e) O produto da exploração económica das obras produzidas e realizadas;
+
+f) Os subsídios e comparticipações;
+
+g) As doações, heranças e legados;
+
+h) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;
+
+i) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da Cinemateca, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 11.º — Despesas
+
+Constituem despesas do Cinemateca, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 12.º — Património
+
+O património da Cinemateca, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 13.º — Depósito
+
+As imagens em movimento recebidas em regime de depósito podem ser utilizadas pela Cinemateca, I. P., para os seus fins próprios.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 14.º — Poderes de autoridade
+
+Os dirigentes e o pessoal da Cinemateca, I. P., gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de protecção e valorização do património cultural e demais legislação regulamentar, nomeadamente no que respeita ao património fílmico e audiovisual, quando em serviço e sempre que tal se demonstre necessário à aplicação dos respectivos regimes jurídicos.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 15.º — Criação e participação em outras entidades
+
+A Cinemateca, I. P., pode criar, participar ou adquirir participações em entes de direito privado, se for imprescindível para a prossecução das suas atribuições, mediante autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da cultura nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de Janeiro.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+- *Retificado pelo/a [Declaração de Rectificação n.º 47-F/2007 - Diário da República n.º 102/2007, 1º Suplemento, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-f-2007-149596), produz efeitos a partir de 2007-04-01*
+
+## Artigo 16.º — Regime transitório de função pública
+
+1 - Os funcionários públicos do quadro de pessoal da Cinemateca Portuguesa-Museu do Cinema, I. P., podem optar pelo regime do contrato individual de trabalho, no prazo de 90 dias a contar da data da notificação que lhe seja feita pelo serviço, nos termos do n.º 7 do artigo 16.º da Lei n.º 53/2006, de 7 de Dezembro, ou, quando não haja lugar à aplicação de métodos de selecção, da publicitação das listas e mapas a que se refere o n.º 3 do artigo 14.º da referida lei.
+
+2 - O direito de opção é exercido mediante declaração escrita, individual e irrevogável, dirigida ao presidente do conselho directivo, no prazo previsto no número anterior.
+
+3 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à função pública, que se torna efectiva com a publicação na 2.ª série do Diário da República.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+- *Retificado pelo/a [Declaração de Rectificação n.º 47-F/2007 - Diário da República n.º 102/2007, 1º Suplemento, Série I de 2007-05-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-f-2007-149596), produz efeitos a partir de 2007-04-01*
+
+## Artigo 17.º — Regulamentos internos
+
+Os regulamentos internos da Cinemateca, I. P., são remetidos aos membros do Governo responsáveis pelas áreas das Finanças e da Cultura para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da Lei n.º 3/2004, de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 18.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 165/97, de 28 de Junho.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
+
+Promulgado em 22 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 23 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+- *Reposto em Vigor pelo/a Artigo 78.º do/a [Decreto-Lei n.º 36/2013 - Diário da República n.º 49/2013, Série I de 2013-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755), em vigor a partir de 2013-03-12, produz efeitos a partir de 2013-01-01*
+- *Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 208/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2012-174867), em vigor a partir de 2012-10-01*

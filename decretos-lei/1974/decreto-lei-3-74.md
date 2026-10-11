@@ -1,0 +1,220 @@
+---
+title: "Decreto-Lei n.º 3/74"
+identifier: "Decreto-Lei n.º 3/74"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1974-01-08
+last_amended: 1999-05-21
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-34469075"
+retrieved: 2026-10-11
+summary: "Regula o fabrico, preparação, armazenagem e comercialização das bebidas espirituosas"
+issuer: "Ministérios das Finanças e da Economia"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/3/1974/p/cons/19990521/pt/html"
+dre_id: 303114
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1974/01/00600/00170020.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 3/74
+
+1. No propósito de assegurar a necessária disciplina no importante sector das bebidas espirituosas, em relação ao qual apenas existiam escassas e dispersas disposições legais, impõe-se estabelecer, num diploma de base, os princípios fundamentais por que se devem reger o fabrico, preparação, armazenagem e comercialização de tais produtos, cujo consumo, aliás, tem aumentado notoriamente nos últimos anos.
+
+2. Em ligação com o fabrico e preparação destes produtos e pela interdependência dos sectores, incluíram-se igualmente no mesmo diploma disposições consideradas também fundamentais em relação a operações de fermentação e de destilação em geral.
+
+3. Constitui ainda razão premente para este diploma o facto de alguns produtos resultantes de operações de fermentação ou destilação, sem uma disciplina apropriada, poderem concorrer para a fraude de outros produtos cuja genuinidade importa assegurar por todos os meios.
+
+4. Assim, estabeleceu-se, a par de um regime repressivo dentro da orientação já definida pelo recente Decreto-Lei n.º 340/73, de 6 de Julho, um regime preventivo, através do qual se espera obter uma efectiva melhoria nas condições de produção e comercialização das bebidas abrangidas por este diploma.
+
+5. Houve também que considerar as implicações decorrentes da Convenção que criou a Associação Europeia do Comércio Livre (E. F. T. A.), a qual abrange certas bebidas espirituosas, relativamente às quais importa assegurar igualdade de tratamento entre as de produção nacional e as importadas.
+
+Em consequência, instituiu-se, para todo o conjunto das bebidas espirituosas, um regime tributário particular, que não só estabelece idêntico tratamento para as bebidas nacionais importadas, como permite caminhar no sentido da melhoria das condições técnicas e económicas da indústria de tais bebidas, por forma a esta poder enfrentar a concorrência estrangeira.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+## Artigo 1.º
+
+1. O fabrico, preparação, armazenagem e comercialização das bebidas espirituosas, bem como a destilação de quaisquer substâncias que não seja objecto de regulamentação especial, regem-se pelo disposto no presente diploma.
+
+2. É também abrangida pelo presente diploma a fermentação de quaisquer substâncias que não seja objecto de regulamentação especial, bem como a armazenagem e comercialização dos produtos obtidos.
+
+3. Consideram-se bebidas espirituosas as caracterizadas essencialmente pela presença de álcool proveniente da destilação de produtos resultantes da fermentação alcoólica de matérias vegetais e que satisfaçam as condições legalmente estabelecidas.
+
+## Artigo 2.º
+
+1. A fermentação alcoólica a partir de matérias-primas vegetais não directamente fermentescíveis e a destilação dos produtos alcoólicos resultantes poderão ser efectuadas com destino ao fabrico de bebidas espirituosas, mas apenas quando o sejam isoladamente em relação a cada produto e as referidas bebidas e seu fabrico se encontrem legalmente definidos.
+
+2. Fora dos casos a que se refere o número anterior, a fermentação alcoólica a partir de matérias vegetais não directamente fermentescíveis e a destilação dos produtos alcoólicos resultantes, isoladamente em relação a cada produto, em mistura entre si ou com vinhos, água-pé, bagaços ou quaisquer outros produtos susceptíveis de produzir aguardente ou álcool, só poderão ser efectuadas com destino a álcool industrial, por intermédio da Administração-Geral do Açúcar e do Álcool (A. G. A.), em regime de contas-correntes, quer quanto às matérias-primas utilizadas, quer quanto aos produtos obtidos.
+
+3 - As borras de vinho em caso algum poderão ser utilizadas em operações de fermentação, podendo, no entanto, ser destiladas, mas unicamente para obtenção de álcool vínico ou de álcool para fins industriais.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 3.º
+
+1 - (Revogado).
+
+2. Em portaria conjunta dos Secretários de Estado do Comércio e da Indústria serão estabelecidos os requisitos a que devem obedecer as entidades e as instalações, para efeitos do registo a que se refere o número anterior.
+
+3. Sem prejuízo da observância dos requisitos que vierem a ser fixados nos termos do número antecedente, deverá ser desde já efectuado, a pedido dos interessados, o registo provisório das entidades e instalações cuja actividade é abrangida por este decreto-lei, para o que os mesmos apresentarão documento comprovativo da vistoria e aprovação das instalações realizadas há menos de seis meses pela Direcção-Geral da Qualidade e Segurança Industriais ou documento comprovativo de que a mesma já foi requerida, quando haja lugar a essa vistoria.
+
+4. O pedido referido no número anterior deverá ser apresentado no prazo de sessenta dias a partir da publicação do presente diploma, sem o que não poderá continuar a ser exercida a respectiva actividade.
+
+- *Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 178/99 - Diário da República n.º 118/1999, Série I-A de 1999-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1999-321573), em vigor a partir de 2000-01-12*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 4.º
+
+Os aparelhos de destilação só poderão funcionar nos períodos previamente fixados, a pedido dos interessados, pelos organismos vinícolas ou pela AGA, conforme os casos, podendo estas entidades promover a sua selagem fora desses períodos.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 5.º
+
+1 - A produção e preparação de bebidas espirituosas de origem não vínica, bem como a fermentação de substâncias diferentes da uva, não podem realizar-se nas mesmas instalações em que se produzam ou laborem produtos vínicos, igualmente não podendo existir produtos não vínicos nas instalações em que se produzam ou laborem produtos vínicos, e vice-versa.
+
+2 - Tratando-se, porém, de destilarias agrícolas destinadas exclusivamente à laboração de produtos da respectiva exploração ou de associações de agricultores, poderão os respectivos aparelhos ou instalações de destilação ser utilizados na laboração de produtos vínicos e não vínicos, desde que em períodos distintos e sem prejuízo do disposto no artigo anterior.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 6.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 8.º do/a Decreto-Lei n.º 376/97 - Diário da República n.º 296/1997, Série I-A de 1997-12-24, em vigor a partir de 1999-02-28*
+
+## Artigo 7.º
+
+1. O engarrafamento das bebidas espirituosas e das bebidas fermentadas abrangidas por este decreto-lei só poderá ser efectuado após a sua análise e prova pela J. N. V. ou pela A. G. A., conforme os casos, sem o que não será feita a selagem dos recipientes.
+
+2. Excepcionalmente, poderá ser autorizado o engarrafamento mediante aprovação prévia de amostras-padrão e fiscalização periódica dos produtos armazenados.
+
+## Artigo 8.º
+
+1. As bebidas estrangeiras, quando importadas em recipientes com a capacidade referida no artigo 6.º deste diploma, com graduação alcoólica e demais características próprias para consumo, a comprovar, quando for julgado conveniente, por análise, e que satisfaçam os outros requisitos estabelecidos no presente diploma, poderão desde logo ser seladas, em ligação com os serviços das alfândegas, pela J. N. V. ou pela A. G. A., conforme os casos.
+
+2. As bebidas espirituosas estrangeiras, quando importadas com graduação alcoólica superior à estabelecida legalmente para consumo, ou em recipientes que não satisfaçam os requisitos para tal venda, só poderão sair das alfândegas sob fiscalização, com destino a armazéns determinados, devendo as operações de diluição e engarrafamento ser efectuadas também sob fiscalização, conforme os casos, da J. N. V. ou da A. G. A., que só assim procederão à respectiva selagem.
+
+## Artigo 9.º
+
+1 - Nas instalações em que sejam produzidas ou engarrafadas as bebidas a que se refere este diploma, bem como naquelas em que sejam armazenadas as mesmas bebidas, álcool ou aguardentes de qualquer natureza, não contidas em recipientes selados, deverão existir registos de entradas e saídas e de existências das matérias-primas utilizadas e dos produtos obtidos, sujeitos ao controle e verificação directa dos organismos vinícolas ou da AGA, conforme os casos, que, para o efeito, poderão ainda consultar toda a documentação relativa ao seu movimento.
+
+2 - Sem prejuízo da pena que ao caso couber, a falta da verificação prevista no número anterior por motivo imputável à entidade verificanda acarretará também o não fornecimento do álcool eventualmente necessário ao exercício da actividade prosseguida nessas instalações.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 10.º
+
+A Direcção-Geral da Qualidade e Segurança Industriais deverá comunicar à J. N. V. e à A. G. A. os resultados das vistorias que efectuar relativamente às entidades e instalações abrangidas pelo disposto neste decreto-lei.
+
+## Artigo 11.º
+
+1. Através dos selos a apor nos recipientes em que são vendidas no mercado interno as bebidas espirituosas, quer de origem estrangeira, quer de origem nacional, serão cobradas pelas entidades a que incumbe a selagem as seguintes taxas:
+
+(ver documento original)
+
+2. As taxas a que se refere o número anterior serão reduzidas a metade sempre que o preço de venda ao retalhista, sem o imposto de transacção, seja inferior a 50$00, 25$00, 12$50, 6$25 e 3$15, respectivamente para os recipientes de mais de 1 l a 2 l, de 0,6 l a 1 l, de menos de 0,6 l a 0,3 l, de menos de 0,3 l a 0,15 l e de menos de 0,15 l.
+
+3. As taxas a que se faz referência nos números anteriores serão facturadas em separado do preço dos produtos e ficam excluídas da incidência do imposto de transacções.
+
+## Artigo 12.º
+
+1. Do produto das taxas cobradas, a importância de 1$00 por recipiente de 0,6 l a 1 l, ou a proporcional para recipientes de outras capacidades, será arrecadada, conforme os casos, pela J. N. V. ou pela A. G. A.
+
+2. Da importância restante, constituirá receita do Estado:
+
+a) A importância relativa aos produtos importados;
+
+b) A percentagem de 10% relativa aos produtos nacionais.
+
+3. O remanescente servirá para a constituição de fundos de compensação, a utilizar nos termos que vierem a ser aprovados em despacho dos Ministros das Finanças e da Economia, com vista à melhoria das condições técnicas e económicas da indústria de bebidas espirituosas.
+
+## Artigo 13.º
+
+1 - Os selos a apor nos recipientes em que são vendidas as bebidas abrangidas por este diploma, quer de origem estrangeira quer de origem nacional, serão fornecidos pelos organismos vinícolas ou pela AGA, conforme os casos.
+
+2 - Os valores e modelos dos selos e quaisquer instruções necesárias para a sua aplicação constarão de portarias dos Secretários de Estado da Alimentação e do Comércio Interno.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 14.º
+
+Da lista anexa ao Decreto-Lei n.º 86/70, de 7 de Março, são retirados os produtos abrangidos pelos artigos 22.09.05, 22.09.06, 22.09.07 e 22.09.08, os quais são introduzidos na lista anexa ao Decreto-Lei n.º 47958, de 25 de Setembro de 1967.
+
+## Artigo 15.º
+
+1. O disposto no artigo 1.º do Decreto-Lei n.º 43717, de 30 de Maio de 1961, não é aplicável aos produtos abrangidos pelas posições pautais 22.03, 22.06 e 22.09.
+
+2. Os produtos a que se refere o número anterior, quando importados dos países membros da E. F. T. A., ficam isentos da taxa anualmente fixada para o Fundo de Socorro Social.
+
+## Artigo 16.º
+
+Os produtos à venda no retalhista à data da publicação do presente diploma serão gratuitamente selados pelos organismos competentes, para o que os interessados deverão, relativamente a essa data, indicar, à J. N. V. ou à A. G. A., conforme os casos, no prazo de trinta dias, a contar da mesma data, o número de recipientes em seu poder.
+
+## Artigo 17.º
+
+Nos estabelecimentos em que as mesmas bebidas sejam servidas ao público, a copo ou noutras fracções, os produtos contidos nos recipientes abertos têm de corresponder aos dos respectivos recipientes intactos do mesmo produto e da mesma marca existentes no estabelecimento ou, na falta destes, às correspondentes amostras padrão, presumindo-se responsáveis pela falta de correspondência os titulares desses estabelecimentos.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 18.º
+
+As entidades que exerçam as actividades abrangidas por este decreto-lei ficam sujeitas à acção disciplinar da J. N. V. ou da A. G. A., conforme os casos, nos termos da parte final do n.º 1 do artigo 3.º, para efeitos do disposto no artigo 48.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957.
+
+## Artigo 19.º
+
+*(Revogado)* — *Revogado pelo/a Artigo 4.º do/a Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21, em vigor a partir de 1984-05-21*
+
+## Artigo 20.º
+
+As disposições do Decreto-Lei n.º 41204 serão aplicáveis à instrução preparatória e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
+
+## Artigo 21.º
+
+1. Sem prejuízo da competência genérica atribuída à Inspecção-Geral dos Produtos Agrícolas e Industriais e à Inspecção-Geral das Actividades Económicas, a fiscalização do disposto no presente diploma incumbe especialmente à J. N. V. ou à A. G. A., conforme os casos, nos termos do disposto na parte final do n.º 1 do artigo 3.º deste diploma.
+
+2. A J. N. V. e a A. G. A. têm competência para levantar autos de notícia relativamente às infracções do disposto neste decreto-lei, bem como os Grémios dos Armazenistas de Vinhos e do Comércio de Exportação de Vinhos e outros organismos vitivinícolas quanto às infracções de que tomem conhecimento no exercício da sua actividade.
+
+3. Os autos levantados pelos organismos referidos na parte final do número anterior deverão ser remetidos à J. N. V. e à A. G. A., conforme os casos, para o devido seguimento.
+
+## Artigo 22.º
+
+A competência atribuída neste diploma aos organismos vinícolas e à AGA para assegurar o cumprimento das normas nele contidas poderá ser exercida isoladamente por cada uma destas entidades, conforme os casos, nos termos do n.º 1 do artigo 3.º, por delegação mútua ou em conjunto, quando tal se mostre conveniente.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21*
+
+## Artigo 23.º
+
+A J. N. V. e a A. G. A., em colaboração com a Inspecção-Geral dos Produtos Agrícolas e Industriais e outros departamentos do Estado ligados à matéria, procederão à revisão das actuais definições e características das bebidas abrangidas por este diploma, no sentido da sua actualização e adaptação aos moldes internacionais.
+
+## Artigo 24.º
+
+1. Enquanto o Grémio dos Armazenistas de Vinhos e o Grémio do Comércio de Exportação de Vinhos subsistirem com a estrutura actual, os fabricantes, preparadores, armazenistas, importadores e exportadores das bebidas a que se refere o presente diploma terão de estar inscritos naqueles Grémios, respectivamente como armazenistas sócios ou registados e como exportadores, nas condições prescritas nos seus diplomas orgânicos.
+
+2. Da importância de 1$00 arrecadada pela J. N. V. ou pela A. G. A., nos termos do n.º 1 do artigo 12.º, estas entidades entregarão aos Grémios dos Armazenistas de Vinhos e do Comércio de Exportação de Vinhos o correspondente às taxas que constituem receita destes organismos, nos termos legais em vigor.
+
+## Artigo 25.º
+
+A J. N. V. e a A. G. A., conforme os casos, expedirão as instruções necessárias à execução do presente diploma.
+
+## Artigo 26.º
+
+As dúvidas que se suscitarem na interpretação e execução deste diploma serão resolvidas por despacho do Ministro da Economia ou do Secretário de Estado do Comércio, a publicar, ou não, no Diário do Governo, conforme a matéria a que respeite.
+
+## Artigo 27.º
+
+O presente decreto-lei entrará em vigor no prazo de trinta dias, a contar da sua publicação no Diário do Governo.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
+
+Promulgado em 31 de Dezembro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

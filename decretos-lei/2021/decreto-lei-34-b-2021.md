@@ -1,0 +1,119 @@
+---
+title: "Decreto-Lei n.º 34-B/2021"
+identifier: "Decreto-Lei n.º 34-B/2021"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2021-05-14
+last_amended: 2022-01-10
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-163441296"
+retrieved: 2026-10-11
+summary: "Define o modelo transitório de gestão, operação, manutenção, modernização e ampliação da rede SIRESP"
+issuer: "Presidência do Conselho de Ministros"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/34-b/2021/p/cons/19000101/pt/html"
+dre_id: 163442523
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2021/05/09403/0000500007.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 34-B/2021
+
+Decreto-Lei n.º 34-B/2021
+
+de 14 de maio
+
+Sumário: Define o modelo transitório de gestão, operação, manutenção, modernização e ampliação da rede SIRESP.
+
+Através da Resolução do Conselho de Ministros n.º 157-A/2017, de 27 de outubro, o Governo aprovou um conjunto de alterações estruturais na prevenção e combate a incêndios florestais, adotando, designadamente, um conjunto de medidas de suporte à eficácia do sistema de comunicações de emergência e, em especial, da sua capacidade operacional.
+
+Tais medidas traduziram-se na assunção, pelo Estado, de uma posição na estrutura acionista da SIRESP - Gestão de Redes Digitais de Segurança e Emergência, S. A. (SIRESP, S. A.), na implementação de procedimentos e mecanismos de redundância, na aquisição de estações móveis equipadas com módulo satélite, na criação de um plano de formação para os utilizadores do SIRESP - Sistema Integrado de Redes de Emergência e Segurança de Portugal (rede SIRESP) e na avaliação do modelo contratual e das soluções tecnológicas, por forma a tornar o sistema mais eficaz na resposta a situações de catástrofe e emergência.
+
+Em 2019, o Governo aprovou o Decreto-Lei n.º 81-A/2019, de 17 de junho, que procedeu à reorganização institucional da rede SIRESP, tendo o Estado adquirido as participações sociais dos acionistas privados da SIRESP, S. A., transferindo integralmente para a esfera pública a estrutura empresarial, bem como as funções relacionadas com a gestão, operação, manutenção, modernização e ampliação da rede SIRESP.
+
+A gestão, operação e manutenção da rede SIRESP por parte da SIRESP, S. A., continuou a ser regulada pelo contrato celebrado entre o Estado e a SIRESP, S. A., em 4 de julho de 2006 e alterado em 29 de dezembro de 2015, cuja vigência termina a 30 de junho de 2021, e pelos demais instrumentos ou atos vigentes.
+
+Nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 81-A/2019, de 17 de junho, finda a vigência do referido contrato, a atividade de gestão, operação e manutenção da rede SIRESP passa a ser explorada pela SIRESP, S. A., em regime de concessão de serviço público, sendo as bases da concessão fixadas por decreto-lei.
+
+Justifica-se integrar o modelo de gestão da rede SIRESP nas orientações estratégicas para a área das tecnologias de informação e comunicação (TIC) do setor público, tendo em vista, em linha com os eixos principais da Estratégia TIC 2020, aprovada pela Resolução do Conselho de Ministros n.º 108/2017, de 26 de julho, a: i) integração e interoperabilidade; ii) inovação e competitividade; e iii) partilha de recursos, assim como a adoção de um modelo e uma estratégia de desenvolvimento da área das comunicações e tecnologias do Ministério da Administração Interna assente numa estrutura de gestão integrada de rede a ser assegurada por uma única entidade no âmbito da administração indireta do Estado.
+
+No âmbito do processo de avaliação dos requisitos tecnológicos e do modelo de gestão da rede de comunicações de emergência e segurança do Estado, foi constituído um grupo de trabalho pelo Despacho n.º 9938/2020, publicado no Diário da República, 2.ª série, n.º 201, de 15 de outubro, que considerou ser necessário assegurar um procedimento legislativo e definir um novo modelo tecnológico da rede SIRESP, assente na gestão integrada de redes, dentro de um prazo exequível, atentos os interesses do Estado.
+
+Face ao exposto, mostra-se necessário salvaguardar uma solução transitória para a atividade de gestão, operação, manutenção, ampliação e modernização da rede SIRESP após a cessação da vigência do contrato celebrado em 4 de julho de 2006 a fim de ser efetuada uma ponderação conjunta do modelo de gestão da rede SIRESP e do modelo organizativo dos serviços tecnológicos do Ministério da Administração Interna.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objeto
+
+O presente decreto-lei:
+
+a) Define o modelo institucional de desenvolvimento da área das tecnologias, comunicações e comunicações de emergência do Ministério da Administração Interna (MAI);
+
+b) Define o modelo transitório de gestão, operação, manutenção, modernização e ampliação do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal (rede SIRESP);
+
+c) Procede à primeira alteração ao Decreto-Lei n.º 81-A/2019, de 17 de junho, que procede à reorganização institucional da rede SIRESP.
+
+## Artigo 2.º
+
+Modelo institucional de desenvolvimento das tecnologias, comunicações e comunicações de emergência do Ministério da Administração Interna
+
+1 - O modelo institucional de desenvolvimento da área das tecnologias, comunicações e comunicações de emergência do MAI corresponde ao modelo da estrutura de gestão integrada de rede.
+
+2 - O modelo de estrutura de gestão integrada de rede inclui a área tecnológica da Rede Nacional de Segurança Interna, as comunicações, o 112.pt, as comunicações de emergência (rede SIRESP) e as bases de dados dos serviços e organismos da administração interna.
+
+3 - A gestão integrada é assegurada por uma entidade da administração indireta do Estado, a criar por transformação institucional, integrando as valências hoje existentes nos diversos serviços e organismos da área governativa da administração interna, no âmbito definido no número anterior.
+
+4 - Revogado.
+
+- *Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2022-177363475), em vigor a partir de 2022-01-11*
+
+## Artigo 3.º
+
+Modelo transitório de gestão, operação, manutenção, modernização e ampliação do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal
+
+1 - A responsabilidade pela gestão, operação, manutenção, modernização, ampliação e correto funcionamento da rede SIRESP e respetivos equipamentos, prevista no n.º 3 do artigo 2.º do Decreto-Lei n.º 81-A/2019, de 17 de junho, e atribuída à SIRESP - Gestão de Redes Digitais de Segurança e Emergência, S. A. (SIRESP, S. A.), nos termos do n.º 1 do artigo 3.º do mesmo decreto-lei, é assegurada, após o dia 30 de junho de 2021 e até à entrada em vigor do ato legislativo que aprova a orgânica e os estatutos de uma entidade prevista no n.º 3 do artigo anterior, nos seguintes termos:
+
+a) Compete à SIRESP, S. A., proceder à gestão, operação e manutenção da rede SIRESP;
+
+b) Compete à SIRESP, S. A., promover a contratação dos bens e serviços necessários à gestão, operação e manutenção e correto funcionamento da rede SIRESP e respetivos equipamentos;
+
+c) Compete à Secretaria-Geral do Ministério da Administração Interna (SGMAI) a modernização e ampliação da rede SIRESP, bem como promover a respetiva contratação de bens e serviços.
+
+2 - Com vista a assegurar o funcionamento ininterrupto da rede SIRESP após o dia 30 de junho de 2021, e por um período adicional com o limite de 18 meses a contar dessa data, a SIRESP, S. A., e a Secretaria-Geral do MAI devem prosseguir com os procedimentos de aquisição de bens e serviços necessários, nomeadamente, à conceção, fornecimento, instalação, operação, manutenção, modernização e à ampliação operacional e tecnológica da rede SIRESP, sendo os contratos com este objeto subsumíveis no âmbito do disposto na alínea i) do n.º 4 do artigo 5.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+
+3 - Os contratos de aquisição de serviços celebrados pela SIRESP, S. A., com terceiros, que se encontrem em vigor na data de produção de efeitos do presente decreto-lei, mantêm a sua vigência, caso a tal não se oponha qualquer disposição contratual.
+
+4 - A SIRESP, S. A., presta à SGMAI apoio técnico, incluindo informações que se revelem necessárias, no âmbito das suas competências, conforme seja solicitado pela SGMAI no âmbito do exercício das competências previstas na alínea c) do n.º 1.
+
+5 - O membro do Governo com tutela sectorial sobre a SIRESP, S. A., pode emitir orientações de gestão tendo em vista a boa execução das competências previstas na alínea c) do n.º 1 e dos projetos apoiados pelo Plano de Recuperação e Resiliência.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 8/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2022-177363475), em vigor a partir de 2022-01-11*
+
+## Artigo 4.º — Norma revogatória
+
+É revogado o n.º 2 do artigo 3.º do Decreto-Lei n.º 81-A/2019, de 17 de junho.
+
+## Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 29 de abril de 2021. - António Luís Santos da Costa. - Miguel Jorge de Campos Cruz - Eduardo Arménio do Nascimento Cabrita.
+
+Promulgado em 14 de maio de 2021.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 14 de maio de 2021.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114245076

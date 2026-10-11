@@ -1,0 +1,67 @@
+---
+title: "Decreto-Lei n.º 729/74"
+identifier: "Decreto-Lei n.º 729/74"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1974-12-20
+last_amended: 2008-02-27
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-169924930"
+retrieved: 2026-10-11
+summary: "Assegura a manutenção de todos os seus direitos nas instituições de previdência aos trabalhadores que, pertencendo aos quadros de quaisquer empresas, tenham sido ou venham a ser designados, nomeados ou eleitos, em comissão de serviço, para administradores das mesmas empresas - Determina que os funcionários públicos e administrativos que forem designados como administradores por parte do Estado ou de corpos administrativos junto de qualquer empresa servirão nesses cargos em comissão de serviço público"
+issuer: "Ministérios da Administração Interna, das Finanças, do Equipamento Social e do Ambiente e dos Assuntos Sociais"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/729/1974/p/cons/20080227/pt/html"
+dre_id: 468048
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1974/12/29600/15941594.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 729/74
+
+Decreto-Lei n.º 729/74
+
+de 20 de Dezembro
+
+1. Tem-se verificado a conveniência crescente da designação como administradores, em especial de empresas concessionárias de serviços públicos, de trabalhadores que se encontravam, à data da sua nomeação ou eleição, inscritos na previdência social. Não se tem qualquer dúvida de que as empresas a cujos quadros pertençam os trabalhadores designados como seus próprios administradores devam considerá-los em comissão de serviço, temporariamente impedidos do exercício da sua actividade profissional normal, conservando-lhes os lugares e contando-lhes o tempo de antiguidade.
+
+Afigura-se, por isso, de justiça que os trabalhadores nomeados ou eleitos administradores das empresas não sofram uma interrupção na sua situação como beneficiários da Previdência, para a qual, em muitos casos, já descontam há largo tempo.
+
+2. Por outro lado, importa facilitar também a designação de funcionários públicos ou administrativos para lugares de administrador por parte do Estado, sem prejuízo da sua situação de funcionários ou da sua posição na Caixa Geral de Aposentações, sempre que o Governo o julgue conveniente e se trate de cargo de administração implicando o seu exercício em tempo completo. Nestes casos, parece que também deve ser admitida a nomeação em comissão de serviço. Isto, aliás, já se verifica ao menos em relação a algumas empresas públicas.
+
+3. Em ambas as situações antes consideradas há que prever, contudo, a não acumulação do sistema de aposentação do Estado ou da Previdência com os esquemas porventura contemplados nos estatutos das empresas.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+## Artigo 1.º
+
+Os trabalhadores que, pertencendo aos quadros das empresas, tenham sido ou venham a ser designados, nomeados ou eleitos, em comissão de serviço, para administradores das mesmas empresas continuam inscritos nas instituições de previdência em que até então se encontravam abrangidos, mantendo-se todos os seus direitos, bem como a obrigação do pagamento das contribuições normais para essas instituições.
+
+## Artigo 2.º
+
+(Revogado.)
+
+- *Alterado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01*
+
+## Artigo 3.º
+
+Nos casos contemplados nos dois artigos anteriores, os interessados não poderão acumular as aposentações do Estado ou da previdência social com as aposentações que porventura lhes possam ser concedidas pelas empresas em que tenham servido como administradores, devendo optar por uma delas.
+
+## Artigo 4.º
+
+Este diploma entra imediatamente em vigor.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes - José Augusto Fernandes - Maria de Lourdes Pintasilgo.
+
+Promulgado em 12 de Dezembro de 1974.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

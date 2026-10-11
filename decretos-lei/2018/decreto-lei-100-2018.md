@@ -1,0 +1,202 @@
+---
+title: "Decreto-Lei n.º 100/2018"
+identifier: "Decreto-Lei n.º 100/2018"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2018-11-28
+last_amended: 2025-10-24
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-118484626"
+retrieved: 2026-10-11
+designation: "Quadro de transferência de competências para os órgãos municipais no domínio das vias de comunicação"
+summary: "Concretiza o quadro de transferência de competências para os órgãos municipais no domínio das vias de comunicação"
+issuer: "Presidência do Conselho de Ministros"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/100/2018/p/cons/20251024/pt/html"
+dre_id: 117142824
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2018/11/22900/0542305425.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 100/2018
+
+Decreto-Lei n.º 100/2018
+
+de 28 de novembro
+
+O novo Estatuto das Estradas da Rede Rodoviária Nacional, aprovado pela Lei n.º 34/2015, de 27 de abril, na sua redação atual, visa garantir um correto e eficiente funcionamento do setor rodoviário, salvaguardando uma melhor articulação entre os diversos agentes em presença, no intuito de melhor proteger a estrada e a sua zona envolvente, e dessa forma potenciar as condições de segurança e circulação dos seus utilizadores, bem como das atividades relacionadas com a sua construção, gestão, exploração e conservação.
+
+Os municípios têm vindo a desempenhar um papel essencial na administração das estradas sob sua gestão, face à sua relação de proximidade.
+
+Este modelo deve ser replicado nas vias rodoviárias integradas em perímetro urbano que ainda não estão no domínio público municipal.
+
+Assim, e na esteira da lógica de descentralização e de subsidiariedade plasmada no Programa do XXI Governo Constitucional, o Governo submeteu à Assembleia da República uma proposta de alargamento do âmbito de atuação dos municípios a estradas localizadas nos perímetros urbanos e dos equipamentos e infraestruturas neles integradas.
+
+Neste sentido, foi publicada a Lei n.º 50/2018, de 16 de agosto, a qual atribui aos órgãos municipais a competência de gestão das estradas nos perímetros urbanos e dos equipamentos e infraestruturas neles integradas.
+
+O presente decreto-lei concretiza, nos termos do n.º 1 do artigo 4.º da referida lei, a transferência das competências, visando salvaguardar, de forma eficiente e efetiva, os interesses legítimos dos utentes, bem como a integridade dos espaços.
+
+Face à data da publicação do presente decreto-lei, e à dificuldade que muitos municípios terão para cumprir o prazo de comunicação estabelecido na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, prevê-se um regime próprio para o ano de 2019. Assim, tendo em consideração estes factos, os municípios que não pretendam a transferência das competências previstas no presente decreto-lei no ano de 2019 podem ainda comunicar esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos nesse sentido, até 60 dias após a entrada em vigor do presente decreto-lei.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objeto
+
+O presente decreto-lei concretiza, ao abrigo dos n.os 1 e 2 do artigo 21.º da Lei n.º 50/2018, de 16 de agosto, a transferência de competências para os órgãos municipais no domínio das vias de comunicação.
+
+## Artigo 2.º — Transferência de competências e titularidade
+
+1 - É da competência dos órgãos municipais a gestão:
+
+a) Dos troços de estradas e dos equipamentos e infraestruturas neles integradas, localizados nos perímetros urbanos;
+
+b) Dos troços de estradas desclassificadas pelo Plano Rodoviário Nacional e os troços substituídos por variantes ainda não entregues através de mutação dominial por acordo entre a Infraestruturas de Portugal, S. A. (doravante designada por IP) e o respetivo município.
+
+2 - É transferida para os municípios a titularidade dos troços e dos equipamentos e infraestruturas referidos no número anterior, através de mutação dominial por acordo entre a IP e o respetivo município, conforme previsto no artigo 40.º do Estatuto das Estradas da Rede Rodoviária Nacional, aprovado em anexo à Lei n.º 34/2015, de 27 de abril, na sua redação atual, passando a integrar o domínio público municipal.
+
+## Artigo 3.º — Exercício de competências
+
+Todas as competências previstas no presente decreto-lei são exercidas pela câmara municipal, sem prejuízo da competência da assembleia municipal prevista nos n.os 5 e 6 do artigo 7.º.
+
+- *Retificado pelo/a [Declaração de Retificação n.º 3/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2019-118484591), em vigor a partir de 2018-12-03, produz efeitos a partir de 2019-01-01*
+
+## Artigo 4.º — Âmbito
+
+1 - A transferência para os municípios, prevista no artigo 2.º, abrange a zona da estrada, tal como definida pela alínea uu) do artigo 3.º do Estatuto das Estradas da Rede Rodoviária Nacional, incluindo o respetivo subsolo, sem prejuízo do disposto na alínea c) do número seguinte.
+
+2 - Estão excluídos da transferência:
+
+a) Os troços de estrada explorados em regime de concessão ou subconcessão à data da entrada em vigor do presente decreto-lei, durante o período em que se mantiver essa exploração;
+
+b) Os troços de estradas ou estradas que integram um itinerário principal ou um itinerário complementar;
+
+c) O canal técnico rodoviário, como definido na alínea j) do artigo 3.º do Estatuto das Estradas da Rede Rodoviária Nacional, existente à data da publicação do presente decreto-lei.
+
+3 - A exclusão referida na alínea a) do número anterior não é aplicável aos troços de estrada explorados pela IP.
+
+4 - Finda a concessão ou subconcessão prevista na alínea a) do n.º 2, os troços de estradas e os equipamentos neles integrados, localizados nos perímetros urbanos, podem ser integrados no domínio municipal, através de mutação dominial, por acordo entre a IP e o município respetivo, a partir do fim do respetivo contrato de concessão ou de subconcessão, salvo em caso de renovação, renegociação ou celebração de nova concessão ou subconcessão dos troços de estradas objeto da concessão ou subconcessão.
+
+## Artigo 5.º — Troços de estrada em perímetros urbanos
+
+1 - São objeto de acordo de mutação dominial entre a IP, S. A., e o respetivo município os troços de estrada localizados em perímetro urbano em que se verifique a utilização local da estrada como suporte da relação humana, social e económica, que se equipara ou prevalece sobre a utilização pelo tráfego de atravessamento.
+
+2 - Para efeitos do presente decreto-lei, entende-se por perímetro urbano a área identificada na Carta de Uso e Ocupação de Solo, concebida, desenvolvida e publicada pela Direção-Geral do Território, correspondente às classes identificadas no respetivo relatório técnico com a numeração e denominação seguintes: 1.1.1 Áreas edificadas residenciais contínuas; 1.1.2 Áreas edificadas residenciais descontínuas; 1.7.1.1 Vazios sem construção; 1.2.1.1 Indústria e logística; 1.2.1.2 Comércio e serviços.
+
+3 - A título excecional, devidamente fundamentado em razões operacionais e de gestão da rede rodoviária nacional ou regional ou do troço de estrada cuja titularidade é transferida para o município, um ou ambos os pontos extremos do mesmo troço podem localizar-se fora dos limites determinados como perímetro urbano, nos termos do número anterior, numa extensão total nunca superior a um terço da extensão do troço localizado dentro do perímetro urbano e desde que a mesma seja contínua.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2025 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2025-941845856), em vigor a partir de 2025-11-01*
+
+## Artigo 6.º — Troços de estrada desclassificadas
+
+São objeto de acordo de mutação dominial entre a IP e o respetivo município os troços de estradas desclassificadas pelo Plano Rodoviário Nacional e os troços substituídos por variantes ainda não entregues ao município.
+
+## Artigo 7.º — Mutação dominial
+
+1 - No prazo de 60 dias após o prazo referido no n.º 2 do artigo 14.º, a IP, S. A., comunica aos membros do Governo responsáveis pelas áreas das finanças, da administração local e das infraestruturas rodoviárias um projeto de transferência dos troços de estrada e dos equipamentos e infraestruturas neles integrados, indicando, em especial, o estado dos mesmos, os títulos de utilização existentes, bem como os recursos financeiros que acompanham a mutação dominial para fazer face às despesas de manutenção, conservação e reparação da zona da estrada.
+
+2 - Os membros do Governo responsáveis pelas áreas das finanças e das infraestruturas rodoviárias aprovam o projeto de transferência, no prazo de 60 dias, e remetem-no à IP, S. A., que o notifica ao município.
+
+3 - Nos casos em que os municípios tenham informado a Direção-Geral das Autarquias Locais que não pretendem o exercício das competências em 2019, a comunicação da IP referida no número anterior é efetuada 60 dias após o prazo referido na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto.
+
+4 - Nos casos referidos no n.º 4 do artigo 4.º, a comunicação da IP referida nos números anteriores é efetuada com 3 meses de antecedência relativamente ao fim do prazo da concessão ou subconcessão.
+
+5 - A câmara municipal submete à aprovação da assembleia municipal, o projeto de transferência acordado com a IP.
+
+6 - No prazo de 10 dias após a aprovação da assembleia municipal é celebrado o auto que formaliza a mutação dominial, o qual deve conter os elementos referidos no n.º 1 e ser homologado pelo membro do Governo responsável pela área das infraestruturas rodoviárias.
+
+7 - Caso não haja acordo quanto à mutação dominial, é somente transferida para os municípios a competência de gestão dos troços de estrada e dos equipamentos e infraestruturas neles integrados, incluindo o subsolo, sem prejuízo do disposto na alínea c) do n.º 2 do artigo 4.º
+
+8 - No caso referido no número anterior, a transferência da competência de gestão concretiza-se nos 60 dias após a comunicação da câmara municipal à IP de que só aceita a transferência da competência de gestão ou, nas situações do n.º 4 do artigo 4.º, a partir do fim do prazo do respetivo contrato de concessão ou de subconcessão.
+
+9 - Sem prejuízo do referido no número anterior, as partes, mediante acordo, podem reiniciar o processo com vista à mutação dominial dos troços de estrada e dos equipamentos e infraestruturas neles integrados.
+
+10 - Os acordos de mutação dominial a que se refere o presente decreto-lei são comunicados ao IMT, I. P., e à Direção-Geral das Autarquias Locais, que por sua vez comunica à Direção-Geral do Território, para efeitos de atualização de cadastro, e à Autoridade Nacional de Segurança Rodoviária, à PSP e à GNR, para efeitos de atualização de dados em matéria de competências de fiscalização, no prazo de 20 dias, contado da receção pela IP, S. A., do acordo homologado.
+
+11 - A homologação de um acordo de mutação dominial para transferência da titularidade de um troço de uma estrada nacional ou regional para o domínio público municipal, nos termos do n.º 2 do artigo 40.º do Estatuto das Estradas da Rede Rodoviária Nacional, aprovado em anexo à Lei n.º 34/2015, de 27 de abril, na sua redação atual, opera a sua desclassificação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2025 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2025-941845856), em vigor a partir de 2025-11-01*
+
+## Artigo 7.º-A — Mutação dominial simplificada
+
+1 - A titularidade dos troços de estrada da rede rodoviária nacional com a categoria de estrada nacional e dos troços de estradas regionais, sob gestão da IP, S. A., e dos equipamentos e infraestruturas neles integrados, localizados nos perímetros urbanos, pode ser transferida para o município em cujo território se situem, por iniciativa deste, mediante requerimento dirigido à IP, S. A., nos termos dos números seguintes.
+
+2 - O município prescinde, mediante comunicação formal dirigida à IP, S. A., dos recursos financeiros para fazer face às despesas de manutenção, conservação e reparação da zona da estrada, sendo a cobertura destes custos garantida com os meios financeiros municipais.
+
+3 - Para efeitos do previsto no número anterior, o município deve juntar um relatório detalhado, do qual constam as intervenções previstas, os respetivos custos, o enquadramento nos limites da dívida municipal, bem como um eventual plano de financiamento para os primeiros três anos.
+
+4 - O município declara, mediante comunicação formal remetida à IP, S. A., que assegura que as intervenções a implementar, bem como as atividades decorrentes da gestão das vias em causa respeitarão as normas técnicas e legais aplicáveis e as melhores práticas, tendo em consideração a garantia das condições de circulação e de segurança rodoviária compatíveis com a respetiva categoria de estrada.
+
+5 - A transferência a que diz respeito o presente artigo realiza-se por meio de acordo de mutação dominial, entre a IP, S. A., e o município, com autorização prévia da respetiva assembleia municipal, após aprovação pelo IMT, I. P., sujeito a homologação do membro do Governo responsável pela área das infraestruturas rodoviárias, nos termos conjugados do presente decreto-lei e do Estatuto das Estradas da Rede Rodoviária Nacional, aprovado em anexo à Lei n.º 34/2015, de 27 de abril, na sua redação atual.
+
+6 - O acordo de mutação dominial deve incluir em anexo os elementos previstos nos n.os 2, 3 e 4.
+
+7 - O acordo de mutação dominial é comunicado ao IMT, I. P., e à Direção-Geral das Autarquias Locais, que por sua vez comunica à Direção-Geral do Território, para efeitos de atualização de cadastro, e à Autoridade Nacional de Segurança Rodoviária, à PSP e à GNR, para efeitos de atualização de dados em matéria de competências de fiscalização.
+
+8 - Em caso de inexecução total ou parcial das intervenções previstas no relatório a que se refere o n.º 3 ou, em termos gerais, caso não sejam asseguradas a manutenção, a conservação ou a reparação da zona da estrada pelo município, estando em causa as condições de circulação e a segurança rodoviária, a transferência da titularidade dos troços de estrada e dos equipamentos e infraestruturas neles integrados pode ser revertida por despacho fundamentado do membro do Governo responsável pela área das infraestruturas.
+
+9 - O despacho a que se refere o número anterior é notificado ao IMT, I. P., e à Direção-Geral das Autarquias Locais para efeitos do disposto no n.º 10 do artigo anterior, aplicável com as necessárias adaptações.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2025 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2025-941845856), em vigor a partir de 2025-11-01*
+
+## Artigo 8.º — Titularidade
+
+A mutação dominial dos troços de estradas e dos equipamentos e infraestruturas neles integrados, localizados em perímetros urbanos, é efetuada para a titularidade do município em cujo território se situam.
+
+## Artigo 9.º — Competências excluídas
+
+1 - A fiscalização do cumprimento das disposições do Código da Estrada e legislação complementar mantém-se nas respetivas entidades fiscalizadoras, sem prejuízo das competências municipais em matéria de regulação e fiscalização do estacionamento dentro e fora das localidades.
+
+2 - Caso não ocorra a mutação dominial, as competências de gestão transferidas para os municípios não incluem a manutenção, conservação e reparação da zona da estrada, continuando essas funções a cargo das entidades atualmente competentes de acordo com o regime legal aplicável, sendo estabelecido entre a IP, S. A., e o respetivo município um protocolo, do qual, entre outros aspetos, deve constar a data de transferência da competência de gestão para o respetivo município.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2025 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2025-941845856), em vigor a partir de 2025-11-01*
+
+## Artigo 10.º — Receitas
+
+São receitas próprias dos municípios as resultantes da gestão dos espaços, equipamentos e infraestruturas abrangidos pelo presente decreto-lei.
+
+## Artigo 11.º — Títulos de utilização
+
+Mantêm-se em vigor os títulos de utilização referentes às estradas e bens que foram transferidos para os municípios, emitidos até à data da entrada em vigor do presente decreto-lei.
+
+## Artigo 12.º — Referências legais ou regulamentares
+
+Todas as referências legais ou regulamentares a entidades integradas na Administração direta e indireta do Estado ou ao setor público empresarial, relativamente às competências abrangidas pelo presente decreto-lei, consideram-se feitas aos municípios.
+
+## Artigo 13.º — Adaptação
+
+Os regimes orgânicos das entidades integradas na Administração direta e indireta do Estado ou no seu setor empresarial, que detenham competências concorrentes com as agora transferidas para os municípios, devem ser adaptados em conformidade com o disposto no presente decreto-lei, no prazo máximo de 180 dias a contar do início de vigência do mesmo.
+
+## Artigo 13.º-A — Prevalência
+
+Sempre que para efeitos de identificação dos pontos extremos e intermédios de um troço de estrada, constante de instrumento legislativo, acordo, auto ou outro meio semelhante, se verifique divergência entre a identificação por ponto quilométrico e por coordenadas espaciais, deve ser dada prevalência à identificação por coordenadas espaciais.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2025 - Diário da República n.º 206/2025, Série I de 2025-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2025-941845856), em vigor a partir de 2025-11-01*
+
+## Artigo 14.º — Produção de efeitos
+
+1 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do número seguinte.
+
+2 - Relativamente ao ano de 2019, os municípios que não pretendam a transferência das competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após entrada em vigor do presente decreto-lei.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 27 de setembro de 2018. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - Pedro Manuel Dias de Jesus Marques.
+
+Promulgado em 7 de novembro de 2018.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 12 de novembro de 2018.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111813212

@@ -1,0 +1,90 @@
+---
+title: "Decreto-Lei n.º 347/93"
+identifier: "Decreto-Lei n.º 347/93"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1993-10-01
+last_amended: 1999-08-03
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886137913"
+retrieved: 2026-10-11
+designation: "Transposição para a ordem jurídica interna da Directiva europeia, relativa às prescrições mínimas de segurança e de saúde nos locais de trabalho"
+summary: "Transpõe para a ordem jurídica interna a Directiva n.º 89/654/CEE , do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde nos locais de trabalho"
+issuer: "Ministério do Emprego e da Segurança Social"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/347/1993/p/cons/19990803/pt/html"
+dre_id: 646303
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1993/10/231a00/55525552.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 347/93
+
+Decreto-Lei n.º 347/93
+
+de 1 de Outubro
+
+O Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para direito interno das directivas comunitárias.
+
+Nestes termos, o presente diploma visa transpor para o direito interno a Directiva n.º 89/654/CEE, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde para os locais de trabalho, que constitui a primeira directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho.
+
+Trata-se de um instrumento de acção destinado a orientar actuações quando se trate de conceber, projectar e instalar locais destinados a postos de trabalho, integrando especificações e exigências com vista a prevenir riscos profissionais e a garantir a protecção da segurança e da saúde, tal como são enunciadas no artigo 4.º do Decreto-Lei n.º 441/91, de 14 de Novembro, acima referido.
+
+Pretende-se, assim, corresponder à exigência de fixação de prescrições mínimas de segurança e de saúde nos postos de trabalho, no quadro da dimensão social do mercado interno, com vista à melhoria dos níveis de prevenção e de protecção dos trabalhadores.
+
+O presente diploma foi apreciado em sede do Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna a Directiva n.º 89/654/CEE, do Conselho, de 30 de Novembro, relativa às prescrições mínimas de segurança e de saúde nos locais de trabalho.
+
+## Artigo 2.º — Âmbito
+
+1 - O presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro.
+
+2 - O presente diploma não se aplica aos estaleiros temporários e móveis, indústrias extractivas, barcos de pesca, locais de trabalho no interior de meios de transporte nem a terrenos que façam parte de uma empresa agrícola ou florestal mas situados fora da zona construída dessa empresa.
+
+## Artigo 3.º — Definição
+
+Para efeitos de aplicação do presente diploma entende-se por local de trabalho todo o local destinado à implantação de postos de trabalho situados quer em edifícios quer noutros locais da empresa ou do estabelecimento a que o trabalhador tenha acesso no desempenho das suas funções.
+
+## Artigo 4.º — Regulamentação
+
+As normas técnicas de execução do presente diploma são objecto de portaria do Ministro do Emprego e da Segurança Social.
+
+## Artigo 5.º — Fiscalização
+
+A fiscalização do cumprimento das disposições do presente diploma e da respectiva regulamentação, assim como a aplicação das correspondentes sanções, compete ao Instituto do Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro.
+
+## Artigo 6.º — Contra-ordenações
+
+1 - Constitui contra-ordenação muito grave a violação das normas técnicas referidas no artigo 4.º quando respeitem a:
+
+a) Instalações eléctricas;
+
+b) Meios de detecção e combate de incêndios.
+
+2 - Constitui contra-ordenação grave a violação das demais normas técnicas referidas no artigo 4.º
+
+- *Alterado pelo/a Artigo 8.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01*
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe Alves Monteiro - José Martins Nunes - José Albino da Silva Peneda.
+
+Promulgado em 3 de Setembro de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 7 de Setembro de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

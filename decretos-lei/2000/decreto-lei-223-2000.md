@@ -1,0 +1,370 @@
+---
+title: "Decreto-Lei n.º 223/2000"
+identifier: "Decreto-Lei n.º 223/2000"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2000-09-09
+last_amended: 2026-02-20
+status: unknown
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-66935638"
+retrieved: 2026-10-11
+summary: "Transforma o Centro para a Conservação da Energia na Agência para a Energia"
+issuer: "Ministério da Economia"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/223/2000/p/cons/20260220/pt/html"
+dre_id: 577714
+dre_vigencia: "VIGENCIA_CONDICIONADA"
+dre_consolidation_state: "CONDITIONAL"
+original_pdf: "https://files.diariodarepublica.pt/1s/2000/09/209a00/47864789.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 223/2000
+
+Decreto-Lei n.º 223/2000
+
+de 9 de Setembro
+
+A elevada dependência energética do País em relação ao exterior e aos combustíveis fósseis e a importância da diversificação das fontes de aprovisionamento, bem como as recentes transformações e a evolução do sector energético e as iniciativas da União Europeia, obrigam à criação de instrumentos potenciadores de uma intervenção esclarecida e eficaz.
+
+O espectro de medidas a dinamizar para promover a melhoria da eficiência energética e o maior aproveitamento das fontes de energia renováveis compreende a introdução de novas e eficientes tecnologias energéticas, a adopção das melhores práticas e metodologias de produção e consumo da energia, para além da alteração dos actuais padrões de comportamento face à energia e da sensibilização para as relações com o ambiente. A implementação destas medidas obedece a objectivos de serviço público, mas também de desenvolvimento de áreas de mercado para o sector privado.
+
+Neste âmbito, justifica-se a tomada de decisões que contribuam para dotar o País da necessária capacidade de intervenção na implementação da política energética, nas suas vertentes de fomento das energias renováveis e promoção da utilização racional de energia em todas as actividades económicas.
+
+O Centro para a Conservação da Energia, criado pelo Decreto-Lei n.º 147/84, de 10 de Maio, tinha como finalidade essencial contribuir para a utilização racional da energia nos sistemas de produção, transporte, distribuição e consumo. No entanto, o modelo que presidiu à sua criação e o modo como o mesmo se encontra estruturado têm vindo a mostrar-se desadequados à realidade acima descrita.
+
+O XIV Governo Constitucional, numa perspectiva de continuar a fomentar as energias renováveis e a utilização racional da energia, aumentando a quota deste tipo de energias na oferta nacional, transforma o Centro para a Conservação da Energia na Agência para a Energia.
+
+A Agência para a Energia, pessoa colectiva de tipo associativo, tem como missão o desenvolvimento de actividades de interesse público no âmbito das energias renováveis e da utilização racional da energia, assumindo-se junto dos agentes económicos e dos consumidores como instrumento de intervenção e dinamização de actividades e comportamentos que conduzam à gestão do consumo da energia e ao aproveitamento dos recursos endógenos.
+
+Foi ouvida a Associação Nacional dos Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objecto
+
+O Centro para a Conservação da Energia (CCE), criado pelo Decreto-Lei n.º 147/84, de 10 de Maio, é transformado, a partir da entrada em vigor do presente diploma, na Agência para a Energia, adiante designada abreviadamente por AGEN.
+
+### Artigo 2.º — Natureza
+
+1 - A AGEN é uma pessoa colectiva de tipo associativo e rege-se pelo disposto no presente diploma, respectivos estatutos e, supletivamente, pelas normas referentes às associações em geral, especialmente o disposto nos artigos 157.º a 184.º do Código Civil.
+
+2 - A AGEN é uma pessoa colectiva de utilidade pública.
+
+### Artigo 3.º — Missão
+
+1 - A ADENE tem por finalidade promover e realizar atividades de interesse público na área da energia e seus interfaces com outras políticas setoriais, em articulação com as demais entidades com atribuições nestes domínios.
+
+2 - A ADENE tem ainda por finalidade promover e realizar atividades de interesse público nas áreas do uso eficiente da água e da eficiência energética na mobilidade.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 4.º — Sucessão nos direitos e obrigações do Centro para a Conservação da Energia
+
+A AGEN sucede automática e globalmente ao CCE e continua a personalidade jurídica deste, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+
+### Artigo 5.º — Oponibilidade
+
+O previsto neste diploma produz efeitos relativamente a terceiros, independentemente de qualquer outra formalidade, e não poderá ser tido como alteração das circunstâncias relativamente aos contratos de que o CCE seja parte.
+
+### Artigo 6.º — Registos
+
+O presente diploma constitui título bastante para a comprovação do disposto no artigo 4.º e no n.º 2 do artigo 2.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, mediante simples comunicação subscrita por dois membros do conselho de administração da AGEN.
+
+### Artigo 7.º — Taxas e emolumentos
+
+São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou outras, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros titulares dos órgãos.
+
+### Artigo 8.º — Sujeição ao direito privado
+
+Nas relações contratuais da ADENE e no que se refere ao regime de bens aplica-se o direito privado, sem prejuízo das regras de contratação pública aplicáveis nos termos do Código dos Contratos Públicos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+## Capítulo II — Âmbito, objectivos e actividades
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 9.º — Âmbito
+
+1 - A ADENE realiza, prioritariamente, actividades de interesse público no domínio da política energética e dos serviços públicos concessionados ou licenciados no sector da energia.
+
+2 - A ADENE pode atuar em áreas relevantes para outras políticas setoriais, quando interligadas com a política energética ou associadas à eficiência hídrica, em articulação com os organismos públicos competentes.
+
+3 - A ADENE desenvolve a sua actividade junto dos diferentes sectores económicos e dos consumidores, recorrendo, para o efeito, ao apoio de entidades públicas ou privadas e agentes de mercado especializados.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2010-04-10*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 10.º — Atribuições
+
+A ADENE tem, designadamente, as seguintes atribuições:
+
+a) Colaborar com os organismos da Administração Pública na execução de atividades essenciais à concretização de políticas e medidas para o setor da energia e seus interfaces com outros setores, bem como à concretização de políticas e medidas para o setor do ambiente, designadamente as relativas ao uso eficiente da água, e à eficiência energética na mobilidade;
+
+b) Promover, preferencialmente em parceria, projetos na área da eficiência energética, eficiência hídrica e eficiência energética na mobilidade;
+
+c) Promover e participar em acções de disseminação de novas tecnologias energéticas e tecnologias mais limpas;
+
+d) Fomentar a transferência de tecnologias na área energética, promovendo a formação de parcerias entre as instituições de I&DT, as empresas e as congéneres internacionais;
+
+e) Dinamizar a concretização de planos e ações tendentes ao aproveitamento das capacidades de intervenção existentes a nível nacional e que podem convergir na melhoria da gestão de energia, na promoção do crescimento verde e no maior aproveitamento de recursos endógenos, designadamente a nível local e regional;
+
+f) Prestar apoio na identificação e viabilização de medidas e projetos com fins energéticos e da preservação do ambiente;
+
+g) Desenvolver acções inerentes à sensibilização e informação do público em geral e das empresas para as questões da energia e para a dimensão ambiental a elas associada;
+
+h) Promover acções de formação especializada na aplicação de instrumentos e tecnologias de gestão de energia;
+
+i) Participar em redes ou associações nacionais e internacionais de entidades com vocação similar.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 11.º — Actividades de serviço público
+
+1 - A ADENE, no desenvolvimento de atividades de serviço público, é financiada, nomeadamente, através de contratos-programa celebrados com organismos públicos com atribuições nas áreas do ambiente e da energia e outras entidades concessionárias de serviços públicos.
+
+2 - Podem também ser celebrados contratos-programa específicos entre a ADENE e organismos públicos de outros ministérios com vista à prossecução de actividades de interesse público.
+
+3 - As atividades de serviço público desenvolvidas pela ADENE são financiadas exclusivamente pelos organismos públicos com atribuições nas respetivas áreas de atuação, na parte respeitante a essas atribuições.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+## Capítulo III — Associados e património social
+
+### Artigo 12.º — Associados
+
+1 - A AGEN tem como associados a Direcção-Geral da Energia, a Direcção-Geral da Indústria e o Instituto Nacional de Engenharia e Tecnologia Industrial.
+
+2 - Os associados do CCE podem manter a qualidade de associados na AGEN, mediante declaração nesse sentido, que revista a forma de documento autentico ou autenticado, a emitir no prazo de 90 dias a contar da entrada em vigor do presente diploma.
+
+3 - À declaração referida no número anterior aplica-se, quanto à publicação no jornal oficial, o disposto no n.º 2 do artigo 168.º do Código Civil, sendo os custos da publicação suportados pelos interessados.
+
+### Artigo 13.º — Admissão de associados
+
+Podem ser admitidos como associadas da ADENE quaisquer pessoas coletivas públicas ou privadas cuja atividade esteja direta ou indiretamente ligada ao setor energético ou à eficiência hídrica.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+### Artigo 14.º — Transmissão da qualidade de associado
+
+1 - A qualidade de associado é intransmissível e não pode ser objecto de negócio jurídico.
+
+2 - Exceptuam-se ao disposto no número anterior as situações de actuação conjunta de associados, ainda que salvaguardando a personalidade jurídica autónoma, designadamente nas situações de acordo complementar, de coligação ou participação maioritária, existente entre tais pessoas colectivas.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 15.º — Património social
+
+1 - O património social é constituído pelas contribuições dos associados.
+
+2 - As entidades públicas referidas no n.º 1 do artigo 12.º detêm a maior contribuição para o património social.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 16.º — Integração do Centro da Biomassa para a Energia na Agência para a Energia
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09, em vigor a partir de 2015-04-10*
+
+## Capítulo IV — Forma de funcionamento
+
+### Artigo 17.º — Estatutos
+
+1 - Os estatutos da AGEN são aprovados em assembleia geral.
+
+2 - As alterações aos estatutos são efectuadas nos termos neles previstos e com observância do disposto no presente diploma.
+
+### Artigo 18.º — Órgãos
+
+1 - São órgãos sociais da AGEN a assembleia geral, o conselho de administração e o conselho fiscal.
+
+2 - A AGEN dispõe de um órgão de consulta, designado por conselho consultivo.
+
+### Artigo 19.º — Assembleia geral
+
+1 - A Assembleia Geral é o órgão máximo de decisão da AGEN, competindo-lhe a definição e aprovação da actuação geral, a apreciação da gestão e a eleição dos titulares dos órgãos sociais, bem como exercer as demais competências que lhe sejam atribuídas pelos estatutos.
+
+2 - A assembleia geral é constituída por todos os associados no pleno gozo dos seus direitos sociais.
+
+3 - A assembleia geral é dirigida por uma mesa, composta por um presidente e dois secretários.
+
+### Artigo 20.º — Representatividade dos associados na assembleia geral
+
+Cada associado tem direito a um número de votos proporcional à sua contribuição para o património social.
+
+### Artigo 21.º — Conselho de administração
+
+1 - O Conselho de administração é o órgão de gestão da AGEN, competindo-lhe exercer todos os poderes necessários à prossecução das actividades que se enquadrem nos fins desta e ainda exercer as demais competências que lhe sejam atribuídas pelos estatutos.
+
+2 - O Conselho de administração é composto por cinco elementos, sendo um presidente, dois vice-presidentes e dois vogais com funções não executivas.
+
+### Artigo 22.º — Conselho fiscal
+
+1 - Ao conselho fiscal compete dar parecer sobre os planos de actividade anuais e respectivos orçamentos, sobre o relatório anual e contas do exercício, bem como exercer as demais competências que lhe sejam atribuídas pelos estatutos.
+
+2 - O conselho fiscal é constituído por três membros, sendo um presidente e dois vogais, um dos quais é designado sob proposta da Direção-Geral do Tesouro e Finanças.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+### Artigo 23.º — Conselho consultivo
+
+1 - Ao conselho consultivo compete pronunciar-se sobre questões relativas à política energética e ainda sobre todas as questões que lhe sejam colocadas pela assembleia geral ou pelo conselho de administração.
+
+2 - O conselho consultivo é composto por um representante de cada uma das seguintes entidades por elas designado:
+
+a) Agências regionais e municipais de energia;
+
+b) Associação Nacional de Municípios Portugueses;
+
+c) Ministério da Economia;
+
+d) Ministério do Ambiente, Ordenamento do Território e Energia;
+
+e) Ministério da Agricultura e do Mar;
+
+f) Ministério da Educação e Ciência.
+
+3 - Integrará ainda o conselho consultivo um representante de cada uma das associações sectoriais, indicados em lista a aprovar pela assembleia geral da ADENE.
+
+4 - O conselho consultivo é presidido por personalidade designada pelo membro do Governo responsável pela área da energia.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 314/2001 - Diário da República n.º 284/2001, Série I-A de 2001-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2001-576275), em vigor a partir de 2001-12-15*
+
+### Artigo 24.º — Duração do mandato
+
+Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal tem um mandato de três anos, renovável por iguais períodos.
+
+### Artigo 24.º-A — Autonomia de gestão
+
+1 - Sem prejuízo do disposto nos números seguintes, os titulares do órgão de administração da ADENE gozam de autonomia na definição dos métodos, modelos e práticas de gestão concretamente aplicáveis ao desenvolvimento da respetiva atividade.
+
+2 - O órgão de administração da ADENE responde perante os membros do Governo responsáveis pelas seguintes áreas:
+
+a) Energia, quando esteja em causa a eficiência energética e em todos os demais assuntos não previstos;
+
+b) Ambiente, quando esteja em causa a eficiência hídrica.
+
+3 - O órgão de administração da ADENE apresenta aos associados relatórios trimestrais fundamentados demonstrativos do grau de execução dos objetivos fixados no plano de atividades e orçamento, dos quais conste a especificação do nível de execução orçamental e das operações financeiras realizadas, no âmbito de cada uma das áreas de atividade referidas no número anterior.
+
+4 - A autonomia de gestão reconhecida aos titulares do órgão de administração da ADENE, no exercício das respetivas funções, pode ser restringida em função dos resultados apresentados, quer ao nível operacional, quer ao nível do equilíbrio económico e financeiro, ou sempre que a avaliação do desempenho dos administradores e da qualidade da gestão, a efetuar pelos órgãos competentes, se revele negativa.
+
+5 - Sem prejuízo das limitações estatutárias aplicáveis, carecem sempre da autorização prévia dos membros do Governo referidos no n.º 2, consoante a matéria, e das finanças as seguintes operações:
+
+a) Prestação de garantias em benefício de outra entidade, independentemente de existir qualquer tipo de participação do garante no capital social da entidade beneficiária;
+
+b) Celebração de todo e qualquer ato ou negócio jurídico do qual resultem para a ADENE responsabilidades financeiras efetivas ou contingentes que ultrapassem o orçamento anual, ou que não decorram do plano de investimentos aprovado;
+
+c) Contração de empréstimos, independentemente do respetivo valor.
+
+6 - A não observância do disposto no número anterior, assim como a realização de operações ou investimentos não previstos no plano de investimento ou no plano de atividades e orçamento, constitui os titulares do órgão de administração em responsabilidade civil, criminal e financeira.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+### Artigo 24.º-B — Controlo financeiro
+
+1 - A ADENE está submetida à jurisdição e ao controlo exercido pelo Tribunal de Contas e pela Inspeção-Geral das Finanças, nos termos da lei.
+
+2 - As propostas de plano de atividades e de orçamento para cada ano de atividade, bem como o plano de investimentos e os documentos de prestação anual de contas, da ADENE estão sujeitas a parecer da Unidade Técnica de Acompanhamento e Monitorização do Setor Público Empresarial, da Agência Portuguesa do Ambiente, I. P., e da Direção-Geral de Energia e Geologia.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+### Artigo 24.º-C — Transparência financeira
+
+A ADENE rege-se pelo princípio da transparência financeira, devendo a sua contabilidade ser organizada nos termos legais, e de forma que permita identificar claramente todos os fluxos financeiros, operacionais e económicos existentes entre a ADENE e os respetivos associados que sejam entidades públicas, nos termos previstos no Decreto-Lei n.º 148/2003, de 11 de julho, alterado pelos Decretos-Leis n.os 120/2005, de 26 de julho, e 69/2007, de 26 de março, aplicável com as necessárias adaptações.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+### Artigo 24.º-D — Práticas de bom governo
+
+1 - A ADENE está obrigada a divulgar:
+
+a) A identificação dos associados e respetiva contribuição para o património social;
+
+b) A participação em quaisquer entidades de natureza associativa;
+
+c) A prestação de garantias financeiras ou assunção de dívidas ou passivos de outras entidades;
+
+d) O grau de execução dos objetivos fixados, a justificação dos desvios verificados e as medidas de correção aplicadas ou a aplicar;
+
+e) Os planos de atividades e orçamento, anuais e plurianuais, incluindo os planos de investimento e as fontes de financiamento;
+
+f) Os documentos anuais de prestação de contas;
+
+g) Os relatórios trimestrais de execução orçamental, acompanhados dos relatórios do órgão de fiscalização;
+
+h) A identidade e os elementos curriculares de todos os membros dos seus órgãos sociais, designadamente do órgão de administração, bem como as respetivas remunerações e outros benefícios.
+
+2 - Anualmente, a ADENE informa o membro do Governo responsável pelas áreas da energia e do ambiente e o público em geral do modo como foi prosseguida a sua missão, do grau de cumprimento dos seus objetivos, da forma como foi cumprida a política de responsabilidade social, de desenvolvimento sustentável, e em que medida foi salvaguardada a sua competitividade, designadamente pela via da investigação, do desenvolvimento, da inovação e da integração de novas tecnologias no processo produtivo.
+
+3 - Nas atividades da ADENE deve adotar-se uma gestão por centros de custos.
+
+4 - A ADENE cumpre a legislação e a regulamentação em vigor relativas à prevenção da corrupção, devendo elaborar anualmente um relatório identificativo das ocorrências, ou risco de ocorrências, de factos mencionados na alínea a) do n.º 1 do artigo 2.º da Lei n.º 54/2008, de 4 de setembro.
+
+5 - A ADENE adota ou adere a um código de ética que contemple exigentes comportamentos éticos e deontológicos, procedendo à sua divulgação por todos os seus colaboradores, clientes, fornecedores e pelo público em geral.
+
+6 - A ADENE apresenta anualmente um relatório de boas práticas de governo, do qual consta informação atual e completa sobre todas as matérias reguladas no presente artigo, o qual é incluído nos documentos de prestação anual de contas.
+
+7 - Compete ao órgão de fiscalização aferir no respetivo relatório o cumprimento da exigência prevista no número anterior.
+
+- *Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+## Capítulo V — Regime de trabalho
+
+### Artigo 25.º — Regime de trabalho
+
+O pessoal da AGEN fica sujeito ao regime do contrato individual de trabalho, sem prejuízo do disposto no artigo seguinte.
+
+### Artigo 26.º — Mobilidade
+
+1 - Os trabalhadores de órgãos ou serviços abrangidos pelo âmbito de aplicação da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho, podem ser autorizados a exercer funções na ADENE, por acordo de cedência de interesse público, nos termos previstos na LTFP, podendo os mesmos optar, a todo o tempo, pela remuneração base devida na situação jurídico-funcional de origem que esteja constituída por tempo indeterminado.
+
+2 - Os trabalhadores das empresas públicas podem ser autorizados a exercer funções na ADENE, nos termos do regime jurídico do contrato individual de trabalho.
+
+3 - À ocupação de cargos nos órgãos sociais da ADENE é aplicável o regime da comissão de serviço.»
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291), em vigor a partir de 2015-04-10*
+
+## Capítulo VI — Disposições finais e transitórias
+
+### Artigo 27.º — Pessoal do Centro para a Conservação da Energia
+
+O pessoal do CCE mantém na AGEN todos os direitos, obrigações e regalias de que era titular.
+
+### Artigo 28.º — Extinção
+
+A AGEN extingue-se nos casos previstos no artigo 182.º do Código Civil.
+
+### Artigo 29.º — Primeira assembleia geral
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09, em vigor a partir de 2015-04-10*
+
+### Artigo 30.º — Gestão transitória
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 47/2015 - Diário da República n.º 69/2015, Série I de 2015-04-09, em vigor a partir de 2015-04-10*
+
+### Artigo 31.º — Norma revogatória
+
+Com a entrada em vigor do presente diploma é revogado o Decreto-Lei n.º 147/84, de 10 de Maio.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Jaime José Matos da Gama - Luís Manuel Ferreira Parreirão Gonçalves - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
+
+Promulgado em 23 de Agosto de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 1 de Setembro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

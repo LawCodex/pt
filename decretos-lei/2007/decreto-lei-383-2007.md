@@ -1,0 +1,202 @@
+---
+title: "Decreto-Lei n.º 383/2007"
+identifier: "Decreto-Lei n.º 383/2007"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2007-11-16
+last_amended: 2008-03-24
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-857832650"
+retrieved: 2026-10-11
+designation: "Regime jurídico da concessão, emissão e utilização do passaporte diplomático português"
+summary: "Aprova o regime jurídico da concessão, emissão e utilização do passaporte diplomático português"
+issuer: "Ministério dos Negócios Estrangeiros"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/383/2007/p/cons/20080324/pt/html"
+dre_id: 628362
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2007/11/22100/0851808520.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 383/2007
+
+Decreto-Lei n.º 383/2007
+
+de 16 de Novembro
+
+Através do Decreto-Lei n.º 138/2006, de 26 de Julho, Portugal adoptou um novo modelo de passaporte, o passaporte electrónico português (PEP), acompanhando o movimento mundial tendente à introdução de dispositivos inovadores que proporcionam maior segurança aos cidadãos e à comunidade internacional, na medida em que dificultam a falsificação dos passaportes e apresentam uma solução para casos de furto ou roubo dos mesmos. O Decreto-Lei n.º 138/2006, de 26 de Julho, dá corpo às determinações comunitárias quanto ao reforço do nível de segurança na concessão, emissão e utilização dos passaportes e documentos de viagem, pelo recurso à biometria que garante uma relação mais fiável entre o passaporte e o seu titular, aspecto que assume especial acuidade no caso dos passaportes diplomáticos. O passaporte electrónico reproduz, assim, na íntegra os dados biográficos do titular e descritivos da emissão armazenados num chip de leitura por radiofrequência. O acto de concessão distingue-se da posterior operação material de produção e personalização do documento, a cargo da Imprensa Nacional-Casa da Moeda, S. A., com competência exclusiva, favorecendo-se a opção por mecanismos de produção única.
+
+O presente decreto-lei visa proceder a adaptações do quadro normativo vigente sobre o passaporte diplomático, harmonizando-o com a estrutura dos órgãos de soberania resultante das revisões constitucionais entretanto operadas, sem prejuízo da sua concessão a entidades nos termos previstos em normas especiais, adaptando-o às circunstâncias actuais da política externa portuguesa, no que respeita à flexibilização das situações excepcionais de concessão, sob expressa autorização do Ministro dos Negócios Estrangeiros, alargando o prazo de validade do passaporte diplomático pautado pelo tempo médio de duração dos mandatos, e reconhecendo a nova realidade jurídica e social há muito consagrada quer no Código Civil quer em legislação avulsa, estendendo a sua titularidade ao cônjuge de facto.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto e princípios gerais
+
+1 - O presente decreto-lei estabelece o regime jurídico de concessão, emissão e utilização do passaporte diplomático português.
+
+2 - O passaporte diplomático confere ao seu titular os direitos, e sujeita-o aos deveres, aplicáveis aos agentes diplomáticos e às pessoas internacionalmente protegidas na legislação nacional e no direito internacional.
+
+3 - O passaporte diplomático é concedido e emitido nos termos do presente decreto-lei, sem prejuízo da sua concessão a entidades previstas em disposições especiais.
+
+4 - O passaporte diplomático rege-se subsidiariamente pelo disposto no regime geral dos passaportes.
+
+## Artigo 2.º — Titulares
+
+1 - São titulares de passaporte diplomático:
+
+a) O Presidente da República;
+
+b) O Presidente da Assembleia da República;
+
+c) O Primeiro-Ministro;
+
+d) O Presidente do Supremo Tribunal de Justiça;
+
+e) O Presidente do Tribunal Constitucional;
+
+f) O Presidente do Supremo Tribunal Administrativo;
+
+g) O Presidente do Tribunal de Contas;
+
+h) Os membros do Governo;
+
+i) O Procurador-Geral da República;
+
+j) O Provedor de Justiça;
+
+l) Representantes da República para as Regiões Autónomas dos Açores e da Madeira;
+
+m) Os Presidentes das Assembleias Legislativas das Regiões Autónomas;
+
+n) Os Presidentes dos Governos Regionais;
+
+o) Os Deputados à Assembleia da República;
+
+p) Os funcionários do serviço diplomático do Ministério dos Negócios Estrangeiros;
+
+q) Os funcionários do quadro especializado do Ministério dos Negócios Estrangeiros.
+
+2 - São, igualmente, titulares de passaporte diplomático, quando possuam nacionalidade portuguesa:
+
+a) O cônjuge de entidade referida no número anterior ou pessoa que com aquela viva em união de facto, nos termos da lei;
+
+b) Sem prejuízo do disposto na alínea anterior, as pessoas de família das entidades referidas nas alíneas p) e q) do número anterior, quando com elas vivam e com elas tenham de viajar por razões profissionais destas, que não exerçam qualquer profissão e que se encontrem a seu cargo.
+
+- *Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 52/2008 - Diário da República n.º 58/2008, Série I de 2008-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2008-246793), em vigor a partir de 2008-03-29*
+
+## Artigo 3.º — Entidades em missão oficial ao estrangeiro
+
+1 - Pode ser concedido passaporte diplomático às seguintes entidades quando se encontrem em missão oficial ao estrangeiro:
+
+a) Deputados às Assembleias Legislativas das Regiões Autónomas;
+
+b) Membros dos Governos Regionais;
+
+c) Pessoas credenciadas pelo Ministério dos Negócios Estrangeiros para o desempenho de missões junto de governos estrangeiros ou de organismos internacionais;
+
+d) Membros dos tribunais internacionais e das comissões de inquérito, de mediação ou de conciliação;
+
+e) Membros da Casa Civil e Militar do Presidente da República;
+
+f) Pessoas que acompanhem oficialmente as entidades mencionadas nas alíneas a) a n) do n.º 1 do artigo 2.º;
+
+g) Secretários-gerais do Ministério dos Negócios Estrangeiros e da Presidência do Conselho de Ministros;
+
+h) Dirigentes máximos dos serviços de cada ministério com atribuições na área das relações internacionais.
+
+2 - Pode ser, igualmente, concedido passaporte diplomático ao cônjuge de entidade referida no número anterior ou pessoa que com aquela viva em união de facto, nos termos da lei, quando possua nacionalidade portuguesa e quando com ela tenha de viajar.
+
+- *Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 52/2008 - Diário da República n.º 58/2008, Série I de 2008-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2008-246793), em vigor a partir de 2008-03-29*
+
+## Artigo 4.º — Situações excepcionais
+
+1 - Pode ser, excepcionalmente, autorizada a concessão de passaportes diplomáticos a outras entidades além das referidas nos artigos 2.º e 3.º, por despacho do Ministro dos Negócios Estrangeiros, quando se verifiquem situações de interesse público relevante e se mostre insuficiente o passaporte especial.
+
+2 - Pode ser autorizada pelo Ministro dos Negócios Estrangeiros a concessão de passaporte diplomático, a título excepcional, a pessoa de nacionalidade estrangeira quando razões de política externa portuguesa o justifiquem.
+
+## Artigo 5.º — Modelo
+
+O passaporte diplomático reveste a forma de passaporte electrónico, com as características exigidas no regime geral dos passaportes, contendo, de forma bem visível, a identificação do passaporte como diplomático, a indicação da qualidade do seu titular ou da missão de que se acha investido, a disposição legal que permitiu a concessão e uma comunicação, em línguas portuguesa, inglesa e francesa, conforme anexo ao presente decreto-lei.
+
+## Artigo 6.º — Competência para a concessão
+
+1 - A concessão de passaportes diplomáticos a favor das entidades referidas nas alíneas a) a o) do n.º 1 do artigo 2.º não carece de ser autorizada, sendo realizada mediante requisição do serviço respectivo ao Protocolo de Estado, acompanhada de documento comprovativo do cargo ocupado.
+
+2 - A concessão de passaportes diplomáticos a favor das entidades referidas nas alíneas p) e q) do n.º 1 e no n.º 2 do artigo 2.º e nos artigos 3.º e 4.º é da competência do Ministro dos Negócios Estrangeiros, com possibilidade de delegação no secretário-geral do Ministério dos Negócios Estrangeiros, salvo quando se trate do próprio, mediante requisição dirigida ao Protocolo de Estado.
+
+- *Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 52/2008 - Diário da República n.º 58/2008, Série I de 2008-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2008-246793), em vigor a partir de 2008-03-29*
+
+## Artigo 7.º — Emissão
+
+A emissão do passaporte diplomático, incluindo as suas produção, personalização e remessa, cabe à Imprensa Nacional-Casa da Moeda, S. A.
+
+## Artigo 8.º — Custos de concessão e emissão
+
+A concessão e emissão de passaportes diplomáticos são isentas de quaisquer encargos para os titulares, sendo os respectivos custos suportados pelas entidades que os requeiram.
+
+## Artigo 9.º — Validade
+
+1 - Os passaportes diplomáticos referidos nas alíneas a) a o) do n.º 1 do artigo 2.º são válidos para todo o período do respectivo mandato, sem prejuízo da sua caducidade por cessação ou suspensão das respectivas funções por qualquer causa.
+
+2 - Os passaportes diplomáticos referidos nas alíneas p) e q) do n.º 1 do artigo 2.º são válidos por quatro anos, sem prejuízo da sua caducidade por cessação ou suspensão das respectivas funções por qualquer causa.
+
+3 - Os passaportes diplomáticos referidos no n.º 2 do artigo 2.º são válidos pelo prazo estabelecido nos números anteriores, conforme o aplicável, caso se mantenham os respectivos pressupostos da sua concessão.
+
+4 - Os passaportes diplomáticos referidos no n.º 1 do artigo 3.º e no artigo 4.º são válidos pelo período correspondente à duração provável da missão para que foram nomeados os respectivos titulares, mas nunca por prazo superior a quatro anos, caducando logo que o seu titular cesse o cargo ou a missão que determinou a sua concessão.
+
+5 - Os passaportes diplomáticos referidos no n.º 2 do artigo 3.º são válidos pelo prazo estabelecido no número anterior caso se mantenham os respectivos pressupostos da sua concessão.
+
+- *Alterado pelo/a ARTIGO ÚNICO do/a [Decreto-Lei n.º 52/2008 - Diário da República n.º 58/2008, Série I de 2008-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2008-246793), em vigor a partir de 2008-03-29*
+
+## Artigo 10.º — Utilização
+
+1 - O passaporte diplomático apenas pode ser utilizado quando o seu titular se desloque na qualidade que justifica a sua concessão.
+
+2 - Os titulares de passaportes diplomáticos que tenham deixado de ser válidos por qualquer causa estipulada no presente decreto-lei devem devolvê-los de imediato ao serviço que os concedeu.
+
+3 - As entidades referidas nos artigos 3.º e 4.º devem, igualmente, devolver imediatamente após o termo da missão para que foram designadas os passaportes diplomáticos de que tiverem feito uso ao respectivo serviço que os concedeu.
+
+## Artigo 11.º — Apreensão
+
+Os passaportes diplomáticos que não satisfaçam o preceituado no presente decreto-lei e aqueles que tenham deixado de ser válidos por qualquer causa estipulada no presente decreto-lei são apreendidos pelas autoridades que desses factos tomem conhecimento, sendo de imediato remetidos para o Ministério dos Negócios Estrangeiros, ao cuidado do Protocolo de Estado.
+
+## Artigo 12.º — Regime transitório
+
+Os passaportes diplomáticos emitidos até à data da entrada em vigor do presente decreto-lei conservam a validade neles prevista, sem prejuízo de a sua substituição poder ser requerida mediante a entrega do passaporte a substituir.
+
+## Artigo 13.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 70/79, de 31 de Março;
+
+b) Lei n.º 18/81, de 17 de Agosto.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 6 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues.
+
+Promulgado em 31 de Outubro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de Novembro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo
+
+Comunicação:
+
+«Solicita-se a todas as autoridades estrangeiras que deixem passar livremente o titular do presente passaporte e lhe prestem toda a assistência em caso de necessidade.»
+
+«All authorities of foreign states are hereby requested to allow the bearer of this diplomatic passport to pass freely without hindrance and to offer him or her every assistance which he or she may need.»
+
+«Toutes les autorités estrangères sont priées de bien vouloir laisser passer librement le titulaire du présent passeport et de lui prêter assistance en cas de besoin.»

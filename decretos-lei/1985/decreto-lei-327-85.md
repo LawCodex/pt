@@ -1,0 +1,93 @@
+---
+title: "Decreto-Lei n.º 327/85"
+identifier: "Decreto-Lei n.º 327/85"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1985-08-08
+last_amended: 2004-01-15
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-888218926"
+retrieved: 2026-10-11
+designation: "Inscrição do pessoal docente dos estabelecimentos de ensino superior, privado ou cooperativo, na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado"
+summary: "Permite a inscrição do pessoal docente dos estabelecimentos de ensino superior, privado ou cooperativo, na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado"
+issuer: "Ministério das Finanças e do Plano"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/327/1985/p/cons/20040115/pt/html"
+dre_id: 180580
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1985/08/18100/24672467.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 327/85
+
+Decreto-Lei n.º 327/85
+
+de 8 de Agosto
+
+Considerando que os estabelecimentos de ensino superior, privado ou cooperativo, autorizados nos termos da lei e cujos cursos sejam oficialmente reconhecidos prosseguem fins paralelos aos do Estado no campo do ensino e da investigação científica;
+
+Considerando-se de utilidade, para assegurar um elevado nível científico e pedagógico nas várias escolas, que seja possível uma efectiva mobilidade de docentes entre as instituições de ensino superior do Estado e as suas congéneres privadas e cooperativas, e vice-versa;
+
+Tendo presente a importância dos sistemas de segurança social como factor dessa mobilidade:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+## Artigo 1.º
+
+São abrangidos pelo presente diploma os estabelecimentos de ensino superior, privado ou cooperativo, autorizados nos termos da lei e a cujos cursos seja concedido reconhecimento oficial pleno.
+
+## Artigo 2.º
+
+- 1 - O pessoal docente dos estabelecimentos de ensino superior referidos no artigo anterior será inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado, ficando abrangido pelas disposições do Estatuto da Aposentação e do Estatuto das Pensões de Sobrevivência.
+
+2 - O disposto no número anterior não é aplicável ao pessoal docente que exerça as suas funções em regime de tempo parcial ou ao abrigo de mero contrato de prestação de serviços.
+
+## Artigo 3.º
+
+Todo o tempo de serviço anteriormente prestado pelo referido pessoal aos aludidos estabelecimentos de ensino após a autorização para a sua criação e o reconhecimento oficial dos cursos será contado para efeitos de aposentação e pensão de sobrevivência.
+
+- *Retificado pelo/a [Declaração - Diário da República n.º 200/1985, 2º Suplemento, Série I de 1985-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-267842), em vigor a partir de 1985-08-13*
+
+## Artigo 4.º
+
+1 - As pensões de aposentação e sobrevivência relativas ao mesmo pessoal serão calculadas e abonadas integralmente, nos termos do Estatuto da Aposentação e do Estatuto das Pensões de Sobrevivência, pela Caixa Geral de Aposentações e pelo Montepio dos Servidores do Estado.
+
+2 - A remuneração relevante para efeitos de desconto de quota e de cálculo da pensão de aposentação não pode ser inferior à estabelecida na convenção colectiva de trabalho aplicável nem superior à que respeite à categoria e escalão da carreira docente instituída para o ensino oficial correspondente ao mesmo tempo de serviço docente.
+
+3 - Os encargos com as pensões relativamente ao tempo de serviço prestado nos estabelecimentos de ensino abrangidos por este diploma anteriormente à data da sua entrada em vigor serão suportados pelo Centro Nacional de Pensões e pelos referidos estabelecimentos, segundo os princípios e nos moldes estabelecidos nos artigos 3.º, 6.º e 7.º do Decreto-Lei n.º 141/79, de 22 de Maio.
+
+- *Alterado pelo/a Artigo 1.º do/a [Lei n.º 1/2004 - Diário da República n.º 12/2004, Série I-A de 2004-01-15](https://diariodarepublica.pt/dr/detalhe/lei/1-2004-603273), em vigor a partir de 2004-01-01*
+- *Alterado pelo/a Artigo 9.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01*
+
+## Artigo 5.º
+
+Cada estabelecimento de ensino abrangido por este diploma fica autorizado a celebrar um acordo com a ADSE, destinado a fixar as condições em que o pessoal a que se refere o artigo 2.º pode adquirir a qualidade de beneficiário titular da ADSE e gozar dos benefícios por esta assegurados, nos termos do artigo 4.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro, podendo a Universidade Católica Portuguesa celebrar um único acordo, se tal for mais conveniente.
+
+## Artigo 6.º
+
+Os estabelecimentos de ensino deduzirão dos vencimentos do pessoal docente abrangido pelo presente diploma as quotizações legalmente fixadas, devendo as respeitantes à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado ser remetidas a estas instituições segundo as regras aplicáveis aos organismos do Estado.
+
+## Artigo 7.º
+
+Cada estabelecimento de ensino entregará à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado quantias iguais às respeitantes às quotas respectivas deduzidas nos vencimentos do pessoal docente, como contribuição para o financiamento do sistema.
+
+## Artigo 8.º
+
+As importâncias destinadas ao pagamento a que se refere o artigo anterior poderão ser englobadas nas dotações de apoio financeiro do Estado aos estabelecimentos de ensino abrangidos por este diploma, eventualmente atribuídas através do Ministério da Educação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Virgílio Alberto Meira Soares.
+
+Promulgado em 26 de Julho de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 30 de Julho de 1985.
+
+O Primeiro-Ministro, Mário Soares.

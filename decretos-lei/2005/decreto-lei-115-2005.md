@@ -1,0 +1,141 @@
+---
+title: "Decreto-Lei n.º 115/2005"
+identifier: "Decreto-Lei n.º 115/2005"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2005-07-14
+last_amended: 2005-11-04
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34448875"
+retrieved: 2026-10-11
+summary: "Dispensa por seis meses os titulares de explorações agrícolas de dimensão económica igual ou inferior a 12 unidades de dimensão europeia situadas nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve do pagamento das contribuições para o regime de segurança social dos trabalhadores independentes"
+issuer: "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/115/2005/p/cons/20051104/pt/html"
+dre_id: 236275
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2005/07/134a00/42464248.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 115/2005
+
+As condições climatéricas adversas que determinam a existência de situações de seca de reconhecida gravidade no País têm tido uma maior repercussão na vida dos agricultores cujos rendimentos estão particularmente afectados quer pelas perdas de produção quer pela necessidade de aquisição de meios de produção que permitam continuar a desenvolver a sua actividade.
+
+O Governo, que tem procurado minorar tais reflexos negativos na economia dos agricultores, nomeadamente através da criação de apoios financeiros ou abertura de linhas de crédito bonificado aos titulares de explorações pecuárias, apícolas e hortifrutícolas situadas nas zonas mais afectadas pela falta de chuva, não pode, no entanto, deixar de tomar uma iniciativa tendente a minimizar os efeitos resultantes da dificuldade que os produtores agrícolas têm sentido para fazer face aos encargos decorrentes do regime de segurança social.
+
+Nesta conformidade, o presente diploma estabelece, numa óptica de complementaridade com as ajudas já aprovadas, a dispensa de pagamento de contribuições para a segurança social por um período de seis meses para aqueles que estão abrangidos pelo regime de segurança social dos trabalhadores independentes, nos termos do disposto no Decreto-Lei n.º 328/93, de 25 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 159/2001, de 18 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma dispensa por um período de seis meses do pagamento da taxa contributiva fixada pelo artigo 37.º-A do Decreto-Lei n.º 328/93, de 25 de Setembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 159/2001, de 18 de Maio, os produtores agrícolas e respectivos cônjuges abrangidos pelo regime social dos trabalhadores independentes cujas explorações se situem na área de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.
+
+2 - A dispensa a que se refere o número anterior não afecta a manutenção do registo de remunerações por equivalência à entrada de contribuições de acordo com a respectiva base de incidência.
+
+3 - A referida dispensa abrange os titulares de explorações agrícolas que reúnam os requisitos estabelecidos no artigo 2.º e que estejam inscritos na segurança social nos seis meses anteriores à data da entrada em vigor do presente diploma.
+
+## Artigo 2.º — Condições de acesso
+
+1- Da dispensa de pagamento a que se refere o presente diploma só podem beneficiar os agricultores que reúnam cumulativamente as seguintes condições:
+
+a) Serem detentores de explorações agrícolas com uma dimensão igual ou inferior a 16 unidades de dimensão europeia (UDE);
+
+b) Não exercerem qualquer outra actividade geradora de rendimentos de trabalho para além da produção agrícola;
+
+c) Terem a respectiva situação contributiva regularizada perante a segurança social;
+
+d) Terem como base de incidência contributiva montante não superior a duas vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores;
+
+e) Terem sofrido quebras de produção iguais ou superiores a 20% nas regiões desfavorecidas ou 30% nas restantes zonas relativamente à produção média dos últimos três anos;
+
+f) Não serem pensionistas de qualquer regime de protecção social nacional ou estrangeiro.
+
+2 - A falta de cumprimento dos requisitos cumulativos exigidos no número anterior por um dos cônjuges abrangidos pelas medidas estabelecidas no presente decreto-lei não prejudica o deferimento do requerimento do outro cônjuge.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2005-583785), em vigor a partir de 2005-11-05*
+
+## Artigo 3.º — Caracterização das unidades de dimensão europeia
+
+1 - As UDE, referidas no artigo anterior, são unidades que permitem, nos termos da Decisão da Comissão n.º 85/377/CEE, de 7 de Junho, determinar, em cada ano, o valor monetário da produção agrícola bruta, deduzida de certos custos específicos a ela inerentes, correspondendo 1 UDE a (euro) 1200.
+
+2 - Para cálculo das UDE são utilizadas as margens brutas padrão de referência divulgadas pelo Gabinete de Planeamento e Política Agro-Alimentar.
+
+## Artigo 4.º — Regularização das contribuições em dívida
+
+1 - Consideram-se como tendo a situação contributiva regularizada os produtores agrícolas e seus cônjuges que, tendo valores contributivos em dívida, requeiram a sua regularização nos termos previstos no presente diploma.
+
+2 - O beneficiário que à data do requerimento não tenha a situação contributiva regularizada perante a segurança social pode requerer o pagamento diferido das contribuições em dívida, com o limite máximo de 36 prestações mensais.
+
+3 - Nos casos previstos no número anterior, há lugar à dispensa do pagamento de juros de mora referentes aos montantes em dívida desde que a dívida de contribuições venha a ser efectivamente paga nos termos e condições em que vier a ser deferida a sua regularização.
+
+## Artigo 5.º — Causas de cessação
+
+A dispensa de pagamento da taxa contributiva cessa nos seguintes casos:
+
+a) Termo do período de concessão;
+
+b) Falta de pagamento no prazo do respectivo vencimento de qualquer das prestações para a regularização da situação devedora.
+
+## Artigo 6.º — Requerimento
+
+1 - A dispensa temporária de pagamento prevista no presente decreto-lei depende de requerimento a apresentar até 30 de Novembro de 2005 pelos agricultores que reúnam as condições estabelecidas no artigo 2.º nas direcções regionais de agricultura (DRA), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, da área de localização da respectiva exploração.
+
+2 - O requerimento é apresentado em modelo próprio, o qual integra todos os elementos necessários à identificação dos requerentes e à verificação do preenchimento das condições, cabendo à DRA da área de residência certificar as declarações dele constantes.
+
+3 - O modelo a que se refere o número anterior é aprovado por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade Social.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2005 - Diário da República n.º 212/2005, Série I-A de 2005-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2005-583785), em vigor a partir de 2005-11-05*
+
+## Artigo 7.º — Instrução
+
+1 - A apresentação do requerimento referido no artigo anterior deve ser precedida da decisão da DRA respectiva sobre a condição a que se refere a alínea e) do artigo 2.º
+
+2 - Para efeitos da instrução do processo, podem as DRA solicitar ou obter informações e elementos complementares necessários à correcta apreciação do pedido, designadamente no que se refere à exclusividade dos rendimentos.
+
+3 - A instrução do processo deve ocorrer no prazo máximo de 20 dias após a recepção do requerimento, prorrogável, se necessário, por período não superior a 10 dias.
+
+## Artigo 8.º — Decisão e efeitos
+
+1 - A verificação das condições por parte da DRA é confirmada em campo próprio do requerimento, o qual é por esta remetido aos serviços da segurança social da área de residência do beneficiário.
+
+2 - Os serviços da segurança social devem proferir decisão sobre o pedido no prazo máximo de 30 dias após a recepção do requerimento.
+
+3 - A dispensa produz efeitos a partir do 1.º dia do mês seguinte àquele em que haja ocorrido o deferimento, sem prejuízo do disposto no número seguinte.
+
+4 - Os serviços da segurança social da área de residência comunicam à DRA a decisão final do processo.
+
+## Artigo 9.º — Financiamento
+
+O financiamento do regime previsto no presente diploma é assegurado pelo orçamento do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, que transferirá para o orçamento da segurança social o montante global correspondente à sua aplicação.
+
+## Artigo 10.º — Disposição condicional
+
+1 - Nos termos do artigo 88.º do Tratado que institui a Comunidade Europeia, o regime estabelecido pelo presente diploma está dependente da decisão da Comissão Europeia sobre a respectiva compatibilidade com o direito comunitário.
+
+2 - Sem prejuízo do disposto no número anterior, o regime estabelecido neste diploma tem início a partir da sua entrada em vigor.
+
+3 - Em caso de decisão negativa da Comissão Europeia, há lugar aos necessários ajustamentos do regime instituído pelo presente diploma junto dos respectivos beneficiários.
+
+## Artigo 11.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 8 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva.
+
+Promulgado em 29 de Junho de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 30 de Junho de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

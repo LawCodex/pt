@@ -1,0 +1,82 @@
+---
+title: "Decreto-Lei n.º 319/84"
+identifier: "Decreto-Lei n.º 319/84"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1984-10-01
+last_amended: 2001-11-07
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890047271"
+retrieved: 2026-10-11
+designation: "Extensão do direito à reparação material e moral que assiste aos deficientes das forças armadas, aos cidadãos portugueses, que colaboraram em operações militares de apoio às Forças Armadas"
+summary: "Torna extensíveis as disposições do Decreto-Lei n.º 43/76 , de 20 de Janeiro, aos cidadãos portugueses que, como elementos pertencentes a corporações de segurança e similares ou como civis, colaborando em operações militares de apoio às Forças Armadas nos antigos territórios do ultramar, adquiriram uma diminuição da capacidade geral de ganho em resultado de acidente"
+issuer: "Ministérios da Defesa Nacional, da Administração Interna, da Justiça e das Finanças e do Plano"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/319/1984/p/cons/20011107/pt/html"
+dre_id: 399788
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1984/10/22800/30153016.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 319/84
+
+Decreto-Lei n.º 319/84
+
+de 1 de Outubro
+
+O Decreto-Lei n.º 43/76, de 20 de Janeiro, reconhece o direito a uma reparação nacional aos cidadãos portugueses que se tornaram deficientes no cumprimento do serviço militar e na defesa dos interesses da Pátria em consequência de acidente ocorrido em condições determinadas, atribuindo-lhes um conjunto de direitos e regalias visando criar as condições para a sua integração social.
+
+Aplicando-se, porém, exclusivamente a militares, excluem-se daquele direito de reparação nacional outros cidadãos portugueses, os quais se tornaram deficientes em idênticas condições e circunstâncias, excepto a de poderem ser qualificados de militares. São eles os elementos de diversas corporações de segurança e similares existentes nos ex-territórios do ultramar e outros civis, que, comandados, enquadrados ou integrados nas Forças Armadas, actuavam ao lado dos militares em operações de campanha ou de manutenção da ordem pública.
+
+Trata-se de uma situação que se reconhece justo e urgente corrigir, tornando extensíveis àqueles elementos as disposições aplicáveis do Decreto-Lei n.º 43/76, de 20 de Janeiro.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+## Artigo 1.º
+
+Aos cidadãos portugueses que como elementos pertencentes a corporações de segurança e similares ou como civis, colaborando em operações militares de apoio às Forças Armadas nos antigos territórios do ultramar, adquiriram uma diminuição da capacidade geral de ganho em resultado de acidente ocorrido nas condições definidas nos artigos 1.º e 2.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, é reconhecido o direito à percepção de uma pensão de invalidez, bem como ao gozo dos direitos e regalias constantes das disposições aplicáveis dos artigos 4.º, 5.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º e 16.º do mesmo diploma.
+
+## Artigo 2.º
+
+1 - A qualificação dos casos previstos no artigo anterior compete ao Ministro da Defesa Nacional, o qual poderá ouvir a Procuradoria-Geral da República, após instrução dos respectivos processos pelo ramo das Forças Armadas ao serviço do qual foi adquirida a deficiência.
+
+2 - A instrução dos processos regular-se-á pela legislação aplicável aos deficientes das Forças Armadas (DFA).
+
+3 - A qualificação referida no n.º 1 deverá ser requerida pelos interessados no prazo de 3 meses após a entrada em vigor do presente diploma.
+
+4 - Os indivíduos que à data da entrada em vigor deste diploma tiverem pendentes processos de conservação ou aquisição da nacionalidade portuguesa poderão requerer a qualificação prevista no n.º 1, no prazo referido no número anterior a partir da data do reconhecimento ou da obtenção da nacionalidade.
+
+5 - Os cidadãos que venham a ser considerados deficientes nos termos do presente decreto-lei, quando a sua capacidade geral de ganho sofra agravamento por motivo que não seja intencionalmente provocado pelo próprio ou resultante de acções ou omissões por ele cometidas contra ordens expressas superiores ou em desrespeito das condições de segurança determinadas por autoridades competentes, desde que não justificadas, podem requerer revisão do processo dentro dos 10 anos posteriores à data da fixação da pensão, uma vez em cada semestre, nos 2 primeiros anos, e uma vez por ano, nos anos imediatos, a fim de serem reclassificados quanto à nova percentagem de incapacidade.
+
+- *Retificado pelo/a [Declaração - Diário da República n.º 301/1984, 1º Suplemento, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-220490), em vigor a partir de 1984-12-31*
+
+## Artigo 3.º
+
+1 - Os cidadãos referidos no artigo 1.º serão equiparados a um posto da hierarquia militar nos termos do artigo 3.º do Decreto n.º 350/71, de 12 de Agosto, para efeitos da atribuição da pensão de invalidez, que será sempre calculada por inteiro.
+
+2 - São aplicáveis aos casos referidos no número anterior as disposições do Decreto-Lei n.º 498/72, de 9 de Dezembro, relativas às pensões de invalidez de militares, em tudo o que não contrarie o presente diploma.
+
+## Artigo 4.º
+
+1 - Os direitos e regalias atribuídos pelo presente decreto-lei terão eficácia a partir da data da apresentação do requerimento a que se referem os n.os 3 e 4 do artigo 2.º
+
+2 - O cartão a que se refere o n.º 2 do artigo 14.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, será substituído, para efeitos da aplicação deste diploma, por um cartão de deficiente civil das Forças Armadas, de características e condições de utilização idênticas às do cartão de DFA.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 6 de Setembro de 1984. - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
+
+Promulgado em 15 de Setembro de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 20 de Setembro de 1984.
+
+O Primeiro-Ministro, Mário Soares.

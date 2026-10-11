@@ -1,0 +1,941 @@
+---
+title: "Decreto-Lei n.º 48-A/2010"
+identifier: "Decreto-Lei n.º 48-A/2010"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 2010-05-13
+last_amended: 2015-06-01
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34446775"
+retrieved: 2026-10-11
+designation: "Regime geral das comparticipações do Estado no preço dos medicamentos, e outras alterações em matéria de medicamentos"
+summary: "Aprova o regime geral das comparticipações do Estado no preço dos medicamentos, altera as regras a que obedece a avaliação prévia de medicamentos para aquisição pelos hospitais do Serviço Nacional de Saúde, procedendo à primeira alteração ao Decreto-Lei n.º 195/2006 , de 3 de Outubro, e modifica o regime de formação do preço dos medicamentos sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados, procedendo à segunda alteração ao Decreto-Lei n.º 65/2007 , de 14 de Março"
+issuer: "Ministério da Saúde"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/48-a/2010/p/cons/20150601/pt/html"
+dre_id: 227779
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2010/05/09301/0000200015.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 48-A/2010
+
+O Programa do XVIII Governo Constitucional assume que deve ser promovida «uma revisão global do actual sistema de comparticipação do medicamento, com especial enfoque nos regimes especiais, no sentido de obter melhor equidade e mais valor para todos os cidadãos».
+
+Este diploma visa, essencialmente, três objectivos:
+
+i) Melhorar o acesso ao medicamento a quem dele necessita, em especial às pessoas com menos recursos económicos;
+
+ii) Tornar o sistema de comparticipações do Estado mais racional e eficiente, de modo a podermos garantir estes benefícios para o cidadão, no presente e para o futuro; e
+
+iii) Promover a generalização da utilização do medicamento genérico, dada a sua comprovada qualidade e óbvio benefício para o cidadão.
+
+Trata-se de um diploma fundamental para continuar a garantir um Serviço Nacional de Saúde universal e eficiente, que garante mais e melhor saúde para todos.
+
+Para garantir o cumprimento destes objectivos, o presente decreto-lei prevê diversas medidas, entre as quais as seguintes:
+
+i) Quanto ao regime geral das comparticipações, consagra-se a comparticipação a 100 % para os utentes do regime especial dos medicamentos que apresentem os cinco preços de venda ao público mais baixos do respectivo grupo homogéneo;
+
+ii) Por razões de celeridade, dispõe-se o encurtamento do prazo de decisão do pedido de comparticipação do Estado no preço do medicamento genérico;
+
+iii) São estabelecidas regras de determinação do preço de cada novo medicamento genérico a entrar em grupo homogéneo, quando neste existam pelo menos 5 % de quota do mercado de medicamentos genéricos. Clarificam-se ainda as regras de notificação do início de comercialização do medicamento comparticipado;
+
+iv) Ao nível do sistema de preços de referência e numa primeira fase, consagra-se a regra da comparticipação pelo preço de referência, independentemente do valor do medicamento, excepto quando este seja inferior ao valor dessa comparticipação. O diploma recupera o valor real do preço de referência após um período de adaptação à redução do preço dos genéricos operada em 2008, de modo a não distorcer o mercado nem induzir estímulos económicos adversos aos medicamentos de marca.
+
+O presente decreto-lei introduz outras alterações, nomeadamente a fixação das margens de comercialização aos níveis existentes em 2005, sem que tal implique quaisquer modificações nos preços de venda ao público aprovados ou impacto nos encargos para o Sistema Nacional de Saúde.
+
+Com o presente decreto-lei, alcança-se ainda outro objectivo: a sistematização da legislação que regula o regime das comparticipações do Estado relativamente ao preço dos medicamentos que, até agora, se encontra dispersa por vários diplomas.
+
+Refira-se que estas medidas representam um esforço acrescido na racionalização dos gastos com medicamentos. Não se pretende com estas medidas gastar menos, mas sim gastar melhor.
+
+O principal objectivo assumido é beneficiar directamente quem, pelas suas condições económico-sociais, enfrenta maiores dificuldades no acesso a medicamentos, ao mesmo tempo que se atende por esta via a padrões de racionalidade. O acesso ao medicamento melhora, porque o custo do medicamento para os cidadãos se reduz, mantendo-se a garantia da sua qualidade. Paralelamente, o Sistema Nacional de Saúde reduz a sua factura com o medicamento, mas, sublinhe-se, esta redução não é feita nem à custa da qualidade nem por via da transferência de custos para o utente.
+
+A política do medicamento ganha, assim, um impulso muito importante com o presente decreto-lei.
+
+Assim:
+
+No desenvolvimento da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+O presente decreto-lei aprova o regime geral das comparticipações do Estado no preço dos medicamentos e introduz alterações ao Decreto-Lei n.º 195/2006, de 3 de Outubro, e ao Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelo Decreto-Lei n.º 184/2008, de 5 de Setembro.
+
+## Artigo 2.º — Regime geral das comparticipações do Estado no preço dos medicamentos
+
+É aprovado o regime geral das comparticipações do Estado no preço dos medicamentos, que consta do anexo i do presente decreto-lei, do qual faz parte integrante.
+
+## Artigo 3.º — Alteração ao Decreto-Lei n.º 195/2006, de 3 de Outubro
+
+Os artigos 1.º, 4.º, 5.º, 6.º, 8.º e 11.º do Decreto-Lei n.º 195/2006, de 3 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - O presente decreto-lei estabelece as regras a que obedece a avaliação prévia de medicamentos reservados exclusivamente a tratamentos em meio hospitalar e outros medicamentos sujeitos a receita médica restrita, para efeito da sua aquisição pelos hospitais do Serviço Nacional de Saúde, independentemente do seu estatuto jurídico.
+
+2 - Os medicamentos reservados exclusivamente a tratamentos em meio hospitalar e outros medicamentos sujeitos a receita médica restrita são os que se encontram classificados como tal na respectiva autorização de introdução no mercado (AIM).
+
+Artigo 4.º
+
+[...]
+
+1 - ...
+
+2 - O requerimento que não respeite os requisitos previstos no artigo anterior é indeferido liminarmente e devolvido ao requerente acompanhado dos fundamentos do indeferimento.
+
+3 - ...
+
+4 - Se o processo contiver já todos os elementos considerados suficientes, incluindo o estudo de avaliação económica, elaborado de acordo com as orientações metodológicas aprovadas por despacho do membro do Governo responsável pela área da saúde, o INFARMED, I. P., decide o pedido de avaliação do medicamento, no prazo de 60 dias após a validação, com base numa proposta de decisão, da qual constam:
+
+a) Relatório de avaliação farmacoterapêutica com identificação do valor terapêutico acrescentado que se reconhece ao medicamento, tendo por referência as demais alternativas terapêuticas aprovadas;
+
+b) Relatório de avaliação económica, no qual se avalia a vantagem económica do medicamento, face às alternativas terapêuticas disponíveis, documentada com a evidência científica internacional disponível ou estudo de avaliação económica;
+
+c) [Anterior alínea b).]
+
+d) ...
+
+e) ...
+
+5 - No caso de medicamentos genéricos, é dispensado o relatório de avaliação farmacoterapêutica previsto na alínea a) do número anterior.
+
+6 - Se, até ao termo do prazo previsto no n.º 4, os elementos constantes do processo forem insuficientes para fundamentar a vantagem económica, o INFARMED, I. P., notifica o requerente para, em 180 dias, apresentar estudo de avaliação económica de acordo com as orientações metodológicas aprovadas por despacho do membro do Governo responsável pela área da saúde.
+
+7 - (Anterior n.º 6.)
+
+8 - (Anterior n.º 7.)
+
+9 - (Anterior n.º 8.)
+
+10 - A decisão de indeferimento é comunicada ao requerente, às comissões de farmácia e terapêutica dos hospitais e das regiões de saúde, sendo igualmente publicada na página electrónica do INFARMED, I. P.
+
+11 - (Anterior n.º 10.)
+
+Artigo 5.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) Apresentações, dosagens ou formas farmacêuticas do medicamento;
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+3 - ...
+
+4 - A aquisição pelos hospitais do Serviço Nacional de Saúde de novas apresentações, dosagens ou formas farmacêuticas depende da sua prévia inclusão no contrato.
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+7 - (Anterior n.º 6.)
+
+Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - Entre os aspectos a monitorizar constam nomeadamente os seguintes:
+
+a) ...
+
+b) ...
+
+c) ...
+
+3 - ...
+
+4 - ...
+
+5 - Os hospitais do Serviço Nacional de Saúde enviam ao INFARMED, I. P., em Janeiro de cada ano, um relatório sobre a eficácia terapêutica, as suspeitas de reacções adversas e a relação benefício-risco da respectiva utilização, relativo ao ano anterior.
+
+Artigo 8.º
+
+[...]
+
+1 - O medicamento sobre o qual venha a recair decisão de indeferimento ou de revogação de decisão de deferimento não pode ser adquirido pelos hospitais do Serviço Nacional de Saúde, independentemente do seu estatuto jurídico, sem prejuízo do disposto no artigo 11.º do presente decreto-lei.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+Artigo 11.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - A título excepcional, para situações clinicamente fundamentadas pelo hospital, nomeadamente ausência de alternativa terapêutica, em que o doente corra risco imediato de vida ou de sofrer complicações graves, o INFARMED, I. P., pode autorizar o acesso do doente ao medicamento em causa, nos termos a regular por portaria do membro do Governo responsável pela área da saúde.»
+
+## Artigo 4.º — Alteração ao Decreto-Lei n.º 65/2007, de 14 de Março
+
+Os artigos 4.º, 7.º, 8.º, 10.º, 12.º, 13.º, 14.º e 17.º do Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelo Decreto-Lei n.º 184/2008, de 5 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+Autoridade competente para autorizar o preço dos medicamentos
+
+1 - Compete à Direcção-Geral das Actividades Económicas (DGAE) autorizar o preço de venda ao público (PVP) dos medicamentos abrangidos pelo presente decreto-lei, sem prejuízo do disposto no n.º 3.
+
+2 - São considerados preços máximos os PVP fixados pela DGAE.
+
+3 - Compete à Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime jurídico de comparticipação do Estado no preço dos medicamentos.
+
+Artigo 7.º
+
+[...]
+
+1 - A revisão anual dos preços dos medicamentos abrangidos pelo presente decreto-lei processa-se com base na comparação com a média dos preços praticados nos países de referência à data de 1 de Janeiro de cada ano, no âmbito desta revisão.
+
+2 - (Revogado.)
+
+Artigo 8.º
+
+Preços provisórios
+
+1 - ...
+
+2 - ...
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+Artigo 10.º
+
+[...]
+
+1 - ...
+
+2 - (Revogado.)
+
+Artigo 12.º
+
+Margens máximas de comercialização
+
+As margens máximas de comercialização dos medicamentos comparticipados e não comparticipados são as seguintes:
+
+a) Grossistas - 8 %, calculada sobre o PVP, deduzido o IVA;
+
+b) Farmácias - 20 %, calculada sobre o PVP, deduzido o IVA.
+
+Artigo 13.º
+
+Revisão excepcional de preço
+
+1 - O preço do medicamento pode ser revisto, a título excepcional, por motivos de interesse público ou por iniciativa do titular da autorização de introdução no mercado, mediante despacho fundamentado dos membros do Governo responsáveis pelas áreas da economia e da saúde, sob proposta da DGAE, após consulta do INFARMED, I. P.
+
+2 - Os critérios, prazos e demais procedimentos que presidem à revisão excepcional de preço mencionada no número anterior são definidos por despacho dos membros do Governo responsáveis pelas áreas da economia e da saúde.
+
+Artigo 14.º
+
+[...]
+
+(Revogado.)
+
+Artigo 17.º
+
+[...]
+
+(Revogado.)»
+
+## Artigo 5.º — Referências legais
+
+1 - As referências feitas a «Direcção-Geral da Empresa» ou «DGE» no Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelo Decreto-Lei n.º 184/2008, de 5 de Setembro, entendem-se como dizendo respeito a «Direcção-Geral das Actividades Económicas» ou «DGAE», nos termos da alínea h) do n.º 3 do artigo 27.º e do artigo 28.º do Decreto-Lei n.º 208/2006, de 27 de Outubro.
+
+2 - As referências feitas a «INFARMED» no Decreto-Lei n.º 195/2006, de 3 de Outubro, entendem-se como dizendo respeito a «INFARMED, I. P.».
+
+## Artigo 6.º — Normas transitórias
+
+1 - O Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelo Decreto-Lei n.º 184/2008, de 5 de Setembro, com as alterações introduzidas pelo artigo 4.º do presente decreto-lei, aplica-se aos preços de venda ao público já aprovados.
+
+2 - No caso referido no número anterior, o preço de venda ao público não sofre qualquer alteração decorrente da aplicação das novas margens de comercialização.
+
+3 - A Portaria n.º 1016-A/2008, de 8 de Setembro, produz efeitos a partir da data de entrada em vigor do presente decreto-lei sobre os preços de referência dos grupos homogéneos aprovados e a aprovar.
+
+## Artigo 7.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 118/92, de 25 de Junho;
+
+b) O Decreto-Lei n.º 270/2002, de 2 de Dezembro;
+
+c) Os n.os 2 do artigo 7.º, 3 e 4 do artigo 8.º e 2 do artigo 10.º e os artigos 14.º e 17.º do Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelo Decreto-Lei n.º 184/2008, de 5 de Setembro.
+
+## Artigo 8.º — Republicação
+
+1 - É republicado, no anexo ii do presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 195/2006, de 3 de Outubro, com a redacção actual.
+
+2 - É republicado, no anexo iii do presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 65/2007, de 14 de Março, com a redacção actual.
+
+## Artigo 9.º — Produção de efeitos
+
+O disposto no artigo 12.º do Decreto-Lei n.º 65/2007, de 14 de Março, alterado pelo Decreto-Lei n.º 184/2008, de 5 de Setembro, produz efeitos a partir do dia 1 de Maio de 2010.
+
+## Artigo 10.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 1 de Junho de 2010.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 8 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
+
+Promulgado em 6 de Maio de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 10 de Maio de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I (a que se refere o artigo 2.º) Regime geral das comparticipações do Estado no preço dos medicamentos
+
+### Capítulo I — Disposições gerais
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Artigo 1.º — Objecto
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Artigo 2.º — Competência
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Artigo 2.º-A — Âmbito de apreciação e decisão
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Artigo 3.º — Acesso à comparticipação de medicamentos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+### Capítulo II — Regimes de comparticipação de medicamentos
+
+#### Secção I — Regime geral de comparticipação de medicamentos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 4.º — Condições de comparticipação de medicamentos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 5.º — Escalões de comparticipação de medicamentos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 6.º — Comparticipação de medicamentos sujeita a acordo
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Subsecção I — Procedimentos relativos à comparticipação de medicamentos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 7.º — Pedido
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 8.º — Instrução
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 9.º — Análise do pedido e projecto de decisão
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 10.º — Decisão
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 11.º — Prazo de decisão
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 12.º — Notificação
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 13.º — Comunicações sobre comercialização
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 14.º — Publicitação
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 15.º — Pedido de exclusão de medicamento da comparticipação
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 16.º — Reavaliação dos medicamentos comparticipados
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Subsecção II — Vicissitudes e cessação da comparticipação
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 17.º — Exclusão da comparticipação
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 18.º — Caducidade decorrente de não comercialização
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Secção II — Regimes especiais de comparticipação
+
+##### Artigo 19.º — Comparticipação em função dos beneficiários
+
+1 - A comparticipação do Estado no preço dos medicamentos integrados no escalão A é acrescida de 5 % e nos escalões B, C e D é acrescida de 15 % para os pensionistas cujo rendimento total anual não exceda 14 vezes a retribuição mínima mensal garantida em vigor no ano civil transacto ou 14 vezes o valor do indexante dos apoios sociais em vigor, quando este ultrapassar aquele montante.
+
+2 - A comparticipação do Estado no preço dos medicamentos para os pensionistas cujo rendimento não exceda o valor estabelecido no número anterior é de 95 % para o conjunto dos escalões, para os medicamentos cujos preços de venda ao público sejam iguais ou inferiores ao quinto preço mais baixo do grupo homogéneo em que se inserem.
+
+3 - Os beneficiários do regime especial de comparticipação referidos no número anterior devem fazer prova da sua qualidade através de documento emitido pelos serviços oficiais competentes, em termos a definir por portaria do membro do Governo responsável pela área da saúde.
+
+4 - O rendimento referido nos n.os 1 e 2 corresponde ao resultado da divisão do rendimento do agregado familiar pelo número de membros desse agregado, nos termos previsto no Decreto-Lei n.º 70/2010, de 16 de Junho.
+
+5 - Sempre que da apreciação da prova referida no n.º 3 resultar que não se encontram reunidos os pressupostos de concessão do benefício do regime especial de comparticipação de medicamentos, devem os centros de saúde informar os respectivos pensionistas e proceder ao cancelamento do benefício.
+
+6 - Em caso de comprovado abuso, o pensionista perde a concessão do benefício durante um período de 24 meses após o conhecimento do facto.
+
+7 - Para efeitos deste regime geral, entende-se por grupo homogéneo o conjunto de medicamentos com a mesma composição qualitativa e quantitativa em substâncias activas, forma farmacêutica, dosagem e via de administração, no qual se inclua pelo menos um medicamento genérico existente no mercado.
+
+8 - Para efeitos deste regime geral, entende-se por medicamento genérico existente no mercado o medicamento genérico que registe vendas efectivas ou cuja comercialização, conforme notificação do titular, se inicie até à data da elaboração pelo INFARMED, I. P., das listas de grupos homogéneos.
+
+9 - O quinto preço mais baixo referido no n.º 2 é actualizado trimestralmente pelo INFARMED, I. P., após a aprovação dos preços de referência dos grupos homogéneos, e produz efeitos em simultâneo com estes.
+
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02*
+
+##### Artigo 20.º — Comparticipação em função das patologias ou de grupos especiais de utentes
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Secção III — Da comparticipação de medicamentos genéricos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 21.º — Vantagem económica
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 22.º — Aplicação subsidiária
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Secção IV — Medicamentos manipulados
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 23.º — Comparticipação de medicamentos manipulados
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Secção V — Sistema de preços de referência
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Subsecção I — Âmbito
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 24.º — Sujeição ao sistema de preços de referência
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 25.º — Cálculo e publicação do preço de referência
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 26.º — Preços dos medicamentos a comparticipar
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 27.º — Listas de grupos homogéneos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+###### Artigo 28.º — Comparticipação dos medicamentos abrangidos por preço de referência
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Secção VI — Monitorização e fiscalização
+
+##### Artigo 29.º — Controlo e fiscalização
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+##### Artigo 30.º — Sanções
+
+1 - O não início da comercialização efetiva de qualquer apresentação do medicamento comparticipado na data notificada ao abrigo do n.º 1 do artigo 13.º, bem como qualquer infração ao disposto nesse artigo, constitui contraordenação punível com coima entre (euro) 2 000 e 15 % do volume de negócios do responsável ou (euro) 180 000, consoante o que for inferior.
+
+2 - A tentativa e a negligência são puníveis.
+
+3 - Compete ao INFARMED, I. P., a instrução do processo de contra-ordenação e a aplicação das respectivas coimas.
+
+4 - O produto das coimas reverte:
+
+a) Em 60 % para o Estado;
+
+b) Em 40 % para o INFARMED, I. P.
+
+5 - Os autos de notícia levantados por infracções ao presente regime fazem fé em juízo.
+
+- *Alterado pelo/a Artigo 14.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26*
+- *Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 106-A/2010 - Diário da República n.º 192/2010, 1º Suplemento, Série I de 2010-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2010-480967), em vigor a partir de 2010-10-02*
+
+##### Artigo 30.º-A — Volume de negócios
+
+1 - Para efeitos do disposto no n.º 1 do artigo anterior, considera-se volume de negócios a soma dos valores de vendas e de prestações de serviços efetuadas pelo agente no exercício anterior ao da prática da contraordenação, declarados para efeitos de imposto sobre o rendimento das pessoas singulares ou de imposto sobre o rendimento das pessoas coletivas, consoante se trate de pessoa singular ou coletiva.
+
+2 - No caso de pessoa coletiva isenta de imposto sobre o rendimento das pessoas coletivas, considera-se volume de negócios a soma dos valores de vendas e de prestações de serviços efetuadas pelo agente no exercício anterior ao da prática da contraordenação, refletido nas respetivas contas.
+
+3 - Sem prejuízo do disposto no número anterior, caso, até ao termo do prazo para o exercício do direito de audição e defesa, ainda não exista a declaração para efeitos de um dos impostos previstos no n.º 1, é considerado o volume de negócios do segundo exercício anterior ao da prática da contraordenação.
+
+4 - Caso o volume de negócios a considerar nos termos dos números anteriores respeite a um período inferior ao do ano económico do infrator ou a infração seja praticada no primeiro exercício de atividade, são apenas considerados os limites máximos e mínimos da coima, previstos no n.º 1 do artigo anterior.
+
+- *Aditado pelo/a Artigo 15.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26*
+
+##### Artigo 30.º-B — Critérios de graduação da medida da coima
+
+As coimas a que se refere o n.º 1 do artigo 30.º são fixadas tendo em consideração, entre outras, as seguintes circunstâncias:
+
+a) A gravidade da infração para a manutenção de uma concorrência efetiva no mercado nacional;
+
+b) As vantagens de que haja beneficiado a empresa infratora em consequência da infração;
+
+c) O caráter reiterado ou ocasional da infração;
+
+d) A colaboração prestada ao INFARMED, I. P., até ao termo do procedimento contraordenacional;
+
+e) O comportamento do infrator na eliminação ou minimização dos efeitos da infração.
+
+- *Aditado pelo/a Artigo 15.º do/a [Lei n.º 51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), em vigor a partir de 2014-08-26*
+
+### Capítulo III — Disposição final
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+#### Artigo 31.º — Dispensa de medicamentos
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+### Anexo (a que se refere o n.º 2 do artigo 9.º e o n.º 5 do artigo 17.º) — Critérios de avaliação e reavaliação
+
+*(Revogado)* — *Revogado pelo/a Artigo 40.º do/a Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01, em vigor a partir de 2015-07-01*
+
+## Anexo II (a que se refere o artigo 8.º) Decreto-Lei n.º 195/2006, de 3 de Outubro Republicação
+
+### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece as regras a que obedece a avaliação prévia de medicamentos reservados exclusivamente a tratamentos em meio hospitalar e outros medicamentos sujeitos a receita médica restrita, para efeito da sua aquisição pelos hospitais do Serviço Nacional de Saúde, independentemente do seu estatuto jurídico.
+
+2 - Os medicamentos reservados exclusivamente a tratamentos em meio hospitalar e outros medicamentos sujeitos a receita médica restrita são os que se encontram classificados como tal na respectiva autorização de introdução no mercado (AIM).
+
+### Artigo 2.º — Critérios de avaliação
+
+1 - A avaliação prévia de medicamentos abrangidos pelo presente decreto-lei assenta em critérios de natureza técnico-científica que permitam a demonstração do seu valor terapêutico acrescentado e da respectiva vantagem económica.
+
+2 - Os critérios aplicáveis à avaliação prevista no número anterior são os que constam do anexo do presente decreto-lei, que dele faz parte integrante.
+
+### Artigo 3.º — Requerimento
+
+1 - Sem prejuízo do disposto nos artigos 8.º e 13.º, a avaliação é requerida antes do primeiro fornecimento do medicamento em qualquer unidade do Serviço Nacional de Saúde.
+
+2 - O requerimento de avaliação é apresentado pelo titular da AIM, dirigido ao presidente do órgão máximo do Instituto Nacional da Farmácia e do Medicamento, adiante designado por INFARMED, I. P., instruído com os seguintes elementos:
+
+a) Identificação e domicílio ou sede do requerente;
+
+b) Todos os elementos considerados necessários à aplicação dos critérios constantes do anexo do presente decreto-lei;
+
+c) Preço máximo proposto para efeitos de comercialização do medicamento;
+
+d) Informações relativas ao medicamento nos demais Estados membros da União Europeia, quanto a:
+
+i) Preços em vigor e respectivos regimes;
+
+ii) Comparticipação, incluindo eventuais regimes especiais;
+
+iii) Regime de utilização a que está sujeito.
+
+### Artigo 4.º — Instrução e decisão
+
+1 - O INFARMED, I. P., verifica, no prazo de 10 dias, a regularidade da apresentação do requerimento, podendo solicitar ao interessado que forneça, em prazo a definir no regulamento previsto no artigo 14.º, os elementos e os esclarecimentos que sejam considerados necessários, suspendendo-se o prazo para a verificação.
+
+2 - O requerimento que não respeite os requisitos previstos no artigo anterior é indeferido liminarmente e devolvido ao requerente acompanhado dos fundamentos do indeferimento.
+
+3 - Decorrido o prazo do n.º 1 sem que o INFARMED, I. P., devolva o requerimento ao requerente ou sem que o notifique para fornecer os elementos e os esclarecimentos que sejam considerados necessários, o pedido é considerado válido.
+
+4 - Se o processo contiver já todos os elementos considerados suficientes, incluindo o estudo de avaliação económica, elaborado de acordo com as orientações metodológicas aprovadas por despacho do membro do Governo responsável pela área da saúde, o INFARMED, I. P., decide o pedido de avaliação do medicamento, no prazo de 60 dias após a validação, com base numa proposta de decisão, da qual constam:
+
+a) Relatório de avaliação farmacoterapêutica com identificação do valor terapêutico acrescentado que se reconhece ao medicamento, tendo por referência as demais alternativas terapêuticas aprovadas;
+
+b) Relatório de avaliação económica, no qual se avalia a vantagem económica do medicamento, face às alternativas terapêuticas disponíveis, documentada com a evidência científica internacional disponível ou estudo de avaliação económica;
+
+c) O preço máximo considerado adequado para o medicamento;
+
+d) O impacte orçamental;
+
+e) Quaisquer outros elementos relevantes decorrentes da avaliação efectuada.
+
+5 - No caso de medicamentos genéricos, é dispensado o relatório de avaliação farmacoterapêutica previsto na alínea a) do número anterior.
+
+6 - Se, até ao termo do prazo previsto no n.º 4, os elementos constantes do processo forem insuficientes para fundamentar a vantagem económica, o INFARMED, I. P., notifica o requerente para, em 180 dias, apresentar estudo de avaliação económica de acordo com as orientações metodológicas aprovadas por despacho do membro do Governo responsável pela área da saúde.
+
+7 - O INFARMED, I. P., no prazo de 30 dias após a recepção do estudo previsto no número anterior, profere decisão, nos termos do n.º 4.
+
+8 - Os prazos referidos no n.º 4 e no número anterior suspendem-se sempre que o INFARMED, I. P., solicite esclarecimentos adicionais ao requerente.
+
+9 - O pedido é indeferido caso não se demonstre valor terapêutico acrescentado ou vantagem económica.
+
+10 - A decisão de indeferimento é comunicada ao requerente, às comissões de farmácia e terapêutica dos hospitais e das regiões de saúde, sendo igualmente publicada na página electrónica do INFARMED, I. P.
+
+11 - A decisão de deferimento implica a celebração de um contrato entre o INFARMED, I. P., e o titular da autorização de introdução no mercado do medicamento.
+
+### Artigo 5.º — Contrato
+
+1 - O contrato estabelece os termos e as condições em que, conforme os casos, é produzida demonstração absoluta ou complementar do preenchimento do valor terapêutico acrescentado e da vantagem económica, bem como garantida e monitorizada a vantagem económica do medicamento ou a sua contribuição para a sustentabilidade do Serviço Nacional de Saúde.
+
+2 - Para garantir o cumprimento do disposto no presente decreto-lei, o contrato pode prever, nomeadamente, os seguintes elementos:
+
+a) Mecanismos de demonstração complementar do preenchimento do valor terapêutico acrescentado;
+
+b) Apresentações, dosagens ou formas farmacêuticas do medicamento;
+
+c) Montante máximo de encargos a suportar pelo Estado com a aquisição do medicamento no conjunto dos hospitais do Serviço Nacional de Saúde, tendo por base determinado número de doentes, e respectivos mecanismos de garantia;
+
+d) Mecanismos de monitorização, designadamente dos montantes de encargos;
+
+e) Consequências da ultrapassagem dos montantes de encargos previamente acordados, designadamente a devolução ao Serviço Nacional de Saúde dos montantes pagos em excesso, a redução do preço do medicamento em causa ou de outros medicamentos pertencentes ao mesmo titular;
+
+f) Vigência, renovação, modificação e cessação.
+
+3 - Para além dos elementos previstos no número anterior, o contrato inclui obrigatoriamente o preço máximo considerado adequado para o medicamento, de acordo com a decisão de avaliação proferida.
+
+4 - A aquisição pelos hospitais do Serviço Nacional de Saúde de novas apresentações, dosagens ou formas farmacêuticas depende da sua prévia inclusão no contrato.
+
+5 - O contrato tem uma duração máxima inicial de dois anos, podendo renovar-se anualmente, nos termos nele previstos.
+
+6 - O contrato pode ser rescindido a todo o tempo em caso de incumprimento por uma das partes das obrigações nele previstas.
+
+7 - O disposto nos números anteriores não prejudica a observância dos procedimentos públicos aplicáveis à aquisição de medicamentos, nos termos da lei.
+
+### Artigo 6.º — Monitorização
+
+1 - A execução do contrato e a utilização do medicamento são objecto de monitorização, nos termos nele previstos.
+
+2 - Entre os aspectos a monitorizar constam nomeadamente os seguintes:
+
+a) A demonstração da vantagem económica;
+
+b) A demonstração absoluta ou complementar de valor terapêutico acrescentado;
+
+c) O impacte na despesa do Serviço Nacional de Saúde.
+
+3 - A monitorização a que se refere o número anterior compete ao INFARMED, que, sempre que necessário, contará com a colaboração do Instituto de Gestão Informática e Financeira da Saúde.
+
+4 - Aos hospitais do Serviço Nacional de Saúde que utilizam o medicamento compete a monitorização do perfil de segurança e da relação benefício-risco desse medicamento.
+
+5 - Os hospitais do Serviço Nacional de Saúde enviam ao INFARMED, I. P., em Janeiro de cada ano, um relatório sobre a eficácia terapêutica, as suspeitas de reacções adversas e a relação benefício-risco da respectiva utilização, relativo ao ano anterior.
+
+### Artigo 7.º — Revogação da decisão
+
+A decisão de deferimento pode ser revogada sempre que se verifique que o medicamento deixou de reunir os requisitos estabelecidos no presente decreto-lei.
+
+### Artigo 8.º — Efeitos da decisão
+
+1 - O medicamento sobre o qual venha a recair decisão de indeferimento ou de revogação de decisão de deferimento não pode ser adquirido pelos hospitais do Serviço Nacional de Saúde, independentemente do seu estatuto jurídico, sem prejuízo do disposto no artigo 11.º do presente decreto-lei.
+
+2 - Os medicamentos cuja decisão de avaliação seja de deferimento só podem ser adquiridos pelos hospitais do Serviço Nacional de Saúde se e enquanto vigorar o contrato a que se referem o n.º 10 do artigo 4.º e o artigo 5.º
+
+3 - A decisão de indeferimento, de revogação de decisão de deferimento ou a não celebração de contrato nos termos previstos no presente decreto-lei constituem fundamento de exclusão da candidatura do medicamento em procedimentos públicos com vista à aquisição de medicamentos.
+
+4 - O preço máximo considerado adequado em sede de avaliação não prejudica a aplicação de preço inferior para o mesmo medicamento que venha a ser fixado ou praticado no âmbito de procedimentos e contratos públicos de aquisição de medicamentos.
+
+### Artigo 9.º — Aquisição dos medicamentos
+
+1 - A decisão de deferimento do pedido de avaliação pelo INFARMED, I. P., não é vinculativa para os hospitais quanto à aquisição do medicamento a que respeita.
+
+2 - Compete à comissão de farmácia e terapêutica de cada unidade hospitalar do Serviço Nacional de Saúde emitir parecer prévio quanto ao primeiro fornecimento, na respectiva unidade, de qualquer medicamento que tenha sido objecto de decisão de deferimento nos termos deste decreto-lei.
+
+### Artigo 10.º — Reacção contenciosa
+
+Os actos adoptados no âmbito do procedimento previsto no presente decreto-lei podem ser objecto de reacção contenciosa, nos termos legais.
+
+### Artigo 11.º — Responsabilidade
+
+1 - Os membros dos conselhos de administração ou directivos dos hospitais do Serviço Nacional de Saúde que autorizem a aquisição de medicamentos abrangidos pelo presente decreto-lei sem que os mesmos sejam objecto de avaliação prévia ou que, tendo-o sido, hajam obtido decisão de indeferimento ou de revogação de decisão de deferimento respondem civil, criminal e financeiramente, nos termos da lei.
+
+2 - Os directores de departamento ou de serviço ou os membros da comissão de farmácia e terapêutica que emitam parecer ou voto favorável à aquisição dos medicamentos previstos no número anterior sem que os mesmos sejam objecto de avaliação prévia ou que, tendo-o sido, hajam obtido decisão de indeferimento ou de revogação da decisão de deferimento respondem, solidariamente, com as pessoas a que se refere o número anterior.
+
+3 - O disposto nos números anteriores é igualmente aplicável no caso de aquisição de medicamento abrangido pelo presente decreto-lei por preço superior ao preço máximo considerado adequado na decisão de deferimento.
+
+4 - A título excepcional, para situações clinicamente fundamentadas pelo hospital, nomeadamente ausência de alternativa terapêutica, em que o doente corra risco imediato de vida ou de sofrer complicações graves, o INFARMED, I. P., pode autorizar o acesso do doente ao medicamento em causa, nos termos a regular por portaria do membro do Governo responsável pela área da saúde.
+
+### Artigo 12.º — Regime aplicável
+
+Aos medicamentos abrangidos pelo presente decreto-lei são aplicáveis, com as necessárias adaptações, os critérios de avaliação estabelecidos no regime de comparticipação do Estado no preço dos medicamentos prescritos aos utentes do Serviço Nacional de Saúde e aos beneficiários da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE).
+
+### Artigo 13.º — Disposição transitória
+
+O presente decreto-lei não se aplica aos medicamentos referidos no n.º 1 do artigo 1.º actualmente comercializados ao nível hospitalar, excepto se e quando os termos das respectivas AIM forem objecto de alteração quanto às suas indicações terapêuticas.
+
+### Artigo 14.º — Regulamentação
+
+1 - O INFARMED, I. P., define, por regulamento, no prazo máximo de 60 dias, as normas necessárias à correcta aplicação do presente decreto-lei sobre:
+
+a) Os requisitos formais do pedido e respectivos formulários;
+
+b) Os elementos a que se refere a alínea b) do n.º 2 do artigo 3.º;
+
+c) O conjunto referencial dos elementos a que se refere a alínea e) do n.º 4 do artigo 4.º;
+
+d) O formato a que deve obedecer e os elementos tipo que devem incluir os relatórios a que se refere o n.º 5 do artigo 6.º
+
+2 - O regulamento referido no número anterior é publicado na 2.ª série do Diário da República e disponibilizado na página electrónica do INFARMED, I. P.
+
+### Artigo 15.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a publicação do regulamento referido no artigo anterior.
+
+## Anexo — Critérios de avaliação
+
+A avaliação prévia de medicamentos abrangidos pelo presente decreto-lei assenta em critérios de natureza técnico-científica que permitam a demonstração do preenchimento do valor terapêutico acrescentado e da respectiva vantagem económica.
+
+Assim:
+
+1 - A avaliação prévia é feita de forma comparativa, com base em todos ou alguns dos seguintes factores:
+
+a) Consideração de todas as alternativas terapêuticas disponíveis, de efeito completo ou parcial;
+
+b) Maior eficácia comparada (directa e ou indirecta) face às alternativas terapêuticas disponíveis;
+
+c) Melhor relação efectividade-custo face às alternativas terapêuticas disponíveis;
+
+d) Maior conveniência posológica;
+
+e) Maior segurança do medicamento.
+
+2 - Os resultados obtidos através da evidência científica apresentada serão avaliados à luz da sua tradução clínica, de modo a analisar possíveis benefícios (designadamente nova indicação terapêutica em área carenciada, menor número de administrações diárias ou outro motivo relevante) em relação à prática clínica actual.
+
+3 - O medicamento é sumariamente avaliado quanto ao seu impacte na história natural da doença, na qualidade de vida dos doentes e nos encargos do terceiro pagador (entidade responsável pelo encargo da aquisição do medicamento).
+
+4 - A prova do valor terapêutico acrescentado depende da qualidade da prova científica apresentada pelo requerente ou publicada, pelo que a classificação da qualidade dos estudos disponibilizados quanto à sua metodologia, conteúdo e resultados é graduada, de forma decrescente, nos seguintes termos:
+
+a) Revisões sistemáticas e meta-análises de ensaios clínicos, controlados e aleatorizados, bem delineados e executados;
+
+b) Ensaios clínicos aleatorizados e controlados, bem delineados e executados;
+
+c) Estudos quase experimentais, bem delineados e executados, e ensaios clínicos não aleatorizados (sempre que as circunstâncias impedirem a realização de ensaios clínicos controlados), estudos observacionais prospectivos e retrospectivos (coortes e casos e controlos);
+
+d) Opinião de peritos.
+
+5 - A apreciação do preço considerado adequado tem por base os seguintes factores:
+
+a) Comparação com as alternativas existentes, tendo por base unidades de medida internacionalmente aceites, como a dose diária definida (DDD) ou, na sua ausência, a posologia média diária (PMD);
+
+b) Resultados de estudos de avaliação económica de medicamentos;
+
+c) Preços praticados nos procedimentos pré-contratuais para aquisição de medicamentos;
+
+d) Preços praticados nos países da União Europeia, com especial relevo para os dos quatro países de referência;
+
+e) Estrutura de custos de formação do preço, tendo em consideração a investigação, a produção e a promoção do medicamento.
+
+6 - A fundamentação apresentada pelo requerente para o preço proposto (preço de venda ao armazenista sem imposto sobre o valor acrescentado) inclui todos os factores previstos no número anterior, salvo quando algum deles seja dispensado pelo INFARMED, I. P.
+
+## Anexo III (a que se refere o artigo 8.º) Decreto-Lei n.º 65/2007, de 14 de Março Republicação
+
+### Capítulo I — Disposições gerais
+
+#### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime de preços dos medicamentos de uso humano sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados.
+
+2 - Ficam excluídos do disposto no número anterior os medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar.
+
+#### Artigo 2.º — Definições
+
+Para efeitos do disposto neste decreto-lei, entende-se por:
+
+a) «Preço de venda ao armazenista» (PVA) o preço máximo para os medicamentos no estádio de produção ou importação;
+
+b) «Preço de venda ao público» (PVP) o preço máximo para os medicamentos no estádio de retalho;
+
+c) «Preços fixados com carácter provisório» os preços que não foram determinados com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares de pelo menos dois dos quatro países de referência mencionados no n.º 2 do artigo 6.º do presente decreto-lei;
+
+d) «Quota do mercado de medicamentos genéricos no grupo homogéneo» o peso das vendas totais de cada medicamento genérico no total de vendas de medicamentos genéricos nesse grupo;
+
+e) «Quota de mercado dos medicamentos genéricos na respectiva substância activa» o peso do volume de vendas totais de todos os medicamentos genéricos com a mesma substância activa no total do volume de vendas de todos os medicamentos, genéricos e não genéricos, com a mesma substância activa;
+
+f) «Regime de preço máximo» a fixação do seu valor na venda ao público, o qual não pode ser ultrapassado.
+
+#### Artigo 3.º — Regime de preços e descontos
+
+1 - Os medicamentos referidos no n.º 1 do artigo 1.º do presente decreto-lei ficam sujeitos ao regime de preços máximos.
+
+2 - É permitida a prática de descontos em todo o circuito do medicamento, desde o fabricante ao retalhista.
+
+3 - Os descontos efectuados pelas farmácias nos preços dos medicamentos comparticipados pelo Estado incidem, exclusivamente, sobre a parte do preço não comparticipada.
+
+4 - Os descontos praticados pelas farmácias podem ser divulgados nas respectivas instalações.
+
+#### Artigo 4.º — Autoridade competente para fixar o preço dos medicamentos
+
+1 - Compete à Direcção-Geral das Actividades Económicas (DGAE) autorizar o preço de venda ao público (PVP) dos medicamentos abrangidos pelo presente decreto-lei, sem prejuízo do disposto no n.º 3.
+
+2 - São considerados preços máximos os PVP fixados pela DGAE.
+
+3 - Compete à Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime jurídico de comparticipação do Estado no preço dos medicamentos.
+
+### Capítulo II — Formação dos preços
+
+#### Secção I — Regime geral
+
+##### Artigo 5.º — Composição do preço dos medicamentos
+
+O preço de venda ao público do medicamento é composto por:
+
+a) Preço de venda ao armazenista;
+
+b) Margem de comercialização do distribuidor grossista;
+
+c) Margem de comercialização do retalhista;
+
+d) Taxa sobre a comercialização dos medicamentos;
+
+e) Imposto sobre o valor acrescentado.
+
+##### Artigo 6.º — Formação dos preços dos medicamentos em geral
+
+1 - O PVP dos medicamentos a introduzir pela primeira vez no mercado nacional ou os referentes a alterações da forma farmacêutica e da dosagem não podem exceder a média que resultar da comparação com preços nos estádios de produção ou importação (PVA) em vigor nos países de referência para o mesmo medicamento ou, caso este não exista, para as especialidades farmacêuticas idênticas ou essencialmente similares, nos termos adiante definidos, sem taxas nem impostos, acrescido das margens de comercialização, taxas e impostos vigentes em Portugal.
+
+2 - Os países de referência mencionados no número anterior são a Espanha, a França, a Itália e a Grécia.
+
+3 - O PVA em Portugal não pode exceder:
+
+a) A média dos PVA em vigor em todos os países de referência para o mesmo medicamento ou, caso este não exista em todos eles, a média do PVA em vigor em pelo menos dois desses países;
+
+b) No caso de só existir o mesmo medicamento num dos quatro países de referência, o PVA em vigor nesse país;
+
+c) No caso de o mesmo medicamento não existir em nenhum dos países de referência, a média dos PVA mais baixos das especialidades farmacêuticas idênticas ou essencialmente similares desse medicamento em vigor no maior número possível destes países, excluindo os medicamentos genéricos;
+
+d) No caso de não existir o mesmo medicamento nem especialidades farmacêuticas idênticas ou essencialmente similares desse medicamento em qualquer dos países de referência e existir em Portugal, o PVA fixado para especialidade farmacêutica idêntica ou essencialmente similar que esteja a ser comercializada no mercado nacional;
+
+e) No caso de não existir o mesmo medicamento ou a especialidade farmacêutica idêntica ou essencialmente similar desse medicamento em qualquer dos países de referência e no mercado nacional, o PVA em vigor no país de origem.
+
+4 - As comparações de preços efectuadas com o mesmo medicamento ou, caso este não exista, com a especialidade farmacêutica idêntica ou essencialmente similar do medicamento em causa existentes nos países de referência, em Portugal ou no país de origem, de acordo com o n.º 3, são efectuadas nos seguintes termos e prioridades relativamente a cada país:
+
+a) Com a mesma forma farmacêutica, dosagem e apresentação;
+
+b) Com a mesma forma farmacêutica e com dosagem e apresentação mais aproximada.
+
+5 - A comparação de preços a efectuar nos termos dos números anteriores tem como referência a apresentação de menor dimensão em Portugal, cujo PVA é determinado com base na comparação com o PVA da apresentação mais aproximada em cada um dos países de referência.
+
+##### Artigo 7.º — Revisão anual dos preços
+
+A revisão anual dos preços dos medicamentos abrangidos pelo presente decreto-lei processa-se com base na comparação com a média dos preços praticados nos países de referência à data de 1 de Janeiro de cada ano, no âmbito desta revisão.
+
+##### Artigo 8.º — Estabilidade de preços
+
+1 - É considerado provisório o preço do medicamento que não tenha sido determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares dos países de referência referidos no n.º 2 do artigo 6.º
+
+2 - O preço do medicamento referido no número anterior tem carácter provisório até o seu preço poder ser determinado com base no preço do mesmo medicamento ou, caso este não exista, das especialidades farmacêuticas idênticas ou essencialmente similares em dois dos quatro países de referência.
+
+#### Secção II — Regime especial aplicável aos medicamentos genéricos
+
+##### Artigo 9.º — Formação de preços dos medicamentos genéricos
+
+1 - O PVP dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 35 % ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, sem prejuízo do disposto no número seguinte.
+
+2 - O PVP dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 20 % ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, desde que este seja inferior a (euro)10 no PVA em todas as apresentações.
+
+3 - O medicamento de referência para efeitos dos números anteriores é o medicamento que esteja, ou tenha sido, autorizado há mais tempo em Portugal com base em documentação completa, incluindo resultados de ensaios farmacêuticos, pré-clínicos e clínicos com a mesma composição qualitativa e quantitativa em substâncias activas.
+
+4 - Caso o medicamento de referência não esteja ou não tenha sido autorizado em Portugal mas esteja ou tenha sido autorizado noutro Estado membro da União Europeia é calculado um PVP com base nas regras do artigo 6.º, conjugadas com as regras previstas no n.º 1 ou no n.º 2 do presente artigo.
+
+5 - O disposto nos n.os 1 e 2 não é aplicável aos medicamentos genéricos a introduzir no mercado para os quais exista grupo homogéneo, caso em que o respectivo PVP deve ser igual ou inferior ao preço de referência desse grupo, deduzido das margens de comercialização, taxas e impostos vigentes em Portugal.
+
+6 - É aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo 6.º
+
+##### Artigo 10.º — Revisão anual de preços
+
+Os preços dos medicamentos genéricos abrangidos pela presente secção são objecto de revisão anual.
+
+#### Secção III — Importação paralela
+
+##### Artigo 11.º — Formação dos preços dos medicamentos objecto de importação paralela
+
+1 - Os PVP de medicamentos objecto de importação paralela a introduzir no mercado nacional devem ser inferiores no mínimo em 5 % ao PVP do medicamento considerado e dos medicamentos idênticos ou essencialmente considerados objecto de autorização de introdução no mercado em Portugal.
+
+2 - Caso o medicamento considerado não tenha preço aprovado em Portugal, é calculado um preço de venda ao público para esse medicamento considerado com base nas regras dos artigos 6.º e 9.º, consoante o caso, para efeitos de aplicação do número anterior.
+
+#### Secção IV — Margens de comercialização
+
+##### Artigo 12.º — Margens máximas de comercialização
+
+As margens máximas de comercialização dos medicamentos comparticipados e não comparticipados são as seguintes:
+
+a) Grossistas - 8 %, calculada sobre o PVP, deduzido o IVA;
+
+b) Farmácias - 20 %, calculada sobre o PVP, deduzido o IVA.
+
+### Capítulo III — Disposições finais e transitórias
+
+#### Secção I — Disposições finais
+
+##### Artigo 13.º — Revisão excepcional de preço
+
+1 - O preço do medicamento pode ser revisto, a título excepcional, por motivos de interesse público ou por iniciativa do titular da autorização de introdução no mercado, mediante despacho fundamentado dos membros do Governo responsáveis pelas áreas da economia e da saúde, sob proposta da DGAE, após consulta do INFARMED, I. P.
+
+2 - Os critérios, prazos e demais procedimentos que presidem à revisão excepcional de preço mencionada no número anterior são definidos por despacho dos membros do Governo responsáveis pelas áreas da economia e da saúde.
+
+##### Artigo 13.º-A — Redução dos preços dos medicamentos
+
+Os preços dos medicamentos podem ser objecto de redução, a título excepcional, fundamentada na regularização do respectivo mercado, mediante portaria conjunta dos membros do Governo responsáveis pelas áreas da economia e da saúde.
+
+##### Artigo 14.º — Regulamentação
+
+1 - As matérias previstas nos artigos 6.º, 7.º e 9.º a 11.º, bem como os procedimentos necessários à implementação deste decreto-lei, são regulamentadas por portaria conjunta dos Ministros da Economia, da Inovação e do Desenvolvimento e da Saúde.
+
+2 - Na portaria a que se refere o número antecedente é regulada a revisão transitória dos preços dos medicamentos não genéricos autorizados, com carácter definitivo, ao abrigo do n.º 2 do n.º 3.º da Portaria n.º 29/90, de 13 de Janeiro, bem como as regras de escoamentos dos medicamentos derivadas da transição dos preços.
+
+##### Artigo 15.º — Norma sancionatória
+
+À violação do disposto no presente decreto-lei aplica-se o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro, na sua redacção actual.
+
+##### Artigo 16.º — Norma revogatória
+
+São revogadas:
+
+a) A Portaria n.º 29/90, de 13 de Janeiro;
+
+b) A Portaria n.º 338/90, de 3 de Maio;
+
+c) A Portaria n.º 577/2001, de 7 de Junho, na redacção dada pela Portaria n.º 914/2003, de 1 de Setembro.

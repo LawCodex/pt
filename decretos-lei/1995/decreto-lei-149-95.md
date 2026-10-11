@@ -1,0 +1,277 @@
+---
+title: "Decreto-Lei n.º 149/95"
+identifier: "Decreto-Lei n.º 149/95"
+type: decree_law
+jurisdiction: pt
+language: pt
+date: 1995-06-24
+last_amended: 2008-02-25
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-202935907"
+retrieved: 2026-10-11
+designation: "Regime jurídico do contrato de locação financeira"
+summary: "Altera o regime jurídico do contrato de locação financeira"
+issuer: "Ministério das Finanças"
+series: "I"
+eli: "https://data.dre.pt/eli/dec-lei/149/1995/p/cons/20080225/pt/html"
+dre_id: 475373
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1995/06/144a00/40914094.pdf"
+text_version: "consolidated"
+---
+
+# Decreto-Lei n.º 149/95
+
+Decreto-Lei n.º 149/95
+
+de 24 de Junho
+
+A entrada em vigor do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, regulando os aspectos fundamentais comuns às instituições do mercado financeiro, deixou em aberto a actualização das leis especiais reguladoras de vários tipos de instituições de crédito e dos diplomas que disciplinam contratos que constituam o objecto da actividade dessas sociedades, nomeadamente o contrato de locação financeira.
+
+O presente diploma vem introduzir significativas alterações no regime jurídico do contrato de locação financeira, visando adaptá-lo às exigências de um mercado caracterizado pela crescente internacionalização da economia portuguesa e pela sua integração no mercado único europeu. As empresas portuguesas deverão dispor de um instrumento contratual adaptado a estas realidades, de modo a não verem diminuída a capacidade de concorrência perante as suas congéneres estrangeiras.
+
+Assim, a reforma introduzida no regime jurídico do contrato de locação financeira visa, fundamentalmente, harmonizá-lo com as normas dos países comunitários, afastando a concorrência desigual com empresas desses países e a consequente extradição de actividades que é vantajoso que se mantenham no âmbito da economia nacional.
+
+Nesta ordem de ideias, salientam-se as seguintes inovações principais:
+
+Alarga-se o objecto do contrato a quaisquer bens susceptíveis de serem dados em locação;
+
+Simplifica-se a forma do contrato, limitando-a a simples documento escrito;
+
+Possibilita-se que o valor residual da coisa locada atinja valores próximos de 50% do seu valor total;
+
+Reduzem-se os prazos mínimos da locação financeira, podendo a locação de coisas móveis ser celebrada por um prazo de 18 meses e a de imóveis por um prazo de 7 anos;
+
+Enunciam-se mais completamente os direitos e deveres do locador e do locatário, de modo a assegurar uma maior certeza dos seus direitos e, portanto, a justiça da relação.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Noção
+
+Locação financeira é o contrato pelo qual uma das partes se obriga, mediante retribuição, a ceder à outra o gozo temporário de uma coisa, móvel ou imóvel, adquirida ou construída por indicação desta, e que o locatário poderá comprar, decorrido o período acordado, por um preço nele determinado ou determinável mediante simples aplicação dos critérios nele fixados.
+
+## Artigo 2.º — Objecto
+
+1 - A locação financeira tem como objecto quaisquer bens susceptíveis de serem dados em locação.
+
+2 - Quando o locador construa, em regime de direito de superfície, sobre terreno do locatário, este direito presume-se perpétuo, sem prejuízo da faculdade de aquisição pelo proprietário do solo, nos termos gerais.
+
+## Artigo 3.º — Forma e publicidade
+
+1 - Os contratos de locação financeira podem ser celebrados por documento particular.
+
+2 - No caso de bens imóveis, as assinaturas das partes devem ser presencialmente reconhecidas, salvo se efectuadas na presença de funcionário dos serviços do registo, aquando da apresentação do pedido de registo.
+
+3 - Nos casos referidos no número anterior, a existência de licença de utilização ou de construção do imóvel deve ser certificada pela entidade que efectua o reconhecimento ou verificada pelo funcionário dos serviços do registo.
+
+4 - A assinatura das partes nos contratos de locação financeira de bens móveis sujeitos a registo deve conter a indicação, feita pelo respectivo signatário, do número, data e entidade emitente do bilhete de identidade ou documento equivalente emitido pela autoridade competente de um dos países da União Europeia ou do passaporte.
+
+5 - A locação financeira de bens imóveis ou de móveis sujeitos a registo fica sujeita a inscrição no serviço de registo competente.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 30/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2008-247722), em vigor a partir de 2008-03-26*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 265/97 - Diário da República n.º 228/1997, Série I-A de 1997-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1997-661566), em vigor a partir de 1997-10-07*
+
+## Artigo 4.º — Rendas e valor residual
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03, em vigor a partir de 2001-11-08*
+
+## Artigo 5.º — Redução das rendas
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03, em vigor a partir de 2001-11-08*
+
+## Artigo 6.º — Prazo
+
+1 - O prazo de locação financeira de coisas móveis não deve ultrapassar o que corresponde ao período presumível de utilização económica da coisa.
+
+2 - O contrato de locação financeira não pode ter duração superior a 30 anos, considerando-se reduzido a este limite quando superior.
+
+3 - Não havendo estipulação de prazo, o contrato de locação financeira considera-se celebrado pelo prazo de 18 meses ou de 7 anos, consoante se trate de bens móveis ou de bens imóveis.
+
+4 - (Eliminado.)
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08*
+
+## Artigo 7.º — Destino do bem findo o contrato
+
+Findo o contrato por qualquer motivo e não exercendo o locatário a faculdade de compra, o locador pode dispor do bem, nomeadamente vendendo-o ou dando-o em locação ou locação financeira ao anterior locatário ou a terceiro.
+
+## Artigo 8.º — Vigência
+
+1 - O contrato de locação financeira produz efeitos a partir da data da sua celebração.
+
+2 - As partes podem, no entanto, condicionar o início da sua vigência à efectiva aquisição ou construção, quando disso seja caso, dos bens locados, à sua tradição a favor do locatário ou a quaisquer outros factos.
+
+## Artigo 9.º — Posição jurídica do locador
+
+1 - São, nomeadamente, obrigações do locador:
+
+a) Adquirir ou mandar construir o bem a locar;
+
+b) Conceder o gozo do bem para os fins a que se destina;
+
+c) Vender o bem ao locatário, caso este queira, findo o contrato;
+
+2 - Para além dos direitos e deveres gerais previstos no regime da locação que não se mostrem incompatíveis com o presente diploma, assistem ao locador financeiro, em especial e para além do estabelecido no número anterior, os seguintes direitos:
+
+a) Defender a integridade do bem, nos termos gerais de direito;
+
+b) Examinar o bem, sem prejuízo da actividade normal do locatário;
+
+c) Fazer suas, sem compensações, as peças ou outros elementos acessórios incorporados no bem pelo locatário.
+
+## Artigo 10.º — Posição jurídica do locatário
+
+1 - São, nomeadamente, obrigações do locatário:
+
+a) Pagar as rendas;
+
+b) Pagar, em caso de locação de fracção autónoma, as despesas correntes necessárias à fruição das partes comuns de edifício e aos serviços de interesse comum;
+
+c) Facultar ao locador o exame do bem locado;
+
+d) Não aplicar o bem a fim diverso daquele a que ele se destina ou movê-lo para local diferente do contratualmente previsto, salvo autorização do locador;
+
+e) Assegurar a conservação do bem e não fazer dele uma utilização imprudente;
+
+f) Realizar as reparações, urgentes ou necessárias, bem como quaisquer obras ordenadas pela autoridade pública;
+
+g) Não proporcionar a outrem o gozo total ou parcial do bem por meio da cessão onerosa ou gratuita da sua posição jurídica, sublocação ou comodato, excepto se a lei o permitir ou o locador a autorizar;
+
+h) Comunicar ao locador, dentro de 15 dias, a cedência do gozo do bem, quando permitida ou autorizada nos termos da alínea anterior;
+
+i) Avisar imediatamente o locador, sempre que tenha conhecimento de vícios no bem ou saiba que o ameaça algum perigo ou que terceiros se arrogam direitos em relação a ele, desde que o facto seja ignorado pelo locador;
+
+j) Efectuar o seguro do bem locado, contra o risco da sua perda ou deterioração e dos danos por ela provocados;
+
+k) Restituir o bem locado, findo o contrato, em bom estado, salvo as deteriorações inerentes a uma utilização normal, quando não opte pela sua aquisição.
+
+2 - Para além dos direitos e deveres gerais previstos no regime da locação que não se mostrem incompatíveis com o presente diploma, assistem ao locatário financeiro, em especial, os seguintes direitos:
+
+a) Usar e fruir o bem locado;
+
+b) Defender a integridade do bem e o seu gozo, nos termos do seu direito;
+
+c) Usar das acções possessórias, mesmo contra o locador;
+
+d) Onerar, total ou parcialmente, o seu direito, mediante autorização expressa do locador;
+
+e) Exercer, na locação de fracção autónoma, os direitos próprios do locador, com excepção dos que, pela sua natureza, somente por aquele possam ser exercidos;
+
+f) Adquirir o bem locado, findo o contrato, pelo preço estipulado.
+
+- *Retificado pelo/a [Declaração de Rectificação n.º 17-B/97 - Diário da República n.º 253/1997, 3º Suplemento, Série I-A de 1997-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-b-1997-437844), produz efeitos a partir de 1997-10-07*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 265/97 - Diário da República n.º 228/1997, Série I-A de 1997-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1997-661566), em vigor a partir de 1997-10-07*
+
+## Artigo 11.º — Transmissão das posições jurídicas
+
+1 - Tratando-se de bens de equipamento, é permitida a transmissão entre vivos, da posição do locatário, nas condições previstas pelo artigo 115.º do Decreto-Lei n.º 321-B/90, de 15 de Outubro, e a transmissão por morte, a título de sucessão legal ou testamentária, quando o sucessor prossiga a actividade profissional do falecido.
+
+2 - Não se tratando de bens de equipamento, a posição do locatário pode ser transmitida nos termos previstos para a locação.
+
+3 - Em qualquer dos casos previstos nos números anteriores, o locador pode opor-se à transmissão da posição contratual, provando não oferecer o cessionário garantias bastantes à execução do contrato.
+
+4 - O contrato de locação financeira subsiste para todos os efeitos nas transmissões da posição contratual do locador, ocupando o adquirente a mesma posição jurídica do seu antecessor.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 265/97 - Diário da República n.º 228/1997, Série I-A de 1997-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1997-661566), em vigor a partir de 1997-10-07*
+
+## Artigo 12.º — Vícios do bem locado
+
+O locador não responde pelos vícios do bem locado ou pela sua inadequação face aos fins do contrato, salvo o disposto no artigo 1034.º do Código Civil.
+
+## Artigo 13.º — Relações entre o locatário e o vendedor ou o empreiteiro
+
+O locatário pode exercer contra o vendedor ou o empreiteiro, quando disso seja caso, todos os direitos relativos ao bem locado ou resultantes do contrato de compra e venda ou de empreitada.
+
+## Artigo 14.º — Despesas
+
+Salvo estipulação em contrário, as despesas de transporte e respectivo seguro, montagem, instalação e reparação do bem locado, bem como as despesas necessárias para a sua devolução ao locador, incluindo as relativas aos seguros, se indispensáveis, ficam a cargo do locatário.
+
+## Artigo 15.º — Risco
+
+Salvo estipulação em contrário, o risco de perda ou deterioração do bem corre por conta do locatário.
+
+## Artigo 16.º — Mora no pagamento das rendas
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03, em vigor a partir de 2001-11-08*
+
+## Artigo 17.º — Resolução do contrato por incumprimento e cancelamento do registo
+
+1 - O contrato de locação financeira pode ser resolvido por qualquer das partes, nos termos gerais, com fundamento no incumprimento das obrigações da outra parte, não sendo aplicáveis as normas especiais, constantes de lei civil, relativas à locação.
+
+2 - Para o cancelamento do registo de locação financeira com fundamento na resolução do contrato por incumprimento é documento bastante a prova da comunicação da resolução à outra parte nos termos gerais.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 30/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2008-247722), em vigor a partir de 2008-03-26*
+
+## Artigo 18.º — Casos específicos de resolução do contrato
+
+O contrato de locação financeira pode ainda ser resolvido pelo locador nos casos seguintes:
+
+a) Dissolução ou liquidação da sociedade locatária;
+
+b) Verificação de qualquer dos fundamentos de declaração de falência do locatário.
+
+## Artigo 19.º — Garantias
+
+Podem ser constituídas a favor do locador quaisquer garantias, pessoais ou reais, relativas aos créditos de rendas e dos outros encargos ou eventuais indemnizações devidas pelo locatário.
+
+## Artigo 20.º — Antecipação das rendas
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03, em vigor a partir de 2001-11-08*
+
+## Artigo 21.º — Providência cautelar de entrega judicial
+
+1 - Se, findo o contrato por resolução ou pelo decurso do prazo sem ter sido exercido o direito de compra, o locatário não proceder à restituição do bem ao locador, pode este, após o pedido de cancelamento do registo da locação financeira, a efectuar por via electrónica sempre que as condições técnicas o permitam, requerer ao tribunal providência cautelar consistente na sua entrega imediata ao requerente.
+
+2 - Com o requerimento, o locador oferece prova sumária dos requisitos previstos no número anterior, excepto a do pedido de cancelamento do registo, ficando o tribunal obrigado à consulta do registo, a efectuar, sempre que as condições técnicas o permitam, por via electrónica.
+
+3 - O tribunal ouvirá o requerido sempre que a audiência não puser em risco sério o fim ou a eficácia da providência.
+
+4 - O tribunal ordenará a providência requerida se a prova produzida revelar a probabilidade séria da verificação dos requisitos referidos no n.º 1, podendo, no entanto, exigir que o locador preste caução adequada.
+
+5 - A caução pode consistir em depósito bancário à ordem do tribunal ou em qualquer outro meio legalmente admissível.
+
+6 - Decretada a providência e independentemente da interposição de recurso pelo locatário, o locador pode dispor do bem, nos termos previstos no artigo 7.º
+
+7 - Decretada a providência cautelar, o tribunal ouve as partes e antecipa o juízo sobre a causa principal, excepto quando não tenham sido trazidos ao procedimento, nos termos do n.º 2, os elementos necessários à resolução definitiva do caso.
+
+8 - São subsidiariamente aplicáveis a esta providência as disposições gerais sobre providências cautelares, previstas no Código de Processo Civil, em tudo o que não estiver especialmente regulado no presente diploma.
+
+9 - O disposto nos números anteriores é aplicável a todos os contratos de locação financeira, qualquer que seja o seu objecto
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 30/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2008-247722), em vigor a partir de 2008-03-26*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 265/97 - Diário da República n.º 228/1997, Série I-A de 1997-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1997-661566), em vigor a partir de 1997-10-07*
+
+## Artigo 22.º — Operações anteriores ao contrato
+
+Quando, antes de celebrado um contrato de locação financeira, qualquer interessado tenha procedido à encomenda de bens, com vista a contrato futuro, entende-se que actua por sua conta e risco, não podendo o locador ser, de algum modo, responsabilizado por prejuízos eventuais decorrentes da não conclusão do contrato, sem prejuízo do disposto no artigo 227.º do Código Civil.
+
+## Artigo 23.º — Operações de natureza similar
+
+Nenhuma entidade pode realizar, de forma habitual, operações de natureza similar ou com resultados económicos equivalentes aos dos contratos de locação financeira.
+
+## Artigo 24.º — Disposições finais
+
+1 - O disposto no artigo 21.º é imediatamente aplicável aos contratos celebrados antes da sua entrada em vigor e às acções já propostas em que não tenha sido decretada providência cautelar destinada a obter a entrega imediata do bem locado.
+
+2 - Aos contratos de locação financeira celebrados nos termos do Decreto-Lei n.º 10/91, de 9 de Janeiro, não é aplicável o disposto no artigo 21.º
+
+## Artigo 25.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 171/79, de 6 de Junho.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 9 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
+
+Promulgado em 6 de Junho de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 7 de Junho de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
