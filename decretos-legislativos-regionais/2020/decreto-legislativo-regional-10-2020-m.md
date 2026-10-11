@@ -1,0 +1,340 @@
+---
+title: "Decreto Legislativo Regional n.º 10/2020/M"
+identifier: "Decreto Legislativo Regional n.º 10/2020/M"
+type: regional_legislative_decree
+jurisdiction: pt
+language: pt
+date: 2020-07-28
+last_amended: 2024-02-02
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2020-187258952"
+retrieved: 2026-10-11
+designation: "Programa de Apoio à Aquisição e ao Arrendamento de Habitação - PRAHABITAR"
+summary: "Cria o Programa de Apoio à Aquisição e ao Arrendamento de Habitação (PRAHABITAR)"
+issuer: "Região Autónoma da Madeira - Assembleia Legislativa"
+series: "I"
+eli: "https://data.dre.pt/eli/declegreg/10/2020/m/cons/20240202/pt/html"
+dre_id: 138963714
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2020/07/14500/0002100029.pdf"
+text_version: "consolidated"
+---
+
+# Decreto Legislativo Regional n.º 10/2020/M
+
+Decreto Legislativo Regional n.º 10/2020/M
+
+Sumário: Cria o Programa de Apoio à Aquisição e ao Arrendamento de Habitação (PRAHABITAR).
+
+Cria o Programa de Apoio à Aquisição e ao Arrendamento de Habitação (PRAHABITAR)
+
+A Constituição da República Portuguesa, no n.º 1 do seu artigo 65.º, institui que «todos têm direito, para si e para a sua família, a uma habitação de dimensão adequada, em condições de higiene e conforto e que preserve a intimidade pessoal e a privacidade familiar».
+
+No Programa do XIII Governo Regional da Madeira, para o quadriénio de 2019-2023, o direito à habitação condigna constitui um dos eixos fundamentais da política pública de apoio à população da Região Autónoma da Madeira.
+
+A implementação da política de habitação do Governo Regional da Madeira, através de programas e medidas de apoio às famílias mais vulneráveis, é da competência da IHM - Investimentos Habitacionais da Madeira, EPERAM.
+
+Na Região Autónoma da Madeira, ao nível do mercado de arrendamento, tem-se vindo a assistir a um desequilíbrio entre a oferta e a procura, com a consequente inflação dos valores do arrendamento com fins habitacionais.
+
+No que concerne ao mercado de aquisição, também se tem vindo a assistir a um aumento generalizado do valor dos preços das habitações.
+
+Por outro lado, constata-se a dificuldade dos grupos socialmente mais vulneráveis, jovens, portadores de deficiência e outros, em aceder ao crédito bancário para aquisição de habitação.
+
+Apesar do enorme esforço do Governo Regional, ao longo de mais de 40 anos na promoção de habitações com fins sociais, subsistem ainda famílias que não dispõem da totalidade dos meios económicos ou financeiros para aquisição ou arrendamento de habitação condigna para residência permanente.
+
+Nesse sentido, e na esteira do plasmado no atual Programa de Governo, urge criar um programa de apoio público da Região Autónoma da Madeira, para promoção da aquisição ou do arrendamento de habitação para residência permanente, por parte de agregados familiares que não dispõem da totalidade dos meios económicos ou financeiros.
+
+Assim, pelo presente diploma, é criado o Programa de Apoio à Aquisição e ao Arrendamento de Habitação (PRAHABITAR), cuja entidade gestora será a IHM - Investimentos Habitacionais da Madeira, EPERAM.
+
+É convicção do Governo Regional que a implementação deste programa será um instrumento fulcral na resposta urgente e prioritária às situações de carência habitacional na Região Autónoma da Madeira.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 228.º da Constituição da República Portuguesa, na alínea c) do n.º 1 do artigo 37.º, na alínea z) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto e 12/2000, de 21 de junho, o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objeto
+
+O presente diploma cria o Programa de Apoio à Aquisição e ao Arrendamento de Habitação, adiante abreviadamente designado por PRAHABITAR, cuja entidade gestora é a IHM - Investimentos Habitacionais da Madeira, EPERAM, adiante abreviadamente designada por IHM, EPERAM.
+
+### Artigo 2.º — Âmbito
+
+1 - O PRAHABITAR é um programa de apoio público da Região Autónoma da Madeira, para promoção da aquisição ou do arrendamento de habitação, para residência permanente por parte de agregados familiares que não dispõem da totalidade dos meios económicos ou financeiros para tal efeito, adiante designados por beneficiários.
+
+2 - O apoio à aquisição de habitação obedece em especial às normas previstas no capítulo II do presente diploma, para além das demais disposições aplicáveis.
+
+3 - O apoio ao arrendamento de habitação, relativo a contratos em vigor celebrados entre senhorios e arrendatários sem indicação da IHM, EPERAM, obedece em especial às normas previstas no capítulo iii do presente diploma, para além das demais disposições aplicáveis.
+
+4 - (Revogado.)
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+## Capítulo II — Apoio à aquisição de habitação
+
+### Artigo 3.º — Beneficiários do apoio à aquisição
+
+1 - Podem beneficiar do apoio à aquisição de fogos os agregados familiares:
+
+a) Residentes no território da Região Autónoma da Madeira;
+
+b) Que não dispõem da totalidade dos meios económicos ou financeiros para a compra de habitação para residência permanente;
+
+c) Com candidatura entregue nos serviços da IHM, EPERAM, de acordo com formulário próprio a disponibilizar por esta entidade gestora e acompanhada da documentação exigida na portaria a que se refere o artigo 28.º; e
+
+d) Figurem ou venham a figurar como promitentes compradores em contrato-promessa para habitação permanente de fogo localizado no território da Região Autónoma da Madeira.
+
+2 - A candidatura considera-se apresentada na data em que toda a documentação exigida estiver na posse da IHM, EPERAM.
+
+3 - Serão excluídas as candidaturas de agregados familiares:
+
+a) Com rendimentos anuais brutos inferiores ou superiores aos fixados na portaria a que se refere o artigo 28.º;
+
+b) Integrados por elementos que sejam titulares de direitos sobre bens imóveis em condições de constituir residência permanente;
+
+c) Referentes à compra de fogo por valores superiores aos fixados na portaria a que se refere o artigo 28.º
+
+4 - Em qualquer momento, pode a IHM, EPERAM, solicitar documentação adicional, para efeitos de integral esclarecimento dos termos da candidatura.
+
+5 - Não serão aceites contratos-promessa que constituam renegociações de outros com identidade de objeto e de partes outorgantes.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2024/M - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-840060200), em vigor a partir de 2024-02-03*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 4.º — Prazo de manutenção de propostas de venda
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 5.º — Beneficiários do apoio à aquisição
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 6.º — Apoio à aquisição
+
+1 - O montante do apoio financeiro a conceder ao beneficiário da aquisição será calculado nos termos da portaria a que se refere o artigo 28.º
+
+2 - O apoio a atribuir ao beneficiário ocorrerá no ato da outorga do contrato definitivo de compra e venda do fogo destinado a habitação permanente.
+
+3 - Sob pena de caducidade automática do direito ao apoio, o contrato-promessa de compra e venda deverá ser outorgado no prazo de 20 dias úteis e a escritura final deverá ser outorgada no prazo de 60 dias úteis, ambos a contar da data da notificação ao beneficiário da aprovação do apoio.
+
+4 - O apoio a conceder ao beneficiário tem como limite os montantes inerentes à tipologia adequada à dimensão do seu agregado familiar.
+
+5 - O apoio a atribuir ao abrigo do presente artigo é cumulável com qualquer outro apoio público de âmbito nacional, regional ou local para aquisição da mesma habitação, sem prejuízo da dedução de valores que se mostre necessária para impedir a abonação de apoios em valor superior ao dos encargos exigidos ao beneficiário.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 7.º — Encaminhamento de beneficiários de aquisição
+
+Os procedimentos de análise das candidaturas serão definidos na portaria a que se refere o artigo 28.º
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 8.º — Contrato-promessa e contrato de compra e venda
+
+1 - O contrato-promessa a celebrar e o contrato final que formalizará a compra e venda apoiada ao abrigo do presente diploma deverão fazer menção expressa ao mesmo e à portaria que o vai regulamentar.
+
+2 - Para os efeitos previstos no número anterior, a IHM, EPERAM emitirá declaração que fará parte do mencionado contrato final.
+
+3 - Os referidos contratos deverão ser outorgados nos prazos fixados na portaria referida no artigo 28.º, sem prejuízo do disposto no artigo 4.º do mesmo.
+
+4 - No prazo de 5 dias úteis a contar da celebração do contrato-promessa e do contrato final, o beneficiário deverá entregar cópia dos mesmos à IHM, EPERAM.
+
+5 - Para os efeitos do presente diploma, só é aceite contrato do qual conste expressamente o cumprimento das inerentes obrigações fiscais.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 9.º — Ónus de intransmissibilidade e de residência permanente
+
+1 - Durante o prazo de sete anos a contar da data da compra do fogo, com apoio concedido ao abrigo do presente diploma, o mesmo não poderá ser alienado inter vivos.
+
+2 - Durante o período mencionado no número anterior, o fogo destina-se à residência permanente do adquirente.
+
+3 - Os ónus referidos nos números anteriores, cessam por morte ou invalidez do adquirente ou para venda do fogo em processo judicial para execução de dívida contraída para a sua aquisição ou de dívidas fiscais ou à segurança social.
+
+4 - São nulas as vendas de fogos cujo beneficiário não dê cumprimento às obrigações decorrentes do presente artigo.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 10.º — Direito de preferência
+
+Durante os primeiros 20 anos a contar da data da aquisição, a IHM, EPERAM, goza de direito de preferência na alienação onerosa, voluntária ou coerciva, do imóvel adquirido ao abrigo do presente diploma.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 11.º — Registo predial
+
+Os ónus de intransmissibilidade e de residência permanente e o direito de preferência referidos nos artigos anteriores são objeto de inscrição no registo predial.
+
+## Capítulo III — Apoio ao arrendamento de habitação relativo a contratos em vigor celebrados entre senhorios e arrendatários sem indicação da IHM, EPERAM
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 12.º — Fogos para apoio ao arrendamento
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 13.º — Prazo de manutenção de propostas de arrendamento
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 14.º — Beneficiários do apoio ao arrendamento
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 15.º — Apoio ao arrendamento
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 16.º — Encaminhamento de beneficiários de arrendamento
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 17.º — Contratos de arrendamento
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 18.º — Reavaliação dos pressupostos
+
+*(Revogado)* — *Revogado pelo/a Artigo 2.º do/a Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10, em vigor a partir de 2022-08-15*
+
+### Artigo 19.º — Beneficiários em arrendamentos vigentes sem indicação da IHM, EPERAM
+
+1 - Podem beneficiar do apoio ao arrendamento de fogos, localizados na Região Autónoma da Madeira, nos contratos em vigor celebrados sem indicação da IHM, EPERAM, os agregados familiares com residência permanente nos fogos arrendados:
+
+a) Que não disponham da totalidade dos meios económicos ou financeiros para o pagamento da respetiva renda;
+
+b) Com candidatura entregue nos serviços da IHM, EPERAM, de acordo com formulário próprio a disponibilizar por esta entidade gestora, acompanhada da documentação exigida na portaria a que se refere o artigo 28.º
+
+2 - A candidatura considera-se apresentada na data em que esteja devidamente instruída, com toda a documentação exigida nos termos da portaria a que se refere o artigo 28.º
+
+3 - Serão excluídas as candidaturas de agregados familiares:
+
+a) Com rendimentos anuais brutos inferiores ou superiores aos fixados na portaria a que se refere o artigo 28.º;
+
+b) Integrados por elementos que sejam titulares de direitos sobre bens imóveis em condições de constituir residência permanente;
+
+c) Residentes em fogos propriedade ou sob gestão do Estado e dos seus Institutos Públicos, da Região Autónoma da Madeira e dos seus Institutos Públicos, dos Municípios, de Entidades Públicas Empresariais nacionais, regionais ou locais, de Instituições Particulares de Solidariedade Social ou de Misericórdias.
+
+4 - Em qualquer momento, pode a IHM, EPERAM, solicitar documentação adicional, para efeitos de integral esclarecimento dos termos da candidatura.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 20.º — Apoio em arrendamentos vigentes sem indicação da IHM, EPERAM
+
+1 - O montante do apoio financeiro a conceder ao beneficiário será calculado nos termos da portaria a que se refere o artigo 28.º
+
+2 - O apoio a atribuir ao beneficiário consistirá na entrega a seu favor de uma comparticipação financeira, a fundo perdido, de valor até dois terços do montante da renda mensal.
+
+3 - O apoio tem a duração inicial de 12 meses, renovável anualmente de acordo com a reavaliação dos pressupostos da sua concessão, nos termos do artigo 22.º, sem prejuízo do período de vigência do PRAHABITAR previsto no artigo 29.º
+
+4 - Sem prejuízo do disposto no número anterior e para além do que resultar da reavaliação dos pressupostos da sua atribuição, a concessão do apoio cessa à data de cessação do correspondente contrato de arrendamento.
+
+5 - O apoio a atribuir ao abrigo do presente artigo é cumulável com qualquer outro apoio público de âmbito nacional, regional ou local para arrendamento da mesma habitação que o beneficiário esteja a auferir, sem prejuízo da dedução dos valores recebidos, por forma a impedir a abonação de apoios em valor superior ao dos encargos exigidos ao beneficiário.
+
+6 - Não serão aceites contratos de arrendamento que constituam renegociações de rendas de anterior contrato com o mesmo objeto e que impliquem aumento do valor do apoio a conceder.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2024/M - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-840060200), em vigor a partir de 2024-02-03*
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 21.º — Requisitos dos contratos de arrendamento
+
+Para os efeitos do previsto no presente capítulo, só são aceites contratos de arrendamento destinados à residência permanente do beneficiário e do seu agregado familiar, do qual conste expressa e coincidentemente:
+
+a) A inscrição do fogo na matriz predial;
+
+b) A menção ao devido licenciamento municipal;
+
+c) O cumprimento das inerentes obrigações fiscais.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+### Artigo 22.º — Reavaliação dos pressupostos
+
+1 - Decorrida a duração inicial do apoio referida no n.º 3 do artigo 20.º, a IHM, EPERAM, procederá à reavaliação dos pressupostos da concessão do apoio a requerimento do beneficiário.
+
+2 - Para os efeitos previstos no número anterior, no prazo de 10 dias a contar de notificação a efetuar para o fogo arrendado, deve o beneficiário apresentar na IHM, EPERAM, a documentação que lhe for solicitada, comprovativa da sua situação socioeconómica.
+
+3 - O resultado da avaliação dos pressupostos de concessão do apoio é comunicado por escrito ao beneficiário e os seus efeitos produzir-se-ão no mês seguinte ao da comunicação.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+## Capítulo IV — Disposições finais
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 23.º — Penalizações
+
+1 - O incumprimento pelo beneficiário do apoio, das obrigações a este inerentes, constitui causa para a cessação imediata da atribuição, sem prejuízo das consequências criminais que daí possam advir e do impedimento do beneficiário de se candidatar a programa habitacional regional durante um período de 2 anos.
+
+2 - Constituem incumprimento por parte do beneficiário, designadamente:
+
+a) A prestação de falsas declarações;
+
+b) A não apresentação de documentos comprovativos da sua situação socioeconómica, quando tal lhe for solicitado pela IHM, EPERAM;
+
+c) A não entrega dos comprovativos do pagamento das rendas conforme previsto na portaria de regulamentação;
+
+d) (Revogada.)
+
+e) A não utilização do fogo para residência permanente no período referido no n.º 2 do artigo 9.º;
+
+f) A não utilização do fogo arrendado para residência permanente, no período de vigência do respetivo contrato de arrendamento.
+
+3 - Se o beneficiário tiver auferido algum apoio financeiro ao abrigo do presente diploma, em caso de incumprimento, constituir-se-á, ainda e imediatamente, em dívida a favor da IHM, EPERAM, em montante igual à totalidade dos valores recebidos, acrescido de 10 % e dos juros moratórios que se vencerem até o seu integral pagamento.
+
+4 - A aplicação de qualquer das penalizações previstas no presente artigo depende do exercício pelos interessados do direito à audição prévia.
+
+- *Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595), em vigor a partir de 2022-08-15*
+
+### Artigo 24.º — Dotação orçamental
+
+1 - Para a execução do presente programa, a IHM, EPERAM, inscreve no seu orçamento privativo as verbas suficientes para o efeito.
+
+2 - A concessão de apoios ao abrigo do presente diploma fica limitada aos valores da dotação orçamental.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+### Artigo 25.º — Contrato-Programa
+
+Para os efeitos do artigo anterior, anualmente, a Região Autónoma da Madeira celebra um contrato-programa com a IHM, EPERAM, com vista à respetiva transferência de verbas.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+### Artigo 26.º — Publicitação dos apoios
+
+Sem prejuízo de outras obrigações legais de publicitação ou de informação, anualmente, a IHM, EPERAM, procede à publicitação no Jornal Oficial da Região Autónoma da Madeira, dos apoios concedidos ao abrigo do presente diploma, com respeito pela proteção dos dados pessoais dos respetivos beneficiários.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+### Artigo 27.º — Cooperação entre organismos
+
+Todos os organismos públicos nacionais, regionais e ou locais, com atuação na Região Autónoma da Madeira, nomeadamente o Instituto de Segurança Social da Madeira, IP-RAM, devem colaborar com a IHM, EPERAM, na aplicação do presente diploma, em especial através da troca de informação sobre prestações e apoios sociais auferidos pelos candidatos ou beneficiários dos apoios, bem como na adoção de procedimentos internos que assegurem celeridade e segurança nos processos, tendo em vista a transparência, boa aplicabilidade e justiça na atribuição dos apoios financeiros.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+### Artigo 28.º — Regulamentação
+
+A execução do presente diploma é definida por portaria conjunta dos membros do Governo Regional com a tutela das finanças e da habitação.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+### Artigo 29.º — Entrada em vigor e período de vigência
+
+O presente diploma entra em vigor na data da publicação da portaria referida no artigo anterior e vigora até 31 de dezembro de 2030, sem prejuízo da continuação da sua aplicação a propostas que sejam apresentadas na IHM, EPERAM, até ao final da sua vigência.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2022/M - Diário da República n.º 154/2022, Série I de 2022-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-187245595)*
+
+## Assinatura
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de junho de 2020.
+
+O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+Assinado em 17 de julho de 2020.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+113425453

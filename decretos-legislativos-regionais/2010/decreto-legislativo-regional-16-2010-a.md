@@ -1,0 +1,399 @@
+---
+title: "Decreto Legislativo Regional n.º 16/2010/A"
+identifier: "Decreto Legislativo Regional n.º 16/2010/A"
+type: regional_legislative_decree
+jurisdiction: pt
+language: pt
+date: 2010-04-12
+last_amended: 2021-12-28
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-176653695"
+retrieved: 2026-10-11
+summary: "Cria a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A."
+issuer: "Região Autónoma dos Açores - Assembleia Legislativa"
+series: "I"
+eli: "https://data.dre.pt/eli/declegreg/16/2010/a/cons/20211228/pt/html"
+dre_id: 613401
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2010/04/07000/0117701184.pdf"
+text_version: "consolidated"
+---
+
+# Decreto Legislativo Regional n.º 16/2010/A
+
+Decreto Legislativo Regional n.º 16/2010/A
+
+Cria a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.
+
+O sector empresarial do Estado assume hoje um papel relevante na organização administrativa moderna. O desenvolvimento sócio-económico e a transformação dos paradigmas clássicos da Administração rumo a uma crescente racionalização da gestão, de que é corolário o regime das parcerias público-privadas, motivaram o crescimento da empresarialização pública, enquanto forma ágil de dar cabal satisfação à prossecução do interesse público, ao mesmo tempo que garante a transparência, isenção, rigor e funcionalidade económica e social.
+
+O Governo Regional dos Açores, na senda da reestruturação do sector empresarial regional que tem levado a cabo, nomeadamente através do regime jurídico estabelecido no Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março, republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro, não pode ignorar a evolução da organização administrativa e da eficácia na prossecução do interesse público.
+
+A experiência adquirida nas diversas áreas em que a administração regional intervém, ou interveio, sob a forma empresarial, confirma exactamente esta postura e essa intenção de o executivo modernizar e tornar eficazes as áreas que estão sujeitas à acção de entidades empresariais públicas.
+
+Reafirmam-se, deste modo, os princípios fundamentais da actuação do X Governo Regional no que se refere ao sector público empresarial regional, assegurando a efectiva definição de orientações de gestão estratégica deste, designadamente através da aplicação dos princípios da racionalidade económica, do interesse público e do reforço da função reguladora e fiscalizadora.
+
+A intervenção empresarial na área da participação, informação, divulgação, sensibilização, educação e formação dos cidadãos em matéria de ambiente justifica-se e impõe-se, desde logo, pela necessidade de reforçar a participação pública e aumentar o valor natural dos Açores, numa perspectiva de desenvolvimento sustentável.
+
+A opção pela atribuição destas competências a uma sociedade anónima de capitais públicos corresponde à percepção clara de ser esta a solução que, de entre toda a panóplia de formas jurídicas colocadas ao dispor pelo Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março, republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro, melhor se adequa aos objectivos a que se propõe.
+
+Por um lado, garante os poderes de autoridade de que está investida nos termos do citado diploma e que são essenciais para obter uma plataforma alargada de protecção e uma sensibilização para os princípios ambientais inerentes à conservação, por outro, a forma de sociedade anónima permite-lhe uma indiscutível agilização de procedimentos, nomeadamente quanto ao relacionamento com entidades terceiras, a possibilidade de, com maior autonomia, desenvolver a sua actividade dentro daquelas que são as orientações definidas para o sector, a racionalização da gestão patrimonial e a obtenção de condições mais favoráveis no plano financeiro e comercial.
+
+Dota-se, por isso, a Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., do exercício de poderes e prerrogativas de autoridade pública, conforme permite, desde logo, o disposto no artigo 18.º do Decreto Legislativo Regional n.º 7/2008/A, de 24 de Março, alterado e republicado pelo Decreto Legislativo Regional n.º 17/2009/A, de 14 de Outubro.
+
+Assim, nos termos do disposto nos artigos 227.º, n.º 1, alínea a), e 112.º, n.º 4, da Constituição da República Portuguesa e nos artigos 37.º, n.os 1 e 2, e 57.º, n.os 1 e 2, alíneas a) a d), i), j) e n), do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:
+
+## Artigo 1.º — Objecto
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 2.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 3.º — Património
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 4.º — Capital social
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 5.º — Titularidade e função accionista
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 6.º — Deveres especiais de informação
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 7.º — Poderes de autoridade
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 8.º — Primeira reunião da assembleia geral
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 9.º — Pessoal
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 10.º — Estatutos e registos
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 11.º — Normas transitórias
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 11.º-A — Integração
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Artigo 12.º — Entrada em vigor
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Assinatura
+
+*(Revogado)* — *Revogado pelo/a Artigo 12.º do/a Decreto Legislativo Regional n.º 39/2021/A - Diário da República n.º 250/2021, Série I de 2021-12-28, em vigor a partir de 2022-01-02, produz efeitos a partir de 2021-12-31*
+
+## Anexo
+
+### Capítulo I — Denominação, sede e objecto
+
+#### Artigo 1.º — Denominação e duração
+
+A sociedade adopta a forma de sociedade anónima e a denominação Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A., regendo-se pelos presentes Estatutos, pelas normas especiais do regime jurídico do sector público empresarial da Região Autónoma dos Açores, do sector público empresarial do Estado e pelas normas reguladoras das sociedades comerciais, e durará por tempo indeterminado.
+
+#### Artigo 2.º — Sede
+
+1 - A Sociedade tem a sua sede na ilha do Faial.
+
+2 - Por deliberação do conselho de administração, a Sociedade pode estabelecer ou encerrar as formas de representação que entender necessárias à prossecução das suas atribuições.
+
+#### Artigo 3.º — Objeto social da Sociedade de Gestão Ambiental e Conservação da Natureza, S. A. - AZORINA, S. A.
+
+1. A sociedade tem por objeto principal a promoção de ações de gestão ambiental e de conservação da natureza e dos recursos naturais, incluindo atividades no domínio da promoção da participação pública em matéria ambiental e da informação, divulgação e educação ambiental, a implementação de planos especiais de ordenamento do território em todo o arquipélago dos Açores, incluindo a compra, venda, permuta e a propositura para a expropriação por utilidade pública de imóveis situados nas áreas de intervenção dos respetivos planos, aprovados ou a aprovar, assim como o desenvolvimento e a implementação de uma estratégia para a promoção, divulgação e comercialização do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.
+
+2. A Sociedade concretizará o seu objeto, nomeadamente, através:
+
+a) Da promoção e apoio à gestão integrada das áreas protegidas terrestres e marinhas, valorizando os recursos naturais e paisagísticos e a biodiversidade e geodiversidade do arquipélago dos Açores;
+
+b) Da realização de projectos e acções destinados a proteger a biodiversidade, a geodiversidade e os recursos ambientais, nomeadamente os hídricos e geológicos;
+
+c) Da construção, exploração e manutenção de infra-estruturas destinadas à recolha, transferência, valorização e destino final de resíduos, águas residuais e seus derivados;
+
+d) Da promoção e apoio ao desenvolvimento de valências para a participação, informação, sensibilização, educação e formação dos cidadãos em matéria de ambiente, nomeadamente, as integradas na rede regional de ecotecas, centros de interpretação ambiental e estruturas similares;
+
+e) Da construção, exploração e manutenção de infra-estruturas necessárias à conservação, protecção e valorização do ambiente, à melhoria da segurança de pessoas e bens e à promoção dos valores ambientais para a sua fruição sustentada.
+
+f) Da promoção, desenvolvimento e exploração da fileira florestal, nomeadamente na vertente estratégica da sua comercialização e da criação dos canais e de todos os procedimentos necessários para a valorização económica e sustentável do património florestal da Região Autónoma dos Açores ou sob jurisdição ou gestão desta.
+
+3. Acessoriamente, a Sociedade poderá desenvolver outras atividades relacionadas com o seu objeto principal, designadamente promover estudos, implementar e desenvolver ações e projetos quer no âmbito dos planos especiais de ordenamento do território e dos planos de ordenamento das bacias hidrográficas, quer se destinem à proteção e valorização ambiental e florestal da sua área de intervenção e que se revelem importantes para a proteção e promoção das zonas abrangidas.
+
+4. Para a prossecução do seu objeto, a Sociedade pode, nomeadamente:
+
+a) Propor ao departamento do Governo Regional competente em razão da matéria a expropriação por utilidade pública de imóveis situados nas suas áreas de intervenção;
+
+b) Promover a concessão, arrendamento, compra, venda e permuta de imóveis situados nas áreas de interesse para a conservação da natureza e proteção dos recursos naturais que sejam necessários à prossecução do seu objeto;
+
+c) Atribuir indemnizações por perda de rendimentos resultantes de medidas de conservação da biodiversidade, da geodiversidade ou de protecção dos recursos hídricos ou geológicos e adoptar as consequentes medidas de gestão sustentada do território;
+
+d) Comercializar o material resultante das áreas florestais património da Região Autónoma dos Açores ou sob jurisdição ou gestão desta;
+
+e) Disponibilizar os meios necessários para a execução de todas as atividades necessárias e acessórias de suporte à gestão sustentada das áreas florestais referidas na alínea anterior;
+
+f) Candidatar-se e gerir fundos regionais, nacionais e comunitários necessários à salvaguarda da prossecução das tarefas de gestão ambiental, de conservação da natureza e da gestão e conservação do património florestal.
+
+5. A Sociedade desenvolve as atividades referidas nos números anteriores mediante a celebração com a Região Autónoma dos Açores de contratos de concessão ou de contratos-programa.
+
+6 - A AZORINA, S. A., poderá adquirir participações sociais em sociedades de responsabilidade limitada com objecto diferente do seu, em sociedades reguladas por leis especiais, em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico ou associar-se com outras entidades sob outras formas de associação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04*
+
+### Capítulo II — Capital social, obrigações e prestações suplementares
+
+#### Artigo 4.º — Capital social e acções
+
+1 - O capital social é de (euro) 100 000, integralmente subscrito e realizado, encontrando-se dividido em 20 000 acções, do valor nominal unitário de (euro) 5.
+
+2 - A totalidade das acções representativas do capital social é detida pela Região Autónoma dos Açores, sem prejuízo da possibilidade de alienação nos termos da lei.
+
+3 - As acções representativas do capital social da AZORINA, S. A., são nominativas, podendo revestir a forma escritural.
+
+4 - Podem ser emitidos títulos de 1, 10, 100 acções e múltiplos de 100.
+
+- *Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2011/A - Diário da República n.º 217/2011, Série I de 2011-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487), em vigor a partir de 2011-11-16, produz efeitos a partir de 2011-11-14*
+
+#### Artigo 5.º — Obrigações
+
+A Sociedade poderá emitir quaisquer modalidades ou tipo de obrigações, nos termos que lhe sejam permitidos pela lei e nas condições que forem fixadas pela assembleia geral.
+
+### Capítulo III — Órgãos sociais
+
+#### Artigo 6.º — Órgãos sociais
+
+1 - São órgãos sociais da Sociedade a assembleia geral, o conselho de administração e o fiscal único.
+
+2 - Os membros dos órgãos sociais são eleitos em assembleia geral por mandatos de três anos, podendo ser reeleitos uma ou mais vezes, e mantêm-se em funções até à eleição de quem os deva substituir.
+
+3 - Os membros do conselho de administração estão dispensados de prestar caução.
+
+#### Artigo 7.º — Assembleia geral
+
+1 - A assembleia geral é composta pelo accionista ou accionistas com direito a voto.
+
+2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se e fazer-se representar na assembleia geral por um deles.
+
+3 - Os direitos da Região como accionista serão exercidos através da pessoa que for designada por despacho do Presidente do Governo Regional sob proposta conjunta dos membros do Governo Regional com competência em matéria de finanças e do ambiente.
+
+4 - Os restantes accionistas far-se-ão representar pelo membro do respectivo órgão de gestão que for designado por meio de carta enviada ao presidente da mesa com a antecedência de dois dias em relação à data da assembleia geral.
+
+5 - Os accionistas sem direito a voto e os obrigacionistas não poderão assistir às reuniões da assembleia geral, sem prejuízo do direito de se fazerem representar nos termos legais.
+
+#### Artigo 8.º — Reuniões
+
+1 - A assembleia geral deverá ser convocada sempre que a lei o determine ou quando tal for solicitado pelo conselho de administração, pelo conselho fiscal ou por accionistas que representem, pelo menos, 5 % do capital social.
+
+2 - As reuniões da assembleia geral serão convocadas pelo presidente da mesa, mediante carta registada com aviso de recepção remetida com a antecedência mínima de 21 dias em relação à data prevista.
+
+3 - Da convocatória constarão especificadamente os assuntos da ordem de trabalhos.
+
+#### Artigo 9.º — Mesa da assembleia geral
+
+1 - A mesa da assembleia geral é constituída por um presidente e um secretário, que poderão não ser accionistas, eleitos em assembleia geral conjuntamente com os órgãos de gestão e de fiscalização da Sociedade, por períodos de três anos.
+
+2 - Compete ao presidente da mesa convocar as reuniões da assembleia geral e dirigir os seus trabalhos, bem como exercer as demais funções que lhe sejam conferidas pela lei ou por delegação da própria assembleia.
+
+3 - O presidente da mesa é substituído pelo secretário nas suas faltas ou impedimentos.
+
+4 - Faltando à reunião ambos os membros da mesa, a assembleia designará substitutos para a respectiva reunião.
+
+#### Artigo 10.º — Competência
+
+Sem prejuízo das demais competências da assembleia geral, nos termos da legislação geral e especial aplicável e dos presentes Estatutos, compete-lhe, em especial:
+
+a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do fiscal único e decidir sobre a aplicação dos resultados do exercício;
+
+b) Eleger e exonerar os membros da mesa da assembleia geral, os membros do conselho de administração e o fiscal único;
+
+c) Deliberar sobre quaisquer alterações dos Estatutos e aumentos de capital social;
+
+d) Deliberar sobre as remunerações dos membros dos corpos sociais, de acordo com a legislação aplicável;
+
+e) Definir políticas relativas à actividade da Sociedade, com vista à prossecução do objecto social, mediante a aprovação de planos anuais e plurianuais de empresa, que incluirão o orçamento de exploração, os planos de investimentos e planos financeiros, no qual se explicitará o nível de endividamento empresarial;
+
+f) Autorizar a aquisição, a oneração e a alienação de imóveis e a realização de investimentos quando o respectivo valor exceda o limite a fixar anualmente em assembleia geral e não estejam contemplados no plano anual de actividades ou no orçamento da Sociedade;
+
+g) Autorizar a contracção de empréstimos de duração superior a cinco anos e daqueles que levem a exceder o nível de endividamento explicitado no plano financeiro;
+
+h) Autorizar a emissão de obrigações e de outros valores mobiliários;
+
+i) Tratar de qualquer outro assunto para que tenha sido convocada.
+
+#### Artigo 11.º — Deliberações
+
+1 - As deliberações da assembleia geral são tomadas por maioria de votos dos accionistas presentes ou representados, sempre que a lei ou os presentes Estatutos não exijam maior número.
+
+2 - Para efeitos de eleição dos titulares dos órgãos sociais, a assembleia geral só pode deliberar estando presentes ou representados accionistas que sejam titulares de acções correspondentes, pelo menos, a 51 % do capital social.
+
+#### Artigo 12.º — Conselho de administração
+
+1 - O conselho de administração é constituído pelo presidente e por dois vogais, eleitos em assembleia geral e a quem compete exercer a administração nos termos do artigo seguinte.
+
+2 - As vagas ou impedimentos definitivos que ocorram no conselho de administração serão preenchidas por cooptação dos administradores em exercício, desde que estes sejam em número suficiente para o conselho poder funcionar e deliberar.
+
+#### Artigo 13.º — Competência
+
+Para além das competências e obrigações que por lei, pelos presentes Estatutos ou por deliberação da assembleia geral lhe sejam conferidas, compete, nomeadamente, ao conselho de administração:
+
+a) Exercer os mais amplos poderes de administração da Sociedade e praticar todos os actos e operações tendentes à realização do seu objecto social;
+
+b) Elaborar, submeter a deliberação da assembleia geral e pôr em execução os planos de actividade anuais ou plurianuais;
+
+c) Rever periodicamente a evolução das actividades da Sociedade, estratégias e políticas;
+
+d) Propor à assembleia geral a participação no capital social de outras sociedades ou noutro tipo de associações;
+
+e) Representar a Sociedade em juízo e fora dele, activa e passivamente, confessar, desistir ou transigir em processo e celebrar convenções de arbitragem;
+
+f) Adquirir, alienar ou, por qualquer forma, onerar quaisquer bens ou direitos, móveis ou imóveis, sem prejuízo do disposto nas alíneas f) e g) do artigo 10.º;
+
+g) Constituir mandatários, fixando-lhes as respectivas atribuições;
+
+h) Nomear o administrador-delegado;
+
+i) Cooptar substitutos dos membros que venham a faltar definitivamente;
+
+j) Estabelecer, quando necessário, acordos com outras entidades legalmente competentes, relativamente a interesses públicos.
+
+#### Artigo 14.º — Delegação de competências
+
+Sem prejuízo do disposto no n.º 2 do artigo 407.º do Código das Sociedades Comerciais, o conselho de administração poderá delegar em algum ou alguns dos seus membros alguma ou algumas das suas competências, definindo em acta os limites e condições de tal delegação.
+
+#### Artigo 15.º — Competência do presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração:
+
+a) Representar o conselho de administração;
+
+b) Coordenar a actividade do conselho e convocar e dirigir as respectivas reuniões;
+
+c) Zelar pela correcta execução das deliberações do conselho de administração;
+
+d) Exercer as demais competências que lhe sejam conferidas por lei ou delegação.
+
+2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
+
+#### Artigo 16.º — Reuniões
+
+1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou a requerimento de dois administradores.
+
+2 - Qualquer membro do conselho poderá fazer-se representar numa reunião por outro administrador, mediante documento escrito dirigido ao presidente, que será válido unicamente para essa reunião.
+
+3 - O conselho não poderá reunir nem tomar deliberações sem que esteja presente ou devidamente representada a maioria dos seus membros.
+
+4 - As deliberações do conselho serão tomadas por maioria de votos, tendo o presidente voto de qualidade, em caso de empate.
+
+#### Artigo 17.º — Forma de obrigar
+
+1 - A Sociedade obriga-se:
+
+a) Pela assinatura de dois membros do conselho de administração;
+
+b) Pela assinatura do administrador-delegado, no uso das competências que lhe tenham sido delegadas;
+
+c) Pela assinatura de um administrador, quando haja delegação expressa do conselho de administração para a prática de um determinado acto;
+
+d) Pela assinatura de mandatário constituído, no âmbito do correspondente mandato.
+
+2 - Os actos de mero expediente podem ser assinados por um só membro do conselho de administração ou por um só mandatário com poderes para o efeito.
+
+#### Artigo 18.º — Órgão de fiscalização
+
+1 - Sem prejuízo dos poderes conferidos por lei a outras entidades, a fiscalização da actividade social compete a um fiscal único eleito em assembleia geral.
+
+2 - Deverá ser sempre eleito um fiscal suplente.
+
+3 - Quer o fiscal único efectivo quer o suplente serão revisores oficiais de contas.
+
+#### Artigo 19.º — Competência do fiscal único
+
+Além das atribuições constantes da lei geral e dos presentes Estatutos, compete especialmente ao fiscal único efectivo:
+
+a) Assistir às reuniões do conselho de administração, sempre que este o entenda conveniente;
+
+b) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;
+
+c) Chamar a atenção do conselho de administração para qualquer assunto que deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão.
+
+### Capítulo IV — Gestão patrimonial e financeira
+
+#### Artigo 20.º — Princípios gerais
+
+A gestão da Sociedade deve nortear-se pela busca do equilíbrio económico e financeiro no desenvolvimento das suas competências, assegurando níveis de autofinanciamento e de remuneração do capital investido.
+
+#### Artigo 21.º — Contratos com a Região Autónoma dos Açores
+
+1. A Sociedade realiza as suas atribuições mediante a celebração de contratos de concessão ou contratos-programa com a Região Autónoma dos Açores, definindo metas e objetivos a alcançar e fixando as contrapartidas públicas em resultado da gestão de serviços de interesse público geral.
+
+2 - Nestes contratos, de carácter plurianual, estabelecer-se-ão objectivos e metas qualitativas e quantitativas, a sua calendarização, os meios e os instrumentos para os prosseguir, designadamente de investimento, e os demais direitos e obrigações assumidos pelas partes.
+
+3 - Na medida em que envolvam a assunção de obrigações ou de compromissos financeiros por parte da Região Autónoma dos Açores, estes contratos deverão prever a respectiva quantificação e validação, cabendo ao membro do Governo Regional com competência em matéria de finanças a sua apreciação prévia, bem como o acompanhamento geral da execução das suas cláusulas financeiras.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2014/A - Diário da República n.º 106/2014, Série I de 2014-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2014-25345929), em vigor a partir de 2014-06-04*
+
+#### Artigo 22.º — Receitas
+
+Constituem receitas da Sociedade as provenientes da prossecução do seu objecto social, nomeadamente:
+
+a) O rendimento do seu património, bem como o produto da sua alienação e da constituição de direitos sobre o mesmo;
+
+b) Os recebimentos por serviços prestados;
+
+c) As comparticipações e indemnizações compensatórias, no quadro dos contratos celebrados com a Região Autónoma dos Açores;
+
+d) As dotações, comparticipações ou verbas provenientes de outros actos ou contratos de que seja beneficiária;
+
+e) Doações, heranças e legados;
+
+f) As disponibilidades financeiras provenientes da contracção de empréstimos ou de outras formas de financiamento resultantes do recurso a contratos celebrados com instituições de crédito;
+
+g) Os juros de importâncias depositadas e o rendimento de quaisquer aplicações financeiras relativas à Sociedade;
+
+h) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, lhe devam pertencer.
+
+### Capítulo V — Disposições finais
+
+#### Artigo 23.º — Ano social
+
+O ano social e o exercício económico coincidem com o ano civil.
+
+#### Artigo 24.º — Pessoal
+
+1 - O recrutamento do pessoal efectua-se nos termos da legislação em vigor.
+
+2 - Os trabalhadores que exercem funções na administração regional, nos institutos públicos por ela tutelados e nas autarquias locais ou pertencentes a quadros de empresas públicas ou do sector empresarial público regional, podem ser autorizados a exercer funções na AZORINA, S. A., para o desempenho de funções inerentes às respectivas atribuições, nos termos previstos na lei.
+
+3 - O pessoal da AZORINA, S. A., não pode prestar trabalho ou outros serviços, remunerados ou não, a empresas cuja actividade colida com as suas atribuições.
+
+#### Artigo 25.º — Resultados
+
+Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+
+a) Cobertura de prejuízos anteriores;
+
+b) Constituição ou reintegração da reserva legal e das reservas especiais que a assembleia geral vier a deliberar;
+
+c) Uma percentagem a distribuir pelos accionistas, a título de dividendo, que, no caso de não se observar a atribuição mínima prevista pelo n.º 1 do artigo 294.º do Código das Sociedades Comerciais, deverá ser deliberada por uma maioria de três quartos dos votos dos accionistas presentes;
+
+d) O restante, para os fins que a assembleia geral delibere de interesse para a Sociedade.
+
+#### Artigo 26.º — Dissolução
+
+1 - A Sociedade dissolver-se-á nos termos legais.
+
+2 - A assembleia geral determinará a forma de liquidação e nomeará a comissão liquidatária, que poderá ser constituída pelos administradores em exercício.

@@ -1,0 +1,322 @@
+---
+title: "Decreto Regulamentar n.º 47/2012"
+identifier: "Decreto Regulamentar n.º 47/2012"
+type: regulatory_decree
+jurisdiction: pt
+language: pt
+date: 2012-07-31
+last_amended: 2026-02-13
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-960670362"
+retrieved: 2026-10-11
+designation: "Orgânica da Autoridade para as Condições do Trabalho"
+summary: "Aprova a orgânica da Autoridade para as Condições do Trabalho"
+issuer: "Ministério da Economia e do Emprego"
+series: "I"
+eli: "https://data.dre.pt/eli/decregul/47/2012/p/cons/20260213/pt/html"
+dre_id: 179298
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2012/07/14700/0395903962.pdf"
+text_version: "consolidated"
+---
+
+# Decreto Regulamentar n.º 47/2012
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, foi aprovada a Lei Orgânica do Ministério da Economia e do Emprego, pelo Decreto-Lei n.º 126-C/2011, de 29 de dezembro, que determina a reestruturação da Autoridade para as Condições do Trabalho (ACT), serviço da administração direta do Estado que tem por missão a promoção da melhoria das condições de trabalho, através da fiscalização do cumprimento das normas em matéria laboral e o controlo do cumprimento da legislação relativa à segurança e saúde no trabalho, bem como a promoção de políticas de prevenção dos riscos profissionais, quer no âmbito das relações laborais privadas, quer no âmbito da Administração Pública.
+
+Na ótica da promoção da melhoria organizacional e da racionalização das estruturas da administração direta do Estado visadas pelo PREMAC, ao nível dos serviços centrais e, particularmente, dos serviços desconcentrados da ACT, promove-se uma profunda reestruturação e reorganização das unidades privilegiando a otimização dos recursos humanos e financeiros desta entidade.
+
+Com efeito, ao nível dos serviços desconcentrados, são extintas 5 direções regionais e, em substituição de 32 serviços de âmbito local, são criadas 18 delegações, com uma área territorial de jurisdição correspondente às unidades de nível iii das nomenclaturas das Unidades Territoriais para Fins Estatísticos (NUTS).
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+## Artigo 1.º — Natureza
+
+A Autoridade para as Condições do Trabalho, abreviadamente designada por ACT, é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
+
+## Artigo 2.º — Missão
+
+1 - A ACT tem por missão a promoção da melhoria das condições de trabalho, através do controlo do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas, bem como a promoção de políticas de prevenção de riscos profissionais, e, ainda, o controlo do cumprimento da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da Administração Pública.
+
+2 - [Revogado.]
+
+3 - [Revogado.]
+
+4 - [Revogado.]
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 2.º-A — Atribuições
+
+1 - A ACT prossegue as seguintes atribuições:
+
+a) Promover, controlar e fiscalizar o cumprimento das disposições legais, regulamentares e convencionais, respeitantes às relações e condições de trabalho, designadamente as relativas à segurança e saúde no trabalho, de acordo com os princípios vertidos nas Convenções da Organização Internacional do Trabalho (OIT), ratificadas pelo Estado Português, podendo para isso recorrer aos meios tecnológicos disponíveis;
+
+b) Promover ações de sensibilização e prestar informações com vista ao esclarecimento dos sujeitos das relações laborais e das respetivas associações;
+
+c) Promover o desenvolvimento, a difusão e a aplicação de conhecimentos científicos e técnicos no âmbito da segurança e saúde no trabalho;
+
+d) Promover a formação especializada nos domínios da segurança e saúde no trabalho e apoiar as organizações patronais e sindicais na formação dos seus representantes;
+
+e) Promover e participar na elaboração de políticas de segurança e saúde no trabalho;
+
+f) Promover a execução das políticas de segurança, saúde e bem-estar no trabalho;
+
+g) Assegurar a gestão do sistema de prevenção dos riscos profissionais, visando a efetivação do direito à saúde e segurança no trabalho;
+
+h) Gerir o processo de autorização de serviços de segurança e saúde no trabalho;
+
+i) Coordenar o processo de formação e certificação de técnicos superiores e técnicos de segurança do trabalho;
+
+j) Difundir a informação e assegurar o tratamento técnico dos processos relativos ao sistema internacional de alerta para a segurança e saúde dos trabalhadores, bem como a representação nacional em instâncias internacionais;
+
+k) Assegurar o procedimento das contraordenações laborais e organizar o respetivo registo individual;
+
+l) Apoiar as entidades públicas e privadas na identificação dos riscos profissionais, na aplicação de medidas de prevenção e na organização de serviços de segurança, saúde e bem-estar no trabalho;
+
+m) Emitir títulos profissionais, nos termos da lei;
+
+n) Exercer as competências em matéria de licenciamento industrial que lhe sejam atribuídas por lei;
+
+o) Exercer as competências em matéria de trabalho de estrangeiros que lhe sejam atribuídas por lei;
+
+p) Prevenir o trabalho ilegal de menores em articulação com outras áreas governativas;
+
+q) Colaborar com outros órgãos da Administração Pública com vista ao respeito integral das normas laborais, nos termos previstos na legislação europeia e nas Convenções da OIT, ratificadas por Portugal;
+
+r) Assegurar a interconexão de dados relevantes para a função inspetiva entre os serviços da administração tributária, da segurança social, dos serviços de emprego e do Instituto de Registos e Notariado;
+
+s) Sugerir as medidas adequadas em caso de falta ou inadequação de normas legais ou regulamentares;
+
+t) Recolher e analisar informação e elaborar relatórios regulares sobre o funcionamento e a eficácia da ACT;
+
+u) Proceder à conservação dos registos e arquivos relativos a acidentes de trabalho que tenham sido objeto de inquérito da ACT e à avaliação de exposição aos riscos referentes aos trabalhadores em caso de encerramento da empresa;
+
+v) Avaliar o cumprimento das normas relativas a mobilidade laboral transnacional de trabalhadores e cooperar com os serviços de fiscalização das condições de trabalho de outros Estados-Membros do espaço económico europeu, em especial no que respeita aos pedidos de informação neste âmbito;
+
+w) Atuar com outras agências internacionais, de modo a investigar e regular práticas laborais ilegais de empresas transnacionais;
+
+x) Prosseguir as demais atribuições que lhe forem conferidas por lei.
+
+2 - A ACT prossegue as atribuições referidas no número anterior, no âmbito das relações laborais privadas, em empresas de todos os setores de atividade, independentemente da sua forma ou natureza jurídica e do regime aplicável aos respetivos trabalhadores, e em qualquer local em que se verifique a prestação de trabalho ou existam indícios suficientes dessa prestação.
+
+3 - No âmbito dos serviços e organismos da administração pública central e regional, direta e indireta, e local, incluindo os institutos públicos nas modalidades de serviços personalizados ou fundos públicos, a intervenção da ACT compreende o controlo do cumprimento da legislação relativa à segurança e saúde no trabalho.
+
+4 - A ACT, em articulação com os serviços competentes do Ministério da Educação, Ciência e Inovação, deve ainda participar na elaboração dos conteúdos curriculares, com vista à introdução de matérias sobre a segurança e saúde no trabalho, relativamente a todos os graus de ensino e formação profissional.
+
+- *Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 3.º — Órgãos
+
+1 - A ACT é dirigida por um inspetor-geral, coadjuvado por dois subinspetores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+2 - É ainda órgão da ACT o conselho consultivo para a promoção da segurança e saúde no trabalho.
+
+## Artigo 4.º — Inspetor-geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspetor-geral superintender toda a atividade da ACT, nomeadamente:
+
+a) Aplicar as coimas e sanções acessórias correspondentes às contraordenações laborais;
+
+b) Promover a colaboração com outros sistemas de inspeção;
+
+c) Conceder as autorizações que legalmente lhe são atribuídas no âmbito das relações de trabalho, designadamente em matéria de segurança e saúde no trabalho;
+
+d) Impor, sempre que necessário, a comparência nos serviços de qualquer trabalhador ou empregador e respetivas associações que possam dispor de informações úteis ao desenvolvimento da ação inspetiva;
+
+e) Celebrar protocolos de colaboração, nos termos da lei, com outras entidades públicas ou privadas, nacionais ou internacionais, no âmbito das suas atribuições;
+
+f) Propor a aprovação de programas de ação e garantir a sua execução e avaliação;
+
+g) Assegurar a execução das medidas da Estratégia Comunitária para a Saúde e Segurança no Trabalho;
+
+h) Assegurar a execução e a avaliação da Estratégia Nacional para a Saúde e Segurança no Trabalho.
+
+2 - Os subinspetores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo inspetor-geral, devendo este identificar quem o substitui nas suas faltas e impedimentos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 5.º — Conselho consultivo para a promoção da segurança e saúde no trabalho
+
+1 - O conselho consultivo para a promoção da segurança e saúde no trabalho, abreviadamente designado por conselho, tem natureza consultiva e compete-lhe apoiar a ACT no exercício das suas competências em matéria de segurança e saúde no trabalho.
+
+2 - O conselho consultivo é composto por:
+
+a) O inspetor-geral, que preside, cabendo-lhe indicar o membro do conselho consultivo que o substitui nas suas faltas e impedimentos;
+
+b) Os dois subinspetores-gerais;
+
+c) Um diretor da ACT, designado pelo inspetor-geral;
+
+d) Dois representantes de cada confederação sindical e um representante de cada confederação patronal, membros da Comissão Permanente de Concertação Social.
+
+3 - Em razão da matéria a tratar, o inspetor-geral pode determinar a participação de outros trabalhadores da ACT ou solicitar a participação de representantes de outras entidades públicas ou privadas, nas reuniões do conselho.
+
+4 - Compete ao conselho emitir parecer sobre os seguintes instrumentos de gestão da ACT, salvo no que respeita à atividade inspetiva:
+
+a) O plano e relatório de atividades;
+
+b) O orçamento;
+
+c) O relatório e contas anuais;
+
+d) Os programas de ação e respetivos regulamentos;
+
+e) A política de qualidade;
+
+f) A política de formação de recursos humanos;
+
+g) Outros instrumentos de gestão.
+
+5 - Os pareceres emitidos sobre as alíneas a), d) e e) do número anterior têm natureza vinculativa.
+
+6 - Os representantes das confederações sindicais e patronais membros do conselho podem, relativamente a matérias da competência deste, individualmente ou em conjunto:
+
+a) Solicitar informações ao inspetor-geral sobre os projetos de organização, estrutura e funcionamento dos serviços da ACT;
+
+b) Formular propostas, sugestões ou recomendações relativas à atividade da ACT.
+
+7 - O regulamento de funcionamento do conselho é aprovado por maioria dos elementos que o integram, tendo o inspetor-geral voto de qualidade.
+
+8 - A participação no conselho não é remunerada.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 6.º — Serviços desconcentrados
+
+1 - A ACT dispõe de unidades orgânicas desconcentradas, designadas por centros locais.
+
+2 - Os centros locais da ACT são dirigidos por diretores de serviços, cargo de direção intermédia de 1.º grau, sem prejuízo do disposto nos números seguintes.
+
+3 - Os centros locais dispõem de unidades de apoio a seguir mencionadas, as quais são orientadas por chefes de equipa, cargo de direção intermédia de 3.º grau, que ficam na dependência do respetivo diretor:
+
+a) Unidade de Apoio ao Centro Local do Douro, situada em Lamego;
+
+b) Unidade de Apoio ao Centro Local do Mondego, situada na Figueira da Foz;
+
+c) Unidade de Apoio ao Centro Local de Lezíria e Médio Tejo, situada em Tomar;
+
+d) Unidade de Apoio ao Centro Local do Oeste, situada nas Caldas da Rainha.
+
+4 - É criada a Unidade de Apoio ao Centro Local do Ave, situada em Vila Nova de Famalicão.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 6.º-A — Serviços centrais
+
+Os serviços centrais da ACT são constituídos por três direções de serviço e unidades orgânicas flexíveis criadas por despacho do dirigente máximo, conforme portaria.
+
+- *Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 7.º — Tipo de organização interna
+
+A organização interna da ACT obedece ao modelo estrutural hierárquico.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 8.º — Receitas
+
+1 - A ACT dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e no orçamento da segurança social.
+
+2 - A ACT dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) O produto da venda de publicações e de trabalhos editados pela ACT;
+
+c) Os valores cobrados pela inscrição ou matrícula em cursos, seminários ou colóquios de formação e outras atividades da iniciativa da ACT ou desta em colaboração com outras entidades;
+
+d) O produto resultante das coimas cobradas em processos de contraordenação na proporção definida na lei, ainda que cobradas em juízo;
+
+e) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As receitas a que se refere o número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização das respetivas despesas durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+4 - As quantias cobradas pela ACT são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 9.º — Despesas
+
+Constituem despesas da ACT as que resultem dos encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+## Artigo 9.º-A — Cargos dirigentes intermédios dos serviços centrais
+
+1 - As direções de serviços são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau.
+
+2 - As divisões são chefiadas por chefes de divisão, cargos de direção intermédia de 2.º grau.
+
+- *Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 9.º-B — Cargos dirigentes intermédios dos serviços desconcentrados
+
+1 - Os centros locais são dirigidos por diretores de serviço, cargos de direção intermédia de 1.º grau.
+
+2 - Os diretores de serviços do Centro Local do Grande Porto e do Centro Local de Lisboa Oriental são coadjuvados por um subdiretor, equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau.
+
+3 - O Centro Local do Grande Porto e o Centro Local de Lisboa Oriental poderão ter até dois coordenadores de equipa cada um, equiparado cargo de direção intermédia de 4.º grau.
+
+4 - As unidades de apoio aos centros locais são orientadas por chefes de equipa, cargo de direção intermédia de 3.º grau.
+
+5 - Os chefes e os coordenadores de equipa são nomeados pelo inspetor-geral sob proposta sustentada do diretor do centro local.
+
+- *Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 10.º — Mapa de cargos de direção
+
+Os lugares de direção superior dos 1.º e 2.º graus e de direção intermédia de 1.º, 2.º, 3.º e 4.º graus da ACT constam do mapa anexo ao presente decreto regulamentar e do qual faz parte integrante.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 11.º — Estatuto remuneratório dos chefes de equipa e coordenadores
+
+A remuneração base dos cargos de direção intermédia de 3.º e 4.º graus é determinada em percentagem da remuneração base do dirigente máximo do serviço, nas seguintes proporções:
+
+a) Aos chefes de equipa, dirigentes de 3.º grau, 60 %;
+
+b) Aos coordenadores, dirigentes de 4.º grau, 50 %.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 12.º — Participação em outras entidades
+
+Para a prossecução das suas atribuições, a ACT pode, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, participar em associações e fundações, nacionais e estrangeiras, a fim de promover a investigação nos âmbitos laboral e da segurança e saúde no trabalho.
+
+- *Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
+
+## Artigo 13.º — Efeitos revogatórios
+
+Nos termos do artigo 46.º do Decreto-Lei n.º 126-C/2011, de 29 de dezembro, considera-se revogado, na data da entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 326-B/2007, de 28 de setembro.
+
+## Artigo 14.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+## Assinatura
+
+Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
+
+Promulgado em 24 de julho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 26 de julho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo (mapa a que se refere o artigo 10.º)
+
+<table id="table001" style="text-align: justify; white-space-collapse: collapse; border-"><tbody><tr style="min-height: 26px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: middle;"><p style="text-align: center;">Cargo dirigente/qualificação do cargo</p></td><td colspan="2" style="border- border-style: solid; border-color: rgb(0, 0, 0); vertical-align: middle;"><p style="text-align: center;">Número de lugares</p></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Direção superior de 1.º grau</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p>Inspetor-geral</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="margin-left: 4px; text-align: center;">1</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Direção superior de 2.º grau</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p>Subinspetor-geral</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="margin-left: 4px; text-align: center;">2</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Cargos de direção intermédia de 1.º grau</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p>Diretor de serviços</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">31</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Cargos de direção intermédia de 2.º grau</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p>Chefe de divisão</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">12</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Cargos de direção intermédia de 3.º grau</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p>Chefe de equipa</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="margin-left: 4px; text-align: center;">5</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Cargos de direção intermédia de 4.º grau</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p>Coordenador de equipa</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="margin-left: 4px; text-align: center;">4</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); vertical-align: top;"></td></tr><tr style="min-height: 18px;"><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">Total</p></td><td style="border- border-style: solid; border-bottom-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-left-color: rgb(0, 0, 0); vertical-align: top;"><p style="text-align: center;">55</p></td></tr></tbody></table>
+
+- *Alterado pelo/a Anexo do/a [Decreto Regulamentar n.º 2/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2026-1049254413), em vigor a partir de 2026-03-01*
