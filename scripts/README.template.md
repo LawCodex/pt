@@ -53,6 +53,10 @@ approving diploma (preamble and articles) followed by the code itself (usually i
 
 {code_list}
 
+Notes: the *Novo Regime do Arrendamento Urbano* is not formally a code but is listed by the DRE
+among its codes; "Código do Trabalho - CT antigo" is the 2003 Labour Code (Lei n.º 99/2003),
+largely revoked by the 2009 Code but still flagged in force by the DRE for its surviving provisions.
+
 ## Not covered
 
 - **Non-consolidated legislation.** The DRE consolidates only a subset of the legislation in
