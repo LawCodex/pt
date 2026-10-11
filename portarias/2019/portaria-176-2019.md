@@ -1,0 +1,232 @@
+---
+title: "Portaria n.º 176/2019"
+identifier: "Portaria n.º 176/2019"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2019-06-06
+last_amended: 2024-02-19
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-853115784"
+retrieved: 2026-10-11
+designation: "Limites de renda aplicáveis no âmbito do Programa de Arrendamento Acessível"
+summary: "Regulamenta as disposições do Decreto-Lei n.º 68/2019 , de 22 de maio, relativas aos limites de renda aplicáveis no âmbito do Programa de Arrendamento Acessível"
+issuer: "Finanças e Infraestruturas e Habitação"
+series: "I"
+eli: "https://data.dre.pt/eli/port/176/2019/p/cons/20240219/pt/html"
+dre_id: 122520773
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2019/06/10900/0290402907.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 176/2019
+
+Portaria n.º 176/2019
+
+de 6 de junho
+
+Nos termos previstos na alínea b) do artigo 28.º do Decreto-Lei n.º 68/2019, de 22 de maio, o Governo deve, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação, estabelecer os limites gerais de preço de renda por tipologia e o valor de referência do preço de renda por alojamento aplicáveis no âmbito do Programa de Arrendamento Acessível, nos termos previstos na alínea a) do n.º 1 e nos n.os 2 e 3 do artigo 10.º do referido diploma.
+
+Assim:
+
+Ao abrigo do disposto na alínea a) do n.º 1 e nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, no uso de competências delegadas pelo Despacho n.º 9005/2017, publicado no Diário da República, 2.ª série, n.º 197, de 12 de outubro, e pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 3396/2019, publicado no Diário da República, 2.ª série, n.º 61, de 27 de março, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente portaria regulamenta as disposições do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, relativas aos limites de renda aplicáveis no âmbito do Programa de Apoio ao Arrendamento, estabelecendo:
+
+a) Os limites gerais de preço de renda por tipologia, previstos na alínea a) do n.º 1 do artigo 10.º;
+
+b) O valor de referência do preço de renda por alojamento para efeitos de determinação do limite específico de renda do alojamento, previsto nos n.os 2 e 3 do artigo 10.º
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/53-2024-852994097), em vigor a partir de 2024-02-20*
+
+## Artigo 2.º — Limites gerais de preço de renda por tipologia
+
+1 - Os limites gerais de preço de renda por tipologia aplicáveis no âmbito Programa de Apoio ao Arrendamento, consoante a modalidade de alojamento, são estabelecidos nos termos do anexo I à presente portaria, que dela faz parte integrante, sendo os mesmos atualizados anualmente, de acordo com o coeficiente fixado para a atualização das rendas habitacionais, arredondado à unidade euro imediatamente superior.
+
+2 - As tabelas constantes do anexo i à presente portaria podem ser objeto de atualização anual, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da habitação, com base na variação do valor mediano das rendas por metro quadrado de novos contratos de arrendamento divulgado pelo Instituto Nacional de Estatística, I. P.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/53-2024-852994097), em vigor a partir de 2024-02-20*
+
+## Artigo 3.º — Valor de referência do preço de renda por alojamento
+
+O valor de referência do preço de renda por alojamento aplicável no âmbito do Programa de Apoio ao Arrendamento é calculado de acordo com as fórmulas estabelecidas, consoante a modalidade de alojamento, nos anexos II e III à presente portaria, que dela fazem parte integrante.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 53/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/53-2024-852994097), em vigor a partir de 2024-02-20*
+
+## Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor a 1 de julho de 2019.
+
+## Assinatura
+
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 31 de maio de 2019. - A Secretária de Estado da Habitação, Ana Cláudia da Costa Pinho, em 28 de maio de 2019.
+
+## Anexo I (a que se refere o artigo 2.º)
+
+Limites gerais de preço de renda por tipologia
+
+1 - Os limites gerais de preço de renda mensal por tipologia, na modalidade habitação, aplicáveis no âmbito do Programa de Apoio ao Arrendamento são os que resultam das tabelas seguintes, em função do concelho onde se localiza o alojamento:
+
+Tabela 1 - Concelhos por escalão
+
+| Escalão | Concelhos |
+|---|---|
+|  |  |
+| E1 | Todos os concelhos não incluídos nos escalões seguintes. |
+| E2 | Alandroal; Alcobaça; Alenquer; Aljustrel; Alpiarça; Alvaiázere; Alvito; Arouca; Azambuja; Barcelos; Barrancos; Beja; Benavente; Caldas da Rainha; Calheta (Região Autónoma da Madeira); Calheta (Região Autónoma dos Açores); Câmara de Lobos; Caminha; Castanheira de Pera; Castro Verde; Chamusca; Coruche; Corvo; Cuba; Esposende; Estarreja; Ferreira do Alentejo; Figueira da Foz; Figueiró dos Vinhos; Góis; Grândola; Guimarães; Lagoa (Região Autónoma dos Açores); Lajes das Flores; Lajes do Pico; Leiria; Lourinhã; Marinha Grande; Mértola; Montemor-o-Novo; Mora; Mourão; Murtosa; Nordeste; Óbidos; Odemira; Ourém; Ourique; Ovar; Pampilhosa da Serra; Pedrógão Grande; Penacova; Penela; Peniche; Ponta Delgada; Portel; Povoação; Redondo; Salvaterra de Magos; Santa Cruz da Graciosa; Santa Cruz das Flores; Santa Maria da Feira; Santarém; São Brás de Alportel; São João da Madeira; São Roque do Pico; Serpa; Sobral de Monte Agraço; Terras de Bouro; Tomar; Trofa; Velas; Vendas Novas; Viana do Alentejo; Viana do Castelo; Vila da Praia da Vitória; Vila do Conde; Vila do Porto; Vila Franca do Campo; Vila Nova de Famalicão; Vila Real; Viseu. |
+| E3 | Alcochete; Alcoutim; Aljezur; Arruda dos Vinhos; Aveiro; Braga; Castro Marim; Coimbra; Espinho; Évora; Faro; Gondomar; Ílhavo; Lagoa; Machico; Madalena; Mafra; Maia; Moita; Monchique; Montijo; Nazaré; Olhão; Palmela; Ponta do Sol; Porto Moniz; Porto Santo; Póvoa de Varzim; Ribeira Brava; Santa Cruz; Santana; Santiago do Cacém; São Vicente (Madeira); Sesimbra; Setúbal; Silves; Torres Vedras; Valongo; Vila do Bispo; Vila Franca de Xira; Vila Nova de Gaia. |
+| E4 | Albufeira; Almada; Amadora; Barreiro; Funchal; Lagos; Loulé; Loures; Matosinhos; Odivelas; Portimão; Seixal; Sines; Sintra; Tavira; Vila Real de Santo António. |
+| E5 | Cascais, Oeiras, Porto. |
+| E6 | Lisboa. |
+
+Tabela 2 - Limites gerais de preço de renda mensal por tipologia, em euros, por escalão
+
+(ver documento original)
+
+2 - O limite geral de preço de renda mensal de uma parte de habitação corresponde a 55 % do limite geral do preço de renda mensal aplicável à tipologia T0 para o concelho onde se localiza o alojamento.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 53/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/53-2024-852994097), em vigor a partir de 2024-02-20*
+
+## Anexo II (a que se refere o artigo 3.º)
+
+Fórmula de cálculo do valor de referência do preço de renda da habitação
+
+1 - O valor de referência do preço de renda mensal aplicável a uma habitação no âmbito do Programa de Apoio ao Arrendamento resulta da seguinte expressão:
+
+Vref(índice h) = A x Ce x Cq x Varr
+
+em que:
+
+Vref(índice h) - Valor de referência do preço de renda da habitação;
+
+A - Área bruta de construção mais a área excedente à área de implantação, nos termos do n.º 2;
+
+Ce - Coeficiente do certificado energético, nos termos do n.º 5;
+
+Cq - Coeficiente de qualidade e conforto, nos termos do n.º 6;
+
+Varr - Valor mediano das rendas por metro quadrado de novos contratos de arrendamento no território onde se localiza o alojamento, nos termos do n.º 8;
+
+2 - A área bruta de construção mais a área excedente à área de implantação resulta da seguinte expressão:
+
+A = (Aa + Ab) x Caj + Ac + Ad
+
+em que:
+
+Aa - Área bruta privativa;
+
+Ab - Áreas brutas dependentes;
+
+Caj - Coeficiente de ajustamento de áreas;
+
+Ac - Área de terreno livre até ao limite de duas vezes a área de implantação;
+
+Ad - Área de terreno livre que excede o limite de duas vezes a área de implantação.
+
+3 - Os tipos de áreas referidos no número anterior e a sua fórmula de cálculo correspondem ao estabelecido no artigo 40.º do anexo i do Decreto-Lei n.º 287/2003, de 12 de novembro, na sua redação atual.
+
+4 - O coeficiente de ajustamento de áreas (Caj) referido no n.º 2 é calculado com base na soma da área bruta privativa (Aa) e das áreas brutas dependentes (Ab), resultando da seguinte expressão:
+
+(ver documento original)
+
+5 - O coeficiente do certificado energético (Ce) é determinado pela classe constante do Certificado Energético da habitação em questão, segundo a tabela seguinte:
+
+(ver documento original)
+
+6 - O coeficiente de qualidade e conforto (Cq) obtém-se adicionando ou subtraindo à unidade os coeficientes seguintes:
+
+Tipo de edifício:
+
+Apartamento - 0,00
+
+Moradia unifamiliar - +0,09
+
+Piso (no caso de apartamento):
+
+Piso elevado - +0,02
+
+Rés-do-chão - 0,00
+
+Cave - -0,03
+
+Acesso (no caso de apartamento):
+
+Com elevador ou R/C - +0,02
+
+1.º Andar ou cave sem elevador - +0,01
+
+2.º Andar sem elevador - 0,00
+
+3.º Andar sem elevador - -0,01
+
+4.º Andar ou superior sem elevador - -0,03
+
+Estacionamento:
+
+Sem estacionamento - 0,00
+
+Coletivo - +0,03
+
+Individual - +0,04
+
+Equipamentos de cozinha:
+
+Habitação sem cozinha equipada - 0,00
+
+Habitação com cozinha equipada - +0,03
+
+Mobiliário:
+
+Habitação não mobilada - 0,00
+
+Habitação mobilada - +0,03
+
+Estado de conservação:
+
+Primeira utilização - +0,04
+
+Bom - +0,02
+
+Satisfatório - 0,00
+
+7 - Para efeitos de aplicação da tabela referida no número anterior considera-se:
+
+a) «Habitação com cozinha equipada», uma habitação com, pelo menos, fogão, frigorífico e esquentador/cilindro;
+
+b) «Habitação mobilada», uma habitação com, pelo menos, camas, colchões, roupeiros, mesa de refeições e cadeiras para o número mínimo de ocupantes, bem como um sofá ou cadeirão;
+
+c) «Primeira utilização», habitação nova ou que vai ser objeto da primeira utilização após uma reabilitação da qual resulta a ausência de anomalias aparentes;
+
+d) Estado de conservação «Bom», habitação sem anomalias ou com anomalias pontuais que apenas prejudicam o aspeto;
+
+e) Estado de conservação «Satisfatório», habitação com anomalias extensas que apenas prejudicam o aspeto ou anomalias pontuais que prejudicam o uso.
+
+f) Aos demais conceitos dos coeficientes de qualidade e conforto (Cq) previstos no número anterior aplica-se o disposto no Decreto-Lei n.º 287/2003, de 12 de novembro, na sua redação atual, que aprova o Código do Imposto Municipal sobre Imóveis.
+
+8 - O valor mediano das rendas por metro quadrado corresponde ao último valor divulgado pelo Instituto Nacional de Estatística, I. P., para a unidade territorial de menor escala disponível em que se localiza o alojamento (freguesia, concelho ou NUTS III).
+
+- *Alterado pelo/a Artigo 4.º do/a [Portaria n.º 53/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/53-2024-852994097), em vigor a partir de 2024-02-20*
+
+## Anexo III (a que se refere o artigo 3.º)
+
+Fórmula de cálculo do valor de referência do preço de renda de partes de habitação
+
+O valor de referência do preço de renda mensal de uma parte de habitação, aplicável no âmbito do Programa de Arrendamento Acessível, resulta da seguinte expressão:
+
+Vref(índice ph) = Vref(índice h) x Auq/Aut
+
+em que:
+
+Vref(índice ph) -Valor de referência do preço de renda da parte de habitação;
+
+Vref(índice h) - Valor de referência do preço de renda da habitação;
+
+Auq - Área útil do quarto integrante da parte de habitação em causa, majorada em 25 % caso tenha instalação sanitária privativa;
+
+Aut - Área útil do total dos quartos da habitação.
+
+112357428

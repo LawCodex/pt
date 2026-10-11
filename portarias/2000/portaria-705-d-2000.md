@@ -1,0 +1,375 @@
+---
+title: "Portaria n.º 705-D/2000"
+identifier: "Portaria n.º 705-D/2000"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2000-09-01
+last_amended: 2025-03-25
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-184384889"
+retrieved: 2026-10-11
+designation: "Regulamento do Concurso Local para a Matrícula e Inscrição no Curso Bietápico de Licenciatura em Teatro e Educação Ministrado pela Escola Superior de Educação de Coimbra"
+summary: "Aprova o Regulamento do Concurso Local para a Matrícula e Inscrição no Curso Bietápico de Licenciatura em Teatro e Educação Ministrado pela Escola Superior de Educação de Coimbra"
+issuer: "Ministério da Educação"
+series: "I"
+eli: "https://data.dre.pt/eli/port/705-d/2000/p/cons/20250325/pt/html"
+dre_id: 643695
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2000/09/202b03/00080010.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 705-D/2000
+
+Portaria n.º 705-D/2000
+
+de 1 de Setembro
+
+Sob proposta do Instituto Politécnico de Coimbra e da sua Escola Superior de Educação;
+
+Ouvida a Comissão Nacional de Acesso ao Ensino Superior;
+
+Considerando que as características do curso bietápico de licenciatura em Teatro e Educação ministrado pela Escola Superior de Educação de Coimbra justificam que a candidatura à matrícula e inscrição no mesmo se realize através de concurso local;
+
+Ao abrigo do disposto no n.º 3 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelo Decreto-Lei n.º 99/99, de 30 de Março:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+## 1.º — Autorização para a realização de concurso local
+
+É autorizada a candidatura à matrícula e inscrição no curso bietápico de licenciatura em Teatro e Educação ministrado pela Escola Superior de Educação de Coimbra através de concurso local.
+
+## 2.º — Aprovação do Regulamento
+
+1 - É aprovado o Regulamento do Concurso Local para a Matrícula e Inscrição no Curso Bietápico de Licenciatura em Teatro e Educação Ministrado pela Escola Superior de Educação de Coimbra, cujo texto se publica em anexo a esta portaria.
+
+2 - O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.
+
+## 3.º — Alterações ao Regulamento
+
+Todas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.
+
+## 4.º — Aplicação
+
+O disposto na presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano lectivo de 2000-2001 inclusive.
+
+## 5.º — Entrada em vigor
+
+Esta portaria entra em vigor no dia imediato ao da sua publicação.
+
+## Assinatura
+
+Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 1 de Setembro de 2000.
+
+## Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CURSO BIETÁPICO DE LICENCIATURA EM TEATRO E EDUCAÇÃO MINISTRADO PELA ESCOLA SUPERIOR DE EDUCAÇÃO DE COIMBRA
+
+### Artigo 1.º — Objecto e âmbito
+
+O presente Regulamento disciplina o concurso local para a matrícula e a inscrição no curso de licenciatura em Teatro e Educação, ministrado pela Escola Superior de Educação do Instituto Politécnico de Coimbra, adiante designados como ESEC e IPC.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 2.º — Avaliação da capacidade para a frequência
+
+1 - A avaliação da capacidade para a frequência do curso é efetuada através da realização das provas de ingresso e de uma prova de aptidão vocacional específica.
+
+2 - As provas de ingresso são fixadas nos termos do artigo 20.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.
+
+3 - A prova de aptidão vocacional específica compreende as seguintes componentes:
+
+A - Improvisação a partir de temas sugeridos pelo júri, visando avaliar a capacidade do candidato para responder, sem preparação prévia, a propostas de jogo teatral, a sua capacidade de relacionamento com os outros, com o espaço e com os objetos, a imaginação, a capacidade de transformar o real em ficção;
+
+B - Apresentação de uma cena dialogada (diálogo), selecionada pelo júri, visando avaliar a forma como o candidato aborda a personagem, o domínio do texto, a sua capacidade vocal, a expressividade corporal, a verdade interior e a contracena;
+
+C - Apresentação de um monólogo, selecionado pelo júri, visando avaliar a forma como o candidato aborda a personagem, o domínio do texto, a capacidade vocal, a expressividade corporal e a verdade interior;
+
+D - Entrevista em que será avaliada a cultura teatral do candidato a partir de questões dramatúrgicas suscitadas quer pelo(s) texto(s) selecionado(s) pelo júri para a prova prática quer pela restante bibliografia recomendada.
+
+4 - Os domínios sobre os quais incidem as provas serão divulgados em edital a que se refere o artigo 11.º
+
+5 - Os resultados das provas exprimem-se através de uma classificação na escala inteira de 0 a 200 pontos.
+
+6 - O resultado da prova de aptidão vocacional específica é expresso em:
+
+a) Não apto; ou
+
+b) Apto, com uma classificação inteira no intervalo 100-200 pontos.
+
+7 - O idioma falado na prova específica é o português.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 2.º-A — Classificação final da prova de aptidão vocacional específica
+
+O resultado da avaliação de capacidade para a frequência do curso é o resultante do cálculo da seguinte expressão, arredondada às unidades, considerando como unidade a fração não inferior a cinco décimas:
+
+Prova de aptidão vocacional específica = (A + B + C + D)/4
+
+em que:
+
+A = Improvisação;
+
+B = Diálogo;
+
+C = Monólogo;
+
+D = Entrevista.
+
+- *Aditado pelo/a Artigo 3.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 3.º — Validade das provas
+
+A prova de aptidão vocacional específica é válida apenas para a candidatura à matrícula e à inscrição no ano em que se realiza.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26*
+
+### Artigo 4.º — Condições para a candidatura
+
+1 - Podem apresentar-se a concurso os candidatos que reúnam as seguintes condições:
+
+a) Sejam titulares de um curso do ensino secundário ou de habilitação legalmente equivalente;
+
+b) Tenham realizado, com classificação não inferior a 9,5 valores em cada prova, um dos seguintes conjuntos das provas de ingresso ao ensino superior: (12) História da Cultura e das Artes + (18) Português, (11) História + (18) Português, (03) Desenho + (18) Português, (16) Matemática + (18) Português, (06) Filosofia + (18) Português, (10) Geometria Descritiva + (15) Literatura Portuguesa;
+
+c) Tenham sido considerados Aptos na prova de aptidão vocacional específica.
+
+2 - Excluem-se do disposto no número anterior os titulares de outros cursos superiores, os titulares das provas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos, os titulares de diploma de especialização tecnológica, os titulares de diploma de técnico superior profissional e os titulares de dupla certificação do ensino secundário e cursos artísticos especializados, cujas condições de candidatura se regem pelos regulamentos próprios dos respetivos regimes.
+
+3 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se refere o número anterior, já tenham estado, ou estejam, legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.
+
+4 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 5.º — Vagas
+
+A matrícula e inscrição no curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 6.º — Local e prazo de apresentação da candidatura
+
+1 - A candidatura é apresentada online na plataforma académica da ESEC.
+
+2 - O prazo para a realização da candidatura é fixado nos termos do artigo 11.º do presente Regulamento.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 7.º — Apresentação da candidatura
+
+Têm legitimidade para efectuar a apresentação da candidatura:
+
+a) O estudante;
+
+b) Um seu procurador bastante;
+
+c) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 8.º — Instrução do processo de candidatura
+
+1 - O processo de candidatura é instruído com:
+
+a) Requerimento de candidatura, apresentado online na plataforma académica da ESEC;
+
+b) Certificado comprovativo da titularidade da habilitação de acesso com que se candidata (ficha ENES);
+
+c) Apresentação de documento de identificação do candidato;
+
+d) Outros documentos eventualmente referidos no edital a que se refere o artigo 11.º
+
+2 - O certificado referido na alínea b) do n.º 1 pode ser temporariamente substituído por declaração do candidato, comprometendo-se a apresentá-lo até cinco dias úteis antes da data marcada para a publicação do aviso com os resultados finais do concurso, sob pena de indeferimento liminar do pedido.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 9.º — Indeferimento liminar
+
+1 - São liminarmente indeferidos os requerimentos dos candidatos que, embora reunindo as condições necessárias à candidatura ao curso, se encontrem numa das seguintes condições:
+
+a) Não estejam corretamente formulados nos termos do artigo anterior;
+
+b) Sejam apresentados fora de prazo;
+
+c) Não estejam acompanhados da documentação necessária à sua completa instrução;
+
+d) Expressamente infrinjam alguma das regras fixadas no presente Regulamento.
+
+2 - O indeferimento liminar nos termos do número anterior é da competência do presidente da ESEC e deve ser fundamentado.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 10.º — Júri da prova de aptidão vocacional específica
+
+1 - A organização da prova de aptidão vocacional específica é da competência de um júri designado pelo presidente da ESEC, ouvido o Conselho Técnico-Científico.
+
+2 - O júri da prova de aptidão vocacional específica será constituído por docentes da licenciatura em Teatro e Educação da área disciplinar de Teatro, em número mínimo de três elementos, e por dois docentes desta licenciatura de unidades curriculares das áreas de Corpo e Voz, sendo o presidente do júri nomeado pelo presidente da ESEC.
+
+3 - Compete ao júri, nomeadamente:
+
+a) Fixar os conteúdos da prova;
+
+b) Fixar os critérios de avaliação a adotar;
+
+c) Garantir a normal execução das provas.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 11.º — Edital
+
+1 - Até 30 dias antes da realização da prova de aptidão vocacional específica, o presidente da ESEC promoverá a divulgação de edital indicando, designadamente:
+
+a) O prazo para a realização da inscrição na prova vocacional;
+
+b) Os domínios sobre os quais incidirá a prova;
+
+c) Os critérios de avaliação a adotar;
+
+d) O prazo para a realização da candidatura ao concurso local;
+
+e) As classificações mínimas a que se refere o artigo 12.º;
+
+f) Os fatores de seriação a que se refere o artigo 13.º
+
+2 - O edital referido no número anterior será divulgado na página web da ESEC e/ou em outros locais ou suportes eletrónicos julgados convenientes, em conformidade com as normas vigentes.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 12.º — Selecção
+
+1 - A selecção dos candidatos ao curso é realizada com base:
+
+a) Nas provas de ingresso ao ensino superior, onde deve ser obtida uma classificação mínima (igual ou superior a 95 pontos);
+
+b) Na prova de aptidão vocacional específica, onde deve ser obtido o resultado de Apto, conforme o previsto na alínea b) do n.º 6 do artigo 2.º do presente Regulamento;
+
+c) Na classificação final da prova de aptidão vocacional específica a que se refere o artigo 2.º-A, onde deve ser obtido um resultado mínimo de 100 pontos;
+
+d) Na classificação do ensino secundário.
+
+2 - As classificações mínimas a que se referem as alíneas a) e c) do número anterior são fixadas nos termos do artigo 25.º do Decreto-Lei n.º 296-A/98.
+
+3 - A divulgação pública da seleção será feita nos prazos fixados nos termos do artigo 23.º do presente Regulamento, em lista afixada na plataforma ESEC, conforme definido no n.º 2 do artigo 18.º
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 13.º — Seriação
+
+1 - A seriação dos candidatos à matrícula e inscrição no curso é realizada com base numa nota de candidatura.
+
+2 - A nota de candidatura é a média das classificações obtidas na prova de aptidão vocacional específica, nas provas de ingresso e na classificação final do ensino secundário, ponderadas da seguinte forma:
+
+[(4 × E) + I + S]/6
+
+em que:
+
+E = Classificação final da prova de aptidão vocacional específica a que se refere o artigo 2.º-A;
+
+I = Classificação final das provas de ingresso ao ensino superior com que se candidata, a que se refere a alínea b) do n.º 1 do artigo 4.º;
+
+S = Classificação final do ensino secundário.
+
+3 - As classificações referidas no número anterior devem ser consideradas numa escala de 0 a 200 pontos, para o que, caso necessário, devem efetuar-se as devidas conversões.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2025/1 - Diário da República n.º 59/2025, Série I de 2025-03-25](https://diariodarepublica.pt/dr/detalhe/portaria/129-2025-912256343), em vigor a partir de 2025-03-26*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 14.º — Colocação
+
+A colocação dos candidatos nas vagas fixadas é feita pela ordem numérica decrescente da lista seriada elaborada nos termos do artigo anterior.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 15.º — Desempate
+
+Sempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 13.º, disputem a última vaga ou o último conjunto de vagas do curso, são abertas tantas vagas adicionais quanto as necessárias para os admitir.
+
+### Artigo 16.º — Competência
+
+As decisões sobre a candidatura a que se refere o presente Regulamento são da competência do presidente da ESEC.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 17.º — Resultado final
+
+O resultado final exprime-se através de uma das seguintes situações:
+
+a) Colocado;
+
+b) Não colocado;
+
+c) Excluído.
+
+### Artigo 18.º — Comunicação da decisão
+
+1 - O resultado final é tornado público na plataforma da ESEC no prazo previamente fixado nos termos do artigo 23.º do presente Regulamento.
+
+2 - Das listas afixadas constam, relativamente a cada estudante que se tenha apresentado a concurso:
+
+a) Nome;
+
+b) Número e local de emissão do bilhete de identidade;
+
+c) Nota de candidatura a que se refere o artigo 13.º;
+
+d) Resultado final.
+
+3 - A menção da situação de excluído carece de ser acompanhada da respectiva fundamentação legal.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 19.º — Reclamações
+
+1 - Os candidatos podem apresentar reclamação fundamentada relativamente:
+
+a) A qualquer dos momentos de avaliação no âmbito da realização da prova de aptidão vocacional específica;
+
+b) À classificação final obtida no âmbito do processo de seleção e seriação do concurso local de acesso.
+
+2 - Do desenrolar da prova de aptidão específica e conforme descrito na alínea a) no número anterior, podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 23.º, mediante exposição dirigida ao júri das provas do concurso local de acesso.
+
+3 - A reclamação é submetida na plataforma académica, por requerimento.
+
+4 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.
+
+5 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através da plataforma académica.
+
+6 - Ao procedimento relativo à apresentação e decisão de reclamações é aplicável o regime do Código do Procedimento Administrativo.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 20.º — Matrícula e inscrição
+
+1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 23.º
+
+2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado.
+
+### Artigo 21.º — Exclusão de candidatos
+
+1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
+
+a) Prestem falsas declarações;
+
+b) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.
+
+2 - A decisão a que se refere o número anterior é da competência do presidente da ESEC.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 22.º — Comunicação à Direção-Geral do Ensino Superior
+
+Findo o prazo de matrícula e inscrição, a ESEC/IPC enviará à Direção-Geral do Ensino Superior uma lista onde constem todos os estudantes que procederam à mesma, com indicação do nome e número do documento de identificação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*
+
+### Artigo 23.º — Prazos
+
+Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da ESEC em edital, devendo ser tornados públicos de acordo com os procedimentos e normas em uso.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155/2022 - Diário da República n.º 108/2022, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-2022-184356509), em vigor a partir de 2022-06-04*

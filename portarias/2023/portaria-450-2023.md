@@ -1,0 +1,648 @@
+---
+title: "Portaria n.º 450/2023"
+identifier: "Portaria n.º 450/2023"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2023-12-22
+last_amended: 2025-04-21
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-912257061"
+retrieved: 2026-10-11
+designation: "Regime de organização, funcionamento e instalação das casas de acolhimento para crianças e jovens"
+summary: "Estabelece o regime de organização, funcionamento e instalação das casas de acolhimento para crianças e jovens"
+issuer: "Trabalho, Solidariedade e Segurança Social"
+series: "I"
+eli: "https://data.dre.pt/eli/port/450/2023/p/cons/20250421/pt/html"
+dre_id: 812826259
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2023/12/24600/0004600064.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 450/2023
+
+Portaria n.º 450/2023
+
+de 22 de dezembro
+
+Sumário: Estabelece o regime de organização, funcionamento e instalação das casas de acolhimento para crianças e jovens.
+
+O Decreto-Lei n.º 164/2019, de 25 de outubro, estabelece o regime de execução do acolhimento residencial, medida de promoção dos direitos e de proteção das crianças e jovens em perigo prevista na alínea f) do n.º 1 do artigo 35.º e no artigo 49.º da Lei de Proteção de Crianças e Jovens em Perigo (LPCJP), aprovada pela Lei n.º 147/99, de 1 de setembro, na sua redação atual.
+
+Este diploma determina, no n.º 3 do artigo 6.º, que o regime de organização e funcionamento das casas de acolhimento é objeto de regulamentação por portaria do membro do Governo responsável pela área da solidariedade e segurança social, o que se faz através do presente diploma.
+
+Foram ouvidas a Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens, a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a Confederação Portuguesa Cooperativa.
+
+Assim:
+
+Ao abrigo do disposto no artigo 34.º do Decreto-Lei n.º 164/2019, de 25 de outubro, e do artigo 5.º do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+## Capítulo I — Disposições gerais
+
+### Artigo 1.º — Objeto
+
+1 - A presente portaria estabelece o regime de organização, funcionamento e instalação das casas de acolhimento para crianças e jovens a quem sejam aplicadas as medidas de promoção e proteção de acolhimento residencial ou de confiança a instituição com vista a adoção, previstas nas alíneas f) e g) do n.º 1 do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo (LPCJP), aprovada pela Lei n.º 147/99, de 1 de setembro, na sua redação atual.
+
+2 - A presente portaria estabelece ainda o modelo de comparticipação financeira mensal da segurança social, por criança ou jovem.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Artigo 2.º — Âmbito de aplicação
+
+1 - As disposições constantes na presente portaria aplicam-se às instituições particulares de solidariedade social, ou equiparadas, que disponham ou venham a dispor de casas de colhimento, mediante acordos de cooperação celebrados com o Instituto da Segurança Social, I. P. (ISS, I. P.)
+
+2 - O disposto na presente portaria aplica-se, com as necessárias adaptações, decorrentes da respetiva natureza, atribuições e competências, à Santa Casa da Misericórdia de Lisboa (SCML), à Casa Pia de Lisboa, I. P. (CPL, I. P.), e ao ISS, I. P.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+## Capítulo II — Casas de acolhimento
+
+### Secção I — Finalidades e destinatários
+
+#### Artigo 3.º — Finalidades
+
+1 - As casas de acolhimento têm por finalidades a concretização do projeto de vida das crianças e jovens, a sua proteção e a promoção dos seus direitos.
+
+2 - As finalidades das casas de acolhimento são prosseguidas através da adoção de metodologias de intervenção individualizada que tenham em consideração a satisfação das necessidades específicas de cada criança e jovem, incluindo a prestação dos cuidados adequados em função da idade e características particulares.
+
+#### Artigo 4.º — Destinatários
+
+1 - As casas de acolhimento destinam-se a acolher, proteger e cuidar as crianças e jovens a quem são aplicadas medidas de promoção e proteção de acolhimento residencial ou de confiança a instituição com vista a adoção.
+
+2 - As casas de acolhimento acolhem crianças e jovens com menos de 18 anos ou com menos de 21 anos desde que solicitada a continuação da intervenção iniciada antes de atingir os 18 anos e acolhem ainda jovens até aos 25 anos sempre que existam, e apenas enquanto durem, processos educativos ou de formação profissional, nos termos da Lei de Proteção de Crianças e Jovens em Risco.
+
+3 - Nas situações de acolhimento residencial de irmãos ou de crianças ou jovens que vivam em comunhão de mesa e habitação, prevalece o princípio da não separação e preservação de vínculos fraternos, assegurando a colocação na mesma casa de acolhimento, salvo decisão judicial em contrário.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Secção II — Caracterização das casas de acolhimento
+
+#### Artigo 5.º — Casas de acolhimento
+
+1 - As casas de acolhimento asseguram uma resposta a situações que impliquem a retirada da criança ou jovem da situação do perigo em que se encontra, designadamente nas situações previstas no n.º 2 do artigo 3.º da LPCJP, devendo garantir a adequada satisfação de necessidades físicas, psíquicas, emocionais e sociais das crianças e jovens e o exercício dos seus direitos, favorecendo a sua integração em contexto sociofamiliar seguro e promovendo a sua educação, bem-estar e desenvolvimento integral, sem qualquer discriminação.
+
+2 - As casas de acolhimento organizam-se por unidades, podendo coexistir unidades residenciais e unidades residenciais especializadas, previstas no número seguinte.
+
+3 - Constituem unidades residenciais especializadas:
+
+a) Unidades para resposta a situações de emergência;
+
+b) Unidades de apoio e promoção de autonomia dos jovens, nomeadamente apartamentos de autonomização.
+
+4 - As casas de acolhimento, independentemente das unidades que as integrem, acolhem de forma planeada e urgente, de acordo com as vagas que possuem.
+
+5 - Independentemente da existência de unidades especializadas para resposta a situações de emergência, todas as casas de acolhimento devem assegurar, pelo menos, uma vaga disponível para situações de emergência.
+
+6 - Em momento prévio à integração da criança ou jovem deve ser garantida uma avaliação técnica da sua situação, sendo a criança ou jovem integrado na unidade residencial ou unidade residencial especializada que melhor corresponda ao diagnóstico efetuado, atendendo-se, sempre que possível, à proximidade geográfica do seu contexto familiar.
+
+7 - Durante o acolhimento, a criança ou o jovem deve permanecer na mesma unidade residencial, salvo quando o seu interesse superior o desaconselhe ou em caso de decisão judicial em contrário.
+
+8 - Para além das casas de acolhimento e das situações previstas no n.º 3 do artigo 50.º da LPCJP, podem ser instituídas unidades específicas para responder a problemáticas com necessidade de intervenção terapêutica, nos termos do artigo 10.º-A.
+
+9 - O ISS, I. P., gere as vagas necessárias em cada momento e efetua o seu planeamento a nível nacional.
+
+10 - No distrito de Lisboa, o planeamento e gestão de vagas referido no número anterior é assegurado em conjunto pelo ISS, I. P., pela SCML e pela CPL, I. P.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 6.º — Unidades residenciais das casas de acolhimento
+
+1 - As unidades residenciais acolhem, preferencialmente, até 15 crianças ou jovens, garantindo a satisfação das suas necessidades num ambiente que favoreça uma relação afetiva de qualidade, a integração na comunidade e a promoção da sua autonomia.
+
+2 - As unidades residenciais devem assegurar os direitos da criança e do jovem nos termos previstos no artigo 21.º do Decreto-Lei n.º 164/2019, de 25 de outubro.
+
+3 - Devem ainda ser asseguradas:
+
+a) As condições que promovam a participação, intervenção e decisão da criança ou do jovem sobre as matérias que lhe digam respeito, em função da sua idade e maturidade;
+
+b) A preservação e salvaguarda da continuidade das relações afetivas, envolvendo familiares ou outras figuras de referência na vida da criança ou do jovem, salvo decisão judicial em contrário;
+
+c) A promoção da participação e capacitação da família para a assunção das suas responsabilidades parentais, salvo decisão judicial em contrário;
+
+d) Os meios necessários à educação e formação da criança ou do jovem, tendo particular atenção à orientação vocacional e ao contexto educativo;
+
+e) A realização das diligências necessárias à promoção do acesso da criança ou do jovem aos serviços essenciais previstos na Garantia para a Infância;
+
+f) A proteção contra qualquer forma de maus-tratos ou abuso por parte de outras crianças ou jovens ou de adultos cuidadores.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 7.º — Unidades para resposta a situações de emergência
+
+1 - As unidades para resposta a situações de emergência acolhem crianças e jovens com necessidade de acolhimento urgente e imediato nos termos do n.º 4 do artigo 51.º e do artigo 91.º da LPCJP.
+
+2 - Sem prejuízo do número anterior, o acolhimento de emergência pode ser realizado em qualquer unidade residencial, nos termos previstos no n.º 5 do artigo 51.º da LPCJP.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 8.º — Unidades para resposta a problemáticas específicas
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+#### Artigo 9.º — Unidades de apoio e promoção de autonomia
+
+As unidades de apoio e promoção de autonomia podem acolher até sete jovens, com 15 ou mais anos de idade, com projeto de promoção e proteção de autonomização para preparação para a vida ativa, de forma autónoma.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 10.º — Apartamento de autonomização
+
+1 - O apartamento de autonomização é uma unidade de apoio e promoção de autonomia que acolhe jovens com 15 ou mais anos de idade, com acordo de promoção e proteção, dando continuidade ao seu projeto de vida, ou mediante decisão judicial que determine ser esta a resposta mais adequada à situação específica do jovem.
+
+2 - O apartamento de autonomização acolhe, no máximo, sete jovens.
+
+3 - O apartamento de autonomização é um espaço habitacional unifamiliar integrado na comunidade e destina-se aos jovens que revelem a maturidade e as competências necessárias para uma vida independente e autónoma, desde que apoiada no quadro das suas necessidades específicas.
+
+4 - O apartamento de autonomização garante aos jovens as condições que permitem a transição gradual para uma vida autónoma, nomeadamente:
+
+a) O desenvolvimento de competências socioemocionais;
+
+b) A gestão responsável da sua vida diária;
+
+c) O envolvimento da família e de outras figuras de referência no processo de aquisição de competências de autonomia, salvo decisão judicial em contrário;
+
+d) A criação de redes de referência e pertença que garantam a continuidade do apoio e segurança;
+
+e) A integração em estrutura de ensino, de formação profissional ou de emprego;
+
+f) (Revogada.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 10.º-A — Unidades específicas para resposta a problemáticas que exigem intervenção terapêutica
+
+1 - Para além das casas de acolhimento, e das situações previstas no n.º 3 do artigo 50.º da LPCJP, podem ser instituídas unidades específicas para responder a problemáticas que exigem intervenção terapêutica, designadamente nos casos de deficiência profunda, doença crónica grave, perturbação psiquiátrica ou comportamentos aditivos, garantindo os cuidados adequados às crianças e jovens, no âmbito da execução da medida de promoção e proteção.
+
+2 - O regime aplicável às unidades referidas no número anterior é regulamentado conjuntamente pelas áreas governativas da segurança social e inclusão, da saúde e, quando necessário, da educação, no prazo de 120 dias sobre a entrada em vigor da presente portaria.
+
+- *Aditado pelo/a Artigo 3.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Secção III — Intervenção
+
+#### Artigo 11.º — Modelo de intervenção de referência
+
+1 - A intervenção nas casas de acolhimento deve centrar-se na definição e concretização do projeto de vida da criança ou do jovem, atendendo à sua situação e especificidades, à promoção dos seus direitos e à satisfação das suas necessidades.
+
+2 - (Revogado.)
+
+3 - Cada unidade residencial, atenta a natureza e especificidades das crianças e jovens que acolhe, define o seu modelo de intervenção psicossocial, indicando os programas gerais e específicos que adota, assim como os instrumentos, procedimentos e práticas de avaliação e de acompanhamento técnico.
+
+4 - Do modelo de intervenção psicossocial devem constar, designadamente:
+
+a) Práticas de admissão, vivência e integração no acolhimento;
+
+b) Estratégias de promoção e proteção das crianças e jovens que devem envolver outras entidades com competência em matéria de infância e juventude, vocacionadas para a prevenção de situações de risco psicossocial ou especializadas em problemáticas específicas, designadamente de saúde mental;
+
+c) Programas de preparação da criança ou do jovem para a reunificação e integração familiar, ou para a adoção, ou para a autonomia de vida.
+
+5 - O modelo de intervenção deve constar de documento escrito e ser disponibilizado para efeitos da supervisão prevista na presente portaria.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+## Capítulo III — Organização e funcionamento
+
+### Secção I — Equipas das casas de acolhimento
+
+#### Artigo 12.º — Equipas
+
+1 - As casas de acolhimento dispõem de equipas de profissionais devidamente habilitados e qualificados, que garantem a proteção e os cuidados necessários às crianças e jovens.
+
+2 - Cada casa de acolhimento dispõe, de acordo com o estabelecido no n.º 1 do artigo 54.º da LPCJP, de equipa técnica, equipa educativa e equipa de apoio.
+
+3 - Nas unidades residenciais, as equipas devem ser constituídas, no mínimo, por:
+
+a) Equipa técnica: três profissionais, um dos quais com funções de direção técnica;
+
+b) Equipa educativa: dez profissionais;
+
+c) Equipa de apoio: dois profissionais.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - A composição da equipa das unidades de apoio e promoção da autonomia, bem como os respetivos tempos de afetação, são aprovados pelo ISS, I. P., sob proposta da instituição, em função do número de jovens que acolhem e respetivas problemáticas, adotando como referencial mínimo dois profissionais, e um único diretor técnico.
+
+7 - Quando a casa de acolhimento integrar mais do que uma unidade residencial, pode um diretor técnico assegurar a direção de todas as respostas.
+
+8 - (Revogado.)
+
+9 - A equipa de apoio e a equipa educativa podem ser partilhadas com outras unidades ou equipamentos da casa de acolhimento, nas situações em que a proximidade das mesmas o justifique.
+
+10 - Nas casas de acolhimento em que a idade dos jovens o permita, a equipa de apoio e a respetiva afetação pode ser reduzida ou eliminada, privilegiando-se a preparação para a autonomia dos jovens através de equipa educativa competente para o efeito.
+
+11 - As casas de acolhimento podem integrar voluntários nas suas equipas, nos termos da legislação aplicável, mediante apresentação de certificado de registo criminal, nos termos do previsto no n.º 1 do artigo 2.º da Lei n.º 113/2009, de 17 de setembro, e consulta ao sistema de registo de identificação criminal de condenados pela prática de crimes contra a autodeterminação sexual e a liberdade sexual de menor, prevista na Lei n.º 103/2015, de 24 de agosto.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 13.º — Equipa técnica e diretor técnico
+
+1 - A equipa técnica é pluridisciplinar e constituída por profissionais com formação superior, devendo incluir, pelo menos, um psicólogo ou um técnico de serviço social.
+
+2 - Compete à equipa técnica, designadamente:
+
+a) Garantir, previamente ao acolhimento da criança ou do jovem, a articulação com a equipa de gestão de vagas e, com o técnico gestor do processo de promoção e proteção, com o envolvimento da criança ou jovem e sua família, tendo em vista o sucesso do seu acolhimento e integração;
+
+b) Definir, executar, monitorizar e avaliar o projeto de promoção e proteção e o plano de intervenção da criança ou jovem, de harmonia com o estabelecido no acordo de promoção e proteção ou na decisão judicial, em estreita articulação com o técnico gestor do processo de promoção e proteção;
+
+c) Preparar a criança ou o jovem para as fases de execução da medida, em função da sua idade e capacidade para compreender o sentido da intervenção;
+
+d) Preparar e sensibilizar a família para o cumprimento do plano de intervenção, sem prejuízo das limitações decorrentes da decisão judicial ou do acordo de promoção e proteção;
+
+e) Gerir e intervir nos momentos de interação entre a família e a criança ou jovem;
+
+f) Manter atualizado o diagnóstico da situação individual e sociofamiliar da criança ou do jovem;
+
+g) Elaborar, em articulação com o técnico gestor do processo de promoção e proteção, informações e relatórios sobre o desenvolvimento físico e psicológico da criança ou jovem, o seu aproveitamento escolar e a progressão em outras áreas de aprendizagem, bem como sobre a adequação da medida aplicada e a previsibilidade do regresso a meio natural de vida;
+
+h) Organizar e manter atualizado o processo individual de cada criança ou jovem;
+
+i) Manter o regulamento interno atualizado;
+
+j) Manter-se disponível para, em articulação com os serviços das entidades competentes em matéria de infância e juventude, apoiar a criança ou o jovem após a cessação da medida de promoção e proteção, se assim se revelar necessário, nos termos do n.º 3 do artigo 19.º do Decreto-Lei n.º 164/2019, de 25 de outubro, no respeito pelos princípios consignados na LPCJP.
+
+3 - Não compete à equipa técnica, independentemente da respetiva formação, assegurar o acompanhamento psicológico e psicoterapêutico das crianças ou jovens acolhidos, devendo esse acompanhamento ser assegurado por recurso a outras respostas e serviços existentes na comunidade.
+
+4 - Para cada criança ou jovem deve afetar-se um elemento da equipa técnica ou educativa, que se constitui como seu interlocutor de referência.
+
+5 - De entre os elementos que constituem a equipa técnica é designado um diretor técnico que exerce funções de gestão, coordenação e supervisão na casa de acolhimento, sendo o responsável máximo pela prossecução dos objetivos do acolhimento, ao qual compete, nomeadamente:
+
+a) Garantir o respeito e a observância dos direitos da criança e do jovem e a definição, execução e avaliação dos respetivos projetos de promoção e proteção e planos de intervenção individuais;
+
+b) Promover a monitorização e, sempre que se justifique, a revisão do plano de intervenção;
+
+c) Planear e coordenar as atividades pedagógicas, ocupacionais, desportivas, sociais, culturais e outras;
+
+d) Garantir a articulação com os técnicos gestores dos processos de promoção e proteção e com as entidades indicadas no acordo de promoção e proteção ou na decisão judicial;
+
+e) Assegurar a gestão e a formação dos profissionais, bem como a organização, o funcionamento e os horários de trabalho das equipas;
+
+f) Garantir o caráter reservado do processo individual da criança ou do jovem, e a sua atualização;
+
+g) Assegurar a guarda e a gestão do pecúlio da criança ou jovem, em articulação com o gestor do processo;
+
+h) Zelar pela manutenção e segurança das instalações e equipamentos da casa de acolhimento.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 14.º — Equipa educativa
+
+Compete à equipa educativa, designadamente:
+
+a) Estabelecer uma relação afetiva e protetora com as crianças e jovens;
+
+b) Prestar os cuidados de higiene, alimentação e bem-estar à criança ou jovem, garantindo condições de conforto e segurança;
+
+c) Incentivar a integração da criança ou jovem, promovendo a participação deste nas diferentes tarefas da casa de acolhimento;
+
+d) Organizar e desenvolver atividades formativas, lúdicas, pedagógicas, culturais e desportivas;
+
+e) Apoiar e acompanhar a criança ou o jovem nos cuidados de saúde, integração escolar e formativa;
+
+f) Acompanhar e supervisionar as visitas da família, sempre que a equipa técnica não possa fazê-lo e a situação assim o exija;
+
+g) Comunicar ao diretor técnico qualquer situação de maus-tratos ou abuso de que tenha conhecimento, dentro ou fora da casa de acolhimento.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 15.º — Equipa de apoio
+
+1 - Cabe à equipa de apoio, designadamente:
+
+a) Confecionar a alimentação;
+
+b) Manter as condições de higiene e limpeza;
+
+c) Comunicar ao diretor técnico qualquer situação de maus-tratos ou abuso de que tenha conhecimento, dentro ou fora da casa de acolhimento.
+
+2 - A equipa de apoio deve, sempre que possível e com a orientação da equipa educativa, envolver as crianças e jovens na execução das tarefas indicadas no número anterior.
+
+3 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 16.º — Perfil dos profissionais
+
+1 - O perfil dos profissionais a contratar para as casas de acolhimento deve ser adequado ao posto de trabalho que ocupam e atender às necessidades específicas da casa e das crianças e jovens acolhidos.
+
+2 - Deve ser garantida a idoneidade dos profissionais, nomeadamente através da obtenção de certificado de registo criminal, nos termos do n.º 1 do artigo 2.º da Lei n.º 113/2009, de 17 de setembro, e da consulta ao sistema de registo de identificação criminal de condenados pela prática de crimes contra a autodeterminação sexual e a liberdade sexual de menor, previsto na Lei n.º 103/2015, de 24 de agosto.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 17.º — Formação
+
+1 - A instituição de acolhimento deve proporcionar às equipas formação inicial e contínua adequada à categoria profissional e à função.
+
+2 - A formação pode ser ministrada em contexto de trabalho.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 18.º — Qualidade
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+### Secção II — Funcionamento interno
+
+#### Artigo 19.º — Regulamento interno
+
+1 - As casas de acolhimento devem dispor de um regulamento interno.
+
+2 - O regulamento interno deve abranger todas as matérias relacionadas com o funcionamento da instituição, assegurando a conformidade com as disposições legais e normativas aplicáveis.
+
+3 - O regulamento interno deve definir, nomeadamente:
+
+a) Procedimentos de acolhimento, integração e saída;
+
+b) Direitos e deveres das crianças e jovens e das respetivas famílias;
+
+c) Horário de visitas, saídas e pernoitas;
+
+d) Modelo de intervenção;
+
+e) Serviços e atividades desenvolvidos;
+
+f) Código de conduta dos profissionais;
+
+g) Regras de relacionamento entre as crianças ou jovens e as equipas, bem como do desenvolvimento das atividades e de utilização adequada das instalações;
+
+h) Plano de prevenção e controlo de situações de negligência, violência, maus-tratos, abusos físicos, sexuais ou psicológicos e consumos de substâncias ilícitas, bem como saídas não autorizadas e fuga;
+
+i) Protocolo de atuação em caso de suspeita ou denúncia de maus-tratos ou abusos definindo expressamente o dever de denúncia obrigatória às autoridades;
+
+j) Protocolo de prevenção e controlo de surtos de infeção.
+
+4 - O regulamento interno é disponibilizado e explicado à criança ou jovem.
+
+5 - O regulamento interno deve ser disponibilizado ao ISS, I. P., sempre que solicitado.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 20.º — Intervenção reparadora
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+#### Artigo 21.º — Horário de funcionamento
+
+As casas de acolhimento funcionam 24 horas por dia, todos os dias do ano, devendo as unidades garantir o acolhimento no momento imediato em que seja necessário.
+
+#### Artigo 22.º — Registos de turno
+
+1 - As casas de acolhimento devem dispor de um registo de turno, em livro ou meio digital, onde são registadas as ocorrências e a informação a transmitir nas mudanças de turno dos profissionais das equipas.
+
+2 - Os registos, quer sejam efetuados em livro ou digitais, não podem ser objeto de alteração e devem ser guardados pelo prazo estabelecido por lei, para efeitos de avaliação e fiscalização.
+
+#### Artigo 23.º — Visitas e contactos
+
+1 - Os pais, o representante legal ou quem tenha a guarda de facto da criança ou jovem, bem como outras pessoas de referência da criança ou jovem, têm o direito a visitá-lo, em horários que tenham em consideração as circunstâncias de vida da criança ou jovem, bem como dos visitantes, salvo decisão judicial em contrário.
+
+2 - A equipa técnica é responsável por proporcionar as visitas às crianças e jovens acolhidos, em conformidade com o determinado na medida de proteção.
+
+3 - A equipa técnica assegura a existência de condições dignas e de privacidade para que as visitas ocorram com a frequência, duração e formato que melhor se adeque à situação da criança ou jovem.
+
+4 - A realização de visitas da criança ou jovem à família, designadamente em período de férias ou fim de semana, deve ser promovida, mediante autorização prévia da entidade que tenha aplicado a medida de promoção e proteção.
+
+5 - A casa de acolhimento mantém um registo atualizado das visitas realizadas no âmbito do presente artigo.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 24.º — Processo individual da criança ou jovem
+
+1 - As casas de acolhimento mantêm um processo individual de cada criança ou jovem, do qual deve constar, designadamente, a informação seguinte:
+
+a) Dados pessoais da criança ou jovem e da sua família;
+
+b) Identificação da pessoa a contactar em caso de urgência ou necessidade;
+
+c) Listagem de contactos das pessoas com quem a criança e jovem mantêm especial relação afetiva;
+
+d) Cópia do acordo de promoção e proteção ou da decisão judicial, do projeto de promoção e proteção e do plano de intervenção;
+
+e) Relatório da situação sociofamiliar com registo dos factos e diligências relevantes;
+
+f) Regime de contactos e visitas;
+
+g) Dados médicos e de saúde, nomeadamente, registo de consultas e exames, medicação prescrita, planeamento familiar, vacinação, sessões de apoio especializado;
+
+h) Informações sobre a atividade escolar, curricular e extracurricular, ou formação profissional, quando aplicável;
+
+i) Identificação de conta bancária e valores pessoais, sempre que existam;
+
+j) Auto de entrega do pecúlio, no momento da saída da casa de acolhimento.
+
+2 - O tratamento do processo individual da criança ou jovem deve obedecer ao disposto na Lei n.º 58/2019, de 8 de agosto, e ser conservado até dois anos após a cessação da medida.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 25.º — Plano de intervenção individual da criança ou jovem
+
+Sem prejuízo do estabelecido no n.º 1 do artigo 10.º e no artigo 16.º do Decreto-Lei n.º 164/2019, de 25 de outubro, do plano de intervenção individual de cada criança ou jovem deve constar, nomeadamente:
+
+a) Identificação e tipo de acompanhamento das atividades escolares, extraescolares, desportivas e culturais da criança ou jovem, bem como das áreas de formação adequadas ao seu contexto;
+
+b) Plano de acompanhamento das atividades escolares ou de formação;
+
+c) Plano de desenvolvimento desportivo e/ou cultural de acordo com as expectativas de cada criança ou jovem;
+
+d) (Revogada);
+
+e) Plano de integração da criança e jovem na comunidade, garantindo nomeadamente, a sua participação na vida social escolar;
+
+f) Integração da criança ou jovem em programas de férias escolares, que garantam diversidade de atividades e interações;
+
+g) Plano de formação adequado ao contexto da criança ou jovem;
+
+h) Identificação do interlocutor de referência que acompanha o seu desenvolvimento;
+
+i) Regras de atribuição e gestão do dinheiro de bolso;
+
+j) Identificação de regras de saídas noturnas e nos fins de semana;
+
+k) Identificação de regras de utilização de telemóveis e outros equipamentos tecnológicos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 26.º — Pecúlio, objetos e valores pessoais
+
+1 - Os montantes, objetos e valores pessoais que, pela sua natureza, não possam ficar na posse da criança ou do jovem são confiados à guarda da casa de acolhimento, na pessoa do diretor técnico, sendo assinado um auto de entrega que contém a respetiva descrição.
+
+2 - O auto de entrega é assinado pelo técnico responsável pelo acolhimento ou pelo diretor técnico e pelo gestor de processo previsto no artigo 82.º-A, da LPCJP ou, nas situações de emergência, pelo técnico que acompanha a criança ou jovem e é arquivado no seu processo individual, sendo entregue uma cópia ao seu representante legal.
+
+3 - Integram o pecúlio da criança ou jovem todos os apoios e prestações sociais de que seja beneficiário, assim como os valores ou bens provenientes de doações.
+
+4 - A gestão do pecúlio compete ao diretor técnico da casa de acolhimento em articulação com o gestor de processo e é efetuada sempre no superior interesse da criança ou jovem, que deve ser incentivado a gerir o dinheiro de bolso, em função da sua idade e capacidade de entendimento e orientada de forma a adquirir hábitos de poupança.
+
+5 - Deve ser mantido o registo em conta corrente ou em conta bancária em nome da criança ou jovem, com discriminação dos valores recebidos e das verbas gastas, acompanhados de auto de entrega ou comprovativo.
+
+6 - Findo o acolhimento, o pecúlio e os bens pessoais da criança ou jovem que não estejam na sua posse são entregues ao próprio, caso seja maior de idade, ou ao seu representante legal, mediante assinatura de um auto de entrega.
+
+7 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 26.º-A — Abono de família
+
+1 - O pagamento do abono de família devido às crianças e jovens em acolhimento residencial é efetuado pelo ISS, I. P., por transferência para conta bancária de que estes sejam titulares ou cuja titularidade seja conjunta com a casa de acolhimento ou o seu diretor técnico.
+
+2 - Para efeitos do previsto no número anterior, as casas de acolhimento informam o ISS, I. P., sobre a identificação da conta bancária para onde devem ser efetuadas as referidas transferências.
+
+3 - Os valores transferidos para as contas bancárias cuja titularidade seja conjunta são mantidos nas respetivas contas, devendo ser entregues à criança ou jovem aquando da sua saída da casa, sem prejuízo de parte desse valor poder ser destinado a dinheiro de bolso ou a outras despesas em seu benefício que não estejam cobertas pelos valores da comparticipação financeira do Estado.
+
+- *Aditado pelo/a Artigo 3.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+#### Artigo 27.º — Seguro de acidentes pessoais
+
+1 - A casa de acolhimento fica obrigada à celebração de contrato de seguro de acidentes pessoais das crianças e jovens que acolhem.
+
+2 - O contrato de seguro de acidentes pessoais das crianças e jovens cobre os danos causados por eventuais acidentes ocorridos nas casas de acolhimento e em locais onde os mesmos se desloquem, bem como no percurso de ida e de regresso entre as casas de acolhimento e os referidos locais.
+
+## Capítulo IV — Instalações
+
+### Artigo 28.º — Edificado
+
+1 - As casas de acolhimento devem funcionar em edifício, fração autónoma, ou num conjunto edificado autónomo, em contexto residencial e de fácil acesso a serviços comunitários de saúde, educação, cultura e lazer, dispondo de instalações que permitam assegurar o alojamento em condições de individualidade e privacidade, proporcionar o convívio entre as crianças e os jovens e os colaboradores, cumprindo a legislação em vigor em matéria de acessibilidades.
+
+2 - As casas de acolhimento devem garantir condições de acessibilidade a pessoas com mobilidade condicionada.
+
+3 - As casas de acolhimento devem, sempre que possível, ter acesso a espaços verdes ou ao ar livre para convívio.
+
+4 - As casas de acolhimento devem estar inseridas no tecido comunitário e ser descaracterizadas.
+
+5 - O edifício deve obedecer à legislação aplicável às edificações urbanas.
+
+6 - O cumprimento das normas técnicas em matéria de acessibilidades é dispensado para as casas de acolhimento já existentes quando estas demonstrem que as obras necessárias para o efeito são desproporcionadamente difíceis, requerem a aplicação de meios económico-financeiros desproporcionados ou não disponíveis, ou afetem sensivelmente o património cultural ou histórico, cujas características morfológicas, arquitetónicas e ambientais se pretende preservar.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Artigo 29.º — Áreas funcionais
+
+1 - Nas casas de acolhimento, as unidades têm áreas funcionais que correspondem aos espaços próprios de uma habitação familiar, ou o mais próximo possível, independentemente da tipologia do edificado, de acordo com as regras estabelecidas no Regime Geral das Edificações Urbanas.
+
+2 - Os quartos devem ser individuais, duplos ou triplos, e permitir a sua personalização por cada criança ou jovem.
+
+3 - As casas de acolhimento devem garantir:
+
+a) Espaço individualizado para estudo, nos quartos das crianças e jovens ou, quando tal não seja possível ou desejável, em local na unidade adequado a esse efeito;
+
+b) Instalações sanitárias destinadas às crianças e jovens, equipadas com sanita, lavatório e base de duche ou banheira, que garantam privacidade;
+
+c) Sala de refeições e sala de estar com capacidade e lugar para todas as crianças e jovens acolhidos em simultâneo, podendo os espaços destinados a refeições e a zona de estar ser na mesma divisão;
+
+d) Espaço destinado às equipas técnica, educativa e de apoio da casa de acolhimento.
+
+4 - Os espaços de apoio às equipas técnica, educativa e de apoio devem localizar-se na casa de acolhimento.
+
+5 - (Revogado.)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+## Capítulo V — Disposições complementares, transitórias e finais
+
+### Artigo 30.º — Conselho nacional consultivo e assembleia de jovens acolhidos
+
+1 - São criados a assembleia e o conselho nacional consultivo de crianças e jovens acolhidos.
+
+2 - A assembleia integra uma criança ou jovem de cada uma das casas de acolhimento.
+
+3 - O conselho nacional é constituído por 30 crianças e jovens com medida de promoção e proteção de acolhimento residencial aplicada, representativos das cindo NUTS, devendo cada centro distrital da segurança social propor ao membro do Governo seis crianças ou jovens para o integrar.
+
+4 - A designação dos conselheiros mencionados no número anterior deve ser feita no prazo de 60 dias a contar da data da publicação da presente portaria.
+
+5 - A assembleia e o conselho são presididos pelo membro do Governo responsável pela área da solidariedade e segurança social.
+
+6 - A assembleia reúne, pelo menos, uma vez por ano, sendo as reuniões do conselho nacional consultivo realizadas, pelo menos, uma vez por quadrimestre.
+
+7 - O apoio logístico e financeiro para a realização das reuniões do conselho e da assembleia compete ao ISS, I. P., em articulação com a SCML e com a CPL, I. P.
+
+### Artigo 31.º — Comissão de Acompanhamento e Avaliação das Medidas de Promoção e Proteção em Regime de Colocação
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+### Artigo 32.º — Parcerias
+
+1 - O ISS, I. P., deve estabelecer parcerias com entidades que garantam o acesso efetivo e gratuito das crianças e jovens em acolhimento residencial a férias e atividades lúdicas e/ou desportivas, artísticas, culturais e de desenvolvimento pessoal, nomeadamente com a Fundação INATEL.
+
+2 - O IEFP deve prever anualmente a integração dos jovens em acolhimento residencial em programas de formação de competências na área digital.
+
+3 - Os programas desenvolvidos pela Fundação INATEL e pelo Instituto do Emprego e Formação Profissional, I. P., são de frequência gratuita para as crianças e jovens abrangidos pela presente portaria.
+
+### Artigo 33.º — Diferenciação positiva
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+### Artigo 34.º — Acompanhamento técnico, avaliação e fiscalização
+
+1 - O funcionamento das casas de acolhimento está sujeito a acompanhamento, avaliação e fiscalização, por parte dos serviços competentes do ISS, I. P., nos termos do Decreto-Lei n.º 64/2007, de 14 de maio, na sua redação atual.
+
+2 - O ISS, I. P., garante o acompanhamento das casas de acolhimento, através de equipas especializadas para o efeito, monitorizando o desenvolvimento e o bem-estar das crianças e jovens, devendo ser realizada uma avaliação do respetivo funcionamento, pelo menos, a cada dois anos.
+
+3 - Para efeitos de acompanhamento e integração plena das crianças e jovens em acolhimento especializado, o ISS, I. P., pode solicitar a intervenção de outros organismos, nomeadamente a Agência para a Integração, Migrações e Asilo, e outros serviços das áreas governativas da saúde e da educação.
+
+4 - Os serviços de saúde mental de âmbito local ou regional colaboram no acompanhamento regular das crianças ou jovens em acolhimento residencial e das equipas das casas de acolhimento.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Artigo 35.º — Supervisão
+
+1 - O ISS, I. P., a solicitação da casa de acolhimento, garante a supervisão externa do respetivo funcionamento, com vista a garantir a promoção da qualidade do acolhimento.
+
+2 - Para o efeito previsto no número anterior, o ISS, I. P., deve constituir uma bolsa de profissionais ou entidades habilitados, com validada formação e/ou experiência na área das crianças e jovens em risco, sendo fator preferencial da escolha formação e/ou experiência nas áreas da saúde mental ou intervenção comunitária.
+
+3 - A supervisão externa deve seguir metodologia adequada, em articulação com a academia e ouvidas as entidades representativas do setor e o conselho nacional consultivo de jovens acolhidos.
+
+4 - A supervisão externa deve promover a capacidade reflexiva de todos os cuidadores, o encontro de estratégias e procedimentos harmonizados na intervenção com as crianças e jovens, a promoção de uma adequada gestão emocional por parte dos elementos da equipa, bem como a avaliação do modelo de intervenção, a qual deve ser reportada à respetiva casa de acolhimento e ao ISS, I. P.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Artigo 36.º — Comparticipação financeira do Estado
+
+1 - A comparticipação financeira mensal do Estado tem em conta a tipologia das unidades residenciais.
+
+2 - Os valores e os termos da comparticipação financeira prevista no número anterior são fixados no compromisso de cooperação com o setor social e solidário e respetivas adendas, outorgado entre o Governo e as entidades do setor social e solidário.
+
+3 - As condições e procedimentos necessários ao pagamento da comparticipação financeira são fixados no compromisso de cooperação e respetivas adendas.
+
+4 - Os valores previstos n.º 1 são objeto de atualização no compromisso de cooperação.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/197-2025-915525582), em vigor a partir de 2025-04-22*
+
+### Artigo 37.º — Abono de família
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+### Artigo 38.º — Bolsa de estudos e formação profissional
+
+1 - Os jovens acolhidos que frequentem o ensino superior com aproveitamento têm direito a uma bolsa mensal que lhes é atribuída pelo ISS, I. P., no valor correspondente à propina, aos valores e gastos com equipamentos imprescindíveis à frequência do curso e transporte, bem como alojamento, caso necessário, devendo a casa de acolhimento garantir as despesas devidas à sua subsistência.
+
+2 - Caso o jovem tenha direito e aufira bolsa de estudo no âmbito da ação social no ensino superior, atribuída pela Direção-Geral do Ensino Superior, ou outras complementares, a bolsa prevista no número anterior cobrirá apenas as despesas que não sejam suportadas por estas.
+
+3 - Aplica-se o previsto nos números anteriores, com as necessárias adaptações, caso o jovem frequente o ensino técnico-profissional.
+
+4 - A bolsa mensal referida nos números anteriores é atribuída pelo tempo correspondente ao ciclo de estudos em frequência, acrescida de mais um ano letivo.
+
+### Artigo 39.º — Disposição transitória
+
+*(Revogado)* — *Revogado pelo/a Artigo 5.º do/a Portaria n.º 197/2025/1 - Diário da República n.º 77/2025, Série I de 2025-04-21, em vigor a partir de 2025-04-22*
+
+### Artigo 40.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 6 de dezembro de 2023.
+
+117183408

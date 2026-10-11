@@ -1,0 +1,308 @@
+---
+title: "Portaria n.º 229-A/2008"
+identifier: "Portaria n.º 229-A/2008"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2008-03-06
+last_amended: 2012-10-12
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-169438940"
+retrieved: 2026-10-11
+designation: "Regulamento de Aplicação da Medida «Manutenção da Actividade Agrícola em Zonas Desfavorecidas»"
+summary: "Aprova o Regulamento de Aplicação da Medida «Manutenção da Actividade Agrícola em Zonas Desfavorecidas»"
+issuer: "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas"
+series: "I"
+eli: "https://data.dre.pt/eli/port/229-a/2008/p/cons/20121012/pt/html"
+dre_id: 226243
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2008/03/04701/0000200006.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 229-A/2008
+
+Portaria n.º 229-A/2008
+
+de 6 de Março
+
+O Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, que estabelece as regras gerais do apoio ao desenvolvimento rural sustentável, tem como objectivo, designadamente, a melhoria do ambiente e da paisagem rural.
+
+O apoio às zonas desfavorecidas, territórios com desvantagens naturais para a produção agrícola, através da Medida «Manutenção da actividade agrícola em zonas desfavorecidas», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, visa contribuir para a utilização continuada das terras agrícolas, a manutenção da paisagem rural e a conservação e a promoção de sistemas de exploração agrícolas sustentáveis nessas zonas, inserindo-se na prossecução desse objectivo.
+
+Este apoio tem uma majoração nos territórios da Rede Natura 2000 inseridos nas zonas desfavorecidas, tendo em conta a sensibilidade do sistema de valores naturais em causa que, pelas acentuadas desvantagens naturais, geram custos adicionais nestes territórios.
+
+Os pagamentos aos agricultores para compensação de desvantagens em zonas desfavorecidas contribuem ainda para a coesão social, reduzindo as desigualdades e assimetrias de rendimento entre os agricultores das diferentes regiões do País.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:
+
+## Artigo 1.º
+
+É aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Medida n.º 2.1, «Manutenção da Actividade Agrícola em Zonas Desfavorecidas», do subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER, que integra a acção n.º 2.1.1, designada «Manutenção da actividade agrícola fora da Rede Natura» e a acção n.º 2.1.2, designada «Manutenção da actividade agrícola em Rede Natura».
+
+## Artigo 2.º
+
+O Regulamento referido no artigo anterior contém os seguintes anexos, que dele fazem parte integrante:
+
+a) Anexo I, relativo à tabela de conversão em cabeças normais, para o período de 2008 a 2013;
+
+b) Anexo II, relativo ao valor dos apoios a conceder;
+
+c) Anexo III, relativo à tabela de conversão em cabeças normais para o ano de 2007.
+
+## Artigo 3.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 5 de Março de 2008.
+
+## Anexo — REGULAMENTO DE APLICAÇÃO DA MEDIDA «MANUTENÇÃO DA ACTIVIDADE AGRÍCOLA EM ZONAS DESFAVORECIDAS»
+
+### Capítulo I — Disposições gerais
+
+#### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da medida n.º 2.1 «Manutenção da actividade agrícola em zonas desfavorecidas», integrada no subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER, que integra as seguintes acções:
+
+a) Acção n.º 2.1.1, designada «Manutenção da actividade agrícola fora da Rede Natura»;
+
+b) Acção n.º 2.1.2, designada «M
+
+#### Artigo 2.º — da actividade agrícola em Rede Natura».
+
+Artigo 2.º
+
+Área geográfica de aplicação
+
+1 - A acção n.º 2.1.1, designada «Manutenção da actividade agrícola fora da Rede Natura», aplica-se nas zonas desfavorecidas, que incluem as zonas de montanha e restantes zonas desfavorecidas, definidas na Portaria n.º 377/88, de 11 de Junho, com excepção das zonas de protecção especial (ZPE), designadas ao abrigo da Directiva n.º 79/409/CEE, de 2 de Abril, relativa à conservação das aves selvagens, e dos sítios designados ao abrigo da Directiva n.º 92/43/CEE, de 21 de Maio, relativa à conservação dos habitats naturais e da flora e fauna selvagens.
+
+2 - A acção n.º 2.1.2, designada «Manutenção da actividade agrícola em Rede Natura», aplica-se nas zonas da Rede Natura 2000 situadas em zona desfavorecida.
+
+#### Artigo 3.º — Objectivos
+
+As acções previstas no presente Regulamento têm por objectivo assegurar a manutenção da actividade agrícola nas zonas desfavorecidas, através de uma compensação aos agricultores pelas desvantagens inerentes à produção agrícola nas zonas de montanha e restantes zonas desfavorecidas, em particular nas zonas da Rede Natura 2000.
+
+#### Artigo 4.º — Definições
+
+1 - Para efeitos de aplicação do presente Regulamento e para além das definições constantes do Decreto-Lei n.º 37-A/2008, de 5 de Março, entende-se por:
+
+a) «Animais em pastoreio» os animais, próprios ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;
+
+b) «Dimensão económica da exploração» o valor da margem bruta total da exploração, que corresponde à soma das margens brutas das actividades existentes na exploração, expresso em unidades de dimensão europeia (UDE), correspondendo cada UDE a (euro) 1200;
+
+c) «Exploração agrícola» o conjunto de unidades de produção submetidas a uma gestão única;
+
+d) «Rede Natura» a rede ecológica europeia de zonas especiais de conservação, a Rede Natura 2000, que engloba zonas de protecção especial (ZPE), designadas ao abrigo da Directiva n.º 79/409/CEE, do Conselho, de 2 de Abril, e sítios designados ao abrigo da Directiva n.º 92/43/CEE, do Conselho, de 21 de Maio, transpostas pelo Decreto-Lei n.º 140/99, de 24 de Abril;
+
+e) «Superfície agrícola utilizada (SAU)» o conjunto das terras ocupadas com culturas temporárias ou permanentes ou com pastagens permanentes, as terras em pousio, as terras ocupadas com culturas protegidas ou com plantas aromáticas, condimentares e medicinais ou com vime e as terras ocupadas com culturas sob coberto de espaço florestal arborizado;
+
+f) «Superfície forrageira» a terra própria ou de baldio que é utilizada directa ou indirectamente para a alimentação do gado, excepto restolhos de culturas;
+
+g) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.
+
+2 - Para efeitos de aplicação deste Regulamento, são consideradas para determinação da SAU quer as terras da exploração agrícola quer as de baldio, neste caso apenas quando utilizadas na alimentação do efectivo pecuário da exploração.
+
+#### Artigo 5.º — Condicionalidade e requisitos mínimos
+
+Os beneficiários devem cumprir na exploração os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 5.º, 6.º e 8.º e os anexos ii e iii do Regulamento (CE) n.º 73/2009, do Conselho, de 19 de Janeiro, e com a correspondente legislação nacional.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+
+#### Artigo 6.º — Beneficiários
+
+Podem beneficiar dos apoios previstos no presente Regulamento as pessoas singulares ou colectivas, de natureza privada, que exerçam actividade agrícola.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+
+#### Artigo 7.º — Critérios de elegibilidade
+
+1 - Podem beneficiar dos apoios previstos no presente Regulamento as pessoas referidas no artigo anterior cujas explorações reúnam cumulativamente as seguintes condições:
+
+a) Tenham uma dimensão económica máxima de 40 UDE;
+
+b) Estejam situadas na totalidade ou em parte em zona desfavorecida;
+
+c) Tenham uma SAU igual ou superior a 1 ha em zona desfavorecida;
+
+d) Tenham um encabeçamento de animais em pastoreio inferior ou igual a:
+
+i) 3,000 cabeças normais (CN) por hectare de superfície agrícola e agro-florestal, no caso de se tratar de explorações com dimensão inferior ou igual a 2 ha de SAU;
+
+ii) 2,000 CN por hectare de superfície forrageira, no caso de explorações com mais de 2 ha de SAU situadas nas restantes zonas desfavorecidas.
+
+iii) 2,000 CN por hectare de superfície agrícola e agro-florestal, no caso de se tratar de explorações em zonas de montanha com mais de 2 ha de SAU.
+
+2 - Em derrogação ao disposto na alínea c) do n.º 1 e exclusivamente até ao termo do período de cinco anos de manutenção obrigatória da actividade agrícola em zona desfavorecida, podem ter acesso às ajudas previstas neste Regulamento os candidatos cujas explorações tenham uma SAU igual ou superior a 0,50 ha em zona desfavorecida e tenham recebido um primeiro pagamento referente a uma indemnização compensatória no âmbito do Programa RURIS, respeitante às candidaturas apresentadas nos anos de 2003 a 2005.
+
+3 - Para o cálculo da dimensão económica referida na alínea a) do n.º 1, são utilizadas as margens brutas padrão de referência divulgadas no sítio da Internet do PRODER.
+
+4 - Para efeitos do disposto na alínea d) do n.º 1, a tabela de conversão das espécies animais em cabeças normais consta do anexo i do presente Regulamento.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1479/2008 - Diário da República n.º 244/2008, Série I de 2008-12-18](https://diariodarepublica.pt/dr/detalhe/portaria/1479-2008-443907), produz efeitos a partir de 2008-03-07*
+
+#### Artigo 8.º — Obrigações dos beneficiários
+
+1 - Os beneficiários dos apoios previstos no presente Regulamento estão obrigados a:
+
+a) Exercer a actividade agrícola nas áreas de SAU localizadas em zona desfavorecida;
+
+b) Manter nas áreas de SAU localizadas em zona desfavorecida os pontos de água acessíveis à fauna, no período crítico de Verão.
+
+2 - Os beneficiários dos apoios no âmbito da acção n.º 2.1.2 são ainda, nas áreas de SAU localizadas nas zonas da Rede Natura 2000 situadas em zona desfavorecida, obrigados a:
+
+a) Manter a superfície agrícola em boas condições de produção e livre de infestantes arbustivas, não devendo estas representar mais de 5 % da área de cada parcela ocupada com culturas temporárias, pastagens permanentes ou em pousio, sem prejuízo de normativo decorrente de regulamentação específica aplicável à Rede Natura 2000;
+
+b) Manter as árvores, os muros de pedra posta e as sebes arbustivas ou arbóreas de espécies autóctones, localizadas entre as parcelas ou nas extremas das propriedades, não utilizando herbicidas;
+
+c) Manter a vegetação arbórea e arbustiva ao longo das linhas de água, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento.
+
+3 - A obrigação referida na alínea a) do n.º 1 deve ser cumprida pelo beneficiário durante um período de cinco anos a contar do ano a que respeita o primeiro pagamento compensatório às zonas desfavorecidas, no âmbito deste Regulamento ou de anteriores programas, ainda que não apresente novo pedido de apoio.
+
+4 - Findo o período de tempo referido no número anterior, os beneficiários que reúnam os critérios de elegibilidade previstos no artigo 7.º podem apresentar candidaturas anuais, seguidas ou interpoladas, aos apoios previstos neste Regulamento.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+
+#### Artigo 9.º — Forma dos apoios
+
+1 - Os apoios previstos no presente Regulamento assumem a forma de pagamento a título compensatório, por hectare de área elegível.
+
+2 - Sem prejuízo do disposto no artigo seguinte, são consideradas elegíveis as áreas de SAU localizadas em zonas desfavorecidas.
+
+#### Artigo 10.º — Montantes e limites dos apoios
+
+1 - Os montantes dos apoios são os estabelecidos no quadro constante do anexo ii do presente Regulamento, sendo calculados pela aplicação sucessiva dos escalões.
+
+2 - As áreas forrageiras que fazem parte da SAU são pagas na proporção directa do efectivo pecuário próprio que as utilize, até ao limite máximo de 1 ha por CN das espécies referidas no anexo i.
+
+3 - Para efeitos do disposto no número anterior, consideram-se, no caso dos suínos e das aves, apenas os animais em pastoreio e, no caso dos animais da espécie equina, apenas os que estejam identificados e marcados nos termos do Decreto-Lei n.º 142/2006, de 27 de Julho.
+
+4 - As áreas de pousio são elegíveis até ao limite máximo de três vezes as áreas semeadas com culturas anuais.
+
+5 - No caso de a exploração abranger zonas a que correspondem diferentes valores de apoio, os valores unitários a considerar para efeitos de cálculo do apoio são os correspondentes à zona onde se localiza a maior área elegível.
+
+### Capítulo II — Procedimento
+
+#### Artigo 11.º — Apresentação
+
+1 - Os pedidos de apoio e de pagamento são apresentados, em simultâneo, anualmente, junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), ou das entidades por este designadas.
+
+2 - Para efeitos do disposto no n.º 3 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com a apresentação do pedido é assinado termo de aceitação das condições de atribuição do apoio, que se converte em definitivo, após a comunicação referida no n.º 4 do artigo 12.º
+
+3 - As normas relativas à formalização, tramitação, procedimentos e calendarização dos pedidos são adotadas de acordo com o Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a Efetuar pelo Instituto de Financiamento da Agricultura e Pesca, I. P. (IFAP, I. P.), aprovado em anexo à Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto no Regulamento (UE) n.º 1122/2009, da Comissão, de 30 de novembro.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 320/2012 - Diário da República n.º 198/2012, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/320-2012-176364), em vigor a partir de 2012-10-13*
+
+#### Artigo 12.º — Análise, hierarquização e decisão
+
+1 - Os pedidos de apoio são analisados pelo IFAP, I. P., sendo hierarquizados pela seguinte ordem de prioridades:
+
+a) Pedidos de apoio respeitantes a explorações que se encontrem dentro do período de cinco anos referido no n.º 3 do artigo 8.º;
+
+b) Pedidos de apoio respeitantes a explorações que tenham pelo menos 50 % da SAU em zonas de montanha em Rede Natura 2000;
+
+c) Pedidos de apoio respeitantes a explorações que tenham pelo menos 50 % da SAU em zonas de montanha;
+
+d) Pedidos de apoio respeitantes a explorações que tenham pelo menos 50 % da SAU nas restantes zonas desfavorecidas em Rede Natura 2000;
+
+e) Restantes pedidos de apoio.
+
+2 - Para efeitos de aplicação do número anterior, os pedidos de apoio incluídos numa determinada prioridade são hierarquizados por ordem crescente da SAU da exploração.
+
+3 - Os pedidos de apoio são decididos pelo gestor do PRODER em função da verificação dos critérios de elegibilidade, de hierarquização e da dotação orçamental do presente regime.
+
+4 - A decisão é comunicada pelo IFAP, I. P., aos candidatos, até 15 de Outubro do ano de apresentação do pedido.
+
+#### Artigo 13.º — Pagamento
+
+1 - O pagamento dos apoios compete ao IFAP, I. P.
+
+2 - O pagamento é efetuado após a conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após conclusão dos controlos administrativos, de acordo com o disposto no artigo 9.º do Regulamento (UE) n.º 65/2011, da Comissão, de 27 de janeiro.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 320/2012 - Diário da República n.º 198/2012, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/320-2012-176364), em vigor a partir de 2012-10-13*
+
+### Capítulo III — Extinção, redução ou exclusão
+
+#### Artigo 14.º — Extinção das obrigações
+
+1 - Os beneficiários ficam desvinculados das obrigações referidas no artigo 8.º, sem devolução dos apoios, nomeadamente, nas seguintes situações de força maior:
+
+a) Morte do beneficiário ou incapacidade profissional do beneficiário superior a três meses;
+
+b) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário e cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;
+
+c) Expropriação de toda ou de uma parte significativa da exploração agrícola, se essa parte inviabilizar a manutenção da actividade e se essa expropriação não era previsível à data de apresentação do pedido de apoio;
+
+d) Catástrofe natural grave que afecte de modo significativo a superfície agrícola da exploração;
+
+e) Destruição, não imputável ao beneficiário, das instalações da exploração destinadas aos animais;
+
+f) Epizootia que afecte a totalidade ou parte dos efectivos do agricultor.
+
+2 - Os casos de força maior e os respectivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 10 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado desde que devidamente justificado e aceite pelo IFAP, I. P.
+
+3 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos de força maior referidos no n.º 1, mantém o seu direito à totalidade do apoio relativamente ao ano em que o facto ocorreu.
+
+#### Artigo 15.º — Redução ou exclusão dos apoios
+
+1 - O incumprimento dos critérios de elegibilidade referidos no n.º 1 do artigo 7.º determina o indeferimento do pedido de apoio em causa.
+
+2 - O incumprimento do disposto na alínea a) do n.º 1 do artigo 8.º, quando se verifica durante o período referido no n.º 3 do mesmo artigo, determina a devolução dos apoios recebidos desde o primeiro pagamento compensatório.
+
+3 - O incumprimento do disposto na alínea a) do n.º 1 do artigo 8.º determina a devolução do apoio recebido nesse ano quando o período referido no n.º 3 do mesmo artigo já tenha terminado.
+
+4 - O incumprimento do disposto na alínea b) do n.º 1 do artigo 8.º determina a redução de 5 % do valor do apoio, calculado após aplicação do disposto nos n.os 6 e 7.
+
+5 - O incumprimento de cada um dos compromissos referidos nas alíneas a) a c) do n.º 2 do artigo 8.º determina a redução de 2,5 % do valor do apoio, calculado após aplicação do disposto nos n.os 6 e 7.
+
+6 - Em caso de divergência entre as áreas declaradas e as determinadas em sede de controlo, aplicam-se as reduções e as exclusões previstas nos Regulamentos (UE) n.os 65/2011, da Comissão, de 27 de janeiro, e 1122/2009, da Comissão, de 30 de novembro.
+
+7 - Em caso de divergência entre as CN declaradas e as CN verificadas em sede de controlo, o número de CN determinadas a considerar, de acordo com o n.º 2 do artigo 10.º, será objeto de uma redução igual à diferença entre as CN declaradas e as CN determinadas.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 320/2012 - Diário da República n.º 198/2012, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/320-2012-176364), em vigor a partir de 2012-10-13*
+
+#### Artigo 15.º-A — Cessão da posição contratual
+
+Pode haver lugar à cessão da posição contratual do beneficiário desde que o cessionário reúna as mesmas condições e assuma os mesmos compromissos do cedente pelo período remanescente de atribuição das ajudas.
+
+- *Aditado pelo/a Artigo 2.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+
+### Capítulo IV — Disposição transitória
+
+#### Artigo 16.º — Direito transitório
+
+1 - O disposto no presente Regulamento aplica-se, com as necessárias adaptações, aos pedidos de apoio apresentados no ano de 2007.
+
+2 - Os candidatos que tenham apresentado pedido de apoio no ano de 2007 podem desistir do mesmo, no prazo de 10 dias úteis a contar da data de publicação do presente Regulamento.
+
+3 - Para os pedidos de apoio referidos no n.º 1, a conversão das espécies animais em CN para efeitos da alínea d) do n.º 1 do artigo 7.º e do n.º 2 do artigo 10.º é efectuada de acordo com a tabela constante do anexo iii do presente Regulamento.
+
+4 - Os beneficiários que se encontrem na situação prevista no n.º 3 do artigo 8.º e optem por não apresentar pedido de apoio, por deixarem de cumprir a condição de encabeçamento máximo a partir do ano de 2011, podem desistir do compromisso sem devolução dos montantes anteriormente recebidos.
+
+5 - Para efeito do disposto no número anterior, os respectivos pedidos devem ser comunicados ao IFAP, I. P., por escrito, no prazo de 10 dias úteis findo o período para apresentação da candidatura, o qual pode ser prorrogado, mediante justificação aceite pelo IFAP, I. P.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+
+### Anexo I — Tabela de conversão em cabeças normais
+
+(ver documento original)
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28*
+- *Retificado pelo/a [Declaração de Rectificação n.º 24-A/2008 - Diário da República n.º 86/2008, 1º Suplemento, Série I de 2008-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-a-2008-218514), produz efeitos a partir de 2008-03-07*
+
+### Anexo II — Valor dos apoios
+
+(a que se refere o n.º 1 do artigo 10.º)
+
+(ver documento original)
+
+### Anexo III — Tabela de conversão em cabeças normais
+
+(a que se refere o n.º 3 do artigo 16.º)
+
+(ver documento original)

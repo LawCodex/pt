@@ -1,0 +1,246 @@
+---
+title: "Portaria n.º 103/2014"
+identifier: "Portaria n.º 103/2014"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2014-05-15
+last_amended: 2018-12-27
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-117503954"
+retrieved: 2026-10-11
+designation: "Fixação dos resultados desportivos a considerar, o montante e os termos da atribuição de prémios em reconhecimento do valor e mérito de êxitos desportivos"
+summary: "Fixa os resultados desportivos a considerar, o montante e os termos da atribuição de prémios em reconhecimento do valor e mérito de êxitos desportivos"
+issuer: "Presidência do Conselho de Ministros e Ministério da Solidariedade, Emprego e Segurança Social"
+series: "I"
+eli: "https://data.dre.pt/eli/port/103/2014/p/cons/20181227/pt/html"
+dre_id: 25344774
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2014/05/09300/0283302836.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 103/2014
+
+Portaria n.º 103/2014
+
+de 15 de maio
+
+O Decreto-Lei n.º 272/2009, de 1 de outubro, estabeleceu as medidas específicas de apoio ao desenvolvimento do desporto de alto rendimento, revogando o Decreto-Lei n.º 125/95, de 31 de maio.
+
+Nos termos do respetivo artigo 32.º, aos praticantes desportivos de alto rendimento que obtenham resultados desportivos correspondentes aos níveis máximos de rendimento da modalidade são atribuídos prémios em reconhecimento do valor e mérito daqueles êxitos desportivos.
+
+Os resultados desportivos a considerar, o montante dos prémios e os termos da sua eventual atribuição cumulativa à equipa técnica e aos clubes desportivos que participaram na formação e enquadramento do praticante devem ser fixados por portaria do membro do Governo responsável pela área do desporto.
+
+Refere ainda este artigo que os prémios devem ser estabelecidos de forma diferenciada consoante se trate de modalidades olímpicas, não olímpicas ou reservadas a cidadãos com deficiências ou incapacidades.
+
+A previsão de atribuição de prémios em reconhecimento do valor e mérito de êxitos desportivos constava já do referido Decreto-Lei n.º 125/95, de 31 de maio, ao abrigo do qual foram publicadas a Portaria n.º 393/97, de 17 de junho, e a Portaria n.º 211/98, de 3 de abril, que definiram os resultados desportivos a considerar, o montante dos prémios e os termos da sua eventual atribuição, correspondendo a primeira das portarias referidas aos resultados de excelência obtidos por cidadãos com deficiência.
+
+Considerando o período de tempo decorrido desde a entrada em vigor das referidas portarias, a publicação de um novo diploma que dispõe sobre as medidas específicas de apoio ao desenvolvimento do desporto de alto rendimento e a natural evolução operada ao nível do desporto nacional e internacional, onde se incluem a emergência e consolidação da relevância internacional de alguns eventos desportivos, sente-se a necessidade de rever o regime dos prémios em reconhecimento do valor e mérito de êxitos desportivos, particularmente no que respeita ao respetivo valor e competições abrangidas.
+
+Assim:
+
+Ao abrigo do disposto nos n.os 2 e 3 do artigo 32.º do Decreto-Lei n.º 272/2009, de 1 de outubro, manda o Governo, pelos Secretários de Estado do Desporto e Juventude e da Solidariedade e da Segurança Social, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente portaria fixa os resultados desportivos a considerar, o montante e os termos da atribuição de prémios em reconhecimento do valor e mérito de êxitos desportivos, nos termos e para os efeitos previstos no artigo 32.º do Decreto-Lei n.º 272/2009, de 1 de outubro.
+
+## Artigo 2.º — Definições
+
+Para efeitos da presente portaria, entende-se por:
+
+a) «Competição absoluta» aquela em que a idade do praticante não é relevante para efeitos de elegibilidade de participação e organização da classificação final, sem prejuízo de poder existir uma idade máxima e ou mínima para efeitos de proteção da saúde do praticante;
+
+b) «Competição de grupos de idade jovens» aquela em que os praticantes são organizados de acordo com um intervalo etário, sendo estabelecida uma idade máxima, sem prejuízo de poder existir uma idade mínima para efeitos de proteção da saúde do praticante;
+
+c) «Disciplina desportiva» um ramo de uma modalidade desportiva constituída por uma ou mais provas, comummente com quadro competitivo próprio;
+
+d) «Praticante elegível» corresponde ao praticante que individualmente ou como parte de um conjunto ou equipa a quem foi atribuída, pela federação internacional, uma classificação ou resultado objeto de prémio nos termos da presente portaria;
+
+e) «Prova» a unidade competitiva dentro de uma modalidade ou disciplina desportiva, que tem por resultado uma classificação e determina a concessão de um título;
+
+f) 'Prova olímpica' a prova integrada no programa olímpico do ciclo em curso, constante de despacho do Presidente do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), publicado na respetiva página de internet, no início de cada ciclo olímpico, após parecer do Comité Olímpico de Portugal, com vigência até à publicação de novo despacho, que deve considerar as provas constantes nos guias de qualificação de cada modalidade para os Jogos Olímpicos;
+
+g) 'Prova paralímpica' a prova integrada no programa paralímpico do ciclo em curso, constante de despacho do Presidente do IPDJ, I. P., publicado na respetiva página de internet, no início de cada ciclo paralímpico, após parecer do Comité Paralímpico de Portugal, com vigência até à publicação de novo despacho, que deve considerar as provas constantes nos guias de qualificação de cada modalidade para os Jogos Paralímpicos;
+
+h) 'Prova de progressão' a indicada para competição de grupos de idade jovens, adaptada e com correspondência a prova absoluta, mas adequada ao nível de desenvolvimento e maturação do grupo de idade em apreço.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 3.º — Resultado obtido em competição absoluta
+
+1 - Ao resultado desportivo correspondente aos três primeiros lugares nas principais competições absolutas internacionais corresponde um prémio por mérito desportivo, nos termos dos números seguintes.
+
+2 - Para efeitos do disposto no número anterior, é considerado o resultado desportivo obtido em Jogos Olímpicos, Jogos Paralímpicos, Jogos Europeus organizados sob a égide dos Comités Olímpicos Europeus, Jogos Surdolímpicos, Universíadas, Campeonatos do Mundo e Campeonatos da Europa reconhecidos pela federação internacional reguladora da modalidade, reconhecida pela Global Association of International Sport Federations (GAISF), pelo Comité Olímpico Internacional ou pelo Comité Paralímpico Internacional, nos termos do presente artigo.
+
+3 - O prémio a atribuir é calculado através da fórmula seguinte, arredondada à unidade inferior:
+
+Ppraticante = (3 x Pbase + Pbase x Nprat)/(4 x Nprat)
+
+em que:
+
+a) «Ppraticante» corresponde ao valor do prémio a conceder a cada praticante elegível;
+
+b) «Pbase» corresponde ao valor base do prémio, definido nos termos do número seguinte;
+
+c) «Nprat» corresponde ao número de praticantes elegíveis que participaram na obtenção da classificação objeto de prémio.
+
+4 - O valor base do prémio é definido nos seguintes termos:
+
+a) Provas olímpicas e paralímpicas:
+
+i) Jogos Olímpicos e Jogos Paralímpicos - 1.º classificado, (euro) 50 000; 2.º classificado, (euro) 30 000; 3.º classificado, (euro) 20 000;
+
+ii) Campeonatos do Mundo - 1.º classificado, (euro) 25 000; 2.º classificado, (euro) 15 000; 3.º classificado, (euro) 7 500;
+
+iii) Campeonatos da Europa - 1.º classificado, (euro) 15 000; 2.º classificado, (euro) 7 500; 3.º classificado, (euro) 3 500.
+
+b) Jogos Europeus organizados sob a égide dos Comités Olímpicos Europeus - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 5 000; 3.º classificado, (euro) 2 500;
+
+c) Universíadas - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 4 000; 3.º classificado, (euro) 2 000;
+
+d) Jogos Surdolímpicos - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 4 000; 3.º classificado, (euro) 2 000;
+
+e) Jogos Mundiais promovidos pela GAISF - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 4 000; 3.º classificado, (euro) 2 000;
+
+f) Campeonatos do Mundo de provas desportivas não olímpicas ou não paralímpicas, organizados no âmbito de federações desportivas internacionais nas quais são filiadas federações desportivas nacionais ou no âmbito das Organizações Internacionais de Desporto por Deficiên-cia (International Organisations of Sports for the Disabled) - 1.º classificado, (euro) 5 000; 2.º classificado, (euro) 2 000; 3.º classificado, (euro) 1 000.
+
+5 - Para efeitos dos números anteriores, o valor base dos prémios relativos às provas de disciplinas ou modalidades desportivas em que a classificação obtida não permita a inscrição no nível A do registo de praticantes de alto rendimento, nos termos do Decreto-Lei n.º 272/2009, de 1 de outubro, é reduzido em 50 %.
+
+6 - Para efeitos da alínea f) do n.º 4, apenas são consideradas as provas de disciplinas ou modalidades desportivas que tiverem participação de praticantes desportivos pertencentes a um número não inferior a 16 países.
+
+7 - No caso de Campeonatos do Mundo e da Europa com periodicidade, respetivamente, bienal ou anual, o valor base do prémio referido no n.º 4 é reduzido para 90 % ou 80 % do valor, com arredondamento para a unidade imediatamente inferior.
+
+8 - No caso de competição de modalidade individual em que haja lugar a classificação por equipa, o praticante desportivo não pode acumular o prémio resultante da sua classificação individual com o que for obtido em função da classificação por equipa, sendo este calculado nos termos do n.º 3.
+
+9 - A obtenção de recorde Olímpico, Paralímpico, do Mundo ou da Europa no escalão absoluto, em provas olímpicas e paralímpicas, concede a cada praticante elegível o direito a um prémio, calculado nos termos do n.º 3, acumulável com os prémios previstos no n.º 4, cujo valor base é definido nos seguintes termos:
+
+a) Recorde Olímpico, Paralímpico ou do Mundo - (euro) 15 000;
+
+b) Recorde da Europa - (euro) 10 000.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 4.º — Resultado obtido em competição de grupos de idade jovens
+
+1 - Ao praticante desportivo que obtenha uma das seguintes classificações nos Jogos Olímpicos da Juventude é concedida bolsa de estudos, acumulável com outros apoios concedidos nos termos legais, para financiamento da propina do período legal do 1.º ou do 2.º ciclo dos estudos superiores, nos termos seguintes:
+
+a) 1.º classificado - 100 % do valor da propina máxima estabelecida legalmente no ensino superior público português;
+
+b) 2.º classificado - 75 % do valor da propina máxima estabelecida legalmente no ensino superior público português;
+
+c) 3.º classificado - 50 % do valor da propina máxima estabelecida legalmente no ensino superior público português.
+
+2 - No caso de resultado obtido por equipa, o valor da bolsa de estudos atribuída a cada praticante desportivo corresponde a 50 % do valor previsto no número anterior.
+
+3 - Ao praticante que obtenha um resultado de pódio em prova olímpica, paralímpica ou respetivas provas de progressão em Campeonatos do Mundo e da Europa de grupos de idade jovens é concedida uma bolsa de estudos para financiamento da propina do 1.º ou do 2.º ciclo de estudos superiores, a qual tem por referência o valor da propina anual máxima estabelecida legalmente no ensino superior público português no ano correspondente à obtenção do resultado desportivo, nos seguintes termos:
+
+a) 1.º classificado - 100 % do valor da propina anual;
+
+b) 2.º classificado - 75 % do valor da propina anual;
+
+c) 3.º classificado - 50 % do valor da propina anual.
+
+4 - O praticante pode acumular os prémios previstos nas alíneas anteriores até ao máximo de quatro propinas anuais.
+
+5 - Os direitos previstos no presente artigo podem ser exercidos no prazo de dez anos, contado a partir da obtenção do resultado.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 5.º — Prémio ao treinador ou equipa técnica
+
+Ao conjunto dos treinadores ou equipa técnica do praticante ou do conjunto de praticantes desportivos que obtiverem classificação nos termos indicados no artigo 3.º é concedido um prémio global de 50 % do valor base do prémio correspondente a essa classificação, aplicando-se o disposto no n.º 7 do artigo 3.º nos casos aí previstos.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 6.º — Prémio aos clubes desportivos
+
+1 - Ao conjunto dos clubes desportivos que enquadram e asseguraram a formação do praticante desportivo que obteve resultado desportivo nos termos do artigo 3.º é concedido um prémio global correspondente a 60 % do valor do prémio calculado para o praticante nos termos do artigo 3.º, a repartir de acordo com os critérios fixados pela respetiva federação desportiva.
+
+2 - Ao conjunto dos clubes desportivos que enquadram e asseguraram a formação do praticante desportivo que obteve um resultado desportivo nos termos do artigo 4.º é concedido um prémio global correspondente a 35 % do valor do prémio base previsto para competições absolutas nos termos do n.º 4 do artigo 3.º, a repartir de acordo com os critérios fixados pela respetiva federação desportiva.
+
+3 - Os critérios previstos nos números anteriores devem fixar o período de formação do praticante desportivo, tendo por base a especificidade da modalidade ou disciplinas enquadradas pela respetiva federação desportiva, por forma a identificar o clube ou clubes formadores que devem ser beneficiários do referido prémio.
+
+4 - Perdem o direito ao prémio referido nos números anteriores os clubes desportivos que, no momento da obtenção do resultado desportivo, não estejam inscritos e ativos na respetiva federação desportiva.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 7.º — Prémios a árbitros, juízes, júri ou equipas de arbitragem
+
+1 - Aos árbitros, juízes, jurados ou coordenadores de equipas de arbitragem, participantes em Jogos Olímpicos, Jogos Paralímpicos e finais de provas olímpicas ou paralímpicas em Campeonatos do Mundo e da Europa ou em Jogos Europeus são concedidos prémios nos termos previstos nos números seguintes.
+
+2 - O prémio a atribuir é calculado através da fórmula seguinte, arredondada à unidade inferior:
+
+Párbitro = (3 x Pbase + Pbase x Narb)/(4 x Narb)
+
+em que:
+
+a) 'Párbitro' corresponde ao valor do prémio a conceder a cada coordenador, árbitro, juiz ou jurado elegível;
+
+b) 'Pbase' corresponde ao valor base do prémio, definido nos termos do número seguinte;
+
+c) 'Narb' corresponde ao número de elementos nacionais ou estrangeiros que participaram na equipa de arbitragem.
+
+3 - O valor base do prémio é definido nos seguintes termos:
+
+a) Jogos Olímpicos ou Paralímpicos:
+
+i) Fases intermédias, (euro) 2 500;
+
+ii) Final, (euro) 5 000.
+
+b) Final do Campeonato do Mundo, (euro) 4 000;
+
+c) Final do Campeonato da Europa, (euro) 2 500.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 8.º — Outros resultados desportivos de excelência
+
+1 - Mediante despacho do membro do Governo responsável pela área do desporto podem ser premiados outros resultados de excelência desportiva, no âmbito deste diploma, mediante proposta fundamentada da respetiva federação e parecer favorável do plenário do Conselho Nacional do Desporto.
+
+2 - As propostas que incluam atletas com deficiência devem ser objeto de parecer prévio do Instituto Nacional para a Reabilitação, I. P. (INR, I.
+
+3 - No caso de resultados de excelência desportiva obtidos em competições para cidadãos com deficiência, o prémio referido no número um é atribuído mediante despacho conjunto dos membros do Governo responsáveis pela área do desporto e da solidariedade e da segurança social.
+
+4 - O valor do prémio a atribuir nos casos previstos nos números anteriores é definido em função do número de países e de praticantes que disputam a respetiva competição desportiva, bem como do índice de penetração da modalidade em Portugal e no mundo, não podendo ultrapassar os estabelecidos na alínea f), do n.º 4 do artigo 3.º.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 9.º — Processo de atribuição dos prémios
+
+1 - Os prémios previstos na presente portaria são solicitados pela federação desportiva respetiva ao IPDJ, I. P., em formulário próprio disponibilizado para o efeito, constando ainda desta solicitação, no caso dos praticantes desportivos, o nome do treinador ou dos membros da equipa técnica e os clubes que enquadram e asseguraram a formação do praticante.
+
+2 - No caso de classificações obtidas nos eventos multidesportivos previstos no artigo 3.º, não existindo federação desportiva nacional que enquadre a modalidade desportiva em causa, podem o Comité Olímpico de Portugal ou o Comité Paralímpico de Portugal realizar a solicitação prevista no número anterior, com as devidas adaptações.
+
+3 - Os prémios referentes a classificações obtidas nas Universíadas devem ser solicitados pela federação desportiva que desenvolve no território português o desporto universitário.
+
+4 - A solicitação referida nos números anteriores deve ser efetuada até ao dia 31 de dezembro do ano seguinte ao da obtenção do respetivo resultado desportivo, sob pena de caducidade.
+
+5 - Os praticantes propostos pelas federações desportivas para a atribuição dos prémios previstos na presente portaria têm de observar o disposto no artigo 4.º do Decreto-Lei n.º 272/2009, de 1 de outubro.
+
+6 - Além de cumprirem a obrigação prevista no número anterior, os treinadores devem possuir um título profissional válido para o exercício da atividade de treinador de desporto em território nacional, nos termos da Lei n.º 40/2012, de 28 de agosto.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 10.º — Responsabilidade financeira pelos prémios
+
+O pagamento dos prémios no âmbito da presente portaria é da responsabilidade do IPDJ, I. P., ou, no caso de resultado obtido em competição destinada a cidadãos com deficiência, da responsabilidade conjunta do IPDJ, I. P., e do INR, I. P., em partes iguais.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 332-A/2018 - Diário da República n.º 249/2018, 1º Suplemento, Série I de 2018-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/332-a-2018-117506378), em vigor a partir de 2018-12-28*
+
+## Artigo 11.º — Norma revogatória
+
+São revogadas a portaria n.º 393/97, de 17 de junho, e a portaria n.º 211/98, de 3 de abril.
+
+## Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+Em 15 de abril de 2014.
+
+## Assinatura
+
+O Secretário de Estado do Desporto e Juventude, Emídio Guerreiro. - O Secretário de Estado da Solidariedade e da Segurança Social, Agostinho Correia Branquinho.

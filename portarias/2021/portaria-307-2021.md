@@ -1,0 +1,67 @@
+---
+title: "Portaria n.º 307/2021"
+identifier: "Portaria n.º 307/2021"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2021-12-17
+last_amended: 2022-12-09
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-176075727"
+retrieved: 2026-10-11
+summary: "Determina a idade normal de acesso à pensão de velhice em 2023"
+issuer: "Trabalho, Solidariedade e Segurança Social"
+series: "I"
+eli: "https://data.dre.pt/eli/port/307/2021/p/cons/20221209/pt/html"
+dre_id: 176075693
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2021/12/24300/0022400225.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 307/2021
+
+Portaria n.º 307/2021
+
+de 17 de dezembro
+
+Sumário: Determina a idade normal de acesso à pensão de velhice em 2023.
+
+O Decreto-Lei n.º 187/2007, de 10 de outubro, na sua redação atual, estabelece no n.º 3 do artigo 20.º, que a idade normal de acesso à pensão de velhice após 2014 varia em função da esperança média de vida aos 65 anos de idade verificada entre o segundo e terceiro ano anteriores ao início da pensão, de acordo com a fórmula nele prevista.
+
+A idade normal de acesso à pensão deve ser publicitada em portaria do membro do Governo responsável pela área da solidariedade e segurança social, no segundo ano imediatamente anterior ao ano a que se reporta, em conformidade com o disposto no n.º 9 do artigo 20.º do referido decreto-lei.
+
+Por outro lado, o fator de sustentabilidade previsto no artigo 35.º do citado decreto-lei, elemento do cálculo das pensões de velhice do regime geral de segurança social, tem em conta a evolução da esperança média de vida aos 65 anos entre o ano 2000 e o ano anterior ao do início da pensão.
+
+Tendo sido apurado e publicitado pelo Instituto Nacional de Estatística o indicador da esperança média de vida aos 65 anos de idade relativo ao ano de 2020, está o Governo em condições de determinar o fator de sustentabilidade a vigorar durante o ano de 2022, bem como a idade normal de acesso à pensão de velhice a vigorar em 2023.
+
+Assim, considerando o indicador da esperança média de vida aos 65 anos, verificado em 2000 e em 2021, o fator de sustentabilidade aplicável às pensões de velhice iniciadas em 2022 é de 0,8594.
+
+Por último, tendo em conta os efeitos da evolução da esperança média de vida aos 65 anos verificada entre 2020 e 2021 na aplicação da fórmula prevista no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, a idade normal de acesso à pensão em 2023 é 66 anos e 4 meses.
+
+Assim:
+
+Manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+## Artigo 1.º — Idade normal de acesso à pensão de velhice em 2023
+
+A idade normal de acesso à pensão de velhice do regime geral de segurança social em 2023, nos termos do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, na sua redação atual, é 66 anos e 4 meses.
+
+## Artigo 2.º — Fator de sustentabilidade
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 292/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09, em vigor a partir de 2022-12-14, produz efeitos a partir de 2023-01-01*
+
+## Artigo 3.º — Norma revogatória
+
+É revogada a Portaria n.º 30/2020, de 31 de janeiro, e o artigo 2.º da Portaria n.º 53/2021, de 10 de março.
+
+## Artigo 4.º — Produção de efeitos
+
+A presente portaria produz efeitos a partir de 1 de janeiro de 2022.
+
+## Assinatura
+
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 14 de dezembro de 2021.
+
+114819415

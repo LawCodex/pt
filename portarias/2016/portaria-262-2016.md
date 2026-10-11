@@ -1,0 +1,99 @@
+---
+title: "Portaria n.º 262/2016"
+identifier: "Portaria n.º 262/2016"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2016-10-07
+last_amended: 2018-06-29
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-75740871"
+retrieved: 2026-10-11
+summary: "Regulamenta a remuneração específica atribuída às farmácias, por dispensa de medicamentos comparticipados, em função da redução dos preços de referência"
+issuer: "Finanças e Saúde"
+series: "I"
+eli: "https://data.dre.pt/eli/port/262/2016/p/cons/20180629/pt/html"
+dre_id: 75481291
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2016/10/19300/0351403515.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 262/2016
+
+Portaria n.º 262/2016
+
+de 7 de outubro
+
+O Decreto-Lei n.º 62/2016, de 12 de setembro, prevê que por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde pode ser atribuída às farmácias uma remuneração específica por embalagem, na dispensa de medicamentos comparticipados, promovendo uma utilização racional e mais custo-efetiva daqueles medicamentos.
+
+Neste enquadramento, a presente portaria prevê a atribuição de uma remuneração específica às farmácias pela dispensa de embalagens de medicamentos comparticipados, designadamente os inseridos em grupos homogéneos com preço igual ou inferior ao 4.º preço mais baixo.
+
+Assim, ao abrigo do artigo 3.º do Decreto-Lei n.º 62/2016, de 12 de setembro, manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente Portaria regula a remuneração específica às farmácias por dispensa de medicamentos comparticipados em função da redução dos preços de referência.
+
+## Artigo 2.º — Remuneração Específica
+
+1 - É atribuída às farmácias uma remuneração específica associada ao seu contributo na redução média do preço de referência, por descida do preço de venda ao público (PVP) dos medicamentos inseridos em grupos homogéneos.
+
+2 - Para efeitos do disposto no número anterior, por cada embalagem de medicamentos dispensada a preço igual ou inferior ao 4.º preço mais baixo do grupo homogéneo, a farmácia é remunerada em 0,35 (euro), valor que inclui o IVA à taxa aplicável ao medicamento dispensado.
+
+3 - A redução média do preço de referência, por descida do preço de venda ao público (PVP) dos medicamentos inseridos em grupos homogéneos é aferida por comparação dos valores de cada trimestre com o trimestre homólogo, para efeitos do disposto no artigo seguinte.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188/2018 - Diário da República n.º 124/2018, Série I de 2018-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/188-2018-115609038), em vigor a partir de 2018-07-01*
+
+## Artigo 3.º — Apuramento e processamento
+
+1 - Para efeitos do disposto no artigo anterior, trimestralmente, é apurado o montante de poupança (S) alcançada pelo Ministério da Saúde através da redução do preço de referência e os custos (C) em que incorreu com os pagamentos previstos no n.º 2 do mesmo artigo.
+
+2 - A poupança referida no número anterior é apurada de acordo com a seguinte fórmula:
+
+S = (somatório){[(PR t(índice h) * Taxa Comparticipação t(índice n)) - (PR t(índice n) * Taxa Comparticipação t(índice n))] * Embalagens t(índice n)}
+
+em que:
+
+(somatório) - Grupos homogéneos em vigor simultaneamente no trimestre em análise (t(índice n) e no trimestre homólogo (t(índice h));
+
+PR t(índice n) - Preço de referência do medicamento em vigor no trimestre em análise;
+
+PR t(índice h) - Preço de referência do medicamento em vigor no trimestre homólogo do ano anterior, face ao trimestre em análise;
+
+Taxa Comparticipação t(índice n) - Comparticipação do Estado sobre o medicamento dispensado ao utente, no trimestre em análise;
+
+Embalagens t(índice n) - N.º de embalagens dispensadas do medicamento no trimestre em análise.
+
+3 - Os custos referidos no n.º 1 correspondem ao somatório da remuneração específica paga às farmácias, no trimestre em análise (tn), de acordo com os valores constantes do n.º 2 do artigo 2.º, com exclusão do IVA.
+
+4 - No caso de se verificar que a diferença entre a poupança e os custos é negativa (S-C), no mês seguinte ao apuramento daquela diferença haverá um desconto automático, que será abatido aos montantes devidos pelo Ministério da Saúde pela dispensa de medicamentos em farmácia apurados pelo Centro de Conferência de Faturas.
+
+5 - O desconto a que se refere o número anterior será proporcional à remuneração específica recebida por cada farmácia no período em causa.
+
+6 - As farmácias emitem as notas de crédito necessárias à regularização contabilística do desconto previsto no número anterior no prazo máximo de um mês após a efetivação do desconto.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188/2018 - Diário da República n.º 124/2018, Série I de 2018-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/188-2018-115609038), em vigor a partir de 2018-07-01*
+
+## Artigo 4.º — Avaliação e monitorização
+
+A avaliação e monitorização da aplicação do disposto na presente portaria são realizadas por uma Comissão de Acompanhamento criada por despacho do membro do Governo responsável pela área da saúde, à qual compete garantir o cumprimento do disposto no artigo 3.º, bem como pronunciar-se sobre questões de caráter técnico e propor iniciativas conducentes ao adequado cumprimento do disposto neste diploma.
+
+## Artigo 5.º — Pagamento
+
+A faturação, pelas farmácias, da remuneração específica prevista no n.º 2 do artigo 2.º e o respetivo pagamento pelo Serviço Nacional de Saúde efetuam-se nos mesmos termos, prazos e condições da faturação e pagamento das comparticipações nos preços dos medicamentos, de acordo com a legislação em vigor.
+
+## Artigo 6.º — Norma revogatória
+
+É revogado o n.º 2 do artigo 12.º da Portaria n.º 195-C/2015, de 30 de junho.
+
+## Artigo 7.º — Vigência e produção de efeitos
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2017.
+
+2 - O regime previsto na presente portaria pode vir a ser objeto de revisão em 2018, em função da avaliação da sua implementação em 2017.
+
+## Assinatura
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 3 de outubro de 2016. - O Ministro da Saúde, Adalberto Campos Fernandes, em 27 de setembro de 2016.

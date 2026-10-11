@@ -1,0 +1,102 @@
+---
+title: "Portaria n.º 101/2022"
+identifier: "Portaria n.º 101/2022"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2022-02-22
+last_amended: 2022-04-08
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-181828430"
+retrieved: 2026-10-11
+summary: "Aprova a delimitação dos perímetros de proteção das captações designadas por Herdade da Minhota 1 e Herdade da Minhota 2, localizadas na União de Freguesias de Aljustrel e Rio de Moinhos, concelho de Aljustrel"
+issuer: "Ambiente e Ação Climática"
+series: "I"
+dre_id: 179503384
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2022/02/03700/0000300005.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 101/2022
+
+Portaria n.º 101/2022
+
+de 22 de fevereiro
+
+Sumário: Aprova a delimitação dos perímetros de proteção das captações designadas por Herdade da Minhota 1 e Herdade da Minhota 2, localizadas na União de Freguesias de Aljustrel e Rio de Moinhos, concelho de Aljustrel.
+
+O Decreto-Lei n.º 382/99, de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.
+
+Os perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração das águas subterrâneas, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água com origem nas captações de águas subterrâneas em situações de poluição acidental destas águas.
+
+A delimitação dos perímetros de proteção das captações de água subterrânea destinadas ao abastecimento público de água para consumo humano está sujeita às regras estabelecidas no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, no artigo 43.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, na sua redação atual, e no Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, bem como ao disposto na Portaria n.º 702/2009, de 6 de julho, que estabelece os termos da delimitação dos perímetros de proteção das captações destinadas ao abastecimento público de água para consumo humano, bem como os respetivos condicionamentos.
+
+A Agência Portuguesa do Ambiente, I. P., apresentou, nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, uma proposta de delimitação dos perímetros de proteção das captações designadas por Herdade da Minhota 1 e Herdade da Minhota 2, localizadas no concelho de Aljustrel, e respetivos condicionamentos, tendo por base as propostas e os estudos próprios que lhe foram apresentados pelo município de Aljustrel, entidade gestora das referidas captações de água subterrânea destinada ao abastecimento público da população de Carregueiro.
+
+As captações cujo perímetro de proteção ora se aprova constituem exceção ao regime de exclusividade de abastecimento de água no concelho de Aljustrel, detido pela empresa AgdA - Águas Públicas do Alentejo, S. A., ao abrigo de contrato de concessão, por se destinar ao abastecimento de água de um aglomerado populacional que não é sede de freguesia, por ter população residente inferior a 100 habitantes, e por se localizar a mais de 500 m de conduta de abastecimento de água.
+
+Assim, nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, e no exercício das competências delegadas pelo Ministro do Ambiente e da Ação Climática nos termos da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 12149-A/2019, de 17 de dezembro, publicado no Diário da República, 2.ª série, n.º 243, suplemento, de 18 de dezembro de 2019, na sua redação atual, manda o Governo, pela Secretária de Estado do Ambiente, o seguinte:
+
+## Artigo 1.º — Delimitação do perímetro de proteção
+
+1 - É aprovada a delimitação dos perímetros de proteção das captações designadas por Herdade da Minhota 1 e Herdade da Minhota 2, localizadas na União de Freguesias de Aljustrel e Rio de Moinhos, no concelho de Aljustrel, nos termos dos artigos seguintes.
+
+2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.
+
+## Artigo 2.º — Zona de proteção imediata
+
+1 - A zona de proteção imediata respeitante aos perímetros de proteção das captações mencionadas no n.º 1 do artigo anterior corresponde à área delimitada através dos polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo ii à presente portaria, que dela faz parte integrante.
+
+2 - É interdita qualquer instalação ou atividade nas zonas de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação.
+
+3 - O terreno abrangido pelas zonas de proteção imediata deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação.
+
+## Artigo 3.º — Representação das zonas de proteção
+
+A planta de localização respeitante aos perímetros de proteção das captações mencionadas no n.º 1 do artigo 1.º consta do anexo iii à presente portaria, que dela faz parte integrante.
+
+- *Retificado pelo/a [Declaração de Retificação n.º 14/2022 - Diário da República n.º 70/2022, Série I de 2022-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2022-181830000)*
+
+## Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 17 de fevereiro de 2022.
+
+## Anexo I (a que se refere o n.º 2 do artigo 1.º)
+
+Coordenadas das captações
+
+(ver documento original)
+
+Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+
+## Anexo II (a que se refere o n.º 1 do artigo 2.º)
+
+Zonas de proteção imediata
+
+Captação Herdade da Minhota 1
+
+(ver documento original)
+
+Captação Herdade da Minhota 2
+
+(ver documento original)
+
+## Anexo III (a que se refere o artigo 3.º)
+
+Planta de localização das zonas de proteção
+
+Extrato de BaseMap - World Imagery da ESRI
+
+Série M888 - 1:25 000 (IGeoE)
+
+(ver documento original)
+
+115038844
+
+- *Retificado pelo/a [Declaração de Retificação n.º 14/2022 - Diário da República n.º 70/2022, Série I de 2022-04-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2022-181830000)*

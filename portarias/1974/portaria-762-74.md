@@ -1,0 +1,43 @@
+---
+title: "Portaria n.º 762/74"
+identifier: "Portaria n.º 762/74"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 1974-11-25
+status: in_force
+source: "https://diariodarepublica.pt/dr/detalhe/portaria/762-1974-466186"
+retrieved: 2026-10-11
+summary: "Estabelece a constituição do quadro do pessoal auxiliar da Embaixada de Portugal em Berlim, a partir de 1 de Novembro de 1974"
+issuer: "Ministério dos Negócios Estrangeiros - Direcção-Geral dos Serviços Centrais"
+series: "I"
+dre_id: 466186
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/1974/11/27400/14491450.pdf"
+text_version: "original (no amendments consolidated by DRE)"
+---
+
+# Portaria n.º 762/74
+
+Portaria n.º 762/74
+
+de 25 de Novembro
+
+Manda o Governo Provisório da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º do artigo 158.º do Regulamento do mesmo Ministério, com a nova redacção dada pelo Decreto n.º 433/72, de 3 de Novembro, que o quadro do pessoal auxiliar da Embaixada de Portugal em Berlim seja constituído, a partir de 1 de Novembro de 1974, da seguinte forma:
+
+1 chanceler;
+
+1 tradutor;
+
+2 secretários de 2.ª classe;
+
+1 contínuo de 1.ª classe;
+
+1 contínuo de 2.ª classe;
+
+1 servente;
+
+2 empregados.
+
+Ministério dos Negócios Estrangeiros, 21 de Outubro de 1974. - Pelo Ministro dos Negócios Estrangeiros, Joaquim Jorge de Pinho Campinos, Secretário de Estado dos Negócios Estrangeiros.

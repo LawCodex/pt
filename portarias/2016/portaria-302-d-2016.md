@@ -1,0 +1,283 @@
+---
+title: "Portaria n.º 302-D/2016"
+identifier: "Portaria n.º 302-D/2016"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2016-12-02
+last_amended: 2018-02-27
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-108002104"
+retrieved: 2026-10-11
+summary: "Estabelece as listas das jurisdições participantes, prevista no n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016 , de 11 de outubro"
+issuer: "Finanças"
+series: "I"
+eli: "https://data.dre.pt/eli/port/302-d/2016/p/cons/20180227/pt/html"
+dre_id: 105300341
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2016/12/23101/0001100013.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 302-D/2016
+
+Portaria n.º 302-D/2016
+
+de 2 de dezembro
+
+O Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, que transpôs para o ordenamento jurídico nacional a Diretiva 2014/107/UE, do Conselho, de 9 de dezembro de 2014, que altera a Diretiva 2011/16/UE e consagrou as normas jurídicas para a implementação da Norma Comum de Comunicação, introduziu, através de alterações ao Decreto-Lei n.º 61/2013, de 10 de maio, novas regras aplicáveis ao regime de acesso e troca automática de informações financeiras no domínio da fiscalidade.
+
+Pretende-se promover um maior alargamento no acesso e troca automática de informações para finalidades fiscais, incidente sobre dados de contas financeiras, tomando como base a norma mundial única desenvolvida pela OCDE, comummente designada como Common Reporting Standard [adiante designada (CRS) - Norma Comum de Comunicação], a qual, por sua vez, se constituiu como matriz para as modificações introduzidas nos instrumentos de cooperação administrativa existentes ao nível da União Europeia no que respeita à troca automática de informações obrigatória no domínio da fiscalidade.
+
+Com este regime visa-se o estabelecimento de um mecanismo geral de acesso e troca automática de informações financeiras no domínio da fiscalidade e a garantia de uma cooperação administrativa mútua mais ampla, quer com outros Estados-Membros da União Europeia, quer com outras jurisdições participantes com os quais Portugal deva efetuar troca automática de informação de contas financeiras no âmbito do Acordo Multilateral das Autoridades Competentes para a Troca Automática de Informações de Contas Financeiras, celebrado ao abrigo da Convenção sobre a Assistência Mútua em Matéria Fiscal conforme alterada pelo Protocolo de Alteração à Convenção sobre a Assistência Mútua em Matéria Fiscal.
+
+Nos termos do n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, a lista das jurisdições participantes, com expressa menção àquelas que reúnam as condições previstas nos n.os 4 e 5, consta de portaria aprovada pelo membro do Governo responsável pela área das finanças.
+
+Ora, de acordo com os n.os 4 e 5 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, para a realização da troca automática de informação deve estar garantido que as jurisdições destinatárias da troca automática de informação asseguram uma proteção adequada de dados pessoais. Nos casos em que não tenham sido proferidas pela Comissão Europeia ou pela Comissão Nacional de Proteção de Dados decisões sobre a adequação do nível de proteção de jurisdições não integrantes da União Europeia, considera-se que existe um nível de proteção adequado quando as autoridades competentes da jurisdição destinatária assegurem mecanismos suficientes de garantia de proteção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, sujeito, em qualquer caso, à verificação da Comissão Nacional de Proteção de Dados.
+
+A presente portaria tem, assim, como objetivo aprovar a lista das jurisdições participantes, prevista no n.º 6 do artigo 2.º do Decreto-Lei n.º 642016, de 11 de outubro de 2016.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente portaria estabelece a lista das jurisdições participante, prevista no n.º 6 do artigo 2.º do Decreto-Lei n.º 64/2016, de 11 de outubro de 2016.
+
+## Artigo 2.º — Jurisdição participante
+
+1 - Para efeitos do conceito de «Jurisdição participante» previsto no n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, na redação dada pelo Decreto-Lei n.º 64/2016, de 11 de outubro de 2016, considera-se que podem ser como tal qualificáveis os seguintes países ou jurisdições:
+
+a) Os Estados-Membros da União Europeia e os territórios aos quais seja aplicável o Tratado sobre o Funcionamento da União Europeia, bem como outras jurisdições que implementem a Norma Comum de Comunicação ao abrigo de instrumento jurídico da União Europeia;
+
+b) Quaisquer outros países ou territórios relativamente às quais se pretende que o Acordo Multilateral das Autoridades Competentes (MCAA) se aplique, e sobre as quais deve ser aferido o nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.
+
+c) Quaisquer outros países e territórios em relação aos quais exista obrigação de troca automática de informações de contas financeiras nos termos dos artigos 4.º e seguintes e dos anexos ii e iii do Decreto-Lei n.º 64/2016, de 11 de outubro, decorrente de acordos bilaterais entre autoridades competentes baseados em convenção ou outro instrumento jurídico internacional celebrado entre essas jurisdições e a República Portuguesa, sem prejuízo da aferição do nível de proteção adequada de dados pessoais e da confidencialidade, em conformidade com os n.os 1 a 3 do artigo 3.º da presente portaria.
+
+2 - A lista definida no n.º 4 do artigo 3.º da presente portaria considera-se automaticamente atualizada, sendo válida para os mesmos efeitos, com a inclusão de outros países e territórios na lista disponibilizada no sítio eletrónico oficial da Organização para a Cooperação e Desenvolvimento Económico (OCDE) pelo Secretariado do órgão de coordenação a que se refere o n.º 3 do artigo 24.º da Convenção sobre a Assistência Mútua em Matéria Fiscal, conforme alterada pelo respetivo Protocolo de Alteração, em função dos acordos que venham a ser celebrados.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2018 - Diário da República n.º 41/2018, Série I de 2018-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/58-2018-114771733), em vigor a partir de 2018-02-28*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15*
+
+## Artigo 3.º — Lista das jurisdições participantes
+
+1 - Para a realização da troca automática de informação com as jurisdições mencionadas no artigo anterior deve estar garantido que as jurisdições destinatárias da troca automática de informação asseguram uma proteção adequada de dados pessoais e da confidencialidade.
+
+2 - O nível de proteção adequada a que se refere o número anterior é aferido pela aplicação das decisões proferidas pela Comissão Europeia, disponibilizadas no sítio eletrónico oficial http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm, bem como pela Comissão Nacional de Proteção de Dados.
+
+3 - Nos casos em que não tenham sido proferidas pela Comissão Europeia ou pela Comissão Nacional de Proteção de Dados decisões sobre a adequação do nível de proteção de jurisdições não integrantes da União Europeia, considera-se que existe um nível de proteção adequado quando as autoridades competentes da jurisdição destinatária assegurem mecanismos suficientes de garantia de proteção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, sujeito, em qualquer caso, à verificação da Comissão Nacional de Proteção de Dados.
+
+4 - Para todos os efeitos legais, e em conformidade com o previsto no presente artigo, a lista das jurisdições participantes é a seguinte:
+
+1) Albânia;
+
+2) Andorra;
+
+3) Anguila;
+
+4) Antígua e Barbuda;
+
+5) Argentina;
+
+6) Aruba;
+
+7) Austrália;
+
+8) Áustria;
+
+9) Azerbaijão:
+
+10) Bahamas;
+
+11) Bahrain;
+
+12) Barbados;
+
+13) Bélgica;
+
+14) Belize;
+
+15) Ilhas Bermudas;
+
+16) Brasil;
+
+17) Ilhas Virgens Britânicas;
+
+18) Bulgária;
+
+19) Canadá;
+
+20) Ilhas Caimão;
+
+21) Chile;
+
+22) China;
+
+23) Colômbia;
+
+24) Costa Rica;
+
+25) Ilhas Cook;
+
+26) Croácia;
+
+27) Curaçau;
+
+28) Chipre;
+
+29) República Checa;
+
+30) Dinamarca;
+
+31) Estónia;
+
+32) Ilhas Faroé;
+
+33) Finlândia;
+
+34) França:
+
+35) Alemanha;
+
+36) Gana;
+
+37) Gibraltar;
+
+38) Grécia;
+
+39) Gronelândia;
+
+40) Grenada;
+
+41) Guernsey;
+
+42) Hong Kong;
+
+43) Hungria;
+
+44) Islândia;
+
+45) Índia;
+
+46) Indonésia;
+
+47) Irlanda;
+
+48) Israel;
+
+49) Ilha de Man;
+
+50) Itália;
+
+51) Japão;
+
+52) Jersey;
+
+53) Coreia;
+
+54) Koweit;
+
+55) Letónia;
+
+56) Líbano;
+
+57) Liechtenstein;
+
+58) Lituânia;
+
+59) Luxemburgo;
+
+60) Malásia;
+
+61) Malta;
+
+62) Ilhas Marshall;
+
+63) Ilhas Maurícias;
+
+64) México;
+
+65) Mónaco;
+
+66) Montserrat;
+
+67) Nauru;
+
+68) Holanda;
+
+69) Nova Zelândia;
+
+70) Nigéria;
+
+71) Niue;
+
+72) Noruega;
+
+73) Panamá;
+
+74) Paquistão;
+
+75) Polónia;
+
+76) Qatar;
+
+77) Roménia;
+
+78) Federação da Rússia;
+
+79) São Cristóvão e Nevis;
+
+80) Santa Lúcia;
+
+81)São Vicente e Granadinas;
+
+82) Samoa;
+
+83) São Marino;
+
+84) Arábia Saudita;
+
+85) Seicheles;
+
+86) Singapura;
+
+87) Sint Maarten;
+
+88) República Eslovaca;
+
+89) Eslovénia;
+
+90) África do Sul;
+
+91) Espanha;
+
+92) Suécia;
+
+93) Suíça;
+
+94) Turquia;
+
+95) Ilhas Turcos e Caicos;
+
+96) Emirados Árabes Unidos;
+
+97) Reino Unido;
+
+98) Uruguai.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 58/2018 - Diário da República n.º 41/2018, Série I de 2018-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/58-2018-114771733), em vigor a partir de 2018-02-28*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 255/2017 - Diário da República n.º 156/2017, Série I de 2017-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/255-2017-108002087), em vigor a partir de 2017-08-15*
+
+## Artigo 4.º — Existência de um nível de proteção adequado
+
+No caso de jurisdições a que se refere a alínea b) do n.º 6 do artigo 4.º-G do Decreto-Lei n.º 61/2013, de 10 de maio, a Autoridade Tributária e Aduaneira não procede ao envio, mediante troca automática de informações de contas financeiras, sempre que da avaliação sobre os níveis de proteção de dados e confidencialidade efetuada pelo Fórum Global sobre Transparência e Troca de Informações para Efeitos Fiscais resulte que a jurisdição destinatária não assegura um nível de proteção adequado.
+
+## Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+## Assinatura
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 30 de novembro de 2016.

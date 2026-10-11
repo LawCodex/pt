@@ -1,0 +1,564 @@
+---
+title: "Portaria n.º 419-A/2009"
+identifier: "Portaria n.º 419-A/2009"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2009-04-17
+last_amended: 2019-02-21
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-116457551"
+retrieved: 2026-10-11
+summary: "Regula o modo de elaboração, contabilização, liquidação, pagamento, processamento e destino das custas processuais, multas e outras penalidades"
+issuer: "Ministérios das Finanças e da Administração Pública e da Justiça"
+series: "I"
+eli: "https://data.dre.pt/eli/port/419-a/2009/p/cons/20190221/pt/html"
+dre_id: 288868
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2009/04/07501/0000200009.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 419-A/2009
+
+Portaria n.º 419-A/2009
+
+de 17 de Abril
+
+O Decreto-Lei n.º 34/2008, de 26 de Fevereiro, procedeu a uma profunda reforma do sistema de pagamento das custas processuais, mediante o qual se promoveram os objectivos de simplicidade e celeridade no processamento das contas judiciais.
+
+O aludido decreto-lei que aprovou o novo Regulamento das Custas Processuais foi posteriormente alterado pela Lei n.º 43/2008, de 27 de Agosto, pelo Decreto-Lei n.º 181/2008, de 28 de Agosto, e pela Lei n.º 64-A/2008, de 31 de Dezembro, de forma a conjugar os calendários das medidas essenciais para a melhoria do sistema de justiça com a entrada em vigor do novo Regulamento das Custas Processuais, com efeitos a 20 de Abril de 2009.
+
+Esta importante reforma tem entre os seus objectivos uma redução sustentada das taxas de justiça a pagar, permitir uma maior utilização das ferramentas informáticas disponíveis na elaboração das contas judiciais, uma melhor compreensão por parte do cidadão dos montantes pagos em tribunal e aumentar a celeridade no sistema de cálculo dos pagamentos dos tribunais.
+
+O sistema que se cria com esta regulamentação das custas processuais é mais inteligível para o cidadão, permite maior rapidez na actualização do software e dos montantes a pagar e alarga a possibilidade do pagamento a várias instituições financeiras.
+
+É um sistema que permite a qualquer pessoa o pagamento de taxa de justiça ou de qualquer montante devido ao tribunal através do documento único de cobrança judicial.
+
+É um sistema que vem modernizar o pagamento das custas, através da obrigatoriedade - em certos casos - do pagamento pelos meios electrónicos para pessoas colectivas, através da obrigatoriedade da indicação do número de identificação bancária de forma a aumentar a celeridade dos reembolsos e pagamentos devidos pelo tribunal.
+
+É um sistema que concretiza a implementação das medidas de descongestionamento para a litigância de massa, através da aplicação de uma taxa de justiça especial para utilizadores frequentes e de uma taxa sancionatória excepcional para actos dilatórios. Permitindo desta forma, uma maior responsabilização da parte vencida à parte vencedora face às despesas que esta última teve com honorários dos seus advogados.
+
+É um sistema que concretiza uma aposta na conciliação das partes em tribunal, através do alargamento das situações de conversão dos montantes de taxa de justiça paga em encargos do processo, incentivando-se que as partes desavindas acordem na resolução do litígio.
+
+É um sistema que permite uma redução da taxa de justiça às partes que optem por utilizar os recentes meios electrónicos colocados à disposição.
+
+É um sistema que vem clarificar o sistema de pagamento dos encargos e procede a sua adequação à complexidade processual.
+
+É um sistema que vem permitir uma maior celeridade processual, permitindo a informatização de um conjunto de procedimentos que até à data vinham sendo realizados manualmente pelos oficiais de justiça. Racionaliza-se os recursos humanos e permite-se que estes ganhem mais tempo para outras actividades processuais.
+
+Neste sentido, a implementação de um novo sistema informático de gestão das custas importa a previsão de novas regras de elaboração e processamento da conta do processo, assente numa lógica de simplificação e automatização dos procedimentos.
+
+Para o efeito, até à data, o pagamento por sistema de Multibanco e Homebanking, apesar de reconhecidamente simples, não permitia uma clara identificação do tipo de processo que se encontrava a pagamento e das particularidades que o sistema exigia quando era necessário realizar pagamentos em determinados processos, nomeadamente, entre outros, nos processos de família e menores, administrativos ou tributários.
+
+Clarificam-se disposições susceptíveis de criar confusão como sucedia até então com os incidentes sancionatórios. Nesta medida, o Código das Custas Judiciais permitia no seu artigo 16.º que o juiz fixasse uma condenação a título de incidente num vasto e indefinido conjunto de situações, situação que agora se pretende acautelar com a taxa sancionatória excepcional que compreende um conjunto mais restrito de requisitos que terão de ser preenchidos para que esta taxa possa ser aplicada, podendo sempre ser susceptível de recurso de instância.
+
+A presente reforma procede ainda à actualização dos montantes auferidos pelos peritos, tradutores, interpretes e testemunhas pela sua colaboração com o sistema judicial.
+
+Com a substituição do Código das Custas Judiciais, será também substituído o sistema informático de processamento da conta de custas, com a aplicação de um novo modelo de gestão processual.
+
+De acordo com o novo modelo de gestão processual da conta do processo, no Regulamento das Custas Processuais são apenas tratadas as questões fundamentais do sistema de responsabilidade e pagamento das custas, tendo sido remetidas diversas matérias para a presente portaria.
+
+Uma dessas matérias diz respeito ao destino das quantias cobradas pelos tribunais e a utilização dos meios informáticos.
+
+Por fim, tendo em conta o difícil ciclo económico que o País atravessa, permite-se que o primeiro pagamento de taxa de justiça possa ser diferido em duas prestações até um prazo 90 dias, por um período transitório até 31 de Dezembro de 2010.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, ao abrigo do disposto no n.º 7 do artigo 4.º, nos n.os 5 e 10 do artigo 22.º, no n.º 5 do artigo 29.º, no n.º 3 do artigo 30.º e no n.º 8 do artigo 32.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de Fevereiro, e no artigo 20.º do mesmo diploma, alterado pela Lei n.º 43/2008, de 27 de Agosto, pelo Decreto-Lei n.º 181/2008, de 28 de Agosto, e pela Lei n.º 64A/2008, de 31 de Dezembro:
+
+## Capítulo I — Elaboração, contabilização e processamento da conta
+
+### Artigo 1.º — Âmbito
+
+O disposto na presente portaria regula o modo de elaboração, contabilização, liquidação, pagamento, processamento e destino das custas processuais, multas e outras penalidades.
+
+### Artigo 2.º — Elaboração da conta
+
+A conta é, em regra, elaborada pela secção de processo, podendo, no entanto, por despacho do diretor-geral da Administração da Justiça, ser fixada de modo diferente.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Artigo 3.º — Sistema informático
+
+1 - A elaboração da conta de custas é realizada por sistema informático que, nos termos do Regulamento das Custas Processuais (RCP), produzirá toda a informação relevante para a identificação do processo e das partes ou sujeitos processuais, podendo ser estabelecido um mecanismo de importação ou partilha de informação com outros sistemas informáticos de gestão processual.
+
+2 - (Revogado).
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Artigo 4.º — Processamento da conta
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+### Artigo 5.º — Conta provisória
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+### Artigo 6.º — Créditos e débitos da conta
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - São incluídas na conta como débitos as indemnizações e contribuições devidas a instituições de segurança e previdência social relativas a retribuições salariais depositadas em juízo, quando o respectivo pagamento não estiver comprovado por documento junto ao processo.
+
+4 - Nas execuções emergentes de processos do foro laboral, o crédito exequendo que represente o pagamento de trabalho prestado por conta de outrem tem preferência sobre os créditos de contribuições de instituições de segurança e previdência social.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Artigo 7.º — Conta
+
+1 - Findo o processo e registados todos os movimentos contabilísticos, é elaborada a conta no sistema informático, obtendo-se o valor a pagar ou a receber pelas partes, encerrando com menção da data e identificação do funcionário que a elaborou.
+
+2 - Sempre que se mostre necessário, a secção de processos procede aos pagamentos de harmonia com a ordem de preferência referida no n.º 2 do artigo 34.º do RCP.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - Os processos cujas contas apenas impliquem estornos são lançados nos cinco dias posteriores ao termo do prazo para a reclamação da conta.
+
+6 - Quando ocorra a deserção da instância, compete às partes, nos termos legais, solicitar a elaboração da conta.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+- *Alterado pelo/a Artigo 6.º do/a [Portaria n.º 200/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/200-2011-287775), em vigor a partir de 2011-05-25, produz efeitos a partir de 2011-05-13*
+
+### Artigo 7.º-A — Dispensa da conta
+
+Nos casos em que ocorra dispensa da conta, nos termos do n.º 1 do artigo 29.º do RCP, a secretaria deve documentar no processo a verificação dos respetivos pressupostos.
+
+- *Aditado pelo/a Artigo 2.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+## Capítulo II — Pagamentos
+
+### Secção I — Regras gerais
+
+#### Artigo 8.º — Pagamento de taxa de justiça
+
+A taxa de justiça e as multas podem ser autoliquidadas por qualquer um dos meios previstos para pagamento no capítulo iii.
+
+#### Artigo 9.º — Quantias depositadas à ordem dos processos
+
+1 - Todos os pagamentos de custas, multas e penalidades processuais, assim como actos avulsos, o produto de coimas e de execuções, rendas, salários, cauções e outras quantias estranhas ao pagamento directo de custas processuais, são depositadas em conta bancária do Instituto de Gestão Financeira e das Infra-Estruturas da Justiça (IGFIJ) à ordem da secretaria, por meio do documento único de cobrança (DUC), sem prejuízo das receitas próprias das entidades diversas.
+
+2 - O produto das execuções em que os actos de agente de execução tenham sido praticados por oficial de justiça é depositado nos termos do número anterior.
+
+#### Artigo 10.º — Pagamentos por terceiro
+
+Qualquer pessoa, no último dia do prazo de pagamento das custas ou posteriormente, pode realizá-lo, nas condições em que ao devedor é lícito fazê-lo, ficando com direito de regresso contra este, salvo quando se demonstre que o pagamento foi feito de má fé.
+
+### Secção II — Regras especiais
+
+#### Artigo 11.º — Pagamento de taxa de justiça nos processos de jurisdição de menores
+
+1 - (Revogado).
+
+2 - Se o menor sujeito a medida aplicada em processo de jurisdição de menores tiver menos de 16 anos, é o respectivo representante legal o responsável pelas custas.
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 12.º — Pagamento de taxa de justiça em processo de expropriação
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+#### Artigo 13.º — Pagamento de taxa de justiça em processo contra-ordenacional
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+#### Artigo 14.º — Taxa de justiça agravada
+
+*(Revogado)* — *Revogado pelo/a Artigo 7.º do/a Portaria n.º 200/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20, em vigor a partir de 2011-05-25, produz efeitos a partir de 2011-05-13*
+
+### Secção III — Despesas com encargos
+
+#### Artigo 15.º — Custos da digitalização, suportes magnéticos, comunicações e franquias postais
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+#### Artigo 16.º — Custos com exames e peritagens em acidentes de trabalho
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+## Capítulo III — Modo de pagamento
+
+### Secção I — Meios de pagamento
+
+#### Artigo 17.º — Meios electrónicos de pagamento
+
+1 - Qualquer pessoa poderá efetuar os pagamentos resultantes do RCP através dos meios eletrónicos disponíveis, Multibanco e Homebanking, ou junto das entidades bancárias indicadas pelo Instituto de Gestão da Tesouraria e do Crédito Público (IGCP), constantes de informação a divulgar por circular conjunta da Direção-Geral da Administração da Justiça (DGAJ) e do IGFEJ, publicada na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
+
+2 - O pagamento de quantias superiores a 10 UC, bem como quaisquer pagamentos da responsabilidade de pessoas colectivas, são obrigatoriamente efectuados através dos meios electrónicos.
+
+3 - Quando os meios electrónicos não permitam o pagamento, este pode ser realizado por cheque ou numerário junto das entidades bancárias indicadas pelo IGCP e constantes da circular conjunta referida no n.º 1.
+
+4 - As importâncias respeitantes a actos e papéis avulsos podem ser pagas em numerário nos tribunais quando o valor for inferior a 1/4 UC, sem utilização do DUC, poderão igualmente ser pagos através dos meios electrónicos disponíveis, mediante DUC emitido pela secretaria.
+
+5 - Ao procedimento de injunção aplicam-se as regras de pagamento de taxa de justiça resultantes da Portaria n.º 220-A/2008, de 4 de Março.
+
+6 - Os pagamentos respeitantes ao procedimento de injunção de pagamento europeia devem ser efetuados por transferência bancária para conta bancária identificada em circular conjunta da DGAJ e do IGFEJ, e divulgada na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
+
+- *Alterado pelo/a Artigo 12.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 18.º — Documento único de cobrança
+
+1 - A utilização do pagamento por meios electrónicos é efectuada através do DUC, regulamentado pela Portaria n.º 1423-I/2003, de 31 de Dezembro.
+
+2 - O DUC pode ser suportado por documento de notificação para pagamento, devendo nestes casos conter também a liquidação ou demonstração do valor a pagar.
+
+3 - A informação da liquidação ou demonstração do valor a pagar pode constar de documento anexo ao DUC quando este seja suportado por documento que constitua guia para pagamento e notificação.
+
+4 - Quando o montante devido não corresponda ao valor automaticamente definido pelo DUC, por acrescerem valores de taxa de justiça por dedução de pedidos reconvencionais, o pagamento é feito a título de 'complemento de taxa de justiça', através da emissão de novo DUC.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 19.º — Emissão do DUC
+
+1 - O DUC pode ser obtido na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt. ou na área reservada dos mandatários do sistema informático de suporte à atividade dos tribunais.
+
+2 - O DUC não constitui documento comprovativo do pagamento.
+
+- *Alterado pelo/a Artigo 12.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549), em vigor a partir de 2013-09-01*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 20.º — Emissão do DUC nos tribunais e conservatórias
+
+Sempre que solicitado por qualquer pessoa as secções de processos dos tribunais ou as conservatórias procedem à emissão do DUC, até ao limite de 3 DUC por pessoa, bastando para o efeito que esta indique os elementos necessários à sua emissão.
+
+#### Artigo 21.º — Guias emitidas pelo tribunal
+
+1 - O pagamento das custas e o pagamento antecipado de encargos, multas, taxa sancionatória excecional e outras penalidades é efetuado mediante a emissão de guia acompanhada do DUC, para além dos demais casos previstos na presente portaria, quando caiba à secretaria notificar a parte para o pagamento da taxa de justiça.
+
+2 - A emissão da guia pelo tribunal é feita em duplicado, contendo os seguintes elementos:
+
+a) Número sequencial;
+
+b) Identificação do tribunal, juízo ou secção emitente e respectivos códigos;
+
+c) Natureza, tipo e número do processo;
+
+d) Nome do responsável pelo pagamento;
+
+e) Discriminação dos descritivos e respectivos montantes;
+
+f) Indicação do total a pagar;
+
+g) Data limite de pagamento;
+
+h) Data de emissão e assinatura.
+
+3 - A guia é emitida a solicitação do responsável pelo pagamento ou, oficiosamente, sempre que se inicie o decurso de um prazo de pagamento de quantias pagáveis por guia, sem prejuízo no artigo 10.º da presente portaria, e poderá integrar no mesmo documento o DUC.
+
+4 - Quando solicitada, a guia é imediatamente emitida e entregue ao responsável pelo pagamento ou enviada ao responsável que não estiver presente.
+
+- *Alterado pelo/a [Declaração de Retificação n.º 43/2013 - Diário da República n.º 207/2013, Série I de 2013-10-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/43-2013-502991), em vigor a partir de 2013-09-01*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549), em vigor a partir de 2013-09-01*
+
+#### Artigo 22.º — Documento comprovativo
+
+1 - O interessado deve entregar o documento comprovativo do pagamento ou realizar a comprovação desse pagamento juntamente com o respetivo articulado ou requerimento, salvo disposição legal em contrário, nos termos da portaria que regula vários aspetos da tramitação eletrónica dos processos.
+
+2 - Deve ser indicada a referência que consta do DUC em local próprio, previsto nos formulários de apresentação de peça processual constantes do sistema informático de suporte à atividade dos tribunais.
+
+3 - Fora dos casos previstos na lei ou regulamentação própria e quando não exista norma que disponha de forma diferente, os pagamentos efectuados através do DUC importam a junção ao processo do respectivo documento comprovativo, no prazo de cinco dias posteriores à data do pagamento.
+
+4 - Recebido o comprovativo, a secretaria deve proceder de imediato ao registo do DUC no sistema informático previsto no artigo 3.º
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549), em vigor a partir de 2013-09-01*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 23.º — Erros no pagamento com DUC
+
+No caso de lapso na inserção do valor a pagamento constantes do DUC, deve ser solicitada a restituição do excesso à secretaria ou proceder-se ao pagamento do montante remanescente, no prazo de vinte e quatro horas, por autoliquidação, através da emissão de novo DUC.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 23.º-A — Devolução de DUC
+
+Os pedidos de reembolso do valor de DUC não utilizado, nos termos do n.º 8 do artigo 14.º do RCP, são efetuados por via eletrónica, através de funcionalidade disponibilizada na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
+
+- *Alterado pelo/a Artigo 12.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27*
+- *Aditado pelo/a Artigo 2.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Secção II — Pagamentos de encargos, multas e outras penalidades
+
+#### Artigo 24.º — Pagamentos antecipados e intercalares de encargos
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+#### Artigo 25.º — Pagamento de multas e penalidades
+
+1 - Nos casos legalmente previstos de pagamento imediato de multa consentâneo com a prática de acto processual, o pagamento deve ser autoliquidado juntamente com a taxa de justiça devida, utilizando para cada um dos pagamentos o correspondente DUC.
+
+2 - Incumbe ao apresentante, quando representado por mandatário, o pagamento por autoliquidação, de modo autónomo, das multas previstas nos artigos 139.º do Código de Processo Civil e 107.º-A do Código de Processo Penal.
+
+3 - Nos restantes casos de aplicação de multas e penalidades, são emitidas guias pelo tribunal e remetidas à parte ou partes responsáveis.
+
+4 - As multas ou penalidades que transitem para a conta são pagas a final, juntamente com o restante montante da conta de custas.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549), em vigor a partir de 2013-09-01*
+
+#### Artigo 26.º — Pagamento da taxa sancionatória excepcional
+
+O pagamento da taxa sancionatória excepcional é feito mediante a emissão e remessa de guia e respectivo DUC, para a parte responsável pelo pagamento no prazo de 20 dias, após trânsito em julgado da decisão que a fixou.
+
+### Secção III — Pagamentos da conta
+
+#### Artigo 27.º — Pagamento
+
+Elaborada a conta, são emitidas guias e respectivo DUC e remetidas às partes, nos termos do disposto no n.º 1 do artigo 31.º do RCP.
+
+#### Artigo 28.º — Prazo de pagamento voluntário da conta
+
+1 - Sem prejuízo do disposto nos números seguintes, o prazo de pagamento voluntário da conta é de 10 dias, a que acresce a seguinte dilação:
+
+a) Cinco dias, se o responsável residir no continente ou numa das ilhas das Regiões Autónomas e naquele ou nestas correr o processo;
+
+b) 15 dias, se residir no continente e o processo correr numa das ilhas das Regiões Autónomas, ou se residir numa destas e o processo correr noutra ilha ou no continente;
+
+c) 30 dias se residir no estrangeiro.
+
+2 - O prazo de pagamento voluntário da conta por parte das entidades públicas referidas na alínea a) do artigo 15.º do RCP termina no último dia do mês seguinte àquele em que foi feita a notificação da conta.
+
+3 - O prazo de pagamento das custas contadas na conta objecto de reclamação inicia-se com a notificação da nova conta ou da decisão definitiva que não atendeu à reclamação.
+
+4 - Interposto recurso da decisão referida no n.º 6 do artigo 31.º do RCP, o responsável é notificado para o pagamento quando o processo baixar ao tribunal que funcionou em 1.ª instância.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Secção IV — Devoluções e reembolsos
+
+#### Artigo 29.º — Devoluções
+
+1 - Nos casos em que haja lugar à devolução de valores pagos, esta é efetuada apenas após o trânsito em julgado e depois de saldadas todas as dívidas da parte ao processo, nomeadamente:
+
+a) Multas, taxa sancionatória excepcional e outras penalidades;
+
+b) Pagamentos a terceiras entidades;
+
+c) Custas de parte.
+
+2 - A parte vencedora pode requerer que as custas de parte a que tenha direito sejam liquidadas através do remanescente a devolver à parte vencida, bastando para o efeito que expressamente o solicite na nota justificativa referida no artigo 25.º do RCP.
+
+3 - Findo o prazo para reclamação da nota justificativa ou pagamento voluntário das custas de parte o requerimento é tacitamente deferido.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+## Capítulo IV — Custas de parte
+
+### Artigo 30.º — Procedimento da secretaria
+
+1 - As custas de parte não se incluem na conta de custas.
+
+2 - (Revogado).
+
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Artigo 31.º — Procedimento das partes
+
+1 - As partes que tenham direito a custas de parte devem enviar para o tribunal e para a parte vencida a respetiva nota discriminativa e justificativa, nos termos e prazos previstos no artigo 25.º do RCP.
+
+2 - (Revogado).
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549), em vigor a partir de 2013-09-01*
+- *Alterado pelo/a Artigo 3.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Artigo 32.º — Calculo dos honorários do mandatário judicial ou agente de execução
+
+1 - Na indicação em rubrica autónoma das quantias pagas a título de honorários e despesas do mandatário judicial ou de agente de execução só são consideradas as quantias até ao limite previsto na alínea c) do n.º 3 do artigo 26.º do RCP.
+
+2 - Havendo pluralidade de sujeitos na parte ou partes vencedoras, para apuramento dos montantes que cada um deverá receber, divide-se o limite previsto no número anterior por cada um deles de acordo com a proporção do respectivo vencimento.
+
+### Artigo 33.º — Reclamação da nota justificativa
+
+1 - A reclamação da nota justificativa é apresentada no prazo de 10 dias, após notificação à contraparte, devendo ser decidida pelo juiz em igual prazo e notificada às partes.
+
+2 - A reclamação da nota justificativa está sujeita ao depósito da totalidade do valor da nota.
+
+3 - Da decisão proferida cabe recurso em um grau se o valor da nota exceder 50 UC.
+
+4 - Para efeitos de reclamação da nota justificativa são aplicáveis subsidiariamente, com as devidas adaptações, as disposições relativas à reclamação da conta constantes do artigo 31.º do RCP.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+## Capítulo V — Destino das custas processuais e outras quantias
+
+### Secção I — Gestão e controlo de receitas
+
+#### Artigo 34.º — Organismo responsável
+
+O IGFIJ é o organismo responsável pela gestão e pelo controlo das receitas e das despesas a efectuar nos termos previstos no RCP.
+
+#### Artigo 35.º — Gestão e controlo
+
+1 - As operações financeiras realizadas pelas secretarias são registadas no sistema informático disponibilizado para o efeito, que fornecerá as listagens necessárias.
+
+2 - Os procedimentos contabilísticos e de controlo financeiro são definidos por normas internas a estabelecer entre o IGFIJ e a DGAJ.
+
+### Secção II — Receitas do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.
+
+#### Artigo 36.º — Receitas provenientes do sistema judicial
+
+1 - De acordo com o disposto na alínea a) do n.º 2 do artigo 11.º do Decreto-Lei n.º 128/2007, de 27 de Abril, são receitas do IGFIJ provenientes do sistema judicial as seguintes quantias:
+
+a) A taxa de justiça;
+
+b) As taxas relativas a actos avulsos;
+
+c) A taxa sancionatória excepcional;
+
+d) As multas processuais aplicadas em juízo, excepto as que constituam receita própria dos tribunais superiores, e demais penalidades;
+
+e) As quantias não devolvidas nos termos do disposto no artigo 38.º;
+
+f) As quantias acrescidas previstas nos n.os 2 do artigo 23.º, 3 do artigo 28.º e 1 do artigo 33.º do RCP;
+
+g) As quantias referentes a uma das partes dos juros previstos no n.º 3 do artigo 21.º do diploma anexo ao Decreto-Lei n.º 269/98, de 1 de Setembro;
+
+h) Os montantes previstos no artigo 37.º do RCP;
+
+i) As quantias que resultem das cominações previstas no n.º 8 do artigo 14.º do RCP e no n.º 2 do artigo 41.º da presente portaria;
+
+j) 10 % das quantias cobradas pelos tribunais a título de contra-ordenação, nos termos previstos no n.º 1 do artigo 17.º do Decreto-Lei n.º 34/2008, de 26 de Fevereiro;
+
+l) O saldo existente nos processos que, nos termos da lei, devam ser remetidos ao arquivo, sem prejuízo de posterior reposição e devolução a requerimento das partes que a ele venham a ter direito, sem prejuízo do disposto no n.º 1 do artigo 37.º do RCP;
+
+m) As quantias recebidas a título de encargos, por força do disposto na alínea a) do n.º 1 do artigo 16.º do RCP;
+
+n) Outras receitas legalmente previstas.
+
+2 - São ainda receita do IGFIJ os juros de mora que se vençam relativamente às quantias referidas no número anterior, com exceção das alíneas c), d) e g) do n.º 1.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+#### Artigo 37.º — Conversão da taxa de justiça no pagamento de encargos
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+#### Artigo 38.º — Quantias de valor reduzido
+
+Não são cobradas nem devolvidas às partes ou outros sujeitos processuais as quantias cujo valor total e final seja inferior a 1/10 de UC.
+
+### Secção III — Receitas de outras entidades
+
+#### Artigo 39.º — Custas processuais
+
+1 - Constituem receita do conselho geral da Ordem dos Advogados cinco (por mil) das quantias cobradas a título de taxa de justiça em processos cíveis.
+
+2 - Constituem receita do conselho geral da Câmara dos Solicitadores dois (por mil) das quantias cobradas a título de taxa de justiça em processos cíveis.
+
+3 - As verbas atribuídas às entidades referidas nos números anteriores são objeto de revisão periódica, procedendo-se, no acerto seguinte, ao desconto das quantias entregues em excesso, sendo tal comunicado em nota de estorno.
+
+4 - No caso de não ser possível a reposição, nos termos do número anterior, as entidades devedoras procederão à devolução das quantias em causa.
+
+5 - As verbas recebidas pela Ordem dos Advogados nos termos do n.º 1 do presente artigo apenas podem ser utilizadas para, no âmbito das respetivas competências, acorrer às despesas necessárias à regulamentação e organização da formação inicial e contínua de advogados e advogados estagiários, bem como à promoção do aperfeiçoamento profissional daqueles.
+
+6 - As verbas recebidas pela Câmara dos Solicitadores nos termos do n.º 2 do presente artigo apenas podem ser utilizadas para acorrer às despesas previstas no n.º 4 do artigo 72.º do Estatuto da Câmara dos Solicitadores, aprovado pelo Decreto-Lei n.º 88/2003, de 10 de setembro, pelas Leis n.os 49/2004, de 24 de agosto, e 14/2006, de 26 de abril, e pelo Decreto-Lei n.º 226/2008, de 20 de novembro.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Secção IV — Pagamentos e transferências do IGFIJ
+
+#### Artigo 40.º — Pagamentos
+
+1 - Os pagamentos ou devoluções do IGFIJ às partes, sujeitos, intervenientes processuais ou terceiros são feitos por transferência bancária sempre que o destinatário tenha fornecido o número de identificação bancária e o número de identificação fiscal.
+
+2 - O recurso à transferência bancária é obrigatório sempre que o destinatário seja pessoa colectiva ou organismo público, em qualquer caso, quando se trate de quantias superiores a 10 UC.
+
+#### Artigo 41.º — Pagamento por cheque
+
+1 - Fora dos casos previstos no artigo anterior, o pagamento a terceiros é efectuado pela emissão de cheque, desde que o destinatário tenha fornecido número de identificação fiscal.
+
+2 - Perdem a validade a favor do IGFIJ os cheques que não forem apresentados até ao último dia do 2.º mês seguinte àquele em que foram emitidos.
+
+3 - Passado o prazo previsto no número anterior, o IGFIJ procede à substituição do cheque ou pagamento das quantias em causa mediante requerimento do interessado através do endereço electrónico do IGFIJ, até ao prazo de cinco anos, quando:
+
+a) O interessado tenha estado impedido de apresentar o cheque a pagamento por motivos de doença ou justificada ausência;
+
+b) O interessado não tenha recebido o cheque por extravio de correspondência ou mudança de domicílio.
+
+4 - O requerimento referido no número anterior é apresentado nos 180 dias posteriores ao conhecimento efectivo da perda de validade do cheque ou da morte do titular, consoante os casos.
+
+5 - O prazo referido no n.º 4 não se suspende aos sábados, domingos ou feriados, nem nas férias judiciais.
+
+#### Artigo 42.º — Nota de pagamentos
+
+1 - Os pagamentos a terceiros são efectuados após a emissão de uma nota de pagamentos, pela secretaria, a qual contém obrigatoriamente os seguintes elementos:
+
+a) Número sequencial;
+
+b) Indicação do tribunal, juízo ou secção emitente;
+
+c) Natureza e número de identificação do processo;
+
+d) Entidade ou entidades destinatárias, identificadas pelo nome ou designação e pelo número de contribuinte;
+
+e) Montante a pagar, com discriminação das obrigações fiscais, quando aplicáveis, designadamente IRS, IRC e IVA (continente ou ilhas);
+
+f) Data de emissão e assinatura;
+
+g) Outros elementos considerados relevantes.
+
+2 - A nota de despesas deve ser integralmente processada através do sistema informático, se tal opção vier a ser disponibilizada.
+
+#### Artigo 43.º — Transferências
+
+1 - Compete ao IGFIJ a transferência das quantias referidas nos n.os 1 e 2 do artigo 39.º para as entidades a que se destinam.
+
+2 - Compete ao IGFIJ a transferência das quantias cobradas pelos tribunais a título de contraordenações e de atos avulsos, respeitados os termos do disposto no artigo 17.º do Decreto-Lei n.º 34/2008, de 26 de Fevereiro.
+
+3 - As transferências referidas nos números anteriores e outras impostas por lei, quando de natureza regular, têm periodicidade trimestral.
+
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+## Capítulo VI — Disposições transitórias e finais
+
+### Artigo 44.º — Pagamento a prestações da taxa de justiça
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+### Artigo 45.º — Contagem dos prazos
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+### Artigo 46.º — Estruturas de resolução alternativa de litígios
+
+Até à publicação da portaria prevista no n.º 5 do artigo 533.º do Código de Processo Civil, as custas da parte vencedora são suportadas pela parte vencida e são garantidas as isenções e benefícios previstos na lei, independentemente do recurso a qualquer estrutura de resolução alternativa de litígios.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 284/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/284-2013-499549), em vigor a partir de 2013-09-01*
+- *Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/82-2012-553904), em vigor a partir de 2012-03-29*
+
+### Artigo 47.º — Normas transitórias
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*
+
+### Artigo 48.º — Norma revogatória
+
+São revogadas:
+
+a) A Portaria n.º 1433-A/2006, de 29 de Dezembro;
+
+b) A Portaria n.º 1375/2007, de 23 de Outubro;
+
+c) A Portaria n.º 42/2004, de 14 de Janeiro;
+
+d) A Portaria n.º 1178-D/2000, de 15 de Dezembro;
+
+e) A Portaria n.º 799/2006, de 11 de Agosto.
+
+### Artigo 49.º — Entrada em vigor
+
+A presente portaria entra em vigor a 20 de Abril de 2009.
+
+Em 16 de Abril de 2009.
+
+## Assinatura
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça.
+
+## Anexo I
+
+*(Revogado)* — *Revogado pelo/a Artigo 3.º do/a Portaria n.º 82/2012 - Diário da República n.º 64/2012, Série I de 2012-03-29, em vigor a partir de 2012-03-29*

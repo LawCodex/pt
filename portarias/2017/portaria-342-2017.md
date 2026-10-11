@@ -1,0 +1,92 @@
+---
+title: "Portaria n.º 342/2017"
+identifier: "Portaria n.º 342/2017"
+type: ordinance
+jurisdiction: pt
+language: pt
+date: 2017-11-09
+last_amended: 2022-01-27
+status: in_force
+source: "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-151194556"
+retrieved: 2026-10-11
+summary: "Estabelece os critérios, limites e rácios necessários à execução do Decreto-Lei n.º 129/2017 , de 9 de outubro, que instituiu o Programa «Modelo de Apoio à Vida Independente» MAVI"
+issuer: "Trabalho, Solidariedade e Segurança Social"
+series: "I"
+eli: "https://data.dre.pt/eli/port/342/2017/p/cons/20201216/pt/html"
+dre_id: 114161345
+dre_vigencia: "VIGENTE"
+dre_consolidation_state: "CONCLUDED"
+original_pdf: "https://files.diariodarepublica.pt/1s/2017/11/21600/0597405975.pdf"
+text_version: "consolidated"
+---
+
+# Portaria n.º 342/2017
+
+Portaria n.º 342/2017
+
+de 9 de novembro
+
+O Decreto-Lei n.º 129/2017, de 9 de outubro, instituiu o Programa «Modelo de Apoio à Vida Independente» (MAVI), definindo as regras e condições aplicáveis ao desenvolvimento da atividade de assistência pessoal, de criação, organização, funcionamento e reconhecimento de Centros de Apoio à Vida Independente (CAVI), bem como os requisitos de elegibilidade e o regime de concessão dos apoios técnicos e financeiros dos projetos-piloto de «assistência pessoal» cofinanciados no âmbito dos Fundos Europeus Estruturais e de Investimento (FEEI).
+
+No referido decreto-lei estabeleceu-se que os candidatos ou as candidatas a assistentes pessoais devem frequentar formação inicial num total de 50 horas, devendo o número de candidatos/as observar o rácio a estabelecer por Portaria do Ministro do Trabalho, Solidariedade e Segurança Social.
+
+De acordo com o Programa MAVI os CAVI têm uma equipa técnica para apoio ao desenvolvimento das suas atividades, e nos termos do estabelecido no n.º 2 do artigo 24.º do mencionado decreto-lei o número de elementos da equipa técnica varia em função do número de pessoas apoiadas, de acordo com o critério estabelecido em Portaria do Ministro do Trabalho, Solidariedade e Segurança Social.
+
+O Programa MAVI prevê ainda que os CAVI assumam um conjunto de obrigações relativas ao financiamento no âmbito dos FEEI e identificou no artigo 37.º do referido decreto-lei as despesas consideradas elegíveis no âmbito dos projetos-piloto de «assistência pessoal».
+
+No n.º 3 do artigo 37.º do Decreto-Lei n.º 129/2017, de 9 de outubro, estabeleceu-se que os encargos com o funcionamento do CAVI e com o pessoal afeto à operação encontrar-se-iam sujeitos aos limites a fixar por Portaria do Ministro do Trabalho, Solidariedade e Segurança Social.
+
+Por último, na alínea d), do n.º 2, do artigo 37.º determinou-se que as despesas com a atividade formativa da operação não poderiam exceder o montante global a definir por Portaria do Ministro do Trabalho, Solidariedade e Segurança Social.
+
+Deste modo, compete ao Ministro do Trabalho, Solidariedade e Segurança Social, no desenvolvimento das normas anteriormente citadas, estabelecer os critérios, limites e rácios anteriormente referidos.
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 18.º, no n.º 2 do artigo 24.º, na alínea d) do n.º 2 e no n.º 3 do artigo 37.º do Decreto-Lei n.º 129/2017, de 9 de outubro,
+
+Manda o Governo, pelo Ministro do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+## Artigo 1.º — Objeto
+
+A presente portaria estabelece os critérios, limites e rácios necessários à execução do Decreto-Lei n.º 129/2017, de 9 de outubro, que instituiu o Programa «Modelo de Apoio à Vida Independente» MAVI.
+
+## Artigo 2.º — Formação
+
+O número de candidatos/as a assistentes pessoais que podem frequentar formação inicial nos termos estabelecidos no n.º 3 do artigo 18.º deve obedecer ao rácio estabelecido no Anexo A.
+
+## Artigo 3.º — Equipa do CAVI
+
+O número de elementos que integra a equipa referida no n.º 1 do artigo 24.º do Decreto-Lei n.º 129/2017, de 9 de outubro varia em função do número de pessoas apoiadas, de acordo com o critério estabelecido no Anexo B.
+
+## Artigo 4.º — Financiamento e despesas elegíveis
+
+1 - Para efeitos do disposto no artigo 35.º do Decreto-Lei n.º 129/2017, de 9 de outubro, cada projeto poderá ser apoiado até ao limite máximo de 2 300 000 (euro) (dois milhões e trezentos mil euros).
+
+2-Para os efeitos do disposto no n.º 3 do artigo 37.º do Decreto-Lei n.º 129/2017, de 9 de outubro bem como para a determinação do montante global das despesas elegíveis com a atividade formativa, previstas na alínea d), do n.º 2, do mesmo artigo são fixados os seguintes limites:
+
+a) Encargos com o funcionamento do CAVI, até ao limite de 175 000,00 (euro) por candidatura, durante o período total a que respeita o financiamento, os quais não englobam as despesas com a atividade formativa referida na alínea c);
+
+b) Encargos com pessoal afeto à operação, incluindo as despesas com remuneração base da direção técnica que assume a coordenação do CAVI, até ao limite de 1.200,00 (euro) por mês e por pessoa, despesas de remuneração de pessoal técnico até ao limite de 1.100,00 (euro) por mês e por pessoa, bem como as despesas de remuneração dos ou das assistentes pessoais, até ao limite de 900,00 (euro) por mês, para um horário de 40h semanais, acrescido dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;
+
+c) As despesas com a formação estabelecida no artigo 18.º do Decreto-Lei n.º 129/2017, de 9 de outubro, devem respeitar os requisitos previstos na alínea d) do n.º 2 do artigo 37.º do mesmo diploma legal, não podendo exceder na sua globalidade o montante de 16 000,00 (euro) por candidatura durante o período total a que respeita o financiamento.
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 56/2022 - Diário da República n.º 19/2022, Série I de 2022-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/56-2022-178264014), em vigor a partir de 2022-01-28*
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2020 - Diário da República n.º 243/2020, Série I de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/287-2020-151323087), em vigor a partir de 2020-12-17*
+
+## Artigo 5.º — Entrada em vigor
+
+A presente Portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.
+
+## Anexo A
+
+Rácio: número de candidatos/as a assistentes pessoais que podem frequentar formação inicial nos termos estabelecidos no n.º 3 do artigo 18.º do Decreto-Lei n.º 129/2017, de 9 de outubro
+
+(ver documento original)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2020 - Diário da República n.º 243/2020, Série I de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/287-2020-151323087), em vigor a partir de 2020-12-17*
+
+## Anexo B — Número de elementos da equipa do CAVI, por número de pessoas apoiadas
+
+(ver documento original)
+
+- *Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2020 - Diário da República n.º 243/2020, Série I de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/287-2020-151323087), em vigor a partir de 2020-12-17*
